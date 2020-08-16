@@ -44,20 +44,246 @@
   // Collapse the navbar when page is scrolled
   $(window).scroll(navbarCollapse);
 
-  // Magnific popup calls
-  // $('#portfolio').magnificPopup({
-  //   delegate: 'a',
-  //   type: 'image',
-  //   tLoading: 'Loading image #%curr%...',
-  //   mainClass: 'mfp-img-mobile',
-  //   gallery: {
-  //     enabled: true,
-  //     navigateByImgClick: true,
-  //     preload: [0, 1]
-  //   },
-  //   image: {
-  //     tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
-  //   }
-  // });
+  
+
+  //Magnific popup calls
+  $('#portfolio .detailed-node2faas').magnificPopup({
+    delegate: 'a',
+    type: 'image',
+    tLoading: 'Loading image #%curr%...',
+    mainClass: 'mfp-img-mobile',
+    gallery: {
+      enabled: true,
+      navigateByImgClick: true,
+      preload: [0, 1]
+    },
+    image: {
+      tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
+    }
+  });
+
+   //Magnific popup calls
+   $('#portfolio .detailed-sagsat').magnificPopup({
+    delegate: 'a',
+    type: 'image',
+    tLoading: 'Loading image #%curr%...',
+    mainClass: 'mfp-img-mobile',
+    gallery: {
+      enabled: true,
+      navigateByImgClick: true,
+      preload: [0, 1]
+    },
+    image: {
+      tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
+    }
+  });
+
+  //Magnific popup calls
+  $('#portfolio .detailed-get').magnificPopup({
+    delegate: 'a',
+    type: 'image',
+    tLoading: 'Loading image #%curr%...',
+    mainClass: 'mfp-img-mobile',
+    gallery: {
+      enabled: true,
+      navigateByImgClick: true,
+      preload: [0, 1]
+    },
+    image: {
+      tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
+    }
+  });
+
+  //Magnific popup calls
+  $('#portfolio .detailed-sibe').magnificPopup({
+    delegate: 'a',
+    type: 'image',
+    tLoading: 'Loading image #%curr%...',
+    mainClass: 'mfp-img-mobile',
+    gallery: {
+      enabled: true,
+      navigateByImgClick: true,
+      preload: [0, 1]
+    },
+    image: {
+      tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
+    }
+  });
+
+  //Magnific popup calls
+  $('#portfolio .detailed-sala').magnificPopup({
+    delegate: 'a',
+    type: 'image',
+    tLoading: 'Loading image #%curr%...',
+    mainClass: 'mfp-img-mobile',
+    gallery: {
+      enabled: true,
+      navigateByImgClick: true,
+      preload: [0, 1]
+    },
+    image: {
+      tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
+    }
+  });
+
+  //Magnific popup calls
+  $('#portfolio .detailed-supervisao').magnificPopup({
+    delegate: 'a',
+    type: 'image',
+    tLoading: 'Loading image #%curr%...',
+    mainClass: 'mfp-img-mobile',
+    gallery: {
+      enabled: true,
+      navigateByImgClick: true,
+      preload: [0, 1]
+    },
+    image: {
+      tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
+    }
+  });
+
+  //Magnific popup calls
+  $('#portfolio .detailed-prosesmt').magnificPopup({
+    delegate: 'a',
+    type: 'image',
+    tLoading: 'Loading image #%curr%...',
+    mainClass: 'mfp-img-mobile',
+    gallery: {
+      enabled: true,
+      navigateByImgClick: true,
+      preload: [0, 1]
+    },
+    image: {
+      tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
+    }
+  });
+
+  //Magnific popup calls
+  $('#portfolio .detailed-revirim').magnificPopup({
+    delegate: 'a',
+    type: 'image',
+    tLoading: 'Loading image #%curr%...',
+    mainClass: 'mfp-img-mobile',
+    gallery: {
+      enabled: true,
+      navigateByImgClick: true,
+      preload: [0, 1]
+    },
+    image: {
+      tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
+    }
+  });
+
+  //Magnific popup calls
+  $('#portfolio .detailed-prevex').magnificPopup({
+    delegate: 'a',
+    type: 'image',
+    tLoading: 'Loading image #%curr%...',
+    mainClass: 'mfp-img-mobile',
+    gallery: {
+      enabled: true,
+      navigateByImgClick: true,
+      preload: [0, 1]
+    },
+    image: {
+      tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
+    }
+  });
+
+   //Magnific popup calls
+   $('#portfolio .detailed-pcf').magnificPopup({
+    delegate: 'a',
+    type: 'image',
+    tLoading: 'Loading image #%curr%...',
+    mainClass: 'mfp-img-mobile',
+    gallery: {
+      enabled: true,
+      navigateByImgClick: true,
+      preload: [0, 1]
+    },
+    image: {
+      tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
+    }
+  });
+
+  //Magnific popup calls
+  $('#portfolio .detailed-treinamento').magnificPopup({
+    delegate: 'a',
+    type: 'image',
+    tLoading: 'Loading image #%curr%...',
+    mainClass: 'mfp-img-mobile',
+    gallery: {
+      enabled: true,
+      navigateByImgClick: true,
+      preload: [0, 1]
+    },
+    image: {
+      tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
+    }
+  });
+
+  //Magnific popup calls
+  $('#portfolio .detailed-regimove').magnificPopup({
+    delegate: 'a',
+    type: 'image',
+    tLoading: 'Loading image #%curr%...',
+    mainClass: 'mfp-img-mobile',
+    gallery: {
+      enabled: true,
+      navigateByImgClick: true,
+      preload: [0, 1]
+    },
+    image: {
+      tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
+    }
+  });
+
+  //Magnific popup calls
+  $('#portfolio .detailed-ppp').magnificPopup({
+    delegate: 'a',
+    type: 'image',
+    tLoading: 'Loading image #%curr%...',
+    mainClass: 'mfp-img-mobile',
+    gallery: {
+      enabled: true,
+      navigateByImgClick: true,
+      preload: [0, 1]
+    },
+    image: {
+      tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
+    }
+  });
+
+  //Magnific popup calls
+  $('#portfolio .detailed-bolao').magnificPopup({
+    delegate: 'a',
+    type: 'image',
+    tLoading: 'Loading image #%curr%...',
+    mainClass: 'mfp-img-mobile',
+    gallery: {
+      enabled: true,
+      navigateByImgClick: true,
+      preload: [0, 1]
+    },
+    image: {
+      tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
+    }
+  });
+
+  //Magnific popup calls
+  $('#portfolio .detailed-gerlot').magnificPopup({
+    delegate: 'a',
+    type: 'image',
+    tLoading: 'Loading image #%curr%...',
+    mainClass: 'mfp-img-mobile',
+    gallery: {
+      enabled: true,
+      navigateByImgClick: true,
+      preload: [0, 1]
+    },
+    image: {
+      tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
+    }
+  });
 
 })(jQuery); // End of use strict
