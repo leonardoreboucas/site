@@ -1,6 +1,6 @@
-{
-    "type" : "FeatureCollection",
-    "features" : [ {
+placesData = {
+    type : "FeatureCollection",
+    features : [ {
       "geometry" : {
         "coordinates" : [ -40.8279664, -14.8172251 ],
         "type" : "Point"
