@@ -1,3 +1,6 @@
+var lang = 'pt_br'
+
+//https://myaccount.google.com/yourdata/maps?hl=pt-BR&pli=1
 function initMap() {
   var places = placesData;
     const map = new google.maps.Map(document.getElementById("map"), {
@@ -7,12 +10,59 @@ function initMap() {
     for (var i in places.features){
       let place = places.features[i]
       let date = new Date(place.properties.Published)
-      console.log(place.properties.Title)
-      new google.maps.Marker({
+      let title = place.properties.Title
+      //console.log(place.properties.Title)
+      
+
+      const marker = new google.maps.Marker({
         position: {lat:place.geometry.coordinates[1],lng:place.geometry.coordinates[0]},
         map,
-        title: place.properties.Title+" - "+date.getFullYear(),
+        title: title+" - "+date.getFullYear()
       });
+      marker.setIcon('http://maps.google.com/mapfiles/ms/icons/red.png')
+
+      let placeDetail = getPlaceDetail(title)
+      if (placeDetail){
+        marker.setIcon('http://maps.google.com/mapfiles/ms/icons/purple.png')
+        //marker.setIcon('https://developers.google.com/maps/documentation/javascript/examples/full/images/info-i_maps.png')
+        
+        let picturesString = ''
+        if (placeDetail.Pictures.length){
+          for (var x in placeDetail.Pictures){
+            picturesString += '<hr/><img width="100%" src="assets/img/travel/'+placeDetail.Pictures[x].path + '" title="'+placeDetail.Pictures[x].description[lang]+'" />'
+          }
+        }
+        let visitsString = ''
+        if (placeDetail.Visits.length){
+          visitsString += "<hr><h4>"+placeDetail.Visits.join(',')+"</h4>"
+        }
+        const contentString =
+          '<div id="content">' +
+            '<div id="siteNotice">' +
+            "</div>" +
+            '<h3 id="firstHeading" class="firstHeading">'+placeDetail.Title+'</h3>' +
+            '<div id="bodyContent">' + 
+              placeDetail.Description[lang] +
+            "</div>" +
+            '<div id="picturesContent">' + 
+              picturesString +
+            "</div>" +
+
+            '<div id="visitsContent">' + 
+              visitsString +
+            "</div>" +
+
+          "</div>";
+
+        const infowindow = new google.maps.InfoWindow({
+          content: contentString,
+        });
+
+        marker.addListener("click", () => {
+          infowindow.open(map, marker);
+        });
+      }
+
     }
 }
 
@@ -304,4 +354,32 @@ function initMap() {
     }
   });
 
+  applyInternationalization()
+
 })(jQuery); // End of use strict
+
+
+function setLang(newlang){
+  lang = newlang
+  applyInternationalization()
+  initMap()
+}
+
+function applyInternationalization(){
+  for (var i in internationalData){
+    var termObj = internationalData[i]
+    var obj = $('#' + termObj.id)
+    obj.html($($.parseHTML(termObj.label[lang])))
+    console.log(termObj.id)
+    console.log(obj.id)
+  }
+}
+
+function getPlaceDetail(Title){
+  for (var i in placesDetailsData){
+    if (placesDetailsData[i].Title == Title){
+      return placesDetailsData[i]
+    }
+  }
+  return null
+}
