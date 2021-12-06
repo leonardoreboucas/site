@@ -208,16 +208,449 @@ internationalData = [
   {
     id : "proj_title_2",
     label: {
-      en: "Lottery manager",
-      pt_br: "Gerenciador de Lotérica"
+      en: "Sweepstake generator",
+      pt_br: "Gerador de bolão"
     }
   },
 
   {
     id : "proj_text_2",
     label: {
-      en: "Lottery management system. Controlled both the operational financial flow of the unit, as well as lottery draws and commissions paid to employees.",
-      pt_br: "Sistema de gerenciamento de lotéricas. Controlava tanto o fluxo financeiro operacional da unidade, quanto as extrações lotéricas e comissões pagas aos funcionários."
+      en: "System for random generation of lottery pools that were sold by lottery houses. Currently, this generation is carried out by Caixa's own system.",
+      pt_br: "Sistema para geração aleatória de bolões de loteria que eram comercializados por casas lotéricas. Atualmente essa geração é feita pelo próprio sistema da Caixa."
+    }
+  },
+  
+  {
+    id : "proj_title_3",
+    label: {
+      en: "Training system",
+      pt_br: "Treinamento Ramarim"
+    }
+  },
+
+  {
+    id : "proj_text_3",
+    label: {
+      en: "System that controlled the training and qualification process that SENAI carried out within the Ramarim factory. From the candidacy, selection, training and eventual hiring.",
+      pt_br: "Sistema que controlava o processo de treinamento e capacitação que o SENAI executava dentro da fábrica da Ramarim. Desde a candidatura, seleção, treinamentos e, eventuais contratações."
+    }
+  },
+  
+  {
+    id : "proj_title_4",
+    label: {
+      en: "Social Security Professional Profile",
+      pt_br: "Perfil Profissiográfico Previdenciário"
+    }
+  },
+
+  {
+    id : "proj_text_4",
+    label: {
+      en: "System for issuing the Social Security Professional Profile. This form was delivered to the employee upon dismissal and could be used with the INSS to obtain an increase in length of service due to unhealthy work.",
+      pt_br: "Sistema para emissão do Perfil Profissiográfico Previdenciário. Esse formulário era entregue ao funcionário no ato do desligamento e poderia ser utilizado junto ao INSS para obtenção de majoração no tempo de serviço por conta de trabalho insalubre."
+    }
+  },
+  
+  {
+    id : "proj_title_5",
+    label: {
+      en: "RegImove",
+      pt_br: "RegImove"
+    }
+  },
+
+  {
+    id : "proj_text_5",
+    label: {
+      en: "System that controlled the properties rented by Ramarim to accommodate employees in management positions who moved from other cities to reside in the location where the factory was installed.",
+      pt_br: "Sistema que controlava os imóveis alugados pela Ramarim para acomodar os funcionários em cargos de chefia que se deslocavam de outras cidades para residir no local onde a fábrica estava instalada."
+    }
+  },
+  
+  {
+    id : "proj_title_6",
+    label: {
+      en: "PCF",
+      pt_br: "PCF"
+    }
+  },
+
+  {
+    id : "proj_text_6",
+    label: {
+      en: "The Function Control Program aimed to prevent the development of LER/DORT in Ramarim employees. Occupational illnesses related to the time in which certain activities were carried out could cause losses to the company with the payment of fines and indemnities. The system issued reports indicating the need to transfer employees to other activities.",
+      pt_br: "O Programa de Controle de Funções visava evitar o desenvolvimento de LER/DORT nos funcionários da Ramarim. Doenças ocupacionais relacionadas ao tempo em execução de determinadas atividades podiam gerar prejuízos à empresa com o pagamento de multas e indenizações. O sistema emitia relatórios indicando a necessidade de transferência de funcionários para outras atividades."
+    }
+  },
+  
+  {
+    id : "proj_title_7",
+    label: {
+      en: "PrevEx",
+      pt_br: "PrevEx"
+    }
+  },
+
+  {
+    id : "proj_text_7",
+    label: {
+      en: "System for recording and forecasting periodic exams of Ramarim employees. Controlled the schedule of occupational physicians who worked within the company and avoided fines for not taking exams.",
+      pt_br: "Sistema para registro e previsão dos exames periódicos dos funcionários da Ramarim. Controlava a agenda dos médicos do trabalho que atuavam dentro da empresa e evitava multas por falta de realização de exames."
+    }
+  },
+  
+  {
+    id : "proj_title_8",
+    label: {
+      en: "Revirim",
+      pt_br: "Revirim"
+    }
+  },
+
+  {
+    id : "proj_text_8",
+    label: {
+      en: "Ramarim Review System. This application controlled the footwear revision process at the output of Ramarim's production line. By recording the evaluations of various points of the shoe, an index was generated that released or returned the batch for repair or disposal. Periodically, statistical data were generated that resulted in the Ramarito Award, a giant totem that the best production line wore for a period, in addition to employees receiving a bonus.",
+      pt_br: "Sistema de Revisão da Ramarim. Esta aplicação controlava o processo de revisão de calçados na saída da linha de produção da Ramarim. Através do registro das avaliações de diversos pontos do calçado era gerado um índice que liberava ou retornava o lote para conserto ou descarte. Periodicamente eram gerados dados estatísticos que resultavam no Prêmio Ramarito, um totem Gigante que a melhor linha de produção ostentava por um período, além dos funcionários receberem um bônus."
+    }
+  },
+  
+  {
+    id : "proj_title_9",
+    label: {
+      en: "proSesmt",
+      pt_br: "proSesmt"
+    }
+  },
+
+  {
+    id : "proj_text_9",
+    label: {
+      en: "System for complete management of clinics. It allowed management of both patient care flows and financial controls. Developed in 3 layers using Borland socket integration, it allowed use in geographically distributed units.",
+      pt_br: "Sistema para gerenciamento completo de clínicas. Permitia o gerenciamento tanto dos fluxos de atendimento de pacientes como controles financeiros. Desenvolvido em 3 camadas utilizando integração via socket da Borland, permitia utilização em unidades geograficamente distribuídas."
+    }
+  },
+
+
+  {
+    id : "proj_title_10",
+    label: {
+      en: "Campestri",
+      pt_br: "Campestri"
+    }
+  },
+
+  {
+    id : "proj_text_10",
+    label: {
+      en: "Form for generating confronting terms. Productivity tool used in INSS agencies to assist in the processes of recognition of rights that demanded hearing from confronters.",
+      pt_br: "Formulário para geração de termos de confrontantes. Ferramenta de produtividade utilizada em agências do INSS para auxilio nos processos de reconhecimento de direitos que demandavam oitiva com confrontantes."
+    }
+  },
+
+  {
+    id : "proj_title_11",
+    label: {
+      en: "REAT",
+      pt_br: "REAT"
+    }
+  },
+
+  {
+    id : "proj_text_11",
+    label: {
+      en: "The control system of the Special Regime of Attendance in shifts controls the inflow of INSS branches of REAT. Based on an agency's expression of desire to join, there is a validation of indicators and then approval by the Executive Manager and finally by the Superintendent.",
+      pt_br: "O sistema de controle do Regime Especial de Atendimento em turnos controle o fluxo de entrada de Agências do INSS do REAT. A partir da manifestação de desejo de entrada de uma agência, há uma validação de indicadores e então a aprovação do Gerente Executivo e por último do Superintendente."
+    }
+  },
+  
+  {
+    id : "proj_title_12",
+    label: {
+      en: "Productivity Control System",
+      pt_br: "Sistema de Controle de Produtividade"
+    }
+  },
+
+  {
+    id : "proj_text_12",
+    label: {
+      en: "The SCP is an application that manages the analysis of a set of INSS benefit granting processes. It was widely used in action plans to achieve goals in order to control the work of teams transferred to units that had indicators under monitoring.",
+      pt_br: "O SCP é uma aplicação que gerencia a análise de um conjunto de processos de concessão de benefícios do INSS. Foi utilizado largamente em planos de ação para atingimento de metas a fim de controlar o trabalho das equipes deslocadas para as unidades que possuíam indicadores em monitoramento."
+    }
+  },
+  
+  {
+    id : "proj_title_13",
+    label: {
+      en: "FLAVIA SeS",
+      pt_br: "FLAVIA SeS"
+    }
+  },
+
+  {
+    id : "proj_text_13",
+    label: {
+      en: "Linguistic Tool for Virtual and Automated Assistance was a chatterbot that talked about Social Security. Project resulting from the graduation course conclusion work. It used the AIML language and was processed by the inference engine of the PandoraBots project.",
+      pt_br: "Ferramenta Linguística de Assistência Virtual e Automática foi um chatterbot que conversava sobre Seguridade Social. Projeto resultante do trabalho de conclusão do curso de graduação. Utilizava a linguagem AIML e era processada pela máquina de inferência do projeto PandoraBots."
+    }
+  },
+  
+  {
+    id : "proj_title_14",
+    label: {
+      en: "Supervision",
+      pt_br: "Supervisão"
+    }
+  },
+
+  {
+    id : "proj_text_14",
+    label: {
+      en: "This system collects information from INSS units through customized forms and controls specific processes to meet demands for the acquisition of movable property, equipment, in addition to building renovations and the like. The 100% parameterizable design of this system served as the basis for several other projects such as: CNIS, SIBE, SAG, SAT and GET.",
+      pt_br: "Este sistema coleta informações das unidades do INSS através de formulários customizados e controla processos específicos para atendimento de demandas de aquisição de bens móveis, equipamentos, além de reformas prediais e afins. A concepção 100% parametrizável desse sistema serviu como base para diversos outros projetos como: CNIS, SIBE, SAG, SAT e GET."
+    }
+  },
+  
+  {
+    id : "proj_title_15",
+    label: {
+      en: "Monitoring room system",
+      pt_br: "Sala de Monitoramento"
+    }
+  },
+
+  {
+    id : "proj_text_15",
+    label: {
+      en: "The Monitoring Room system was a tool developed within the INSS by the Customer Service Department between 2010 and 2014, when it migrated to Dataprev. It was renamed CASA in 2017. The system collected service information in real time and presented dashboards that allowed managers to take management measures quickly and in a timely manner. It was used as a basis for training managers and gained great evidence in the Federal Government to the point of being considered a monitoring reference for the esplanade.",
+      pt_br: "O sistema Sala de Monitoramento foi uma ferramenta desenvolvida dentro do INSS pela Diretoria de Atendimento entre 2010 e 2014, quando migrou pra a Dataprev. Foi renomeada para CASA em 2017. O sistema coletava as informações de atendimento em tempo real e apresentava painéis que permitiam aos gestores tomar medidas de gestão de forma ágil e tempestiva. Foi usada como base na capacitação de gestores e ganhou grande evidência no Governo Federal a ponto de ser considerada referência de monitoramento para a esplanada."
+    }
+  },
+  
+  {
+    id : "proj_title_16",
+    label: {
+      en: "SIBE - Benefits System",
+      pt_br: "SIBE - Sistema de Benefícios"
+    }
+  },
+
+  {
+    id : "proj_text_16",
+    label: {
+      en: "SIBE is a project to modernize the INSS rights recognition platform. Although it is a 2006 initiative, in 2015 it underwent a profound restructuring in its architecture with the objective of supporting other processes using the same approach. The new architecture is called Single Process, as it consists of a standard flow in which several components are included according to the process objective. There is a decoupling between the components that allows them to be reused, just changing parameter values.",
+      pt_br: "O SIBE é um projeto de modernização da plataforma de reconhecimento de direitos do INSS. Embora seja uma iniciativa de 2006, em 2015 passou por uma reestruturação profunda na sua arquitetura com o objetivo de sustentar outros processos utilizando a mesma abordagem. A nova arquitetura é denominada Processo único, pois consiste em um fluxo padrão no qual diversos componentes são incluídos de acordo com o objetivo do processo. Há um desacoplamento entre os componentes que permite seu reaproveitamento, apenas alterando valores de parâmetros."
+    }
+  },
+  
+  {
+    id : "proj_title_17",
+    label: {
+      en: "Citizen's Panel",
+      pt_br: "Painel do Cidadão"
+    }
+  },
+
+  {
+    id : "proj_text_17",
+    label: {
+      en: "Tool for the National Social Information Registry that gathers different citizen data on a single screen, facilitating the processing of information carried out by INSS employees during service at the branches. Project developed by Dataprev under the coordination of the INSS.",
+      pt_br: "Ferramenta do Cadastro Nacional de Informações Sociais que reúne os diversos dados do cidadão em uma única tela, facilitando o tratamento das informações realizado pelos funcionários do INSS durante o atendimento nas agências. Projeto desenvolvido pela Dataprev sob coordenação do INSS."
+    }
+  },
+  
+  {
+    id : "proj_title_18",
+    label: {
+      en: "GET",
+      pt_br: "GET"
+    }
+  },
+
+  {
+    id : "proj_text_18",
+    label: {
+      en: "The INSS Task Manager is a GED, Electronic Document Manager. It allows the configuration of personalized flows and is the platform responsible for digitizing the autarchy's processes. Allows the collection of external data in various channels such as the internet, associated entities, central 135, among others.",
+      pt_br: "O Gerenciador de Tarefas do INSS é um GED, Gerenciador Eletrônico de Documentos. Permite a configuração de fluxos personalizados e é a plataforma responsável pela digitização dos processos da autarquia. Permite a coleta de dados externos em vários canais como internet, entidades conveniadas, central 135, entre outros."
+    }
+  },
+  
+  {
+    id : "proj_title_19",
+    label: {
+      en: "",
+      pt_br: ""
+    }
+  },
+
+  {
+    id : "proj_text_19",
+    label: {
+      en: "The Scheduling System and the Attendance System are part of the INSS assistance management suite. While the first manages the agenda of the PSCs, the second controls the internal flow of the branches. Both were designed with a high degree of parameterization allowing for complete process manageability.",
+      pt_br: "O Sistema de Agendamento e o Sistema de Atendimento fazem parte da suíte de gerenciamento do atendimento do INSS. Enquanto o primeiro gerencia a agenda das unidades de atendimento, o segundo controla o fluxo interno das agências. Ambas foram concebidas com alto grau de parametrização permitindo uma completa gerenciabilidade dos processos."
+    }
+  },
+  
+  {
+    id : "proj_title_20",
+    label: {
+      en: "my INSS",
+      pt_br: "Meu INSS"
+    }
+  },
+
+  {
+    id : "proj_text_20",
+    label: {
+      en: "The project aimed to offer citizens an INSS service portal that would eliminate the need to travel to an agency. In addition to the integration of the different systems to the autarchy, the main challenge was user authentication. This challenge culminated in CidadaoBr, the Federal Government's authentication tool. This project continues to evolve.",
+      pt_br: "Projeto visava oferecer ao cidadão um portal de serviços do INSS que suprimisse a necessidade de deslocamento até uma agência. Além da integração dos diversos sistemas a autarquia, o principal desafio foi a autenticação do usuário. Esse desafio culminou no CidadaoBr, ferramenta de autenticação do Governo Federal. Este projeto continua em evolução."
+    }
+  },
+  
+  {
+    id : "proj_title_21",
+    label: {
+      en: "Godparents",
+      pt_br: "Padrinhos"
+    }
+  },
+
+  {
+    id : "proj_text_21",
+    label: {
+      en: "Mobile application to allow assistance entities to demonstrate their demands and collect individual help. The application shows people in a socially vulnerable situation who can be “Sponsored”. Thus, any need that the person may have, such as medication and food, for example, are sent to the sponsors.",
+      pt_br: "Aplicativo mobile para permitir que entidades assistenciais demonstrem suas demandas e possam coletar ajudas individuais. No aplicativo são mostradas pessoas em situação de vulnerabilidade social que podem ser “Apadrinhadas”. Assim, qualquer necessidade que a pessoa venha a ter como medicação e alimentação, por exemplo, são enviadas aos padrinhos."
+    }
+  },
+  
+  {
+    id : "proj_title_22",
+    label: {
+      en: "FAST - Continuous Delivery Process",
+      pt_br: "FAST - Esteira de Entrega Contínua"
+    }
+  },
+
+  {
+    id : "proj_text_22",
+    label: {
+      en: "Implementation of a continuous delivery mat integrating the various application provisioning and deployment tools in Dataprev. This project allowed for a signifcant reduction in project implementation time, increasing the company's competitiveness and flexibility.",
+      pt_br: "Implementação de uma esteira de entrega contínua integrando as diversas ferramentas de provisionamento e deploy de aplicações na Dataprev. Esse projeto permitiu reduzir signifcativamente o tempo de implantação de projetos, aumentando a competitividade e a flexibilidade da empresa."
+    }
+  },
+  
+  {
+    id : "proj_title_23",
+    label: {
+      en: "Node2FaaS framework",
+      pt_br: "Node2FaaS framework"
+    }
+  },
+
+  {
+    id : "proj_text_23",
+    label: {
+      en: "Framework for automatic conversion of NodeJS applications to work with Function as a Service. Transforms functions defined in the application into provider API calls. Project resulting from research during the master's course.",
+      pt_br: "Framework para conversão automática de aplicações NodeJS para trabalhar com Function as a Service. Transforma as funções definidas na aplicação em chamadas à API do provedor. Projeto resultante de pesquisa durante o curso de mestrado."
+    }
+  },
+  
+  {
+    id : "proj_title_24",
+    label: {
+      en: "GovCloud Console",
+      pt_br: "Console da GovCloud"
+    }
+  },
+
+  {
+    id : "proj_text_24",
+    label: {
+      en: "Web console for provisioning cloud products marketed by Dataprev through GovCloud. It allows you to trigger automations on different platforms, such as VMware, Kubernetes and Oracle, in a transparent way.",
+      pt_br: "Console Web para provisionamento de produtos de nuvem comercializados pela Dataprev por meio da GovCloud. Permite acionar automações em diversas plataformas, tais como VMware, Kubernetes e Oracle de forma transparente."
+    }
+  },
+  
+  {
+    id : "proj_title_25",
+    label: {
+      en: "Kalimera",
+      pt_br: "Kalimera"
+    }
+  },
+
+  {
+    id : "proj_text_25",
+    label: {
+      en: "Social network aimed at motorcyclists in which it is possible to schedule tours, meetings, fairs, events, exchange experiences and record events related to motorcycles.",
+      pt_br: "Rede Social destinada a motociclistas na qual é possível marcar passeios, encontros, feiras, eventos, trocar experiências e registrar acontecimentos relacionados à motocicleta."
+    }
+  },
+  
+  {
+    id : "proj_title_26",
+    label: {
+      en: "FaaSification.com",
+      pt_br: "FaaSification.com"
+    }
+  },
+
+  {
+    id : "proj_text_26",
+    label: {
+      en: "Development of a platform for the community to encourage the development of applications oriented to the FaaSification paradigm.",
+      pt_br: "Desenvolvimento da plataforma para a comunidade de fomento ao desenvolvimento de aplicações orientadas ao paradigma da FaaSificação."
+    }
+  },
+  
+  {
+    id : "proj_title_27",
+    label: {
+      en: "Deep Vacuity",
+      pt_br: "Deep Vacuity"
+    }
+  },
+
+  {
+    id : "proj_text_27",
+    label: {
+      en: "Development of methods and forensic techniques to aid research activity in the area of forensic science, as well as outlining the context of the application of machine learning techniques, these to be incorporated into the forensic activity, for the purpose of improving the quality of processes, within the context of the Federal Criminal Expertise.",
+      pt_br: "Desenvolvimento de métodos e técnicas periciais para o auxílio da atividade de pesquisa na área de ciências forenses, bem como delinear o contexto da aplicação de técnicas de aprendizagem de máquina, estas a serem incorporadas na atividade pericial, para fins de melhorias na qualidade dos processos, dentro do contexto da Perícia Criminal Federal."
+    }
+  },
+  
+  {
+    id : "proj_title_28",
+    label: {
+      en: "Sequence Alignment Using FaaS",
+      pt_br: "Alinhamento de sequências usando FaaS"
+    }
+  },
+
+  {
+    id : "proj_text_28",
+    label: {
+      en: "Project between CNPQ, Unb and AWS to promote approaches to bioinformatics in the cloud. In this project, AWS Lambda was used to align genetic sequences.",
+      pt_br: "Projeto entre CNPQ, Unb e AWS para fomento de abordagens de bioinformática na nuvem. Neste projeto foi utilizado o AWS Lambda para alinhamento de sequências genéticas."
+    }
+  },
+  
+  {
+    id : "proj_title_29",
+    label: {
+      en: "Orama Framework",
+      pt_br: "Orama Framework"
+    }
+  },
+
+  {
+    id : "proj_text_29",
+    label: {
+      en: "Framework for conducting Function-as-a-Service benchmarks.",
+      pt_br: "Framework para condução de benchmarks de Function-as-a-Service."
     }
   }
   
