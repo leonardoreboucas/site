@@ -187,6 +187,39 @@ internationalData = [
       en: "Ready to start your next project? Call or send an email and I will contact you as soon as possible!",
       pt_br: "Pronto para iniciar seu próximo projeto? Ligue ou envie um e-mail e entrarei em contato o mais breve possível!"
     }
+  },
+  
+  {
+    id : "proj_title_1",
+    label: {
+      en: "Lottery manager",
+      pt_br: "Gerenciador de Lotérica"
+    }
+  },
+
+  {
+    id : "proj_text_1",
+    label: {
+      en: "Lottery management system. Controlled both the operational financial flow of the unit, as well as lottery draws and commissions paid to employees.",
+      pt_br: "Sistema de gerenciamento de lotéricas. Controlava tanto o fluxo financeiro operacional da unidade, quanto as extrações lotéricas e comissões pagas aos funcionários."
+    }
+  },
+  
+  {
+    id : "proj_title_2",
+    label: {
+      en: "Lottery manager",
+      pt_br: "Gerenciador de Lotérica"
+    }
+  },
+
+  {
+    id : "proj_text_2",
+    label: {
+      en: "Lottery management system. Controlled both the operational financial flow of the unit, as well as lottery draws and commissions paid to employees.",
+      pt_br: "Sistema de gerenciamento de lotéricas. Controlava tanto o fluxo financeiro operacional da unidade, quanto as extrações lotéricas e comissões pagas aos funcionários."
+    }
   }
+  
 
 ]
