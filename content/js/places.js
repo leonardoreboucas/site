@@ -2,6 +2,3280 @@ placesData = {
   "type" : "FeatureCollection",
   "features" : [ {
     "geometry" : {
+      "coordinates" : [ -43.0400240, -2.5321975 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=-2.532198,-43.040024",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-2.5321975",
+          "Longitude" : "-43.0400240"
+        }
+      },
+      "Published" : "2021-01-07T01:29:50Z",
+      "Title" : "-2.532198,-43.040024",
+      "Updated" : "2021-12-03T18:19:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -38.5145545, -11.0997168 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Cip%C3%B3,+BA,+48450-000&ftid=0x7118f9996501b89:0x1eb796a7535fb79a",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-11.0997168",
+          "Longitude" : "-38.5145545"
+        }
+      },
+      "Published" : "2021-11-28T09:56:20Z",
+      "Title" : "Cipó, BA, 48450-000",
+      "Updated" : "2021-11-28T09:56:20Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -38.8066816, -11.6226730 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Biritinga,+BA,+48780-000&ftid=0x713e5c387ff408d:0x9a43149963615c2",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-11.6226730",
+          "Longitude" : "-38.8066816"
+        }
+      },
+      "Published" : "2021-11-28T09:55:53Z",
+      "Title" : "Biritinga, BA, 48780-000",
+      "Updated" : "2021-11-28T09:55:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -38.4802962, -11.2391995 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Nova+Soure,+BA,+48460-000&ftid=0x711832af7077135:0x37b615a78bcfade0",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-11.2391995",
+          "Longitude" : "-38.4802962"
+        }
+      },
+      "Published" : "2021-11-28T09:55:40Z",
+      "Title" : "Nova Soure, BA, 48460-000",
+      "Updated" : "2021-11-28T09:55:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -38.9743433, -11.9539733 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Santa+B%C3%A1rbara,+BA,+44150-000&ftid=0x71412a2c4201b33:0x9d923be939c39e1d",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-11.9539733",
+          "Longitude" : "-38.9743433"
+        }
+      },
+      "Published" : "2021-11-28T09:54:44Z",
+      "Title" : "Santa Bárbara, BA, 44150-000",
+      "Updated" : "2021-11-28T09:54:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -43.6767508, -12.1992605 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8984417177866469441",
+      "Location" : {
+        "Address" : "Estr. Javi Santa Maria da Vitória, 210, Muquém do São Francisco - BA, 47115-000, Brasil",
+        "Business Name" : "Javi",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-12.1992605",
+          "Longitude" : "-43.6767508"
+        }
+      },
+      "Published" : "2021-11-28T09:51:23Z",
+      "Title" : "Javi",
+      "Updated" : "2021-11-28T09:51:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -43.9540389, -12.5718916 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Momba%C3%A7a,+Brejol%C3%A2ndia+-+BA,+47750-000&ftid=0x75e6342e11b18d5:0xf9f29016130b0ad1",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-12.5718916",
+          "Longitude" : "-43.9540389"
+        }
+      },
+      "Published" : "2021-11-28T09:50:43Z",
+      "Title" : "Mombaça, Brejolândia - BA, 47750-000",
+      "Updated" : "2021-11-28T09:50:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -43.6965167, -12.3590382 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Tr%C3%AAs+Morros,+Muqu%C3%A9m+do+S%C3%A3o+Francisco+-+BA,+47115-000&ftid=0x75de6780746c6c3:0x4e8c4824ebfa1fd9",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-12.3590382",
+          "Longitude" : "-43.6965167"
+        }
+      },
+      "Published" : "2021-11-28T09:50:32Z",
+      "Title" : "Três Morros, Muquém do São Francisco - BA, 47115-000",
+      "Updated" : "2021-11-28T09:50:32Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -43.9508324, -12.7594434 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Serra+Dourada,+BA,+47740-000&ftid=0x75e8ff234cac9e3:0xbb62d6dee8c5fa61",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-12.7594434",
+          "Longitude" : "-43.9508324"
+        }
+      },
+      "Published" : "2021-11-28T09:50:19Z",
+      "Title" : "Serra Dourada, BA, 47740-000",
+      "Updated" : "2021-11-28T09:50:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.0510395, -12.9796577 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Santana,+BA,+47700-000&ftid=0x75eb91fa38c900f:0xa72aaf7b9f297348",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-12.9796577",
+          "Longitude" : "-44.0510395"
+        }
+      },
+      "Published" : "2021-11-28T09:49:26Z",
+      "Title" : "Santana, BA, 47700-000",
+      "Updated" : "2021-11-28T09:49:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -48.0766717, -14.1504898 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Colinas+do+Sul+-+GO,+73740-000&ftid=0x9345ab57a1664c81:0xbf9f08eb98c632fe",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-14.1504898",
+          "Longitude" : "-48.0766717"
+        }
+      },
+      "Published" : "2021-11-24T21:23:47Z",
+      "Title" : "Colinas do Sul, Goiás, 73740-000",
+      "Updated" : "2021-11-24T21:23:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -51.3943298, -16.0045346 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=-16.004535,-51.394330",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-16.0045346",
+          "Longitude" : "-51.3943298"
+        }
+      },
+      "Published" : "2021-07-20T23:52:20Z",
+      "Title" : "-16.004535,-51.394330",
+      "Updated" : "2021-11-21T07:43:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -38.0049741, -9.3810081 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Delmiro+Gouveia,+AL,+57480-000&ftid=0x709279f78182abd:0xb7bd888d6c5f38d7",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-9.3810081",
+          "Longitude" : "-38.0049741"
+        }
+      },
+      "Published" : "2021-11-11T00:35:47Z",
+      "Title" : "Delmiro Gouveia, AL, 57480-000",
+      "Updated" : "2021-11-11T00:35:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -36.2375424, -8.4892074 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Cachoeirinha,+PE,+55380-000&ftid=0x7a9e7a0331b286d:0x6f5529d7e5239054",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-8.4892074",
+          "Longitude" : "-36.2375424"
+        }
+      },
+      "Published" : "2021-11-11T00:34:44Z",
+      "Title" : "Cachoeirinha, PE, 55380-000",
+      "Updated" : "2021-11-11T00:34:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -36.3235279, -8.6609153 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Lajedo,+PE&ftid=0x70761498c587ce5:0xaa96a04f64608097",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-8.6609153",
+          "Longitude" : "-36.3235279"
+        }
+      },
+      "Published" : "2021-11-11T00:34:35Z",
+      "Title" : "Lajedo, PE",
+      "Updated" : "2021-11-11T00:34:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -36.1370650, -8.3276266 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=S%C3%A3o+Caetano+-+S%C3%A3o+Caitano,+S%C3%A3o+Caetano+-+PE,+55130-000&ftid=0x7a9ecdedd0bce19:0x32a4efb09bdb10c6",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-8.3276266",
+          "Longitude" : "-36.1370650"
+        }
+      },
+      "Published" : "2021-11-11T00:34:04Z",
+      "Title" : "São Caetano - São Caitano, São Caetano - PE, 55130-000",
+      "Updated" : "2021-11-11T00:34:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -36.4171898, -8.7104547 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Jupi,+PE,+55395-000&ftid=0x707653e55731319:0x2e697de4ffd13eae",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-8.7104547",
+          "Longitude" : "-36.4171898"
+        }
+      },
+      "Published" : "2021-11-11T00:27:47Z",
+      "Title" : "Jupi, PE, 55395-000",
+      "Updated" : "2021-11-11T00:27:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -36.4964613, -8.8908765 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Garanhuns,+PE&ftid=0x7070d200a110927:0x51f45fae994f83b3",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-8.8908765",
+          "Longitude" : "-36.4964613"
+        }
+      },
+      "Published" : "2021-11-11T00:26:54Z",
+      "Title" : "Garanhuns, PE",
+      "Updated" : "2021-11-11T00:26:54Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -38.3471324, -10.0760578 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Jeremoabo,+BA,+48540-000&ftid=0x70e8b19b1c3d80b:0x1823d53ffc0f4532",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-10.0760578",
+          "Longitude" : "-38.3471324"
+        }
+      },
+      "Published" : "2021-11-10T23:38:00Z",
+      "Title" : "Jeremoabo, BA, 48540-000",
+      "Updated" : "2021-11-10T23:38:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -38.2176411, -9.4000616 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Paulo+Afonso,+BA&ftid=0x70930cc78a6f9ff:0xdb68770589a8cabb",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-9.4000616",
+          "Longitude" : "-38.2176411"
+        }
+      },
+      "Published" : "2021-11-10T23:37:50Z",
+      "Title" : "Paulo Afonso, BA",
+      "Updated" : "2021-11-10T23:37:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -38.3852394, -10.5936112 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=C%C3%ADcero+Dantas,+BA,+48410-000&ftid=0x70e190d334424f3:0x2bf20d1320d356af",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-10.5936112",
+          "Longitude" : "-38.3852394"
+        }
+      },
+      "Published" : "2021-11-10T23:36:38Z",
+      "Title" : "Cícero Dantas, BA, 48410-000",
+      "Updated" : "2021-11-10T23:36:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -39.0084965, -11.6628420 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Serrinha,+BA,+48700-000&ftid=0x7138d150832d8b3:0xea0c1837adf90c10",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-11.6628420",
+          "Longitude" : "-39.0084965"
+        }
+      },
+      "Published" : "2021-11-10T23:36:19Z",
+      "Title" : "Serrinha, BA, 48700-000",
+      "Updated" : "2021-11-10T23:36:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -38.5439651, -10.8364886 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Ribeira+do+Pombal,+BA,+48400-000&ftid=0x711f061955e1229:0xc6b08e9358fafada",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-10.8364886",
+          "Longitude" : "-38.5439651"
+        }
+      },
+      "Published" : "2021-11-10T23:36:00Z",
+      "Title" : "Ribeira do Pombal, BA, 48400-000",
+      "Updated" : "2021-11-10T23:36:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.2439103, -14.1468726 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Manoel+Vitorino,+BA,+45240-000&ftid=0x74746659945f121:0x5e4880e741832701",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-14.1468726",
+          "Longitude" : "-40.2439103"
+        }
+      },
+      "Published" : "2021-11-05T15:11:25Z",
+      "Title" : "Manoel Vitorino, BA, 45240-000",
+      "Updated" : "2021-11-05T15:11:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -39.6481711, -12.5141949 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Campo+Grande+-+Argoim,+Rafael+Jambeiro+-+BA,+44520-000&ftid=0x71515f5baef5c9b:0xeee2e98a48f6af5d",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-12.5141949",
+          "Longitude" : "-39.6481711"
+        }
+      },
+      "Published" : "2021-11-05T15:07:07Z",
+      "Title" : "Campo Grande - Argoim, Rafael Jambeiro - BA, 44520-000",
+      "Updated" : "2021-11-05T15:07:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -39.8679076, -12.4999502 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Santa+F%C3%A9+-+Argoim,+Rafael+Jambeiro+-+BA,+44520-000&ftid=0x71536f84ff2f6a3:0x5c81b2a7940b559",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-12.4999502",
+          "Longitude" : "-39.8679076"
+        }
+      },
+      "Published" : "2021-11-05T15:06:45Z",
+      "Title" : "Santa Fé - Argoim, Rafael Jambeiro - BA, 44520-000",
+      "Updated" : "2021-11-05T15:06:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.0276139, -12.5210985 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Lagoa+do+Passeio,+Itaberaba+-+BA,+46880-000&ftid=0x76ab59b864f8e17:0x8c2d484a2b59f21a",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-12.5210985",
+          "Longitude" : "-40.0276139"
+        }
+      },
+      "Published" : "2021-11-05T15:06:29Z",
+      "Title" : "Lagoa do Passeio, Itaberaba - BA, 46880-000",
+      "Updated" : "2021-11-05T15:06:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.7501772, -12.4388521 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Vila+da+Esperan%C3%A7a,+Lajedinho+-+BA,+46825-000&ftid=0x76a66f312c17b65:0xed09a3e7bffc6b24",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-12.4388521",
+          "Longitude" : "-40.7501772"
+        }
+      },
+      "Published" : "2021-11-05T15:06:01Z",
+      "Title" : "Vila da Esperança, Lajedinho - BA, 46825-000",
+      "Updated" : "2021-11-05T15:06:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.8881910, -12.4522600 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=S%C3%A3o+Paulo,+Ibiquera+-+BA,+46840-000&ftid=0x76a6c3b4bbe3d99:0x861adf65bae91387",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-12.4522600",
+          "Longitude" : "-40.8881910"
+        }
+      },
+      "Published" : "2021-11-05T15:05:47Z",
+      "Title" : "São Paulo, Ibiquera - BA, 46840-000",
+      "Updated" : "2021-11-05T15:05:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.1996545, -12.4978728 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=%C3%81guas+Belas,+Lajedinho+-+BA,+46825-000&ftid=0x76a040aadb5e84b:0x75d3c789cd31f970",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-12.4978728",
+          "Longitude" : "-41.1996545"
+        }
+      },
+      "Published" : "2021-11-05T15:05:32Z",
+      "Title" : "Águas Belas, Lajedinho - BA, 46825-000",
+      "Updated" : "2021-11-05T15:05:32Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.0042265, -12.4639421 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Morrinho,+Lajedinho+-+BA,+46830-000&ftid=0x76a125611873e2b:0xfd56edd3c8f4d4ac",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-12.4639421",
+          "Longitude" : "-41.0042265"
+        }
+      },
+      "Published" : "2021-11-05T15:05:16Z",
+      "Title" : "Morrinho, Lajedinho - BA, 46830-000",
+      "Updated" : "2021-11-05T15:05:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.6273138, -12.4518761 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Amparo+-+Boa+Vista+do+Tupim,+BA,+46850-000&ftid=0x76a8a6fd01beef9:0xa66568e72c0862a7",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-12.4518761",
+          "Longitude" : "-40.6273138"
+        }
+      },
+      "Published" : "2021-11-05T15:04:17Z",
+      "Title" : "Amparo - Boa Vista do Tupim, BA, 46850-000",
+      "Updated" : "2021-11-05T15:04:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.5881138, -12.4572176 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Jundi%C3%A1+-+Boa+Vista+do+Tupim,+BA,+46850-000&ftid=0x76a8bc7db3d374d:0xb8958e4fb961dea2",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-12.4572176",
+          "Longitude" : "-40.5881138"
+        }
+      },
+      "Published" : "2021-11-05T15:04:10Z",
+      "Title" : "Jundiá - Boa Vista do Tupim, BA, 46850-000",
+      "Updated" : "2021-11-05T15:04:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.3083718, -12.5308131 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Itaberaba,+BA,+46880-000&ftid=0x76abe0329e82093:0x71413cda1871cc16",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-12.5308131",
+          "Longitude" : "-40.3083718"
+        }
+      },
+      "Published" : "2021-11-05T15:03:31Z",
+      "Title" : "Itaberaba, BA, 46880-000",
+      "Updated" : "2021-11-05T15:03:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -39.4587864, -12.5585021 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Paraguassu+-+Paraguass%C3%BA,+Rafael+Jambeiro+-+BA,+44520-000&ftid=0x7150dba363468a5:0x1d72a329dcccb553",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-12.5585021",
+          "Longitude" : "-39.4587864"
+        }
+      },
+      "Published" : "2021-11-05T15:03:06Z",
+      "Title" : "Paraguassu - Paraguassú, Rafael Jambeiro - BA, 44520-000",
+      "Updated" : "2021-11-05T15:03:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -38.0829270, -11.9445271 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Entre+Rios,+BA,+48180-000&ftid=0x716d3342850deff:0x47441b287f81c05e",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-11.9445271",
+          "Longitude" : "-38.0829270"
+        }
+      },
+      "Published" : "2021-11-05T15:02:30Z",
+      "Title" : "Entre Rios, BA, 48180-000",
+      "Updated" : "2021-11-05T15:02:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -37.7551681, -11.4759873 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Cristin%C3%A1polis,+SE,+49270-000&ftid=0x710f125879968ad:0x9620244ab6cabbf8",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-11.4759873",
+          "Longitude" : "-37.7551681"
+        }
+      },
+      "Published" : "2021-11-05T15:00:19Z",
+      "Title" : "Cristinápolis, SE, 49270-000",
+      "Updated" : "2021-11-05T15:00:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -37.6618281, -11.3811323 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Umba%C3%BAba,+SE,+49260-000&ftid=0x7105f945f9ff189:0xe7f0911a85b03543",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-11.3811323",
+          "Longitude" : "-37.6618281"
+        }
+      },
+      "Published" : "2021-11-05T15:00:09Z",
+      "Title" : "Umbaúba, SE, 49260-000",
+      "Updated" : "2021-11-05T15:00:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -37.4508261, -11.2849100 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9962887281609689210",
+      "Location" : {
+        "Address" : "BR-101, 376-406, Estância - SE, 49200-000, Brasil",
+        "Business Name" : "Churrascaria Cachoeira",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-11.2849100",
+          "Longitude" : "-37.4508261"
+        }
+      },
+      "Published" : "2021-11-05T14:59:36Z",
+      "Title" : "Churrascaria Cachoeira",
+      "Updated" : "2021-11-05T14:59:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -36.8355740, -10.1857190 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Porto+Real+do+Col%C3%A9gio,+AL,+57290-000&ftid=0x705a4ef1a8d0a67:0x5d2dc19b872a58f0",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-10.1857190",
+          "Longitude" : "-36.8355740"
+        }
+      },
+      "Published" : "2021-11-05T14:46:10Z",
+      "Title" : "Porto Real do Colégio, AL, 57290-000",
+      "Updated" : "2021-11-05T14:46:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -36.4739345, -9.9207794 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Junqueiro,+AL,+57270-000&ftid=0x70431d544902f87:0xa38f8767368b1625",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-9.9207794",
+          "Longitude" : "-36.4739345"
+        }
+      },
+      "Published" : "2021-11-05T14:45:49Z",
+      "Title" : "Junqueiro, AL, 57270-000",
+      "Updated" : "2021-11-05T14:45:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -35.8401216, -9.4088527 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Floriano,+Rio+Largo+-+AL,+57100-000&ftid=0x7013224769774ed:0xe4146bdd838ffd22",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-9.4088527",
+          "Longitude" : "-35.8401216"
+        }
+      },
+      "Published" : "2021-11-05T14:44:23Z",
+      "Title" : "Floriano, Rio Largo - AL, 57100-000",
+      "Updated" : "2021-11-05T14:44:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -36.2195246, -9.9041194 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Luziapolis,+Campo+Alegre+-+AL,+57250-000&ftid=0x70419aad51a0d9f:0x85be7f3f56272eca",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-9.9041194",
+          "Longitude" : "-36.2195246"
+        }
+      },
+      "Published" : "2021-11-05T14:44:02Z",
+      "Title" : "Luziapolis, Campo Alegre - AL, 57250-000",
+      "Updated" : "2021-11-05T14:44:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -36.0994081, -9.7811212 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=S%C3%A3o+Miguel+dos+Campos,+AL,+57240-000&ftid=0x706a7ddaa7a09b1:0x6733080d967bf5d8",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-9.7811212",
+          "Longitude" : "-36.0994081"
+        }
+      },
+      "Published" : "2021-11-05T14:43:46Z",
+      "Title" : "São Miguel dos Campos, AL, 57240-000",
+      "Updated" : "2021-11-05T14:43:46Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -35.6644145, -8.9420234 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Novo+Lino,+AL,+57970-000&ftid=0x700bf3007f481f9:0xd4f9843749d3d44b",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-8.9420234",
+          "Longitude" : "-35.6644145"
+        }
+      },
+      "Published" : "2021-11-05T14:43:04Z",
+      "Title" : "Novo Lino, AL, 57970-000",
+      "Updated" : "2021-11-05T14:43:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -35.6280113, -8.8076457 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Xex%C3%A9u,+PE,+55555-000&ftid=0x700a33aa0cf05ed:0x2be6e2097deb190f",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-8.8076457",
+          "Longitude" : "-35.6280113"
+        }
+      },
+      "Published" : "2021-11-05T14:42:48Z",
+      "Title" : "Xexéu, PE, 55555-000",
+      "Updated" : "2021-11-05T14:42:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -35.5838789, -8.6788402 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Palmares,+PE,+55540-000&ftid=0x700a06b149b94c3:0x4552d966eafce872",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-8.6788402",
+          "Longitude" : "-35.5838789"
+        }
+      },
+      "Published" : "2021-11-05T14:42:37Z",
+      "Title" : "Palmares, PE, 55540-000",
+      "Updated" : "2021-11-05T14:42:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -35.3747515, -8.5135139 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Ribeir%C3%A3o,+PE,+55520-000&ftid=0x7aa6574e6dd0af7:0x42196ab65cabba63",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-8.5135139",
+          "Longitude" : "-35.3747515"
+        }
+      },
+      "Published" : "2021-11-05T14:42:27Z",
+      "Title" : "Ribeirão, PE, 55520-000",
+      "Updated" : "2021-11-05T14:42:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -35.2366405, -8.3637463 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Escada,+PE,+55500-000&ftid=0x7aa5f73a777a61b:0xceac1461338e735",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-8.3637463",
+          "Longitude" : "-35.2366405"
+        }
+      },
+      "Published" : "2021-11-05T14:42:12Z",
+      "Title" : "Escada, PE, 55500-000",
+      "Updated" : "2021-11-05T14:42:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -35.0372522, -8.2869133 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Cabo+de+Santo+Agostinho,+PE&ftid=0x7aaf07ec0088f1f:0x79afc0089b9afbdc",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-8.2869133",
+          "Longitude" : "-35.0372522"
+        }
+      },
+      "Published" : "2021-11-05T14:41:50Z",
+      "Title" : "Cabo de Santo Agostinho, PE",
+      "Updated" : "2021-11-05T14:41:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -34.9208740, -8.1688125 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Jaboat%C3%A3o+dos+Guararapes,+PE&ftid=0x7aae28fb2057b8d:0x5ff50166f4ee58b1",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-8.1688125",
+          "Longitude" : "-34.9208740"
+        }
+      },
+      "Published" : "2021-11-05T14:41:42Z",
+      "Title" : "Jaboatão dos Guararapes, PE",
+      "Updated" : "2021-11-05T14:41:42Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -37.8965950, -9.5136967 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=-9.513697,-37.896595",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-9.5136967",
+          "Longitude" : "-37.8965950"
+        }
+      },
+      "Published" : "2016-07-11T03:04:38Z",
+      "Title" : "-9.513697,-37.896595",
+      "Updated" : "2021-11-03T14:36:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -34.8424889, -8.0102496 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11946485220030428545",
+      "Location" : {
+        "Address" : "Av. Pres. Getúlio Vargas, 166 - Bairro Novo, Olinda - PE, 53030-010, Brasil",
+        "Business Name" : "Sorveteria Bacana",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-8.0102496",
+          "Longitude" : "-34.8424889"
+        }
+      },
+      "Published" : "2021-11-02T18:03:10Z",
+      "Title" : "Sorveteria Bacana",
+      "Updated" : "2021-11-02T18:03:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -48.2214584, -13.5345230 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5390338130996257028",
+      "Location" : {
+        "Address" : "R. 5, 599-695 - Centro, Minaçu - GO, 76450-000, Brasil",
+        "Business Name" : "Restaurante e Pizzaria Samina",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-13.5345230",
+          "Longitude" : "-48.2214584"
+        }
+      },
+      "Published" : "2021-09-11T22:54:05Z",
+      "Title" : "Restaurante e Pizzaria Samina",
+      "Updated" : "2021-09-11T22:54:05Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -48.2195541, -13.5327871 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Mina%C3%A7u,+GO,+76450-000&ftid=0x9346856a50788b71:0x8549b3462cf52cb",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-13.5327871",
+          "Longitude" : "-48.2195541"
+        }
+      },
+      "Published" : "2021-09-11T22:53:47Z",
+      "Title" : "Minaçu, GO, 76450-000",
+      "Updated" : "2021-09-11T22:53:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -48.1702447, -14.5530522 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18093491280132271590",
+      "Location" : {
+        "Address" : "São Luiz do Tocantins, Niquelândia - GO, 76420-000, Brasil",
+        "Business Name" : "Nossa Senhora da Abadia - Muquém",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-14.5530522",
+          "Longitude" : "-48.1702447"
+        }
+      },
+      "Published" : "2021-09-11T22:53:24Z",
+      "Title" : "Nossa Senhora da Abadia - Muquém",
+      "Updated" : "2021-09-11T22:53:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -48.3087402, -14.1955397 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17354580887759578496",
+      "Location" : {
+        "Address" : "Unnamed Road, Niquelândia - GO, 76420-000, Brasil",
+        "Business Name" : "Estância Corujinha",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-14.1955397",
+          "Longitude" : "-48.3087402"
+        }
+      },
+      "Published" : "2021-09-11T22:52:15Z",
+      "Title" : "Estância Corujinha",
+      "Updated" : "2021-09-11T22:52:15Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -48.1655532, -14.5532360 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Moqu%C3%A9m+-+S%C3%A3o+Luiz+do+Tocantins,+Niquel%C3%A2ndia+-+GO,+76420-000&ftid=0x9344dde7390bdbfd:0x62fc4b28417c2052",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-14.5532360",
+          "Longitude" : "-48.1655532"
+        }
+      },
+      "Published" : "2021-09-11T22:51:46Z",
+      "Title" : "Moquém - São Luiz do Tocantins, Niquelândia - GO, 76420-000",
+      "Updated" : "2021-09-11T22:51:46Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -48.4601744, -14.4710088 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Niquel%C3%A2ndia+-+GO,+76420-000&ftid=0x9344920f1e2f0ac7:0x3db4ea0fb8629a07",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-14.4710088",
+          "Longitude" : "-48.4601744"
+        }
+      },
+      "Published" : "2021-09-11T22:50:23Z",
+      "Title" : "Niquelândia, Goiás, 76420-000",
+      "Updated" : "2021-09-11T22:50:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -68.2131951, -23.0630145 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=-23.063015,-68.213195",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-23.0630145",
+          "Longitude" : "-68.2131951"
+        }
+      },
+      "Published" : "2020-01-06T23:45:20Z",
+      "Title" : "-23.063015,-68.213195",
+      "Updated" : "2021-07-26T13:03:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -50.9536520, -16.1830199 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Jaupaci,+GO,+76210-000&ftid=0x9366f24849aa671f:0xc570e1df249310d1",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-16.1830199",
+          "Longitude" : "-50.9536520"
+        }
+      },
+      "Published" : "2021-07-21T17:23:24Z",
+      "Title" : "Jaupaci, GO, 76210-000",
+      "Updated" : "2021-07-21T17:23:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -50.9066361, -16.3161788 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Israel%C3%A2ndia,+GO,+76205-000&ftid=0x9366e9753cf7cfa1:0xa669311150a542be",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-16.3161788",
+          "Longitude" : "-50.9066361"
+        }
+      },
+      "Published" : "2021-07-21T17:23:17Z",
+      "Title" : "Israelândia, GO, 76205-000",
+      "Updated" : "2021-07-21T17:23:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -50.3706945, -16.5249984 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=S%C3%A3o+Lu%C3%ADs+de+Montes+Belos,+GO,+76100-000&ftid=0x9367350e66f216ab:0x61eca5ddcc6320b9",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-16.5249984",
+          "Longitude" : "-50.3706945"
+        }
+      },
+      "Published" : "2021-07-21T17:23:02Z",
+      "Title" : "São Luís de Montes Belos, GO, 76100-000",
+      "Updated" : "2021-07-21T17:23:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -50.1333943, -16.6101037 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Turv%C3%A2nia,+GO,+76110-000&ftid=0x9360af01671f523f:0xfc4dc91f724ac563",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-16.6101037",
+          "Longitude" : "-50.1333943"
+        }
+      },
+      "Published" : "2021-07-21T17:22:52Z",
+      "Title" : "Turvânia, GO, 76110-000",
+      "Updated" : "2021-07-21T17:22:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -49.8826595, -16.5847408 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Naz%C3%A1rio,+GO,+76180-000&ftid=0x935e052dd9296b67:0x4b4ffd370a15070d",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-16.5847408",
+          "Longitude" : "-49.8826595"
+        }
+      },
+      "Published" : "2021-07-21T17:22:43Z",
+      "Title" : "Nazário, GO, 76180-000",
+      "Updated" : "2021-07-21T17:22:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -49.7716788, -16.5606135 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Claudin%C3%A1polis,+Naz%C3%A1rio+-+GO,+76180-000&ftid=0x935e0dfe3f134dd9:0xa861118c066e04ce",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-16.5606135",
+          "Longitude" : "-49.7716788"
+        }
+      },
+      "Published" : "2021-07-21T17:22:32Z",
+      "Title" : "Claudinápolis, Nazário - GO, 76180-000",
+      "Updated" : "2021-07-21T17:22:32Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -55.7483937, -15.4620800 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Chapada+dos+Guimar%C3%A3es,+MT&ftid=0x939d93f16f874ec3:0x427c70a9ae38b511",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-15.4620800",
+          "Longitude" : "-55.7483937"
+        }
+      },
+      "Published" : "2021-07-20T16:08:55Z",
+      "Title" : "Chapada dos Guimarães, MT",
+      "Updated" : "2021-07-20T16:08:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -55.6885514, -15.4770967 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=67964207957502993",
+      "Location" : {
+        "Address" : "BR-251 - Chapada dos Guimarães, MT, 78195-000, Brasil",
+        "Business Name" : "Portaria Mirante do Centro Geodésico",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-15.4770967",
+          "Longitude" : "-55.6885514"
+        }
+      },
+      "Published" : "2021-07-20T16:08:49Z",
+      "Title" : "Entrada Mirante do Centro Geodésico",
+      "Updated" : "2021-07-20T16:08:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -55.1654526, -15.5454465 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Campo+Verde,+MT,+78840-000&ftid=0x937635dce58d94ed:0x23578e4616944bd0",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-15.5454465",
+          "Longitude" : "-55.1654526"
+        }
+      },
+      "Published" : "2021-07-20T16:08:28Z",
+      "Title" : "Campo Verde, MT, 78840-000",
+      "Updated" : "2021-07-20T16:08:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.2974513, -15.5570854 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Primavera+do+Leste,+MT&ftid=0x9377243ac61b03b7:0xefa5f05ba3cf6f98",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-15.5570854",
+          "Longitude" : "-54.2974513"
+        }
+      },
+      "Published" : "2021-07-20T16:08:16Z",
+      "Title" : "Primavera do Leste, MT",
+      "Updated" : "2021-07-20T16:08:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.3017792, -15.5597524 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13637439311169422004",
+      "Location" : {
+        "Address" : "R. Manaus, 524 - Centro, Primavera do Leste - MT, 78850-000, Brasil",
+        "Business Name" : "Restaurante Família Motta",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-15.5597524",
+          "Longitude" : "-54.3017792"
+        }
+      },
+      "Published" : "2021-07-20T16:08:04Z",
+      "Title" : "Restaurante Família Motta",
+      "Updated" : "2021-07-20T16:08:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -55.7458877, -15.4839525 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10428589507169416282",
+      "Location" : {
+        "Address" : "Coxipó da Ponte, Cuiabá - MT, Brasil",
+        "Business Name" : "Mirante Morro dos Ventos",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-15.4839525",
+          "Longitude" : "-55.7458877"
+        }
+      },
+      "Published" : "2021-07-19T16:09:54Z",
+      "Title" : "Mirante Morro dos Ventos",
+      "Updated" : "2021-07-19T16:09:54Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -55.8322346, -15.4088695 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10798765598094235497",
+      "Location" : {
+        "Address" : "Rodovia Emanuel Pinheiro, MT-251, Km 50, Chapada dos Guimarães - MT, 78195-000, Brasil",
+        "Business Name" : "Cachoeira Véu de Noiva",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-15.4088695",
+          "Longitude" : "-55.8322346"
+        }
+      },
+      "Published" : "2021-07-19T15:46:12Z",
+      "Title" : "Cachoeira Véu de Noiva",
+      "Updated" : "2021-07-19T15:46:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -55.8499807, -15.3721685 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6646276910422758104",
+      "Location" : {
+        "Address" : "BR-251, s/n - Coxipó do Ouro, Chapada dos Guimarães - MT, 78195-000, Brasil",
+        "Business Name" : "Portão do Inferno",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-15.3721685",
+          "Longitude" : "-55.8499807"
+        }
+      },
+      "Published" : "2021-07-18T20:34:54Z",
+      "Title" : "Portão do Inferno",
+      "Updated" : "2021-07-18T20:34:54Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.7748532, -17.3646102 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Porto+Jofre,+Pocon%C3%A9+-+MT&ftid=0x938384e37da9255f:0x3c4b36915351e47f",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-17.3646102",
+          "Longitude" : "-56.7748532"
+        }
+      },
+      "Published" : "2021-07-18T15:22:02Z",
+      "Title" : "Porto Jofre - Poconé, MT, 78175-000",
+      "Updated" : "2021-07-18T15:22:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.7351454, -16.6206744 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10376900079326634976",
+      "Location" : {
+        "Address" : "Estr. Transpantaneira, KM 41 - ZONA RURAL, Poconé - MT, 78175-000, Brasil",
+        "Business Name" : "Pousada Rio Claro",
+        "Geo Coordinates" : {
+          "Latitude" : "-16.6206744",
+          "Longitude" : "-56.7351454"
+        }
+      },
+      "Published" : "2021-07-18T15:22:01Z",
+      "Title" : "Pousada Rio Claro",
+      "Updated" : "2021-07-18T15:22:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.8575172, -16.7483348 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1765808984365611221",
+      "Location" : {
+        "Address" : "Estr. Transpantaneira, Km 48 - Poconé, MT, 78175-000, Brasil",
+        "Business Name" : "Hotel Pantanal Mato Grosso",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-16.7483348",
+          "Longitude" : "-56.8575172"
+        }
+      },
+      "Published" : "2021-07-18T15:21:33Z",
+      "Title" : "Hotel Pantanal Mato Grosso",
+      "Updated" : "2021-07-18T15:21:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.6281145, -16.2645026 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Pocon%C3%A9,+MT,+78175-000&ftid=0x939cbe93e66e1eb5:0x5c14db9275919934",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-16.2645026",
+          "Longitude" : "-56.6281145"
+        }
+      },
+      "Published" : "2021-07-17T00:59:47Z",
+      "Title" : "Poconé, MT, 78175-000",
+      "Updated" : "2021-07-17T00:59:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.1036298, -15.6086174 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11985782664803603903",
+      "Location" : {
+        "Address" : "Rua 13 de Junho, 1435 - Centro Sul, Cuiabá - MT, 78020-000, Brasil",
+        "Business Name" : "Sesc Arsenal",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-15.6086174",
+          "Longitude" : "-56.1036298"
+        }
+      },
+      "Published" : "2021-07-16T18:40:57Z",
+      "Title" : "Sesc Arsenal",
+      "Updated" : "2021-07-16T18:40:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.0983440, -15.6033860 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4461608125726047434",
+      "Location" : {
+        "Address" : "Av. Tenente Coronel Duarte, 1065 - Dom Aquino, Cuiabá - MT, 78015-500, Brasil",
+        "Business Name" : "Tropical Pneus - Loja Prainha",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-15.6033860",
+          "Longitude" : "-56.0983440"
+        }
+      },
+      "Published" : "2021-07-16T17:58:23Z",
+      "Title" : "Tropical Pneus - Loja Prainha",
+      "Updated" : "2021-07-16T17:58:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.1075264, -15.6148437 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12224506886959027674",
+      "Location" : {
+        "Address" : "Museu do Rio - Av. Manoel José de Arruda - Porto, Cuiabá - MT, 78025-190, Brasil",
+        "Business Name" : "Restaurante Regionalissimo",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-15.6148437",
+          "Longitude" : "-56.1075264"
+        }
+      },
+      "Published" : "2021-07-16T17:58:09Z",
+      "Title" : "Restaurante Regionalissimo",
+      "Updated" : "2021-07-16T17:58:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.0934197, -15.5954570 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3981432540088198706",
+      "Location" : {
+        "Address" : "r 349, Rua 7 de Setembro, 1 - Centro Norte, Cuiabá - MT, 78005-040, Brasil",
+        "Business Name" : "Museu de Imagem e Som de Cuiabá - MISC",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-15.5954570",
+          "Longitude" : "-56.0934197"
+        }
+      },
+      "Published" : "2021-07-16T14:58:27Z",
+      "Title" : "Museu de Imagem e Som de Cuiabá - MISC",
+      "Updated" : "2021-07-16T14:58:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.0967989, -15.5976700 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11702441343984475351",
+      "Location" : {
+        "Address" : "R. Joaquim Murtinho, 170 - Centro Norte, Cuiabá - MT, 78005-290, Brasil",
+        "Business Name" : "Mato Grosso Palace Hotel",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-15.5976700",
+          "Longitude" : "-56.0967989"
+        }
+      },
+      "Published" : "2021-07-16T00:26:56Z",
+      "Title" : "Mato Grosso Palace Hotel",
+      "Updated" : "2021-07-16T00:26:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.0592091, -15.5947859 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17489837309504729080",
+      "Location" : {
+        "Address" : "Jardim Itália, Cuiabá - MT, 78060-758, Brasil",
+        "Business Name" : "Parque Tia Nair",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-15.5947859",
+          "Longitude" : "-56.0592091"
+        }
+      },
+      "Published" : "2021-07-15T21:58:34Z",
+      "Title" : "Parque Tia Nair",
+      "Updated" : "2021-07-15T21:58:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.0904716, -15.6248489 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5794930172227066957",
+      "Location" : {
+        "Address" : "Av. Manoel José de Arruda, 2000 - Jardim Europa, Cuiabá - MT, 78025-190, Brasil",
+        "Business Name" : "Museu de História Natural De Mato Grosso",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-15.6248489",
+          "Longitude" : "-56.0904716"
+        }
+      },
+      "Published" : "2021-07-15T20:22:34Z",
+      "Title" : "Museu de História Natural De Mato Grosso",
+      "Updated" : "2021-07-15T20:22:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.1014723, -15.5990897 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7659416829986338966",
+      "Location" : {
+        "Address" : "R. Nossa Sra. de Santana, 1-105 - Centro Sul, Cuiabá - MT, 78020-820, Brasil",
+        "Business Name" : "Museu do Morro Da Caixa D’Água Velha",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-15.5990897",
+          "Longitude" : "-56.1014723"
+        }
+      },
+      "Published" : "2021-07-15T20:05:42Z",
+      "Title" : "Museu do Morro da caixa d’água Velha",
+      "Updated" : "2021-07-15T20:05:42Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.0997816, -15.5782702 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8256757240330561359",
+      "Location" : {
+        "Address" : "Av. Miguel Sutil - Duque de Caxias, Cuiabá - MT, 78043-375, Brasil",
+        "Business Name" : "Parque Mãe Bonifácia",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-15.5782702",
+          "Longitude" : "-56.0997816"
+        }
+      },
+      "Published" : "2021-07-15T19:36:14Z",
+      "Title" : "Parque Mãe Bonifácia",
+      "Updated" : "2021-07-15T19:36:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.1059437, -15.5935470 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Pra%C3%A7a+Popular+-+Popular,+Cuiab%C3%A1+-+MT&ftid=0x939db18f0af26669:0xd377f8af538c03bd",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-15.5935470",
+          "Longitude" : "-56.1059437"
+        }
+      },
+      "Published" : "2021-07-15T16:16:01Z",
+      "Title" : "Praça Popular - Popular, Cuiabá - MT",
+      "Updated" : "2021-07-15T16:16:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.0961117, -15.6017679 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3817850632998309421",
+      "Location" : {
+        "Address" : "Praça do Seminário, s/n - Dom Aquino, Cuiabá - MT, 78015-325, Brasil",
+        "Business Name" : "Santuário Eucarístico Nossa Senhora do Bom Despacho",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-15.6017679",
+          "Longitude" : "-56.0961117"
+        }
+      },
+      "Published" : "2021-07-15T15:55:13Z",
+      "Title" : "Santuário Eucarístico Nossa Senhora do Bom Despacho",
+      "Updated" : "2021-07-15T15:55:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.0959626, -15.6019542 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=215351330179010032",
+      "Location" : {
+        "Address" : "Praça do Seminário - Dom Aquino, Cuiabá - MT, 78015-325, Brasil",
+        "Business Name" : "Museu de Arte Sacra de Mato Grosso",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-15.6019542",
+          "Longitude" : "-56.0959626"
+        }
+      },
+      "Published" : "2021-07-15T15:55:05Z",
+      "Title" : "Museu de Arte Sacra de Mato Grosso",
+      "Updated" : "2021-07-15T15:55:05Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.0799956, -15.5680605 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3241772578972641867",
+      "Location" : {
+        "Address" : "Av. Hermina Torquarto da Silva - Centro Político Administrativo, Cuiabá - MT, 78050-970, Brasil",
+        "Business Name" : "Parque Júlio Domingos de Campos \"Seo Fiote\" (Parque das Águas)",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-15.5680605",
+          "Longitude" : "-56.0799956"
+        }
+      },
+      "Published" : "2021-07-14T21:56:51Z",
+      "Title" : "Parque das Águas",
+      "Updated" : "2021-07-14T21:56:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.1004360, -15.6005955 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=135703705429009793",
+      "Location" : {
+        "Address" : "R. Barão de Melgaço, 2902 - Centro Sul, Cuiabá - MT, 78020-800, Brasil",
+        "Business Name" : "Centro Geodésico da América do Sul",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-15.6005955",
+          "Longitude" : "-56.1004360"
+        }
+      },
+      "Published" : "2021-07-14T21:14:17Z",
+      "Title" : "Centro Geodésico da América do Sul",
+      "Updated" : "2021-07-14T21:14:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.1066164, -15.6151994 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6496563527070721429",
+      "Location" : {
+        "Address" : "Av. Manoel José de Arruda - Porto, Cuiabá - MT, 78115-305, Brasil",
+        "Business Name" : "Orla do Porto",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-15.6151994",
+          "Longitude" : "-56.1066164"
+        }
+      },
+      "Published" : "2021-07-14T21:04:26Z",
+      "Title" : "Orla do Porto",
+      "Updated" : "2021-07-14T21:04:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.1216245, -15.6040194 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16828650062594143129",
+      "Location" : {
+        "Address" : "Av. Agrícola Paes de Barros, s/n - Verdão, Cuiabá - MT, 78030-210, Brasil",
+        "Business Name" : "Arena Pantanal",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-15.6040194",
+          "Longitude" : "-56.1216245"
+        }
+      },
+      "Published" : "2021-07-14T20:55:47Z",
+      "Title" : "Arena Pantanal",
+      "Updated" : "2021-07-14T20:55:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.7597806, -18.4803083 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14917989532127503959",
+      "Location" : {
+        "Address" : "Coxim, MS, 79400-000, Brasil",
+        "Business Name" : "Cristo Redentor do Pantanal",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-18.4803083",
+          "Longitude" : "-54.7597806"
+        }
+      },
+      "Published" : "2021-07-12T17:18:21Z",
+      "Title" : "Cristo Redentor do Pantanal",
+      "Updated" : "2021-07-12T17:18:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.7556219, -18.4968749 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5807626247936537002",
+      "Location" : {
+        "Address" : "Av. Márcio Lima Nantes, 1020 - Vila Santa Marta, Coxim - MS, 79400-000, Brasil",
+        "Business Name" : "Parque Temático Histórico do Pantanal",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-18.4968749",
+          "Longitude" : "-54.7556219"
+        }
+      },
+      "Published" : "2021-07-12T16:36:17Z",
+      "Title" : "Parque Temático Histórico do Pantanal",
+      "Updated" : "2021-07-12T16:36:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.7610652, -18.5088182 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14987751624552084147",
+      "Location" : {
+        "Address" : "R. Antonio de Albuquerque, 812 - Centro, Coxim - MS, 79400-000, Brasil",
+        "Business Name" : "Praça Noemia Serrou Camy",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-18.5088182",
+          "Longitude" : "-54.7610652"
+        }
+      },
+      "Published" : "2021-07-12T15:13:21Z",
+      "Title" : "Praça do Flutuante",
+      "Updated" : "2021-07-12T15:13:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.8473377, -18.9176861 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Rio+Verde+de+Mato+Grosso,+MS,+79480-000&ftid=0x94802c446f0bdaed:0x49c1273b74d3dcd8",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-18.9176861",
+          "Longitude" : "-54.8473377"
+        }
+      },
+      "Published" : "2021-07-12T00:58:40Z",
+      "Title" : "Rio Verde de Mato Grosso, MS, 79480-000",
+      "Updated" : "2021-07-12T00:58:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.7464921, -18.5042400 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Coxim,+MS&ftid=0x937e34483eb367ed:0x39976ed76cc7e160",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-18.5042400",
+          "Longitude" : "-54.7464921"
+        }
+      },
+      "Published" : "2021-07-12T00:57:58Z",
+      "Title" : "Coxim, MS",
+      "Updated" : "2021-07-12T00:57:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.8680101, -20.4433554 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Terenos,+MS,+79190-000&ftid=0x948721f3aede2cfb:0x19ca3c22f4c61d98",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.4433554",
+          "Longitude" : "-54.8680101"
+        }
+      },
+      "Published" : "2021-07-12T00:56:53Z",
+      "Title" : "Terenos, MS, 79190-000",
+      "Updated" : "2021-07-12T00:56:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.5726211, -19.3991428 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=S%C3%A3o+Gabriel+do+Oeste,+MS,+79490-000&ftid=0x9481a7bf81290a11:0xebfd7d6922807702",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-19.3991428",
+          "Longitude" : "-54.5726211"
+        }
+      },
+      "Published" : "2021-07-12T00:56:14Z",
+      "Title" : "São Gabriel do Oeste, MS, 79490-000",
+      "Updated" : "2021-07-12T00:56:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.4007152, -20.1421129 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Jaraguari,+MS,+79440-000&ftid=0x9486b6501514d18f:0x7db0d6a72b06d5be",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.1421129",
+          "Longitude" : "-54.4007152"
+        }
+      },
+      "Published" : "2021-07-12T00:55:47Z",
+      "Title" : "Jaraguari, MS, 79440-000",
+      "Updated" : "2021-07-12T00:55:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -55.7912821, -20.4770582 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13652882556563377771",
+      "Location" : {
+        "Address" : "R. Bichara Salamene - Centro, Aquidauana - MS, 79200-000, Brasil",
+        "Business Name" : "Estação Ferroviária de Aquidauana",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-20.4770582",
+          "Longitude" : "-55.7912821"
+        }
+      },
+      "Published" : "2021-07-11T18:18:34Z",
+      "Title" : "Estação Ferroviária de Aquidauana",
+      "Updated" : "2021-07-11T18:18:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -55.8007282, -20.4770752 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9074069954552588035",
+      "Location" : {
+        "Address" : "Praça Ns Conceição, 637-781 - Centro, Aquidauana - MS, 79200-000, Brasil",
+        "Business Name" : "Praça Da Matriz",
+        "Geo Coordinates" : {
+          "Latitude" : "-20.4770752",
+          "Longitude" : "-55.8007282"
+        }
+      },
+      "Published" : "2021-07-11T18:17:46Z",
+      "Title" : "Praça Da Matriz",
+      "Updated" : "2021-07-11T18:17:46Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -55.7818482, -20.4593271 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Aquidauana,+MS,+79200-000&ftid=0x947de661d30d1f01:0x1877220b18ca3391",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.4593271",
+          "Longitude" : "-55.7818482"
+        }
+      },
+      "Published" : "2021-07-11T17:44:47Z",
+      "Title" : "Aquidauana, MS, 79200-000",
+      "Updated" : "2021-07-11T17:44:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -55.8054279, -20.4841569 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Anast%C3%A1cio,+MS,+79210-000&ftid=0x947de7b7b0397665:0x18a8ef315b2f9cdc",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.4841569",
+          "Longitude" : "-55.8054279"
+        }
+      },
+      "Published" : "2021-07-11T17:44:35Z",
+      "Title" : "Anastácio, MS, 79210-000",
+      "Updated" : "2021-07-11T17:44:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -55.7946202, -20.4762185 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9794873836186727410",
+      "Location" : {
+        "Address" : "R. Manoel Antônio Paes de Barros, 533 - Centro, Aquidauana - MS, 79200-000, Brasil",
+        "Business Name" : "Restaurante O Casarão Aquidauana",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-20.4762185",
+          "Longitude" : "-55.7946202"
+        }
+      },
+      "Published" : "2021-07-11T17:44:22Z",
+      "Title" : "Restaurante O Casarão Aquidauana",
+      "Updated" : "2021-07-11T17:44:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -57.6567985, -19.0041306 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12246968073809942132",
+      "Location" : {
+        "Address" : "R. Maj. Gama, n°612 - Dom Bosco, Corumbá - MS, 79331-010, Brasil",
+        "Business Name" : "Ateliê do Gelato",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-19.0041306",
+          "Longitude" : "-57.6567985"
+        }
+      },
+      "Published" : "2021-07-10T21:24:34Z",
+      "Title" : "Ateliê do Gelato",
+      "Updated" : "2021-07-10T21:24:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -57.6531571, -19.0011913 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11204463273128762118",
+      "Location" : {
+        "Address" : "Centro, Corumbá - MS, 79302-000, Brasil",
+        "Business Name" : "Praça da Independência",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-19.0011913",
+          "Longitude" : "-57.6531571"
+        }
+      },
+      "Published" : "2021-07-10T20:32:18Z",
+      "Title" : "Praça da Independência",
+      "Updated" : "2021-07-10T20:32:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -57.6528396, -19.0025177 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=894310778883129521",
+      "Location" : {
+        "Address" : "R. Dom Aquino, 1037 - Centro, Corumbá - MS, 79330-060, Brasil",
+        "Business Name" : "Santuário de Nossa Senhora Auxiliadora",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-19.0025177",
+          "Longitude" : "-57.6528396"
+        }
+      },
+      "Published" : "2021-07-10T20:32:10Z",
+      "Title" : "Santuário de Nossa Senhora Auxiliadora",
+      "Updated" : "2021-07-10T20:32:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -57.6714157, -19.0006838 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11403681567506875091",
+      "Location" : {
+        "Address" : "R. Mal. Floriano - Aeroporto, Corumbá - MS, Brasil",
+        "Business Name" : "Mirante da Capivara",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-19.0006838",
+          "Longitude" : "-57.6714157"
+        }
+      },
+      "Published" : "2021-07-10T20:19:10Z",
+      "Title" : "Mirante da Capivara",
+      "Updated" : "2021-07-10T20:19:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -57.6282005, -18.9987888 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4554960363842807369",
+      "Location" : {
+        "Address" : "R. Aquidauana, n° 1 - Universitário, Corumbá - MS, 79304-160, Brasil",
+        "Business Name" : "Bar Do Gelson",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-18.9987888",
+          "Longitude" : "-57.6282005"
+        }
+      },
+      "Published" : "2021-07-10T20:02:01Z",
+      "Title" : "Bar Do Gelson",
+      "Updated" : "2021-07-10T20:02:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -57.6527913, -19.0051788 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Corumb%C3%A1,+MS&ftid=0x9387a076798e7565:0x5e7c4a2bdbaeab6",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-19.0051788",
+          "Longitude" : "-57.6527913"
+        }
+      },
+      "Published" : "2021-07-10T18:25:35Z",
+      "Title" : "Corumbá, MS",
+      "Updated" : "2021-07-10T18:25:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -57.6469306, -19.0000933 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15204643594546921150",
+      "Location" : {
+        "Address" : "R. Dom Aquino, 405 - Centro, Corumbá - MS, 79302-040, Brasil",
+        "Business Name" : "Casa do Artesão de Corumbá MS",
+        "Geo Coordinates" : {
+          "Latitude" : "-19.0000933",
+          "Longitude" : "-57.6469306"
+        }
+      },
+      "Published" : "2021-07-10T18:25:24Z",
+      "Title" : "Casa do Artesão de Corumbá MS",
+      "Updated" : "2021-07-10T18:25:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -57.6553609, -18.9976719 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17652110375996000313",
+      "Location" : {
+        "Address" : "Ladeira José Bonifácio, 158-172 - Centro, Corumbá - MS, 79300-010, Brasil",
+        "Business Name" : "Casario do Porto",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-18.9976719",
+          "Longitude" : "-57.6553609"
+        }
+      },
+      "Published" : "2021-07-10T17:46:13Z",
+      "Title" : "Casario do Porto",
+      "Updated" : "2021-07-10T17:46:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -57.6533961, -18.9968914 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10984414859079957221",
+      "Location" : {
+        "Address" : "Beira-Rio, Corumbá - MS, 79302-000, Brasil",
+        "Business Name" : "Porto geral de Corumbá",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-18.9968914",
+          "Longitude" : "-57.6533961"
+        }
+      },
+      "Published" : "2021-07-10T17:41:46Z",
+      "Title" : "Porto geral de Corumbá",
+      "Updated" : "2021-07-10T17:41:46Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -57.6522140, -19.0027752 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9941620512892959878",
+      "Location" : {
+        "Address" : "R. Frei Mariano, 534 - Centro, Corumbá - MS, 79300-004, Brasil",
+        "Business Name" : "Restaurante e Churrascaria Laço de Ouro",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-19.0027752",
+          "Longitude" : "-57.6522140"
+        }
+      },
+      "Published" : "2021-07-10T13:15:51Z",
+      "Title" : "Restaurante e Churrascaria Laço de Ouro",
+      "Updated" : "2021-07-10T13:15:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -57.6508333, -19.0005556 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10782982730277930871",
+      "Location" : {
+        "Address" : "R. Antônio Maria Coelho, 345 - Centro, Corumbá - MS, 79301-000, Brasil",
+        "Business Name" : "Santa Mônica Palace Hotel",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-19.0005556",
+          "Longitude" : "-57.6508333"
+        }
+      },
+      "Published" : "2021-07-10T13:15:36Z",
+      "Title" : "Santa Mônica Palace Hotel",
+      "Updated" : "2021-07-10T13:15:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.3841872, -20.2390646 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Miranda,+MS&ftid=0x947e8e280e75019b:0x36bd8d83d57685ce",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.2390646",
+          "Longitude" : "-56.3841872"
+        }
+      },
+      "Published" : "2021-07-09T20:06:13Z",
+      "Title" : "Miranda, MS, 79380-000",
+      "Updated" : "2021-07-09T20:06:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.3812866, -20.2334061 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11829852960368080857",
+      "Location" : {
+        "Address" : "Br 262 km 558 Portal do, R. Pantanal, Miranda - MS, 79380-000, Brasil",
+        "Business Name" : "Querência Pantaneira",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-20.2334061",
+          "Longitude" : "-56.3812866"
+        }
+      },
+      "Published" : "2021-07-09T20:05:53Z",
+      "Title" : "Querência Pantaneira",
+      "Updated" : "2021-07-09T20:05:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.3860070, -20.2394810 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6368478991256301251",
+      "Location" : {
+        "Address" : "Praça Agenor Carrilho, 246 - centro, Miranda - MS, 79380-000, Brasil",
+        "Business Name" : "Paroquia Nossa Senhora do Carmo",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-20.2394810",
+          "Longitude" : "-56.3860070"
+        }
+      },
+      "Published" : "2021-07-09T20:05:41Z",
+      "Title" : "Paroquia Nossa Senhora do Carmo",
+      "Updated" : "2021-07-09T20:05:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -57.0267231, -19.5758079 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Passo+do+Lontra,+Corumb%C3%A1+-+MS&ftid=0x9478b66ea8b99953:0x85056915834af37",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-19.5758079",
+          "Longitude" : "-57.0267231"
+        }
+      },
+      "Published" : "2021-07-09T20:05:08Z",
+      "Title" : "Passo do Lontra, Corumbá - MS",
+      "Updated" : "2021-07-09T20:05:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -57.0141785, -19.2506097 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=-19.250609755018633,-57.014178447425365",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-19.2506097",
+          "Longitude" : "-57.0141785"
+        }
+      },
+      "Published" : "2021-07-09T20:04:40Z",
+      "Title" : "-19.250609755018633,-57.014178447425365",
+      "Updated" : "2021-07-09T20:04:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.3865602, -20.2361141 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12033935862651188303",
+      "Location" : {
+        "Address" : "R. Tiradentes, 24 - Nova Miranda, Miranda - MS, 79380-000, Brasil",
+        "Business Name" : "USINA VELHA DE AÇUCAR SANTO ANTONIO",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-20.2361141",
+          "Longitude" : "-56.3865602"
+        }
+      },
+      "Published" : "2021-07-09T15:45:18Z",
+      "Title" : "USINA VELHA DE AÇUCAR SANTO ANTONIO",
+      "Updated" : "2021-07-09T15:45:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.5162460, -20.9826770 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7135998779096779550",
+      "Location" : {
+        "Address" : "Rodovia MS 178, S/n - Zona Rural, Bonito - MS, 79290-000, Brasil",
+        "Business Name" : "Estância Mimosa Ecoturismo - Cachoeiras em Bonito, MS",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-20.9826770",
+          "Longitude" : "-56.5162460"
+        }
+      },
+      "Published" : "2021-07-07T18:19:24Z",
+      "Title" : "Estância Mimosa Ecoturismo - Cachoeiras em Bonito, MS",
+      "Updated" : "2021-07-07T18:19:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.5339591, -20.9889603 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10312240097196561238",
+      "Location" : {
+        "Address" : "R. Santana do Paraíso, 2010 - Atlântico, Bonito - MS, 79290-000, Brasil",
+        "Business Name" : "Recanto Do Peão",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-20.9889603",
+          "Longitude" : "-56.5339591"
+        }
+      },
+      "Published" : "2021-07-07T18:19:16Z",
+      "Title" : "Recanto Do Peão",
+      "Updated" : "2021-07-07T18:19:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.5899851, -20.8423766 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7736457670073780742",
+      "Location" : {
+        "Address" : "Rod. Bonito Bodoquena, Bonito - MS, Brasil",
+        "Business Name" : "Fazenda Ceita Corê",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-20.8423766",
+          "Longitude" : "-56.5899851"
+        }
+      },
+      "Published" : "2021-07-07T18:18:26Z",
+      "Title" : "Fazenda Ceita Corê",
+      "Updated" : "2021-07-07T18:18:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.4824615, -21.1271085 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15114678862498982865",
+      "Location" : {
+        "Address" : "R. Vinte e Quatro de Fevereiro, 2083 - Centro, Bonito - MS, 79290-000, Brasil",
+        "Business Name" : "Aquário de Bonito",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-21.1271085",
+          "Longitude" : "-56.4824615"
+        }
+      },
+      "Published" : "2021-07-06T11:02:23Z",
+      "Title" : "Aquário de Bonito",
+      "Updated" : "2021-07-06T11:02:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.6048815, -20.4606934 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14837589037590198726",
+      "Location" : {
+        "Address" : "R. Vinte e Cinco de Dezembro, 230 - Centro, Campo Grande - MS, 79002-061, Brasil",
+        "Business Name" : "Praça Pantaneira",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-20.4606934",
+          "Longitude" : "-54.6048815"
+        }
+      },
+      "Published" : "2021-07-05T18:04:35Z",
+      "Title" : "Praça Pantaneira",
+      "Updated" : "2021-07-05T18:04:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.6086195, -20.4627094 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9300945602733055866",
+      "Location" : {
+        "Address" : "R. José Antônio, 846 - Vila Rosa Pires, Campo Grande - MS, 79002-401, Brasil",
+        "Business Name" : "Obelisco",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-20.4627094",
+          "Longitude" : "-54.6086195"
+        }
+      },
+      "Published" : "2021-07-05T18:04:24Z",
+      "Title" : "Obelisco",
+      "Updated" : "2021-07-05T18:04:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.6312315, -20.4636939 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2226090553491232061",
+      "Location" : {
+        "Address" : "No cruzamento com a Rua Dom Aquino, Praça Cuiabá, S/N - Amambai, Campo Grande - MS, 79008-281, Brasil",
+        "Business Name" : "Praça das Araras",
+        "Geo Coordinates" : {
+          "Latitude" : "-20.4636939",
+          "Longitude" : "-54.6312315"
+        }
+      },
+      "Published" : "2021-07-05T18:04:06Z",
+      "Title" : "Praça das Araras",
+      "Updated" : "2021-07-05T18:04:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.6198768, -20.4665415 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2580322639995803150",
+      "Location" : {
+        "Address" : "R. Sete de Setembro, 65 - Centro, Campo Grande - MS, 79002-130, Brasil",
+        "Business Name" : "Mercadão Municipal Campo Grande- MS",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-20.4665415",
+          "Longitude" : "-54.6198768"
+        }
+      },
+      "Published" : "2021-07-05T18:03:47Z",
+      "Title" : "Mercadão Municipal Campo Grande- MS",
+      "Updated" : "2021-07-05T18:03:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.5813573, -20.4564583 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5258811672594222843",
+      "Location" : {
+        "Address" : "Av. Afonso Pena, s/n - Centro, Campo Grande - MS, 79002-072, Brasil",
+        "Business Name" : "Parque das Nações Indígenas",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-20.4564583",
+          "Longitude" : "-54.5813573"
+        }
+      },
+      "Published" : "2021-07-05T18:03:12Z",
+      "Title" : "Parque das Nações Indígenas",
+      "Updated" : "2021-07-05T18:03:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.5729658, -20.4527804 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4495924301912017487",
+      "Location" : {
+        "Address" : "R. Antônio Maria Coelho, 6200 - Vila Planalto, Campo Grande - MS, Brasil",
+        "Business Name" : "Parque das Nações Indígenas",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-20.4527804",
+          "Longitude" : "-54.5729658"
+        }
+      },
+      "Published" : "2021-07-05T18:02:54Z",
+      "Title" : "Parque das Nações indiginas",
+      "Updated" : "2021-07-05T18:02:54Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.5735167, -20.4546346 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10444399021812870518",
+      "Location" : {
+        "Address" : "Jardim Veraneio, Campo Grande - MS, Brasil",
+        "Business Name" : "Monumento ao Índio",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-20.4546346",
+          "Longitude" : "-54.5735167"
+        }
+      },
+      "Published" : "2021-07-05T18:02:44Z",
+      "Title" : "Monumento ao Índio",
+      "Updated" : "2021-07-05T18:02:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.5550525, -20.4519478 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Parque+dos+Poderes+-+Jardim+Veraneio,+Campo+Grande+-+MS&ftid=0x9486e93d2b2af48f:0xfa8896d305c1b498",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.4519478",
+          "Longitude" : "-54.5550525"
+        }
+      },
+      "Published" : "2021-07-05T18:02:31Z",
+      "Title" : "Parque dos Poderes - Jardim Veraneio, Campo Grande - MS",
+      "Updated" : "2021-07-05T18:02:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.5589254, -20.3976114 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12339640266233700720",
+      "Location" : {
+        "Address" : "Av. Cônsul Assaf Trad, 4796 - Parque dos Novos Estados, Campo Grande - MS, 79035-900, Brasil",
+        "Business Name" : "Shopping Bosque dos Ipês",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-20.3976114",
+          "Longitude" : "-54.5589254"
+        }
+      },
+      "Published" : "2021-07-05T18:02:16Z",
+      "Title" : "Shopping Bosque dos Ipês",
+      "Updated" : "2021-07-05T18:02:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.5089990, -20.3123700 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Estaca,+Campo+Grande+-+MS&ftid=0x9486c14365ac38f1:0x1298dda7b385e75f",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.3123700",
+          "Longitude" : "-54.5089990"
+        }
+      },
+      "Published" : "2021-07-05T18:02:03Z",
+      "Title" : "Estaca, Campo Grande - MS",
+      "Updated" : "2021-07-05T18:02:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.3684234, -19.9179798 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Bandeirantes,+MS,+79430-000&ftid=0x9481495a181a107b:0x126a45b5c150ce6f",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-19.9179798",
+          "Longitude" : "-54.3684234"
+        }
+      },
+      "Published" : "2021-07-05T18:01:52Z",
+      "Title" : "Bandeirantes, MS, 79430-000",
+      "Updated" : "2021-07-05T18:01:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.0435737, -19.5320637 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Camapu%C3%A3,+MS,+79420-000&ftid=0x9483df213b1739e3:0xbb43a57616923c5d",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-19.5320637",
+          "Longitude" : "-54.0435737"
+        }
+      },
+      "Published" : "2021-07-05T18:01:34Z",
+      "Title" : "Camapuã, MS, 79420-000",
+      "Updated" : "2021-07-05T18:01:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -53.0105402, -19.0250111 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Para%C3%ADso+das+%C3%81guas,+MS,+79550-000&ftid=0x9482dfb1e8c677ad:0xb79c99ac8c04e421",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-19.0250111",
+          "Longitude" : "-53.0105402"
+        }
+      },
+      "Published" : "2021-07-05T18:01:22Z",
+      "Title" : "Paraíso das Águas, MS, 79550-000",
+      "Updated" : "2021-07-05T18:01:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -52.6196308, -18.7959941 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Chapad%C3%A3o+do+Sul,+MS,+79560-000&ftid=0x949d321a14dc3261:0x5b7f6a05851c4c10",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-18.7959941",
+          "Longitude" : "-52.6196308"
+        }
+      },
+      "Published" : "2021-07-05T18:01:12Z",
+      "Title" : "Chapadão do Sul, MS, 79560-000",
+      "Updated" : "2021-07-05T18:01:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -52.6664492, -18.3930561 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Chapad%C3%A3o+do+C%C3%A9u,+GO,+75828-000&ftid=0x949d50946deda9bd:0x785a6f10ae3aed8d",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-18.3930561",
+          "Longitude" : "-52.6664492"
+        }
+      },
+      "Published" : "2021-07-05T18:00:53Z",
+      "Title" : "Chapadão do Céu, GO, 75828-000",
+      "Updated" : "2021-07-05T18:00:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -51.9578764, -18.3062878 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Serran%C3%B3polis,+GO,+75820-000&ftid=0x949d833fe6ea2d41:0x98e11cb6c1b5b2f3",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-18.3062878",
+          "Longitude" : "-51.9578764"
+        }
+      },
+      "Published" : "2021-07-05T18:00:39Z",
+      "Title" : "Serranópolis, GO, 75820-000",
+      "Updated" : "2021-07-05T18:00:39Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -51.7263895, -17.8881027 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Jata%C3%AD,+GO&ftid=0x93626c8faf7faafd:0x50abe71674598b4b",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-17.8881027",
+          "Longitude" : "-51.7263895"
+        }
+      },
+      "Published" : "2021-07-05T18:00:27Z",
+      "Title" : "Jataí, GO",
+      "Updated" : "2021-07-05T18:00:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.9650745, -20.9411927 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Sidrol%C3%A2ndia,+MS,+79170-000&ftid=0x9487a5804071daf3:0x3d77a3bc78c1ce45",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.9411927",
+          "Longitude" : "-54.9650745"
+        }
+      },
+      "Published" : "2021-07-05T17:59:23Z",
+      "Title" : "Sidrolândia, MS, 79170-000",
+      "Updated" : "2021-07-05T17:59:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -55.8303331, -21.1589428 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Nioaque,+MS,+79220-000&ftid=0x947d72d94cb2f0a9:0xc7f771b396355ad9",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-21.1589428",
+          "Longitude" : "-55.8303331"
+        }
+      },
+      "Published" : "2021-07-05T17:59:00Z",
+      "Title" : "Nioaque, MS, 79220-000",
+      "Updated" : "2021-07-05T17:59:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -50.7049284, -17.5896685 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Santa+Cruz+das+Lajes,+Santo+Ant%C3%B4nio+da+Barra+-+GO,+75935-000&ftid=0x9361cae671423387:0x25247bed8e06be14",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-17.5896685",
+          "Longitude" : "-50.7049284"
+        }
+      },
+      "Published" : "2021-07-03T12:44:01Z",
+      "Title" : "Santa Cruz das Lajes, Santo Antônio da Barra - GO, 75935-000",
+      "Updated" : "2021-07-03T12:44:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -50.6346009, -17.5584978 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Santo+Ant%C3%B4nio+da+Barra,+GO,+75935-000&ftid=0x9360359ef9658867:0x75c0d29faeebca3d",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-17.5584978",
+          "Longitude" : "-50.6346009"
+        }
+      },
+      "Published" : "2021-07-03T12:43:47Z",
+      "Title" : "Santo Antônio da Barra, GO, 75935-000",
+      "Updated" : "2021-07-03T12:43:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -50.3753614, -17.3964433 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Acre%C3%BAna,+GO,+75960-000&ftid=0x936042245d3ef5a3:0x6213e8b4f3f8fefb",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-17.3964433",
+          "Longitude" : "-50.3753614"
+        }
+      },
+      "Published" : "2021-07-03T12:43:39Z",
+      "Title" : "Acreúna, GO, 75960-000",
+      "Updated" : "2021-07-03T12:43:39Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -50.0751106, -17.1739729 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Carl%C3%A2ndia,+Indiara+-+GO,+75955-000&ftid=0x93607ecc8060eb6b:0xc99d1e446cfb79d8",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-17.1739729",
+          "Longitude" : "-50.0751106"
+        }
+      },
+      "Published" : "2021-07-03T12:43:27Z",
+      "Title" : "Carlândia, Indiara - GO, 75955-000",
+      "Updated" : "2021-07-03T12:43:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -49.9895007, -17.1409688 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Indiara,+GO,+75955-000&ftid=0x935fd5c8ed219251:0x7c0605bd066d4e60",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-17.1409688",
+          "Longitude" : "-49.9895007"
+        }
+      },
+      "Published" : "2021-07-03T12:42:57Z",
+      "Title" : "Indiara, GO, 75955-000",
+      "Updated" : "2021-07-03T12:42:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -49.7738151, -16.9730503 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Cezarina,+GO,+76195-000&ftid=0x935e338b0edcdb55:0x6d38bf1d841db90f",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-16.9730503",
+          "Longitude" : "-49.7738151"
+        }
+      },
+      "Published" : "2021-07-03T12:42:44Z",
+      "Title" : "Cezarina, GO, 76195-000",
+      "Updated" : "2021-07-03T12:42:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -49.6669139, -16.9082765 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Possel%C3%A2ndia,+Guap%C3%B3+-+GO,+75350-000&ftid=0x935e49944aa3d4eb:0x78d9a7eecd67587b",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-16.9082765",
+          "Longitude" : "-49.6669139"
+        }
+      },
+      "Published" : "2021-07-03T12:42:34Z",
+      "Title" : "Posselândia, Guapó - GO, 75350-000",
+      "Updated" : "2021-07-03T12:42:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -49.5346804, -16.8321021 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Guap%C3%B3,+GO,+75350-000&ftid=0x935e4fe8f3fd23f5:0x38ff8dbf4478cc52",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-16.8321021",
+          "Longitude" : "-49.5346804"
+        }
+      },
+      "Published" : "2021-07-03T12:42:25Z",
+      "Title" : "Guapó, GO, 75350-000",
+      "Updated" : "2021-07-03T12:42:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -49.4352476, -16.7639960 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Abadia+de+Goi%C3%A1s,+GO,+75345-000&ftid=0x935e599a5a9fa6bb:0xc79231dc803d5b28",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-16.7639960",
+          "Longitude" : "-49.4352476"
+        }
+      },
+      "Published" : "2021-07-03T12:42:16Z",
+      "Title" : "Abadia de Goiás, GO, 75345-000",
+      "Updated" : "2021-07-03T12:42:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -50.9204571, -17.7896277 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Rio+Verde,+GO&ftid=0x9361db7d2c321dc1:0xe7ac78da77d5dc69",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-17.7896277",
+          "Longitude" : "-50.9204571"
+        }
+      },
+      "Published" : "2021-07-03T12:41:54Z",
+      "Title" : "Rio Verde, GO",
+      "Updated" : "2021-07-03T12:41:54Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -48.2822058, -17.2996759 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Pires+do+Rio,+GO,+75200-000&ftid=0x94a762f828407b91:0x945dc398dde721b7",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-17.2996759",
+          "Longitude" : "-48.2822058"
+        }
+      },
+      "Published" : "2021-06-20T15:51:27Z",
+      "Title" : "Pires do Rio, GO, 75200-000",
+      "Updated" : "2021-06-20T15:51:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -48.7059078, -17.1992811 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Cristian%C3%B3polis,+GO,+75230-000&ftid=0x9358b2dc9c507ac9:0x83ffc8a0c3cc5433",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-17.1992811",
+          "Longitude" : "-48.7059078"
+        }
+      },
+      "Published" : "2021-06-16T17:28:00Z",
+      "Title" : "Cristianópolis, GO, 75230-000",
+      "Updated" : "2021-06-16T17:28:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -48.5165750, -16.7436871 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Vian%C3%B3polis,+GO,+75260-000&ftid=0x9358d88a4a8f2f59:0x775c0cb372177aab",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-16.7436871",
+          "Longitude" : "-48.5165750"
+        }
+      },
+      "Published" : "2021-06-16T17:27:26Z",
+      "Title" : "Vianópolis, GO, 75260-000",
+      "Updated" : "2021-06-16T17:27:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -48.6659414, -17.0531571 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=S%C3%A3o+Miguel+do+Passa+Quatro,+GO,+75185-000&ftid=0x9358ca7249280eef:0x69afd3a5c3b55977",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-17.0531571",
+          "Longitude" : "-48.6659414"
+        }
+      },
+      "Published" : "2021-06-16T17:27:07Z",
+      "Title" : "São Miguel do Passa Quatro, GO, 75185-000",
+      "Updated" : "2021-06-16T17:27:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -47.5221432, -14.7071745 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=S%C3%A3o+Jo%C3%A3o+D'Alian%C3%A7a,+S%C3%A3o+Jo%C3%A3o+d'Alian%C3%A7a+-+GO,+73760-000&ftid=0x935aab5dc28c340b:0x2b1a0163566b3893",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-14.7071745",
+          "Longitude" : "-47.5221432"
+        }
+      },
+      "Published" : "2021-06-07T01:06:35Z",
+      "Title" : "São João D'Aliança, São João d'Aliança - GO, 73760-000",
+      "Updated" : "2021-06-07T01:06:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -48.0347056, -15.5316117 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5128638750411231888",
+      "Location" : {
+        "Address" : "DF-170 - Brazlândia, Brasília - DF, Brasil",
+        "Business Name" : "OITO E MEIO GIGANTE",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-15.5316117",
+          "Longitude" : "-48.0347056"
+        }
+      },
+      "Published" : "2021-06-07T01:05:53Z",
+      "Title" : "OITO E MEIO GIGANTE",
+      "Updated" : "2021-06-07T01:05:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -48.0173263, -15.5820293 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15836718013741915309",
+      "Location" : {
+        "Address" : "EPCT - Sobradinho - Sobradinho, Brasília - DF, Brasil",
+        "Business Name" : "TREVO FINAL DO ASFALTO LAGO OESTE",
+        "Geo Coordinates" : {
+          "Latitude" : "-15.5820293",
+          "Longitude" : "-48.0173263"
+        }
+      },
+      "Published" : "2021-06-07T01:04:04Z",
+      "Title" : "TREVO FINAL DO ASFALTO LAGO OESTE",
+      "Updated" : "2021-06-07T01:04:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -48.2654244, -15.2570865 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Trajan%C3%B3polis,+Padre+Bernardo+-+GO,+73700-000&ftid=0x935b10fa18c5975b:0x18bcef622dc8a8df",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-15.2570865",
+          "Longitude" : "-48.2654244"
+        }
+      },
+      "Published" : "2021-06-07T01:02:49Z",
+      "Title" : "Trajanópolis, Padre Bernardo - GO, 73700-000",
+      "Updated" : "2021-06-07T01:02:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -47.5762810, -15.2332309 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=S%C3%A3o+Gabriel+de+Goi%C3%A1s,+Planaltina+-+GO&ftid=0x935a86656696012f:0x509a69ef252c01a8",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-15.2332309",
+          "Longitude" : "-47.5762810"
+        }
+      },
+      "Published" : "2021-06-07T01:01:38Z",
+      "Title" : "São Gabriel de Goiás, Planaltina - GO",
+      "Updated" : "2021-06-07T01:01:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -48.1620574, -15.0588143 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Mimoso+de+Goi%C3%A1s,+GO,+73730-000&ftid=0x935b240239c0ca0f:0x34e57493edc29e4b",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-15.0588143",
+          "Longitude" : "-48.1620574"
+        }
+      },
+      "Published" : "2021-06-07T01:01:25Z",
+      "Title" : "Mimoso de Goiás, GO, 73730-000",
+      "Updated" : "2021-06-07T01:01:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -47.7822993, -14.9829676 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=%C3%81gua+Fria+de+Goi%C3%A1s,+GO,+73780-000&ftid=0x935ac0b63b77b825:0xac521d623cce012c",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-14.9829676",
+          "Longitude" : "-47.7822993"
+        }
+      },
+      "Published" : "2021-06-07T01:01:10Z",
+      "Title" : "Água Fria de Goiás, GO, 73780-000",
+      "Updated" : "2021-06-07T01:01:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.3497837, -23.4857791 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=-23.485779,-46.349784",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-23.4857791",
+          "Longitude" : "-46.3497837"
+        }
+      },
+      "Published" : "2018-01-16T10:35:47Z",
+      "Title" : "-23.485779,-46.349784",
+      "Updated" : "2021-05-28T22:28:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -43.6147187, -13.4094495 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=-13.409450,-43.614719",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-13.4094495",
+          "Longitude" : "-43.6147187"
+        }
+      },
+      "Published" : "2017-01-04T00:50:59Z",
+      "Title" : "-13.409450,-43.614719",
+      "Updated" : "2021-05-21T15:14:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.9025860, -16.3596675 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Una%C3%AD,+MG,+38610-000&ftid=0x9357a9f5b992fe35:0x116e3a2adcc66fdf",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-16.3596675",
+          "Longitude" : "-46.9025860"
+        }
+      },
+      "Published" : "2021-02-01T15:03:53Z",
+      "Title" : "Unaí, MG, 38610-000",
+      "Updated" : "2021-02-01T15:03:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.8723064, -17.2174562 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Paracatu,+MG,+38600-000&ftid=0x94a84a65adae8fcd:0x82271983683e0f18",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-17.2174562",
+          "Longitude" : "-46.8723064"
+        }
+      },
+      "Published" : "2021-02-01T15:03:41Z",
+      "Title" : "Paracatu, MG, 38600-000",
+      "Updated" : "2021-02-01T15:03:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
       "coordinates" : [ -50.6091239, -15.8209352 ],
       "type" : "Point"
     },
@@ -98,8 +3372,9 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=11506590684221758069",
       "Location" : {
-        "Address" : "Barra do Garças - MT, 78600-000, Brasil",
+        "Address" : "Barra do Garças, MT, 78600-000, Brasil",
         "Business Name" : "Disco Porto - Parque Estadual da Serra Azul",
+        "Country Code" : "BR",
         "Geo Coordinates" : {
           "Latitude" : "-15.8541409",
           "Longitude" : "-52.2695769"
@@ -355,7 +3630,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=10004789084198868420",
       "Location" : {
-        "Address" : "BR-155, 2000, Eldorado dos Carajás - PA, 68524-000, Brasil",
+        "Address" : "BR-155, 2000, Eldorado do Carajás - PA, 68524-000, Brasil",
         "Business Name" : "Monumento das Castanheiras Mortas",
         "Country Code" : "BR",
         "Geo Coordinates" : {
@@ -796,18 +4071,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -48.5006521, -1.4493929 ],
+      "coordinates" : [ -48.5001115, -1.4490679 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=14099364393525717684",
       "Location" : {
-        "Address" : "Av. Mal. Hermes, S/N - Campina, Belém - PA, 66010-080, Brasil",
+        "Address" : "Av. Mal. Hermes, S/N - Campina, Belém - PA, 66010-020, Brasil",
         "Business Name" : "Estação das Docas",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-1.4493929",
-          "Longitude" : "-48.5006521"
+          "Latitude" : "-1.4490679",
+          "Longitude" : "-48.5001115"
         }
       },
       "Published" : "2021-01-11T17:04:33Z",
@@ -817,7 +4092,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -48.4695211, -1.4488838 ],
+      "coordinates" : [ -48.4693837, -1.4489095 ],
       "type" : "Point"
     },
     "properties" : {
@@ -827,8 +4102,8 @@ placesData = {
         "Business Name" : "Hotel Ibis Budget",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-1.4488838",
-          "Longitude" : "-48.4695211"
+          "Latitude" : "-1.4489095",
+          "Longitude" : "-48.4693837"
         }
       },
       "Published" : "2021-01-11T01:41:26Z",
@@ -838,7 +4113,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -48.4811212, -1.4526059 ],
+      "coordinates" : [ -48.4813282, -1.4523193 ],
       "type" : "Point"
     },
     "properties" : {
@@ -848,8 +4123,8 @@ placesData = {
         "Business Name" : "Basílica Santuário de Nossa Senhora de Nazaré",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-1.4526059",
-          "Longitude" : "-48.4811212"
+          "Latitude" : "-1.4523193",
+          "Longitude" : "-48.4813282"
         }
       },
       "Published" : "2021-01-11T01:40:18Z",
@@ -969,7 +4244,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=10390757811456563522",
       "Location" : {
-        "Address" : "Tv. da Estrella, 2249 - Marco, Belém - PA, 66080-471, Brasil",
+        "Address" : "Tv. Mariz e Barros, 2249 - Marco, Belém - PA, 66080-471, Brasil",
         "Business Name" : "O Dedão",
         "Country Code" : "BR",
         "Geo Coordinates" : {
@@ -1023,18 +4298,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -48.5057531, -1.4550609 ],
+      "coordinates" : [ -48.5056688, -1.4549706 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=15934055458295977153",
       "Location" : {
-        "Address" : "R. Siqueira Mendes, s/n - Cidade Velha, Belém - PA, 66020-310, Brasil",
-        "Business Name" : "Casa das Onze Janelas",
+        "Address" : "R. Siqueira Mendes, S/N - Cidade Velha, Belém - PA, 66020-310, Brasil",
+        "Business Name" : "Casa do Saulo das Onze Janelas",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-1.4550609",
-          "Longitude" : "-48.5057531"
+          "Latitude" : "-1.4549706",
+          "Longitude" : "-48.5056688"
         }
       },
       "Published" : "2021-01-10T15:29:30Z",
@@ -1044,18 +4319,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -48.5045378, -1.4551045 ],
+      "coordinates" : [ -48.5050416, -1.4563354 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=5882870960961746787",
       "Location" : {
-        "Address" : "Praça Frei Brandão, s/n - Cidade Velha, Belém - PA, 66020-240, Brasil",
+        "Address" : "Praça Frei Brandão, s/n - Cidade Velha, Belém - PA, 66020-010, Brasil",
         "Business Name" : "Igreja Santo Alexandre - Museu de Arte Sacra",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-1.4551045",
-          "Longitude" : "-48.5045378"
+          "Latitude" : "-1.4563354",
+          "Longitude" : "-48.5050416"
         }
       },
       "Published" : "2021-01-10T15:29:16Z",
@@ -1086,7 +4361,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -48.5026860, -1.4526566 ],
+      "coordinates" : [ -48.5014953, -1.4545766 ],
       "type" : "Point"
     },
     "properties" : {
@@ -1096,8 +4371,8 @@ placesData = {
         "Business Name" : "Mercado Francisco Bolonha",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-1.4526566",
-          "Longitude" : "-48.5026860"
+          "Latitude" : "-1.4545766",
+          "Longitude" : "-48.5014953"
         }
       },
       "Published" : "2021-01-10T15:28:30Z",
@@ -1107,18 +4382,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -48.5047566, -1.4561244 ],
+      "coordinates" : [ -48.5046644, -1.4557860 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=8754246557278324203",
       "Location" : {
         "Address" : "Praça Dom Frei Caetano Brandão - Cidade Velha, Belém - PA, 66020-310, Brasil",
-        "Business Name" : "Catedral Metropolitana de Belém",
+        "Business Name" : "Catedral Metropolitana De Belém Nossa Senhora Da Graça",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-1.4561244",
-          "Longitude" : "-48.5047566"
+          "Latitude" : "-1.4557860",
+          "Longitude" : "-48.5046644"
         }
       },
       "Published" : "2021-01-10T12:43:28Z",
@@ -1380,7 +4655,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -48.4988905, -1.4519127 ],
+      "coordinates" : [ -48.4988298, -1.4518635 ],
       "type" : "Point"
     },
     "properties" : {
@@ -1390,8 +4665,8 @@ placesData = {
         "Business Name" : "Rede Andrade Docas",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-1.4519127",
-          "Longitude" : "-48.4988905"
+          "Latitude" : "-1.4518635",
+          "Longitude" : "-48.4988298"
         }
       },
       "Published" : "2021-01-09T11:26:30Z",
@@ -1422,7 +4697,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -48.5052203, -1.4543389 ],
+      "coordinates" : [ -48.5052375, -1.4543647 ],
       "type" : "Point"
     },
     "properties" : {
@@ -1432,8 +4707,8 @@ placesData = {
         "Business Name" : "Forte do Presépio",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-1.4543389",
-          "Longitude" : "-48.5052203"
+          "Latitude" : "-1.4543647",
+          "Longitude" : "-48.5052375"
         }
       },
       "Published" : "2021-01-09T10:37:44Z",
@@ -1629,7 +4904,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -47.3710433, -0.6080165 ],
+      "coordinates" : [ -47.3712768, -0.6082500 ],
       "type" : "Point"
     },
     "properties" : {
@@ -1639,8 +4914,8 @@ placesData = {
         "Business Name" : "Pousada SanDiego",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-0.6080165",
-          "Longitude" : "-47.3710433"
+          "Latitude" : "-0.6082500",
+          "Longitude" : "-47.3712768"
         }
       },
       "Published" : "2021-01-09T10:23:00Z",
@@ -2046,7 +5321,7 @@ placesData = {
       "Google Maps URL" : "http://maps.google.com/?cid=1290330465928026334",
       "Location" : {
         "Address" : "Av. Pres. Epitácio Pessoa, 1089 - Estados, João Pessoa - PB, 58030-906, Brasil",
-        "Business Name" : "Movida Aluguel de Carros",
+        "Business Name" : "Movida aluguel de Carros",
         "Country Code" : "BR",
         "Geo Coordinates" : {
           "Latitude" : "-7.1195816",
@@ -2261,27 +5536,6 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -43.0400240, -2.5321975 ],
-      "type" : "Point"
-    },
-    "properties" : {
-      "Google Maps URL" : "http://maps.google.com/?cid=1872611723943692583",
-      "Location" : {
-        "Address" : "Brasil",
-        "Business Name" : "Lençóis Maranhense",
-        "Country Code" : "BR",
-        "Geo Coordinates" : {
-          "Latitude" : "-2.5321975",
-          "Longitude" : "-43.0400240"
-        }
-      },
-      "Published" : "2021-01-07T01:29:50Z",
-      "Title" : "Lençóis Maranhense",
-      "Updated" : "2021-01-07T01:29:50Z"
-    },
-    "type" : "Feature"
-  }, {
-    "geometry" : {
       "coordinates" : [ -42.8262423, -2.7453006 ],
       "type" : "Point"
     },
@@ -2486,7 +5740,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -42.4706648, -2.7679321 ],
+      "coordinates" : [ -42.4695777, -2.7676000 ],
       "type" : "Point"
     },
     "properties" : {
@@ -2495,8 +5749,8 @@ placesData = {
         "Address" : "Paulino Neves - MA, 65585-000, Brasil",
         "Business Name" : "Povoado de Vista Alegre",
         "Geo Coordinates" : {
-          "Latitude" : "-2.7679321",
-          "Longitude" : "-42.4706648"
+          "Latitude" : "-2.7676000",
+          "Longitude" : "-42.4695777"
         }
       },
       "Published" : "2021-01-06T01:30:31Z",
@@ -2620,7 +5874,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=4438921014883908898",
       "Location" : {
-        "Address" : "Luís Correia - PI, 64220-000, Brasil",
+        "Address" : "Luiz Correia, Luís Correia - PI, 64220-000, Brasil",
         "Business Name" : "Praia do Arrombado",
         "Country Code" : "BR",
         "Geo Coordinates" : {
@@ -2635,7 +5889,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -41.4986220, -2.9066090 ],
+      "coordinates" : [ -41.4989975, -2.9061804 ],
       "type" : "Point"
     },
     "properties" : {
@@ -2645,8 +5899,8 @@ placesData = {
         "Business Name" : "Carnaubinha Praia Resort",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-2.9066090",
-          "Longitude" : "-41.4986220"
+          "Latitude" : "-2.9061804",
+          "Longitude" : "-41.4989975"
         }
       },
       "Published" : "2021-01-06T01:25:52Z",
@@ -2759,7 +6013,7 @@ placesData = {
       "Google Maps URL" : "http://maps.google.com/?cid=16250347207565131305",
       "Location" : {
         "Address" : "Vila de Jericoacoara, Jijoca de Jericoacoara - CE, 62598-000, Brasil",
-        "Business Name" : "Pedra Furada",
+        "Business Name" : "Pedra Furada /Jericoacoara",
         "Country Code" : "BR",
         "Geo Coordinates" : {
           "Latitude" : "-2.7846179",
@@ -2917,18 +6171,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -40.5172522, -2.7944752 ],
+      "coordinates" : [ -40.5172518, -2.7944786 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=16187771052068899769",
       "Location" : {
-        "Address" : "ao lado das Americanas, R. do Forró, Jijoca de Jericoacoara - CE, 62598-000, Brasil",
+        "Address" : "R. do Forró, 47, Jijoca de Jericoacoara - CE, 62598-000, Brasil",
         "Business Name" : "Do Bem - Vegetarian and Vegan Lunch",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-2.7944752",
-          "Longitude" : "-40.5172522"
+          "Latitude" : "-2.7944786",
+          "Longitude" : "-40.5172518"
         }
       },
       "Published" : "2021-01-03T23:53:35Z",
@@ -3258,7 +6512,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=3219433318337463870",
       "Location" : {
-        "Address" : "TO-280, Natividade - TO, 77370-000, Brasil",
+        "Address" : "TO-280 - Natividade, TO, 77370-000, Brasil",
         "Business Name" : "Posto Goiano",
         "Country Code" : "BR",
         "Geo Coordinates" : {
@@ -3414,18 +6668,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -46.4795000, -10.3366000 ],
+      "coordinates" : [ -46.4802424, -10.3367663 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=9250655288200535630",
       "Location" : {
         "Address" : "TO 110 Rio Formiga - Zona Rural Zona Rural, Mateiros - TO, 77593-000, Brasil",
-        "Business Name" : "Cachoeira Buriti",
+        "Business Name" : "Cachoeira Buritis",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-10.3366000",
-          "Longitude" : "-46.4795000"
+          "Latitude" : "-10.3367663",
+          "Longitude" : "-46.4802424"
         }
       },
       "Published" : "2020-02-25T07:32:43Z",
@@ -3456,18 +6710,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -46.5557268, -10.3135251 ],
+      "coordinates" : [ -46.5558442, -10.3136195 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=15979253750478139952",
       "Location" : {
-        "Address" : "Mateiros - TO, 77593-000, Brasil",
-        "Business Name" : "Fervedouro das Macaúbas",
+        "Address" : "Fazenda Santa Luzia Zona Rural, Mateiros - TO, 77593-000, Brasil",
+        "Business Name" : "Acesso ao Fervedouro das Macaúbas",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-10.3135251",
-          "Longitude" : "-46.5557268"
+          "Latitude" : "-10.3136195",
+          "Longitude" : "-46.5558442"
         }
       },
       "Published" : "2020-02-25T07:23:17Z",
@@ -3702,7 +6956,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=15151867359456114289",
       "Location" : {
-        "Address" : "Vila São Pedro, Barra de Santo Antônio, 57925-000, Brasil",
+        "Address" : "Vila São Pedro, Barra de Santo Antônio - AL, 57925-000, Brasil",
         "Business Name" : "Praia do Carro Quebrado",
         "Geo Coordinates" : {
           "Latitude" : "-9.3595581",
@@ -3851,7 +7105,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=11978581194224977894",
       "Location" : {
-        "Address" : "Plaza de Armas, Santiago, Región Metropolitana, Chile",
+        "Address" : "Pl. de Armas, Santiago, Región Metropolitana, Chile",
         "Business Name" : "Catedral Metropolitana de Santiago",
         "Country Code" : "CL",
         "Geo Coordinates" : {
@@ -3954,6 +7208,7 @@ placesData = {
       "Location" : {
         "Address" : "Camino a Salar de Tara, San Pedro de Atacama, Antofagasta, Chile",
         "Business Name" : "Monjes de La Pacana",
+        "Country Code" : "CL",
         "Geo Coordinates" : {
           "Latitude" : "-23.0604837",
           "Longitude" : "-67.4790359"
@@ -4157,26 +7412,6 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -68.2131951, -23.0630145 ],
-      "type" : "Point"
-    },
-    "properties" : {
-      "Google Maps URL" : "http://maps.google.com/?cid=3858690945304942883",
-      "Location" : {
-        "Address" : "San Pedro de Atacama, Antofagasta, Chile",
-        "Business Name" : "Laguna Cejar",
-        "Geo Coordinates" : {
-          "Latitude" : "-23.0630145",
-          "Longitude" : "-68.2131951"
-        }
-      },
-      "Published" : "2020-01-06T23:45:20Z",
-      "Title" : "Laguna Cejar",
-      "Updated" : "2020-01-06T23:45:20Z"
-    },
-    "type" : "Feature"
-  }, {
-    "geometry" : {
       "coordinates" : [ -67.5346559, -23.2096735 ],
       "type" : "Point"
     },
@@ -4243,7 +7478,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=11723323791145278123",
       "Location" : {
-        "Address" : "Almirante Barroso 334, Santiago, Región Metropolitana, Chile",
+        "Address" : "Almte. Barroso 334, Santiago, Región Metropolitana, Chile",
         "Business Name" : "HH Motel",
         "Country Code" : "CL",
         "Geo Coordinates" : {
@@ -4299,7 +7534,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -70.6137668, -33.5193568 ],
+      "coordinates" : [ -70.6130243, -33.5192126 ],
       "type" : "Point"
     },
     "properties" : {
@@ -4309,8 +7544,8 @@ placesData = {
         "Business Name" : "Mirador Interactive Museum",
         "Country Code" : "CL",
         "Geo Coordinates" : {
-          "Latitude" : "-33.5193568",
-          "Longitude" : "-70.6137668"
+          "Latitude" : "-33.5192126",
+          "Longitude" : "-70.6130243"
         }
       },
       "Published" : "2020-01-03T17:35:06Z",
@@ -4341,7 +7576,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -70.6373020, -33.4372290 ],
+      "coordinates" : [ -70.6372746, -33.4372767 ],
       "type" : "Point"
     },
     "properties" : {
@@ -4351,8 +7586,8 @@ placesData = {
         "Business Name" : "Hostel Forestal",
         "Country Code" : "CL",
         "Geo Coordinates" : {
-          "Latitude" : "-33.4372290",
-          "Longitude" : "-70.6373020"
+          "Latitude" : "-33.4372767",
+          "Longitude" : "-70.6372746"
         }
       },
       "Published" : "2020-01-02T21:57:48Z",
@@ -4362,7 +7597,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -71.5475939, -32.9923227 ],
+      "coordinates" : [ -71.5480552, -32.9932101 ],
       "type" : "Point"
     },
     "properties" : {
@@ -4372,8 +7607,8 @@ placesData = {
         "Business Name" : "Parque de Barras Calistenia Viña del Mar",
         "Country Code" : "CL",
         "Geo Coordinates" : {
-          "Latitude" : "-32.9923227",
-          "Longitude" : "-71.5475939"
+          "Latitude" : "-32.9932101",
+          "Longitude" : "-71.5480552"
         }
       },
       "Published" : "2019-12-31T20:09:19Z",
@@ -4466,7 +7701,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=15982273619383121733",
       "Location" : {
-        "Address" : "4 Norte 784, Viña del Mar, Valparaíso, Chile",
+        "Address" : "4 Nte. 784, Viña del Mar, Valparaíso, Chile",
         "Business Name" : "Museu Fonck",
         "Country Code" : "CL",
         "Geo Coordinates" : {
@@ -4508,7 +7743,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=2787064355631520720",
       "Location" : {
-        "Address" : "Calle Valparaíso 1055, Viña del Mar, Valparaíso, Chile",
+        "Address" : "C. Valparaíso 1055, Viña del Mar, Valparaíso, Chile",
         "Business Name" : "Rodoviario de Viña del Mar",
         "Geo Coordinates" : {
           "Latitude" : "-33.0255871",
@@ -4603,7 +7838,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -71.5504213, -33.0070460 ],
+      "coordinates" : [ -71.5517117, -33.0069973 ],
       "type" : "Point"
     },
     "properties" : {
@@ -4612,8 +7847,8 @@ placesData = {
         "Address" : "Jorge Montt 1542, Valparaíso, Viña del Mar, Valparaíso, Chile",
         "Business Name" : "Playa Blanca",
         "Geo Coordinates" : {
-          "Latitude" : "-33.0070460",
-          "Longitude" : "-71.5504213"
+          "Latitude" : "-33.0069973",
+          "Longitude" : "-71.5517117"
         }
       },
       "Published" : "2019-12-31T00:36:55Z",
@@ -4629,7 +7864,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=16210752894538304045",
       "Location" : {
-        "Address" : "Viña del Mar, Valparaíso, Chile",
+        "Address" : "San Martín 199, Viña del Mar, Valparaíso, Chile",
         "Business Name" : "Casino de Viña del Mar",
         "Country Code" : "CL",
         "Geo Coordinates" : {
@@ -4920,7 +8155,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=11017923171809839235",
       "Location" : {
-        "Address" : "Paseo Yugoslavo 123-171, Valparaíso, Chile",
+        "Address" : "P.º Yugoslavo 123-171, Valparaíso, Chile",
         "Business Name" : "Mirador Paseo Yugoslavo",
         "Country Code" : "CL",
         "Geo Coordinates" : {
@@ -4941,7 +8176,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=5764546239169349169",
       "Location" : {
-        "Address" : "Plaza de La Justicia 73, Valparaíso, Chile",
+        "Address" : "Pl. de La Justicia 73, Valparaíso, Chile",
         "Business Name" : "Ascensor El Peral",
         "Country Code" : "CL",
         "Geo Coordinates" : {
@@ -4974,7 +8209,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -71.6261696, -33.0423570 ],
+      "coordinates" : [ -71.6267700, -33.0414314 ],
       "type" : "Point"
     },
     "properties" : {
@@ -4983,8 +8218,8 @@ placesData = {
         "Address" : "Cerro Concepción, Abtao 675, Valparaíso, Chile",
         "Business Name" : "Cerro Concepcion, Valparaiso",
         "Geo Coordinates" : {
-          "Latitude" : "-33.0423570",
-          "Longitude" : "-71.6261696"
+          "Latitude" : "-33.0414314",
+          "Longitude" : "-71.6267700"
         }
       },
       "Published" : "2019-12-30T15:17:40Z",
@@ -5018,7 +8253,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=16297311357338423746",
       "Location" : {
-        "Address" : "Paseo Dimalow, Valparaíso, Cerro Alegre, Valparaíso, Chile",
+        "Address" : "P.º Dimalow, Valparaíso, Cerro Alegre, Valparaíso, Chile",
         "Business Name" : "Ascensor Reina Victoria",
         "Country Code" : "CL",
         "Geo Coordinates" : {
@@ -5905,7 +9140,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=12734891014932123202",
       "Location" : {
-        "Address" : "Santarém - PA, Brasil",
+        "Address" : "Alter do Chão, Santarém - PA, Brasil",
         "Business Name" : "Ilha do Amor",
         "Geo Coordinates" : {
           "Latitude" : "-2.5004838",
@@ -5982,7 +9217,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 26.0781160, 44.4671777 ],
+      "coordinates" : [ 26.0781074, 44.4671870 ],
       "type" : "Point"
     },
     "properties" : {
@@ -5992,8 +9227,8 @@ placesData = {
         "Business Name" : "Arcul de Triumf",
         "Country Code" : "RO",
         "Geo Coordinates" : {
-          "Latitude" : "44.4671777",
-          "Longitude" : "26.0781160"
+          "Latitude" : "44.4671870",
+          "Longitude" : "26.0781074"
         }
       },
       "Published" : "2019-05-09T13:43:08Z",
@@ -6051,7 +9286,7 @@ placesData = {
       "Google Maps URL" : "http://maps.google.com/?cid=8354718335497252342",
       "Location" : {
         "Address" : "Piața Presei Libere 1, București, Romênia",
-        "Business Name" : "Casa Presei Libere",
+        "Business Name" : "House of the Free Press",
         "Country Code" : "RO",
         "Geo Coordinates" : {
           "Latitude" : "44.4809135",
@@ -6065,17 +9300,17 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 26.0722582, 44.4789096 ],
+      "coordinates" : [ 26.0722545, 44.4788882 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=4726777256541684956",
       "Location" : {
-        "Address" : "Bucharest, Romênia",
-        "Business Name" : "Anti-Communist Monument",
+        "Address" : "Piața Presei Libere, București, Romênia",
+        "Business Name" : "Wings Anti-Communist Monument",
         "Geo Coordinates" : {
-          "Latitude" : "44.4789096",
-          "Longitude" : "26.0722582"
+          "Latitude" : "44.4788882",
+          "Longitude" : "26.0722545"
         }
       },
       "Published" : "2019-05-09T13:00:09Z",
@@ -6109,7 +9344,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=6517745912057984754",
       "Location" : {
-        "Address" : "Strada Benjamin Franklin 1-3, București 030167, Romênia",
+        "Address" : "1, Strada Benjamin Franklin 1-3, București 030167, Romênia",
         "Business Name" : "Ateneu Romeno",
         "Country Code" : "RO",
         "Geo Coordinates" : {
@@ -6124,7 +9359,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 26.0960461, 44.4393520 ],
+      "coordinates" : [ 26.0957431, 44.4398377 ],
       "type" : "Point"
     },
     "properties" : {
@@ -6134,8 +9369,8 @@ placesData = {
         "Business Name" : "Royal Palace of Bucharest",
         "Country Code" : "RO",
         "Geo Coordinates" : {
-          "Latitude" : "44.4393520",
-          "Longitude" : "26.0960461"
+          "Latitude" : "44.4398377",
+          "Longitude" : "26.0957431"
         }
       },
       "Published" : "2019-05-09T12:09:33Z",
@@ -6408,7 +9643,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 26.0988700, 44.4318033 ],
+      "coordinates" : [ 26.0995902, 44.4319112 ],
       "type" : "Point"
     },
     "properties" : {
@@ -6418,8 +9653,8 @@ placesData = {
         "Business Name" : "Stavropoleos Monastery Church",
         "Country Code" : "RO",
         "Geo Coordinates" : {
-          "Latitude" : "44.4318033",
-          "Longitude" : "26.0988700"
+          "Latitude" : "44.4319112",
+          "Longitude" : "26.0995902"
         }
       },
       "Published" : "2019-05-09T09:33:44Z",
@@ -6429,18 +9664,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 26.0964585, 44.4320480 ],
+      "coordinates" : [ 26.0967367, 44.4320060 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=14263996650463993",
       "Location" : {
-        "Address" : "Calea Victoriei 13, București 030167, Romênia",
+        "Address" : "Calea Victoriei 13, București 030022, Romênia",
         "Business Name" : "Palácio CEC",
         "Country Code" : "RO",
         "Geo Coordinates" : {
-          "Latitude" : "44.4320480",
-          "Longitude" : "26.0964585"
+          "Latitude" : "44.4320060",
+          "Longitude" : "26.0967367"
         }
       },
       "Published" : "2019-05-09T09:28:37Z",
@@ -6471,7 +9706,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 26.0968789, 44.4112700 ],
+      "coordinates" : [ 26.0967984, 44.4115431 ],
       "type" : "Point"
     },
     "properties" : {
@@ -6481,8 +9716,8 @@ placesData = {
         "Business Name" : "Nation's Heroes Memorial",
         "Country Code" : "RO",
         "Geo Coordinates" : {
-          "Latitude" : "44.4112700",
-          "Longitude" : "26.0968789"
+          "Latitude" : "44.4115431",
+          "Longitude" : "26.0967984"
         }
       },
       "Published" : "2019-05-09T08:38:34Z",
@@ -6534,18 +9769,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 26.1024462, 44.4268018 ],
+      "coordinates" : [ 26.1024476, 44.4267874 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=18018460571793155448",
       "Location" : {
-        "Address" : "Bulevardul Unirii 14, București 040106, Romênia",
-        "Business Name" : "Bucharest Artesian Fountains",
+        "Address" : "Piața Unirii, București, Romênia",
+        "Business Name" : "Bucharest Fountains",
         "Country Code" : "RO",
         "Geo Coordinates" : {
-          "Latitude" : "44.4268018",
-          "Longitude" : "26.1024462"
+          "Latitude" : "44.4267874",
+          "Longitude" : "26.1024476"
         }
       },
       "Published" : "2019-05-09T07:33:05Z",
@@ -6576,18 +9811,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 26.1066055, 44.4309501 ],
+      "coordinates" : [ 26.1062876, 44.4308354 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=13760166639274270588",
       "Location" : {
         "Address" : "Strada Sfânta Vineri 9-11, București 030167, Romênia",
-        "Business Name" : "The Coral Temple",
+        "Business Name" : "The Choral Temple",
         "Country Code" : "RO",
         "Geo Coordinates" : {
-          "Latitude" : "44.4309501",
-          "Longitude" : "26.1066055"
+          "Latitude" : "44.4308354",
+          "Longitude" : "26.1062876"
         }
       },
       "Published" : "2019-05-09T06:18:49Z",
@@ -6597,18 +9832,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 26.1084013, 44.4295862 ],
+      "coordinates" : [ 26.1086287, 44.4295158 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=9011784574139576098",
       "Location" : {
-        "Address" : "Strada Vasile Adamache 11, București, Romênia",
+        "Address" : "Great Synagogue, Bucharest, Strada Vasile Adamache 11, București 030167, Romênia",
         "Business Name" : "Holocaust Museum",
         "Country Code" : "RO",
         "Geo Coordinates" : {
-          "Latitude" : "44.4295862",
-          "Longitude" : "26.1084013"
+          "Latitude" : "44.4295158",
+          "Longitude" : "26.1086287"
         }
       },
       "Published" : "2019-05-09T05:46:43Z",
@@ -6624,7 +9859,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=4799452667097853425",
       "Location" : {
-        "Address" : "Strada Franceză 33, București 030105, Romênia",
+        "Address" : "Str. Franceză 33, București 030105, Romênia",
         "Business Name" : "Biserica Sfântul Anton",
         "Country Code" : "RO",
         "Geo Coordinates" : {
@@ -6680,17 +9915,17 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.3189384, 42.6847251 ],
+      "coordinates" : [ 23.3189065, 42.6848588 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=9773657504063509945",
       "Location" : {
-        "Address" : "National Culture Palace, Bulevard \"Bulgaria\", 1463 Ndk, Sofia, Bulgária",
+        "Address" : "Bulevard \"Bulgaria\", 1463 Ndk, Sofia, Bulgária",
         "Business Name" : "National Palace of Culture",
         "Geo Coordinates" : {
-          "Latitude" : "42.6847251",
-          "Longitude" : "23.3189384"
+          "Latitude" : "42.6848588",
+          "Longitude" : "23.3189065"
         }
       },
       "Published" : "2019-05-08T13:44:15Z",
@@ -6741,18 +9976,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.3323326, 42.6937904 ],
+      "coordinates" : [ 23.3323283, 42.6937737 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=6071992400273363868",
       "Location" : {
-        "Address" : "1000 Sofia Center, Sofia, Bulgária",
+        "Address" : "pl. \"Narodno sabranie\", 1000 Sofia Center, Sofia, Bulgária",
         "Business Name" : "Tsar Osvoboditel",
         "Country Code" : "BG",
         "Geo Coordinates" : {
-          "Latitude" : "42.6937904",
-          "Longitude" : "23.3323326"
+          "Latitude" : "42.6937737",
+          "Longitude" : "23.3323283"
         }
       },
       "Published" : "2019-05-08T12:26:21Z",
@@ -6844,7 +10079,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.3327642, 42.6957800 ],
+      "coordinates" : [ 23.3328728, 42.6958818 ],
       "type" : "Point"
     },
     "properties" : {
@@ -6854,8 +10089,8 @@ placesData = {
         "Business Name" : "Catedral de Alexandre Nevsky",
         "Country Code" : "BG",
         "Geo Coordinates" : {
-          "Latitude" : "42.6957800",
-          "Longitude" : "23.3327642"
+          "Latitude" : "42.6958818",
+          "Longitude" : "23.3328728"
         }
       },
       "Published" : "2019-05-08T12:00:18Z",
@@ -6865,7 +10100,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.3291686, 42.6972017 ],
+      "coordinates" : [ 23.3291154, 42.6973418 ],
       "type" : "Point"
     },
     "properties" : {
@@ -6875,8 +10110,8 @@ placesData = {
         "Business Name" : "Skarabar",
         "Country Code" : "BG",
         "Geo Coordinates" : {
-          "Latitude" : "42.6972017",
-          "Longitude" : "23.3291686"
+          "Latitude" : "42.6973418",
+          "Longitude" : "23.3291154"
         }
       },
       "Published" : "2019-05-08T10:19:16Z",
@@ -6886,7 +10121,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.3289666, 42.6956906 ],
+      "coordinates" : [ 23.3289317, 42.6956983 ],
       "type" : "Point"
     },
     "properties" : {
@@ -6896,8 +10131,8 @@ placesData = {
         "Business Name" : "Russian Church \"Sveti Nikolay Mirlikiiski\"",
         "Country Code" : "BG",
         "Geo Coordinates" : {
-          "Latitude" : "42.6956906",
-          "Longitude" : "23.3289666"
+          "Latitude" : "42.6956983",
+          "Longitude" : "23.3289317"
         }
       },
       "Published" : "2019-05-08T09:43:08Z",
@@ -6907,7 +10142,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.3270808, 42.6963229 ],
+      "coordinates" : [ 23.3270927, 42.6961776 ],
       "type" : "Point"
     },
     "properties" : {
@@ -6917,8 +10152,8 @@ placesData = {
         "Business Name" : "Galeria de Arte Nacional",
         "Country Code" : "BG",
         "Geo Coordinates" : {
-          "Latitude" : "42.6963229",
-          "Longitude" : "23.3270808"
+          "Latitude" : "42.6961776",
+          "Longitude" : "23.3270927"
         }
       },
       "Published" : "2019-05-08T09:35:04Z",
@@ -6949,18 +10184,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.3239259, 42.6969226 ],
+      "coordinates" : [ 23.3239639, 42.6970493 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=11410521195210489331",
       "Location" : {
-        "Address" : "bul. Kniaz Aleksandar Dondukov 2 1000, 1000 Sofia Center, Sofia, Bulgária",
+        "Address" : "bul. Kniaz Aleksandar Dondukov 2, 1000 Sofia Center, Sofia, Bulgária",
         "Business Name" : "President of Republic of Bulgaria",
         "Country Code" : "BG",
         "Geo Coordinates" : {
-          "Latitude" : "42.6969226",
-          "Longitude" : "23.3239259"
+          "Latitude" : "42.6970493",
+          "Longitude" : "23.3239639"
         }
       },
       "Published" : "2019-05-08T08:54:02Z",
@@ -6970,7 +10205,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.3244694, 42.6965503 ],
+      "coordinates" : [ 23.3245525, 42.6964263 ],
       "type" : "Point"
     },
     "properties" : {
@@ -6980,8 +10215,8 @@ placesData = {
         "Business Name" : "National Archeology Museum",
         "Country Code" : "BG",
         "Geo Coordinates" : {
-          "Latitude" : "42.6965503",
-          "Longitude" : "23.3244694"
+          "Latitude" : "42.6964263",
+          "Longitude" : "23.3245525"
         }
       },
       "Published" : "2019-05-08T08:49:32Z",
@@ -6991,7 +10226,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.3212894, 42.6966758 ],
+      "coordinates" : [ 23.3213920, 42.6967676 ],
       "type" : "Point"
     },
     "properties" : {
@@ -7001,8 +10236,8 @@ placesData = {
         "Business Name" : "Catedral de Sveta-Nedelya",
         "Country Code" : "BG",
         "Geo Coordinates" : {
-          "Latitude" : "42.6966758",
-          "Longitude" : "23.3212894"
+          "Latitude" : "42.6967676",
+          "Longitude" : "23.3213920"
         }
       },
       "Published" : "2019-05-08T08:28:10Z",
@@ -7012,7 +10247,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.3223299, 42.6985406 ],
+      "coordinates" : [ 23.3211123, 42.6981754 ],
       "type" : "Point"
     },
     "properties" : {
@@ -7022,8 +10257,8 @@ placesData = {
         "Business Name" : "Sofia Ancient Serdica Archaeological Complex",
         "Country Code" : "BG",
         "Geo Coordinates" : {
-          "Latitude" : "42.6985406",
-          "Longitude" : "23.3223299"
+          "Latitude" : "42.6981754",
+          "Longitude" : "23.3211123"
         }
       },
       "Published" : "2019-05-08T08:23:59Z",
@@ -7075,18 +10310,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.3195446, 42.6986972 ],
+      "coordinates" : [ 23.3195479, 42.6986608 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=12684833565311472828",
       "Location" : {
-        "Address" : "146,Kniaz Boris I St,1301 Sofia, Bulgária",
+        "Address" : "ul. \"Knyaz Boris I\" 146, 1000 Sofia Center, Sofia, Bulgária",
         "Business Name" : "Cathedral of Saint Joseph",
         "Country Code" : "BG",
         "Geo Coordinates" : {
-          "Latitude" : "42.6986972",
-          "Longitude" : "23.3195446"
+          "Latitude" : "42.6986608",
+          "Longitude" : "23.3195479"
         }
       },
       "Published" : "2019-05-08T07:39:25Z",
@@ -7096,7 +10331,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.3120620, 42.7040560 ],
+      "coordinates" : [ 23.3114975, 42.7042935 ],
       "type" : "Point"
     },
     "properties" : {
@@ -7106,8 +10341,8 @@ placesData = {
         "Business Name" : "National Polytechnic Museum",
         "Country Code" : "BG",
         "Geo Coordinates" : {
-          "Latitude" : "42.7040560",
-          "Longitude" : "23.3120620"
+          "Latitude" : "42.7042935",
+          "Longitude" : "23.3114975"
         }
       },
       "Published" : "2019-05-08T07:14:51Z",
@@ -7123,7 +10358,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=3448054119331703487",
       "Location" : {
-        "Address" : "ul. \"Pirotska\" 76, 1303 Sofia Center, Sofia, Bulgária",
+        "Address" : "St. Nicholas of Sofia, Парк „Св. Никола“, ul. \"Pirotska\" 76, 1303 Sofia Center, Sofia, Bulgária",
         "Business Name" : "St. Nikolay Sofiyski",
         "Country Code" : "BG",
         "Geo Coordinates" : {
@@ -7138,7 +10373,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.3209319, 42.7002520 ],
+      "coordinates" : [ 23.3210389, 42.7003103 ],
       "type" : "Point"
     },
     "properties" : {
@@ -7148,8 +10383,8 @@ placesData = {
         "Business Name" : "Sofia Synagogue",
         "Country Code" : "BG",
         "Geo Coordinates" : {
-          "Latitude" : "42.7002520",
-          "Longitude" : "23.3209319"
+          "Latitude" : "42.7003103",
+          "Longitude" : "23.3210389"
         }
       },
       "Published" : "2019-05-08T06:19:11Z",
@@ -7180,7 +10415,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.3225530, 42.6994882 ],
+      "coordinates" : [ 23.3224100, 42.6996030 ],
       "type" : "Point"
     },
     "properties" : {
@@ -7190,8 +10425,8 @@ placesData = {
         "Business Name" : "Banya Bashi Masjid",
         "Country Code" : "BG",
         "Geo Coordinates" : {
-          "Latitude" : "42.6994882",
-          "Longitude" : "23.3225530"
+          "Latitude" : "42.6996030",
+          "Longitude" : "23.3224100"
         }
       },
       "Published" : "2019-05-08T05:31:19Z",
@@ -7201,7 +10436,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.3230100, 42.6996392 ],
+      "coordinates" : [ 23.3230089, 42.6996278 ],
       "type" : "Point"
     },
     "properties" : {
@@ -7211,8 +10446,8 @@ placesData = {
         "Business Name" : "Park \"Tsentralna banya\"",
         "Country Code" : "BG",
         "Geo Coordinates" : {
-          "Latitude" : "42.6996392",
-          "Longitude" : "23.3230100"
+          "Latitude" : "42.6996278",
+          "Longitude" : "23.3230089"
         }
       },
       "Published" : "2019-05-08T05:26:25Z",
@@ -7313,7 +10548,7 @@ placesData = {
       "Google Maps URL" : "http://maps.google.com/?cid=15372054888469230795",
       "Location" : {
         "Address" : "Bucharest, Romênia",
-        "Business Name" : "Gara de Nord",
+        "Business Name" : "North Railway Station",
         "Country Code" : "RO",
         "Geo Coordinates" : {
           "Latitude" : "44.4459737",
@@ -7373,7 +10608,7 @@ placesData = {
       "Google Maps URL" : "http://maps.google.com/?cid=16602793033967226998",
       "Location" : {
         "Address" : "Seitan limania, Grécia",
-        "Business Name" : "παραλία του Στεφάνου",
+        "Business Name" : "Seitan Limania",
         "Geo Coordinates" : {
           "Latitude" : "35.5518383",
           "Longitude" : "24.1934281"
@@ -7425,17 +10660,17 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 24.1638359, 35.4992037 ],
+      "coordinates" : [ 24.1639890, 35.4991034 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=13800951639905942537",
       "Location" : {
-        "Address" : "Akrotiri 731 00, Grécia",
+        "Address" : "Acrotíri, Grécia",
         "Business Name" : "Loutraki Beach",
         "Geo Coordinates" : {
-          "Latitude" : "35.4992037",
-          "Longitude" : "24.1638359"
+          "Latitude" : "35.4991034",
+          "Longitude" : "24.1639890"
         }
       },
       "Published" : "2019-05-05T07:59:25Z",
@@ -7452,7 +10687,7 @@ placesData = {
       "Google Maps URL" : "http://maps.google.com/?cid=8172772676404903308",
       "Location" : {
         "Address" : "Rethimno 741 00, Grécia",
-        "Business Name" : "Fortezza Castle",
+        "Business Name" : "Venetian Fortezza Castle",
         "Country Code" : "GR",
         "Geo Coordinates" : {
           "Latitude" : "35.3719817",
@@ -7574,7 +10809,7 @@ placesData = {
       "Google Maps URL" : "http://maps.google.com/?cid=7796253141770465551",
       "Location" : {
         "Address" : "Heraklion 710 03, Grécia",
-        "Business Name" : "CRETAquarium Thalassókosmos",
+        "Business Name" : "CRETAquarium Thalassokosmos",
         "Country Code" : "GR",
         "Geo Coordinates" : {
           "Latitude" : "35.3323590",
@@ -7595,7 +10830,7 @@ placesData = {
       "Google Maps URL" : "http://maps.google.com/?cid=11359625770899911764",
       "Location" : {
         "Address" : "Path to Milatos Cave, Vrachasi 724 00, Grécia",
-        "Business Name" : "Spíleon Milátou",
+        "Business Name" : "Milatos Cave",
         "Country Code" : "GR",
         "Geo Coordinates" : {
           "Latitude" : "35.3082736",
@@ -7847,7 +11082,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 25.3763742, 36.4627533 ],
+      "coordinates" : [ 25.3763859, 36.4627362 ],
       "type" : "Point"
     },
     "properties" : {
@@ -7857,8 +11092,8 @@ placesData = {
         "Business Name" : "Lolita's Gelato",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "36.4627533",
-          "Longitude" : "25.3763742"
+          "Latitude" : "36.4627362",
+          "Longitude" : "25.3763859"
         }
       },
       "Published" : "2019-04-29T17:38:16Z",
@@ -7868,18 +11103,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 25.3779715, 36.4625126 ],
+      "coordinates" : [ 25.3779442, 36.4626024 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=9971847066441522295",
       "Location" : {
         "Address" : "Oia 847 02, Grécia",
-        "Business Name" : "Pitogyros",
+        "Business Name" : "Pitogyros Traditional Grill House - Gyros, souvlaki, kebab.",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "36.4625126",
-          "Longitude" : "25.3779715"
+          "Latitude" : "36.4626024",
+          "Longitude" : "25.3779442"
         }
       },
       "Published" : "2019-04-29T17:37:13Z",
@@ -7889,18 +11124,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 25.3727337, 36.4601095 ],
+      "coordinates" : [ 25.3729020, 36.4600596 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=14861198028050229381",
       "Location" : {
         "Address" : "Oia 847 02, Grécia",
-        "Business Name" : "Byzantine Castle Ruins",
+        "Business Name" : "Castle of Oia, Agios Nikolaos Castle",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "36.4601095",
-          "Longitude" : "25.3727337"
+          "Latitude" : "36.4600596",
+          "Longitude" : "25.3729020"
         }
       },
       "Published" : "2019-04-29T17:35:23Z",
@@ -7917,7 +11152,7 @@ placesData = {
       "Google Maps URL" : "http://maps.google.com/?cid=12374960436230010527",
       "Location" : {
         "Address" : "Santorini 847 00, Grécia",
-        "Business Name" : "Panagia Platsani",
+        "Business Name" : "Church of Panagia Akathistos Hymn",
         "Country Code" : "GR",
         "Geo Coordinates" : {
           "Latitude" : "36.4621025",
@@ -7956,8 +11191,7 @@ placesData = {
       "Google Maps URL" : "http://maps.google.com/?cid=14989150253328898894",
       "Location" : {
         "Address" : "Órmos Athiniós, Grécia",
-        "Business Name" : "Όρμος Αθηνιού Θήρας",
-        "Country Code" : "GR",
+        "Business Name" : "Athinios Ferry Port",
         "Geo Coordinates" : {
           "Latitude" : "36.3861290",
           "Longitude" : "25.4284147"
@@ -8012,17 +11246,17 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 28.0690633, 36.1219127 ],
+      "coordinates" : [ 28.0699169, 36.1251735 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=4850167216871745249",
       "Location" : {
-        "Address" : "Lindos 851 02, Grécia",
+        "Address" : "Kalathos 851 02, Grécia",
         "Business Name" : "Kalathos Beach",
         "Geo Coordinates" : {
-          "Latitude" : "36.1219127",
-          "Longitude" : "28.0690633"
+          "Latitude" : "36.1251735",
+          "Longitude" : "28.0699169"
         }
       },
       "Published" : "2019-04-26T12:37:19Z",
@@ -8038,8 +11272,8 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=11909173040222795714",
       "Location" : {
-        "Address" : "Archaggelos 851 02, Grécia",
-        "Business Name" : "Agia Agathi Beach",
+        "Address" : "Archangelos 851 02, Grécia",
+        "Business Name" : "Agia Agathi Beach (Golden Sand)",
         "Geo Coordinates" : {
           "Latitude" : "36.1762290",
           "Longitude" : "28.0983903"
@@ -8073,7 +11307,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 27.9891795, 36.0638817 ],
+      "coordinates" : [ 27.9891428, 36.0639872 ],
       "type" : "Point"
     },
     "properties" : {
@@ -8083,8 +11317,8 @@ placesData = {
         "Business Name" : "Lindos Imperial Resort & Spa",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "36.0638817",
-          "Longitude" : "27.9891795"
+          "Latitude" : "36.0639872",
+          "Longitude" : "27.9891428"
         }
       },
       "Published" : "2019-04-26T08:39:48Z",
@@ -8094,17 +11328,17 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 28.2093216, 36.3214221 ],
+      "coordinates" : [ 28.2094813, 36.3212318 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=4348830087389964028",
       "Location" : {
-        "Address" : "Kallithea 851 00, Grécia",
-        "Business Name" : "Anthony Quinn Bay",
+        "Address" : "Kallithea, Grécia",
+        "Business Name" : "Paralia Antoni Kouin",
         "Geo Coordinates" : {
-          "Latitude" : "36.3214221",
-          "Longitude" : "28.2093216"
+          "Latitude" : "36.3212318",
+          "Longitude" : "28.2094813"
         }
       },
       "Published" : "2019-04-26T07:13:41Z",
@@ -8114,7 +11348,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 28.2370797, 36.3765586 ],
+      "coordinates" : [ 28.2374205, 36.3766017 ],
       "type" : "Point"
     },
     "properties" : {
@@ -8124,8 +11358,8 @@ placesData = {
         "Business Name" : "Kokkini Beach Kallithea",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "36.3765586",
-          "Longitude" : "28.2370797"
+          "Latitude" : "36.3766017",
+          "Longitude" : "28.2374205"
         }
       },
       "Published" : "2019-04-25T20:37:49Z",
@@ -8440,7 +11674,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 28.2271382, 36.4447860 ],
+      "coordinates" : [ 28.2268410, 36.4448059 ],
       "type" : "Point"
     },
     "properties" : {
@@ -8450,8 +11684,8 @@ placesData = {
         "Business Name" : "Archaeological Museum of Rhodes",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "36.4447860",
-          "Longitude" : "28.2271382"
+          "Latitude" : "36.4448059",
+          "Longitude" : "28.2268410"
         }
       },
       "Published" : "2019-04-25T07:53:44Z",
@@ -8461,18 +11695,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 28.2248777, 36.4492793 ],
+      "coordinates" : [ 28.2254611, 36.4494224 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=7090635316749593708",
       "Location" : {
         "Address" : "Plotarchou Plessa 2, Rodos 851 00, Grécia",
-        "Business Name" : "Mandraki Port",
+        "Business Name" : "Mandraki Marina & Port",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "36.4492793",
-          "Longitude" : "28.2248777"
+          "Latitude" : "36.4494224",
+          "Longitude" : "28.2254611"
         }
       },
       "Published" : "2019-04-25T07:20:05Z",
@@ -8524,7 +11758,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.7299316, 37.9914240 ],
+      "coordinates" : [ 23.7299098, 37.9914349 ],
       "type" : "Point"
     },
     "properties" : {
@@ -8534,8 +11768,8 @@ placesData = {
         "Business Name" : "Hellenic Motor Museum",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "37.9914240",
-          "Longitude" : "23.7299316"
+          "Latitude" : "37.9914349",
+          "Longitude" : "23.7299098"
         }
       },
       "Published" : "2019-04-24T11:07:49Z",
@@ -8545,7 +11779,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.7255435, 37.9743749 ],
+      "coordinates" : [ 23.7260766, 37.9742372 ],
       "type" : "Point"
     },
     "properties" : {
@@ -8555,8 +11789,8 @@ placesData = {
         "Business Name" : "Ágora Romana",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "37.9743749",
-          "Longitude" : "23.7255435"
+          "Latitude" : "37.9742372",
+          "Longitude" : "23.7260766"
         }
       },
       "Published" : "2019-04-24T08:03:28Z",
@@ -8717,8 +11951,7 @@ placesData = {
       "Google Maps URL" : "http://maps.google.com/?cid=6357290598492505310",
       "Location" : {
         "Address" : "Cape Sounio, Sounio 195 00, Grécia",
-        "Business Name" : "Temple of Poseidon - Sounio",
-        "Country Code" : "GR",
+        "Business Name" : "Temple of Poseidon 🔱",
         "Geo Coordinates" : {
           "Latitude" : "37.6501925",
           "Longitude" : "24.0245870"
@@ -8851,18 +12084,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.7279317, 37.9735731 ],
+      "coordinates" : [ 23.7279847, 37.9737397 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=3501042642390725607",
       "Location" : {
         "Address" : "Mnisikleous 22, Athina 105 56, Grécia",
-        "Business Name" : "Plaka Stairs",
+        "Business Name" : "Stairs Athens",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "37.9735731",
-          "Longitude" : "23.7279317"
+          "Latitude" : "37.9737397",
+          "Longitude" : "23.7279847"
         }
       },
       "Published" : "2019-04-22T16:30:13Z",
@@ -8872,18 +12105,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.7258611, 37.9764062 ],
+      "coordinates" : [ 23.7258631, 37.9763833 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=5622155187283190998",
       "Location" : {
-        "Address" : "Agias Eleousis 3, Athina 105 55, Grécia",
+        "Address" : "Apollonos 21, Athina 105 57, Grécia",
         "Business Name" : "Monastiraki Square",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "37.9764062",
-          "Longitude" : "23.7258611"
+          "Latitude" : "37.9763833",
+          "Longitude" : "23.7258631"
         }
       },
       "Published" : "2019-04-22T15:56:56Z",
@@ -8914,7 +12147,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.7219486, 37.9746208 ],
+      "coordinates" : [ 23.7224697, 37.9757948 ],
       "type" : "Point"
     },
     "properties" : {
@@ -8924,8 +12157,8 @@ placesData = {
         "Business Name" : "Ágora de Atenas",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "37.9746208",
-          "Longitude" : "23.7219486"
+          "Latitude" : "37.9757948",
+          "Longitude" : "23.7224697"
         }
       },
       "Published" : "2019-04-22T12:36:51Z",
@@ -8974,7 +12207,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.7259422, 37.9756184 ],
+      "coordinates" : [ 23.7259838, 37.9756879 ],
       "type" : "Point"
     },
     "properties" : {
@@ -8984,8 +12217,8 @@ placesData = {
         "Business Name" : "Biblioteca de Adriano",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "37.9756184",
-          "Longitude" : "23.7259422"
+          "Latitude" : "37.9756879",
+          "Longitude" : "23.7259838"
         }
       },
       "Published" : "2019-04-22T11:45:42Z",
@@ -9149,7 +12382,7 @@ placesData = {
       "Google Maps URL" : "http://maps.google.com/?cid=1830635814693505143",
       "Location" : {
         "Address" : "Anafiotika 3-11, Athina 105 58, Grécia",
-        "Business Name" : "Choragic Monument of Thrasyllos",
+        "Business Name" : "Choregic Monument of Thrasyllos (Panagia Speliotissa)",
         "Country Code" : "GR",
         "Geo Coordinates" : {
           "Latitude" : "37.9711478",
@@ -9205,7 +12438,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.7248739, 37.9715291 ],
+      "coordinates" : [ 23.7248721, 37.9715193 ],
       "type" : "Point"
     },
     "properties" : {
@@ -9215,8 +12448,8 @@ placesData = {
         "Business Name" : "Templo de Atena Nice",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "37.9715291",
-          "Longitude" : "23.7248739"
+          "Latitude" : "37.9715193",
+          "Longitude" : "23.7248721"
         }
       },
       "Published" : "2019-04-22T06:14:25Z",
@@ -9247,18 +12480,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.7265132, 37.9720901 ],
+      "coordinates" : [ 23.7263495, 37.9721609 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=9037608805852345833",
       "Location" : {
         "Address" : "Athens 105 58, Grécia",
-        "Business Name" : "Antigo Templo de Atenas",
+        "Business Name" : "Ερέχθειο",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "37.9720901",
-          "Longitude" : "23.7265132"
+          "Latitude" : "37.9721609",
+          "Longitude" : "23.7263495"
         }
       },
       "Published" : "2019-04-22T05:59:47Z",
@@ -9328,7 +12561,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.7345126, 37.9665443 ],
+      "coordinates" : [ 23.7350086, 37.9665321 ],
       "type" : "Point"
     },
     "properties" : {
@@ -9338,8 +12571,8 @@ placesData = {
         "Business Name" : "Olýmpion",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "37.9665443",
-          "Longitude" : "23.7345126"
+          "Latitude" : "37.9665321",
+          "Longitude" : "23.7350086"
         }
       },
       "Published" : "2019-04-22T03:18:05Z",
@@ -9453,7 +12686,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -60.0250320, -3.1361530 ],
+      "coordinates" : [ -60.0250472, -3.1360934 ],
       "type" : "Point"
     },
     "properties" : {
@@ -9463,8 +12696,8 @@ placesData = {
         "Business Name" : "Relógio Municipal",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-3.1361530",
-          "Longitude" : "-60.0250320"
+          "Latitude" : "-3.1360934",
+          "Longitude" : "-60.0250472"
         }
       },
       "Published" : "2019-03-30T21:41:31Z",
@@ -9516,7 +12749,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -59.9876250, -3.1336071 ],
+      "coordinates" : [ -59.9874187, -3.1330976 ],
       "type" : "Point"
     },
     "properties" : {
@@ -9525,8 +12758,8 @@ placesData = {
         "Address" : "Distrito Industrial I, Av. Silves, 2222 - Crespo, Manaus - AM, 69073-270, Brasil",
         "Business Name" : "Centro Cultural dos Povos da Amazônia",
         "Geo Coordinates" : {
-          "Latitude" : "-3.1336071",
-          "Longitude" : "-59.9876250"
+          "Latitude" : "-3.1330976",
+          "Longitude" : "-59.9874187"
         }
       },
       "Published" : "2019-03-30T20:27:06Z",
@@ -9563,7 +12796,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=18430084733825119686",
       "Location" : {
-        "Address" : "São João Afluente do Tarumã Mirim S/n Zona Rural, Igarapé - MG, Brasil",
+        "Address" : "São João Afluente do Tarumã Mirim S/n Zona Rural, Igarapé - AM, Brasil",
         "Business Name" : "Museu Do Seringal",
         "Country Code" : "BR",
         "Geo Coordinates" : {
@@ -9625,7 +12858,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=6649493952113518223",
       "Location" : {
-        "Address" : "24 Ivan Denkgolu St, 1000 Sofia, Bulgária",
+        "Address" : "ul. \"Ivan Denkoglu\" 24, 1000 Sofia Center, Sofia, Bulgária",
         "Business Name" : "Gifted Sofia",
         "Country Code" : "BG",
         "Geo Coordinates" : {
@@ -9668,7 +12901,7 @@ placesData = {
       "Google Maps URL" : "http://maps.google.com/?cid=15865448600849824717",
       "Location" : {
         "Address" : "Bucharest, Romênia",
-        "Business Name" : "Gara de Nord",
+        "Business Name" : "North Railway Station",
         "Country Code" : "RO",
         "Geo Coordinates" : {
           "Latitude" : "44.4459737",
@@ -9787,7 +13020,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 25.0816919, 35.3076356 ],
+      "coordinates" : [ 25.0806142, 35.3099757 ],
       "type" : "Point"
     },
     "properties" : {
@@ -9797,8 +13030,8 @@ placesData = {
         "Business Name" : "Voutes Campus University of Crete",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "35.3076356",
-          "Longitude" : "25.0816919"
+          "Latitude" : "35.3099757",
+          "Longitude" : "25.0806142"
         }
       },
       "Published" : "2019-03-13T02:41:34Z",
@@ -9829,18 +13062,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 25.3916764, 36.4799004 ],
+      "coordinates" : [ 25.3917453, 36.4798672 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=13783064336705612636",
       "Location" : {
         "Address" : "Oia-Baxedes Beach, Oía 847 02, Grécia",
-        "Business Name" : "Εν Πλώ Boutique Suites - Σαντορίνη",
+        "Business Name" : "En Plo Boutique Suites - Oia Santorini",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "36.4799004",
-          "Longitude" : "25.3916764"
+          "Latitude" : "36.4798672",
+          "Longitude" : "25.3917453"
         }
       },
       "Published" : "2019-03-13T02:39:57Z",
@@ -9850,18 +13083,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 25.4299905, 36.4220574 ],
+      "coordinates" : [ 25.4299911, 36.4220581 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=11166117348655199078",
       "Location" : {
-        "Address" : "Fira, Thira 847 00, Grécia",
+        "Address" : "Thera 847 00, Grécia",
         "Business Name" : "Aquarius Hotel",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "36.4220574",
-          "Longitude" : "25.4299905"
+          "Latitude" : "36.4220581",
+          "Longitude" : "25.4299911"
         }
       },
       "Published" : "2019-03-13T02:38:56Z",
@@ -9871,7 +13104,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 28.0641926, 36.1076639 ],
+      "coordinates" : [ 28.0642530, 36.1077051 ],
       "type" : "Point"
     },
     "properties" : {
@@ -9881,8 +13114,8 @@ placesData = {
         "Business Name" : "Lindos White Hotel & Suites",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "36.1076639",
-          "Longitude" : "28.0641926"
+          "Latitude" : "36.1077051",
+          "Longitude" : "28.0642530"
         }
       },
       "Published" : "2019-03-13T02:38:28Z",
@@ -9892,18 +13125,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 28.2017746, 36.3313779 ],
+      "coordinates" : [ 28.2017963, 36.3313102 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=11746235130653543598",
       "Location" : {
-        "Address" : "Faliraki 851 00, Grécia",
+        "Address" : "Asklipiou, Faliraki 851 00, Grécia",
         "Business Name" : "Lymberia Hotel",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "36.3313779",
-          "Longitude" : "28.2017746"
+          "Latitude" : "36.3313102",
+          "Longitude" : "28.2017963"
         }
       },
       "Published" : "2019-03-13T02:37:47Z",
@@ -9981,7 +13214,6 @@ placesData = {
       "Location" : {
         "Address" : "10th Floor, Municipiul București, Calea Floreasca 246C, București 014476, Romênia",
         "Business Name" : "Apcom Romania",
-        "Country Code" : "RO",
         "Geo Coordinates" : {
           "Latitude" : "44.4780180",
           "Longitude" : "26.1046100"
@@ -10015,7 +13247,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -40.8403940, -14.8475690 ],
+      "coordinates" : [ -40.8402366, -14.8477496 ],
       "type" : "Point"
     },
     "properties" : {
@@ -10024,8 +13256,8 @@ placesData = {
         "Address" : "Tv. dos Pratés, n°81 - Centro, Vitória da Conquista - BA, 45000-695, Brasil",
         "Business Name" : "Edilson Motos",
         "Geo Coordinates" : {
-          "Latitude" : "-14.8475690",
-          "Longitude" : "-40.8403940"
+          "Latitude" : "-14.8477496",
+          "Longitude" : "-40.8402366"
         }
       },
       "Published" : "2019-02-02T13:07:49Z",
@@ -10035,18 +13267,17 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -82.3858743, 23.1242594 ],
+      "coordinates" : [ -82.3858654, 23.1245361 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=3819997463508843192",
       "Location" : {
-        "Address" : "Avenida Paseo, La Habana, Cuba",
+        "Address" : "Av. Paseo, La Habana, Cuba",
         "Business Name" : "Plaza de la Revolución",
-        "Country Code" : "CU",
         "Geo Coordinates" : {
-          "Latitude" : "23.1242594",
-          "Longitude" : "-82.3858743"
+          "Latitude" : "23.1245361",
+          "Longitude" : "-82.3858654"
         }
       },
       "Published" : "2019-01-17T16:34:49Z",
@@ -10082,7 +13313,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=1677218059847896713",
       "Location" : {
-        "Address" : "Havana, Cuba",
+        "Address" : "4H87+2FF, La Habana, Cuba",
         "Business Name" : "Acuario Nacional",
         "Country Code" : "CU",
         "Geo Coordinates" : {
@@ -10124,7 +13355,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=14327674346076432579",
       "Location" : {
-        "Address" : "Havana, Cuba",
+        "Address" : "4JP9+FP7, La Habana, Cuba",
         "Business Name" : "Napoleon Museum",
         "Country Code" : "CU",
         "Geo Coordinates" : {
@@ -10166,7 +13397,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=3408331504682005165",
       "Location" : {
-        "Address" : "Calle Paseo y Ave. Independencia. Plaza de la Revolución. La Habana, Avenida Paseo, La Habana, Cuba",
+        "Address" : "Calle Paseo y Ave. Independencia. Plaza de la Revolución. La Habana, Av. Paseo, La Habana, Cuba",
         "Business Name" : "Memorial José Martí",
         "Country Code" : "CU",
         "Geo Coordinates" : {
@@ -10187,7 +13418,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=8925380002124601780",
       "Location" : {
-        "Address" : "Calle 8, La Habana, Cuba",
+        "Address" : "4JJ2+Q36, Calle 8, La Habana, Cuba",
         "Business Name" : "Parque John Lennon",
         "Country Code" : "CU",
         "Geo Coordinates" : {
@@ -10532,7 +13763,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=325689734418211596",
       "Location" : {
-        "Address" : "Trinidad, Cuba",
+        "Address" : "C. Cristo, Trinidad 62600, Cuba",
         "Business Name" : "Church of the Holy Trinity",
         "Country Code" : "CU",
         "Geo Coordinates" : {
@@ -10574,7 +13805,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=12704402601833895193",
       "Location" : {
-        "Address" : "Trinidad, Cuba",
+        "Address" : "R228+64G, Trinidad, Cuba",
         "Business Name" : "Plaza Carillo",
         "Geo Coordinates" : {
           "Latitude" : "21.8005712",
@@ -10594,7 +13825,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=14881490633231324377",
       "Location" : {
-        "Address" : "423 Calle Desengaño, Trinidad 62600, Cuba",
+        "Address" : "423 C. Desengaño, Trinidad 62600, Cuba",
         "Business Name" : "Museo de Historia Municipal",
         "Country Code" : "CU",
         "Geo Coordinates" : {
@@ -10615,7 +13846,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=3531659632388479040",
       "Location" : {
-        "Address" : "Calle Cristo, Trinidad, Cuba",
+        "Address" : "C. Cristo, Trinidad, Cuba",
         "Business Name" : "Convento de San Francisco de Asís",
         "Country Code" : "CU",
         "Geo Coordinates" : {
@@ -10636,7 +13867,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=17692367021819732488",
       "Location" : {
-        "Address" : "274 Calle Cristo, Trinidad, Cuba",
+        "Address" : "274 C. Cristo, Trinidad, Cuba",
         "Business Name" : "National Museum of the Struggle Against Bandits",
         "Country Code" : "CU",
         "Geo Coordinates" : {
@@ -10657,7 +13888,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=2703761487325517280",
       "Location" : {
-        "Address" : "52 Calle Cristo, Trinidad 62600, Cuba",
+        "Address" : "52 C. Cristo, Trinidad 62600, Cuba",
         "Business Name" : "Museo Romántico",
         "Country Code" : "CU",
         "Geo Coordinates" : {
@@ -10678,7 +13909,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=14603497628561097561",
       "Location" : {
-        "Address" : "95 Calle Real del Jigüe, Trinidad 62600, Cuba",
+        "Address" : "95 C. Real del Jigüe, Trinidad 62600, Cuba",
         "Business Name" : "Museo de Arqueologia",
         "Country Code" : "CU",
         "Geo Coordinates" : {
@@ -10699,7 +13930,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=6456645866960630739",
       "Location" : {
-        "Address" : "Trinidad 62600, Cuba",
+        "Address" : "R248+25V, Trinidad 62600, Cuba",
         "Business Name" : "Plaza Mayor",
         "Country Code" : "CU",
         "Geo Coordinates" : {
@@ -10720,7 +13951,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=9964762995078455617",
       "Location" : {
-        "Address" : "83 Calle Ripalda, Trinidad 62600, Cuba",
+        "Address" : "83 C. Ripalda, Trinidad 62600, Cuba",
         "Business Name" : "Colonial Architecture Museum",
         "Country Code" : "CU",
         "Geo Coordinates" : {
@@ -10917,7 +14148,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=17219195738663446282",
       "Location" : {
-        "Address" : "Cuba",
+        "Address" : "6X8C+2VR, Varadero, Cuba",
         "Business Name" : "Cayo Blanco",
         "Geo Coordinates" : {
           "Latitude" : "23.2151163",
@@ -10937,8 +14168,8 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=5050854942863408860",
       "Location" : {
-        "Address" : "Varadero, Cuba",
-        "Business Name" : "Varahicacos Ecological Reserve",
+        "Address" : "5RVW+M97, Varadero, Cuba",
+        "Business Name" : "Reserva Ecológica Varahicacos",
         "Country Code" : "CU",
         "Geo Coordinates" : {
           "Latitude" : "23.1941596",
@@ -11063,7 +14294,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=17504775735087661279",
       "Location" : {
-        "Address" : "Havana, Cuba",
+        "Address" : "4JVW+5C8, La Habana, Cuba",
         "Business Name" : "Palacio de la Artesania Casa Del Habano",
         "Country Code" : "CU",
         "Geo Coordinates" : {
@@ -11084,7 +14315,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=14240989276476055472",
       "Location" : {
-        "Address" : "Havana, Cuba",
+        "Address" : "4JVW+9P8, La Habana, Cuba",
         "Business Name" : "Parque Céspedes La Maestranza",
         "Country Code" : "CU",
         "Geo Coordinates" : {
@@ -11186,7 +14417,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=5049775373269280857",
       "Location" : {
-        "Address" : "Havana, Cuba",
+        "Address" : "4JQW+GWQ, La Habana, Cuba",
         "Business Name" : "Museo Numismatico",
         "Country Code" : "CU",
         "Geo Coordinates" : {
@@ -11207,7 +14438,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=6678834469820108465",
       "Location" : {
-        "Address" : "Havana, Cuba",
+        "Address" : "4JPR+XV7, La Habana, Cuba",
         "Business Name" : "Museo Nacional de Bellas Artes de Cuba - Sede de Arte Cubano",
         "Country Code" : "CU",
         "Geo Coordinates" : {
@@ -11228,7 +14459,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=10849701343009846614",
       "Location" : {
-        "Address" : "Havana, Cuba",
+        "Address" : "4JPR+349, La Habana, Cuba",
         "Business Name" : "Capitólio de Havana",
         "Country Code" : "CU",
         "Geo Coordinates" : {
@@ -11249,7 +14480,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=944148876085446723",
       "Location" : {
-        "Address" : "Havana, Cuba",
+        "Address" : "4MR2+349, La Habana, Cuba",
         "Business Name" : "Plaza de Armas",
         "Geo Coordinates" : {
           "Latitude" : "23.1401602",
@@ -11269,7 +14500,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=11789518260970577185",
       "Location" : {
-        "Address" : "458 Paseo de Martí, La Habana 10600, Cuba",
+        "Address" : "458 P.º de Martí, La Habana 10600, Cuba",
         "Business Name" : "Grand Theater of Havana",
         "Geo Coordinates" : {
           "Latitude" : "23.1369143",
@@ -11310,7 +14541,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=13266082585321868313",
       "Location" : {
-        "Address" : "Havana, Cuba",
+        "Address" : "4MW2+R5R, La Habana, Cuba",
         "Business Name" : "Fortaleza de San Carlos de La Cabaña",
         "Country Code" : "CU",
         "Geo Coordinates" : {
@@ -11394,7 +14625,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=14540632997693213930",
       "Location" : {
-        "Address" : "Havana, Cuba",
+        "Address" : "4JRX+89R, La Habana, Cuba",
         "Business Name" : "Plaza de la Catedral",
         "Country Code" : "CU",
         "Geo Coordinates" : {
@@ -11457,7 +14688,7 @@ placesData = {
       "Google Maps URL" : "http://maps.google.com/?cid=16496987217401916268",
       "Location" : {
         "Address" : "110 Leonor Pérez, La Habana, Cuba",
-        "Business Name" : "Church of St. Franciso of Paula",
+        "Business Name" : "Iglesia de San Francisco de Paula",
         "Country Code" : "CU",
         "Geo Coordinates" : {
           "Latitude" : "23.1309662",
@@ -11477,7 +14708,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=6212534136735410298",
       "Location" : {
-        "Address" : "Havana, Cuba",
+        "Address" : "4MP2+XHP, La Habana, Cuba",
         "Business Name" : "Plaza de San Francisco de Asís",
         "Country Code" : "CU",
         "Geo Coordinates" : {
@@ -11492,18 +14723,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -82.3485455, 23.1366579 ],
+      "coordinates" : [ -82.3485885, 23.1371469 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=2299001321898394650",
       "Location" : {
-        "Address" : "Oficios, La Habana, Cuba",
-        "Business Name" : "Basílica Menor de San Francisco de Asis",
+        "Address" : "154 Oficios, La Habana, Cuba",
+        "Business Name" : "St. Francisco de Asís Basilica",
         "Country Code" : "CU",
         "Geo Coordinates" : {
-          "Latitude" : "23.1366579",
-          "Longitude" : "-82.3485455"
+          "Latitude" : "23.1371469",
+          "Longitude" : "-82.3485885"
         }
       },
       "Published" : "2019-01-07T21:31:36Z",
@@ -11540,7 +14771,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=12020128088838244566",
       "Location" : {
-        "Address" : "Havana, Cuba",
+        "Address" : "4MP2+6W7, La Habana, Cuba",
         "Business Name" : "Museo del Ron Havana Club",
         "Country Code" : "CU",
         "Geo Coordinates" : {
@@ -11600,7 +14831,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=4266717624045776542",
       "Location" : {
-        "Address" : "Havana, Cuba",
+        "Address" : "4JQX+PM9, La Habana, Cuba",
         "Business Name" : "Museu Farmácia Taquechel",
         "Country Code" : "CU",
         "Geo Coordinates" : {
@@ -11621,7 +14852,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=17871172703052506467",
       "Location" : {
-        "Address" : "Havana, Cuba",
+        "Address" : "4JJJ+M98, La Habana, Cuba",
         "Business Name" : "Iglesia Del Sagrado Corazon de Jesus",
         "Country Code" : "CU",
         "Geo Coordinates" : {
@@ -11681,7 +14912,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=14796264894240672837",
       "Location" : {
-        "Address" : "Refugio Street 1, between Monserrate and Zulueta, Avenida Bélgica, La Habana 10600, Cuba",
+        "Address" : "Refugio Street 1, between Monserrate and Zulueta, Av. Bélgica, La Habana 10600, Cuba",
         "Business Name" : "Museu da Revolução",
         "Country Code" : "CU",
         "Geo Coordinates" : {
@@ -12241,17 +15472,17 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -49.2682733, -18.0466538 ],
+      "coordinates" : [ -49.2690620, -18.0462665 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=2487364934463614298",
       "Location" : {
-        "Address" : "Rod. Transbrasiliana, 521, Goiatuba - GO, 75600-000, Brasil",
+        "Address" : "Rod. Transbrasiliana, 521 - Goiatuba, GO, 75600-000, Brasil",
         "Business Name" : "Trevo de Acesso à Cidade de Goiatuba",
         "Geo Coordinates" : {
-          "Latitude" : "-18.0466538",
-          "Longitude" : "-49.2682733"
+          "Latitude" : "-18.0462665",
+          "Longitude" : "-49.2690620"
         }
       },
       "Published" : "2018-07-17T17:07:17Z",
@@ -12894,26 +16125,6 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -43.9787781, -19.9223483 ],
-      "type" : "Point"
-    },
-    "properties" : {
-      "Google Maps URL" : "http://maps.google.com/?cid=3009978576203817877",
-      "Location" : {
-        "Address" : "R. Costa Sena, 134 - 01 - Padre Eustáquio, Belo Horizonte - MG, 30720-350, Brasil",
-        "Business Name" : "Posto Trevo",
-        "Geo Coordinates" : {
-          "Latitude" : "-19.9223483",
-          "Longitude" : "-43.9787781"
-        }
-      },
-      "Published" : "2018-01-16T10:35:47Z",
-      "Title" : "Posto Trevo",
-      "Updated" : "2018-01-16T10:35:47Z"
-    },
-    "type" : "Feature"
-  }, {
-    "geometry" : {
       "coordinates" : [ -44.4306733, -18.7532048 ],
       "type" : "Point"
     },
@@ -13419,7 +16630,7 @@ placesData = {
       "Google Maps URL" : "http://maps.google.com/?cid=17182213174794443112",
       "Location" : {
         "Address" : "R. Kellers, 383 - São Francisco, Curitiba - PR, 80410-100, Brasil",
-        "Business Name" : "Mesquita Imam Ali ibn Abi Talib",
+        "Business Name" : "Mesquita Imam Ali ibn Abi Tálib",
         "Country Code" : "BR",
         "Geo Coordinates" : {
           "Latitude" : "-25.4272692",
@@ -13440,7 +16651,7 @@ placesData = {
       "Google Maps URL" : "http://maps.google.com/?cid=1180498639171010030",
       "Location" : {
         "Address" : "R. Dr. Mbá de Ferrante, s/n - Parque Tingui, Curitiba - PR, 81020-430, Brasil",
-        "Business Name" : "Memorial Ucraniano.",
+        "Business Name" : "Memorial Ucraniano",
         "Country Code" : "BR",
         "Geo Coordinates" : {
           "Latitude" : "-25.4023477",
@@ -13534,7 +16745,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -49.2725291, -25.4154098 ],
+      "coordinates" : [ -49.2725855, -25.4151919 ],
       "type" : "Point"
     },
     "properties" : {
@@ -13544,8 +16755,8 @@ placesData = {
         "Business Name" : "Museu do Holocausto",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-25.4154098",
-          "Longitude" : "-49.2725291"
+          "Latitude" : "-25.4151919",
+          "Longitude" : "-49.2725855"
         }
       },
       "Published" : "2018-01-12T11:57:46Z",
@@ -13726,7 +16937,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=2700547472541540060",
       "Location" : {
-        "Address" : "SC-370, Grão Pará - SC, 88650-000, Brasil",
+        "Address" : "SC-370 - Aiurê, Grão-Pará - SC, 88650-000, Brasil",
         "Business Name" : "Serra do Corvo Branco",
         "Country Code" : "BR",
         "Geo Coordinates" : {
@@ -13741,18 +16952,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -49.4099199, -28.1531294 ],
+      "coordinates" : [ -49.3930805, -28.1920731 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=6140032997505923571",
       "Location" : {
-        "Address" : "Santa Catarina, Brasil",
-        "Business Name" : "Parque Estadual da Serra Furada",
+        "Address" : "Estrada Geral, S/N - Chapadão, Orleans - SC, Brasil",
+        "Business Name" : "Parque Estadual da Serra Furada - sede sul",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-28.1531294",
-          "Longitude" : "-49.4099199"
+          "Latitude" : "-28.1920731",
+          "Longitude" : "-49.3930805"
         }
       },
       "Published" : "2018-01-09T00:29:37Z",
@@ -13768,7 +16979,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=11065559208410961229",
       "Location" : {
-        "Address" : "Rod, SC-390, Lauro Muller - SC, 88880-000, Brasil",
+        "Address" : "Rod, SC-390, Lauro Müller - SC, 88880-000, Brasil",
         "Business Name" : "Serra do Rio do Rastro",
         "Country Code" : "BR",
         "Geo Coordinates" : {
@@ -13981,7 +17192,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -49.5943489, -27.9925690 ],
+      "coordinates" : [ -49.5943412, -27.9927577 ],
       "type" : "Point"
     },
     "properties" : {
@@ -13991,8 +17202,8 @@ placesData = {
         "Business Name" : "Pousada Fazenda da Invernada",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-27.9925690",
-          "Longitude" : "-49.5943489"
+          "Latitude" : "-27.9927577",
+          "Longitude" : "-49.5943412"
         }
       },
       "Published" : "2018-01-07T00:08:15Z",
@@ -14170,7 +17381,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=9190313753008391125",
       "Location" : {
-        "Address" : "Est da Roça Nova, 3550, São Francisco de Paula - RS, 95400-000, Brasil",
+        "Address" : "Est da Roça Nova, 3550 - São Francisco de Paula, RS, 95400-000, Brasil",
         "Business Name" : "Terra do Sempre Reserva Ecológica e Pousada",
         "Country Code" : "BR",
         "Geo Coordinates" : {
@@ -14371,8 +17582,9 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=17323641539043090361",
       "Location" : {
-        "Address" : "Vespasiano Correa - RS, 95972-000, Brasil",
+        "Address" : "Vespasiano Corrêa - RS, 95972-000, Brasil",
         "Business Name" : "Viaduto 13",
+        "Country Code" : "BR",
         "Geo Coordinates" : {
           "Latitude" : "-29.0450145",
           "Longitude" : "-51.9109676"
@@ -15001,7 +18213,7 @@ placesData = {
       "Google Maps URL" : "http://maps.google.com/?cid=16488918551587059490",
       "Location" : {
         "Address" : "Mambaí - GO, 73970-000, Brasil",
-        "Business Name" : "camping do Zé",
+        "Business Name" : "Rancho do Zé",
         "Country Code" : "BR",
         "Geo Coordinates" : {
           "Latitude" : "-14.4784922",
@@ -15054,18 +18266,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -48.3997360, -16.1200198 ],
+      "coordinates" : [ -48.3985501, -16.1210288 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=8218874970784834240",
       "Location" : {
-        "Address" : "Rodovia BR060, KM 21, Alexânia - GO, 72920-000, Brasil",
-        "Business Name" : "Zinzane Outlet Premium Brasilia",
+        "Address" : "360, BR-060, Alexânia - GO, 72920-000, Brasil",
+        "Business Name" : "Outlet Premium Brasília",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-16.1200198",
-          "Longitude" : "-48.3997360"
+          "Latitude" : "-16.1210288",
+          "Longitude" : "-48.3985501"
         }
       },
       "Published" : "2017-08-14T20:56:31Z",
@@ -15237,18 +18449,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -48.8361504, -15.7920529 ],
+      "coordinates" : [ -48.8359680, -15.7943861 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=3761608972581788888",
       "Location" : {
-        "Address" : "Zona Rural, Pirenópolis - GO, 72980-000, Brasil",
+        "Address" : "Fazenda Abade - Morro dos Pirineus, Zona Rural, Cocalzinho de Goiás - GO, 72975-000, Brasil",
         "Business Name" : "Parque Estadual dos Pireneus",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-15.7920529",
-          "Longitude" : "-48.8361504"
+          "Latitude" : "-15.7943861",
+          "Longitude" : "-48.8359680"
         }
       },
       "Published" : "2017-08-14T20:53:16Z",
@@ -15351,7 +18563,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -73.9945530, 40.7026350 ],
+      "coordinates" : [ -73.9946422, 40.7026872 ],
       "type" : "Point"
     },
     "properties" : {
@@ -15361,8 +18573,8 @@ placesData = {
         "Business Name" : "Brooklyn Ice Cream Factory",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "40.7026350",
-          "Longitude" : "-73.9945530"
+          "Latitude" : "40.7026872",
+          "Longitude" : "-73.9946422"
         }
       },
       "Published" : "2017-07-27T20:35:39Z",
@@ -15563,7 +18775,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=3193964175346935370",
       "Location" : {
-        "Address" : "BR-330, 981, Jequié - BA, Brasil",
+        "Address" : "BR-330, 981 - Jequié, BA, Brasil",
         "Business Name" : "Barragem do cajueiro",
         "Country Code" : "BR",
         "Geo Coordinates" : {
@@ -15850,26 +19062,6 @@ placesData = {
       "Published" : "2017-01-04T00:52:45Z",
       "Title" : "Agrovila 8, Serra do Ramalho - BA",
       "Updated" : "2017-01-04T00:52:45Z"
-    },
-    "type" : "Feature"
-  }, {
-    "geometry" : {
-      "coordinates" : [ -43.6147187, -13.4094495 ],
-      "type" : "Point"
-    },
-    "properties" : {
-      "Google Maps URL" : "http://maps.google.com/?cid=13049976384463591707",
-      "Location" : {
-        "Address" : "Rua Principal - Agrovila 10, Serra do Ramalho - BA, 47630-000, Brasil",
-        "Business Name" : "Agrovila 06",
-        "Geo Coordinates" : {
-          "Latitude" : "-13.4094495",
-          "Longitude" : "-43.6147187"
-        }
-      },
-      "Published" : "2017-01-04T00:50:59Z",
-      "Title" : "Agrovila 10",
-      "Updated" : "2017-01-04T00:50:59Z"
     },
     "type" : "Feature"
   }, {
@@ -16375,7 +19567,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=10756759079103058027",
       "Location" : {
-        "Address" : "BR-242, Palmeiras - BA, 46930-000, Brasil",
+        "Address" : "BR-242 - Palmeiras, BA, 46930-000, Brasil",
         "Business Name" : "Morro do Pai Inácio, Palmeiras-BA",
         "Country Code" : "BR",
         "Geo Coordinates" : {
@@ -16396,7 +19588,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=6790841068819720847",
       "Location" : {
-        "Address" : "Iraquara - BA, 46980-000, Brasil",
+        "Address" : "Iraporanga, Iraquara - BA, 46980-000, Brasil",
         "Business Name" : "Gruta da pratinha",
         "Country Code" : "BR",
         "Geo Coordinates" : {
@@ -16597,7 +19789,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -46.6108580, -23.5374103 ],
+      "coordinates" : [ -46.6108560, -23.5374175 ],
       "type" : "Point"
     },
     "properties" : {
@@ -16606,8 +19798,8 @@ placesData = {
         "Address" : "Rua Dr. Manoel Vitorino, 343 - Brás, São Paulo - SP, 03017-020, Brasil",
         "Business Name" : "DATAPREV - Empresa de Tecnologia e Informações da Previdência Social",
         "Geo Coordinates" : {
-          "Latitude" : "-23.5374103",
-          "Longitude" : "-46.6108580"
+          "Latitude" : "-23.5374175",
+          "Longitude" : "-46.6108560"
         }
       },
       "Published" : "2016-09-10T10:18:37Z",
@@ -16635,18 +19827,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -48.7488534, -17.7759290 ],
+      "coordinates" : [ -48.7502080, -17.7732696 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=17577960439111168689",
       "Location" : {
-        "Address" : "Complexo Turístico do - Esplanada do Rio Quente, Rio Quente - GO, 75695-000, Brasil",
-        "Business Name" : "Hotel Pousada - Rio Quente Resorts",
+        "Address" : "RUA PARTICULAR COMPLEXO TURISTICO, SN - Esplanada do Rio Quente, Rio Quente - GO, 75667-000, Brasil",
+        "Business Name" : "Hotel Turismo - Rio Quente Resorts",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-17.7759290",
-          "Longitude" : "-48.7488534"
+          "Latitude" : "-17.7732696",
+          "Longitude" : "-48.7502080"
         }
       },
       "Published" : "2016-08-20T03:37:06Z",
@@ -19266,7 +22458,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=4746243883294601272",
       "Location" : {
-        "Address" : "Brasil",
+        "Address" : "Prado - BA, Brasil",
         "Business Name" : "Ponta do Corumbau",
         "Geo Coordinates" : {
           "Latitude" : "-16.8963919",
@@ -19370,7 +22562,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -40.3778092, -19.8903967 ],
+      "coordinates" : [ -40.3777713, -19.8903986 ],
       "type" : "Point"
     },
     "properties" : {
@@ -19380,8 +22572,8 @@ placesData = {
         "Business Name" : "Mosteiro Zen Morro da Vargem",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-19.8903967",
-          "Longitude" : "-40.3778092"
+          "Latitude" : "-19.8903986",
+          "Longitude" : "-40.3777713"
         }
       },
       "Published" : "2016-07-11T03:13:14Z",
@@ -19808,7 +23000,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -38.2852361, -12.8868401 ],
+      "coordinates" : [ -38.2861555, -12.8862050 ],
       "type" : "Point"
     },
     "properties" : {
@@ -19818,8 +23010,8 @@ placesData = {
         "Business Name" : "Barraca da Gávea",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-12.8868401",
-          "Longitude" : "-38.2852361"
+          "Latitude" : "-12.8862050",
+          "Longitude" : "-38.2861555"
         }
       },
       "Published" : "2016-07-11T03:07:06Z",
@@ -19915,27 +23107,6 @@ placesData = {
       "Published" : "2016-07-11T03:05:28Z",
       "Title" : "Estância, SE",
       "Updated" : "2016-07-11T03:05:28Z"
-    },
-    "type" : "Feature"
-  }, {
-    "geometry" : {
-      "coordinates" : [ -37.8965950, -9.5136967 ],
-      "type" : "Point"
-    },
-    "properties" : {
-      "Google Maps URL" : "http://maps.google.com/?cid=8411692694754764080",
-      "Location" : {
-        "Address" : "Cânions do São Francisco, Delmiro Gouveia - AL, 57480-000, Brasil",
-        "Business Name" : "Cânions de Xingó",
-        "Country Code" : "BR",
-        "Geo Coordinates" : {
-          "Latitude" : "-9.5136967",
-          "Longitude" : "-37.8965950"
-        }
-      },
-      "Published" : "2016-07-11T03:04:38Z",
-      "Title" : "Cânion do Xingó",
-      "Updated" : "2016-07-11T03:04:38Z"
     },
     "type" : "Feature"
   }, {
@@ -20036,7 +23207,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=7562594378828912523",
       "Location" : {
-        "Address" : "Roteiro - AL, 57246-000, Brasil",
+        "Address" : "Roteiro - AL, Brasil",
         "Business Name" : "Praia do Gunga",
         "Geo Coordinates" : {
           "Latitude" : "-9.8593898",
@@ -20410,7 +23581,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -63.5062784, -8.7494331 ],
+      "coordinates" : [ -63.5101432, -8.7509708 ],
       "type" : "Point"
     },
     "properties" : {
@@ -20420,8 +23591,8 @@ placesData = {
         "Business Name" : "Hotel Salsalito Jungle Park",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-8.7494331",
-          "Longitude" : "-63.5062784"
+          "Latitude" : "-8.7509708",
+          "Longitude" : "-63.5101432"
         }
       },
       "Published" : "2016-07-11T02:56:05Z",
@@ -20560,7 +23731,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -54.6202234, -20.4539217 ],
+      "coordinates" : [ -54.6202874, -20.4540649 ],
       "type" : "Point"
     },
     "properties" : {
@@ -20569,8 +23740,8 @@ placesData = {
         "Address" : "Av. Calógeras, 3065 - Centro, Campo Grande - MS, 79002-004, Brasil",
         "Business Name" : "Armazém Cultural",
         "Geo Coordinates" : {
-          "Latitude" : "-20.4539217",
-          "Longitude" : "-54.6202234"
+          "Latitude" : "-20.4540649",
+          "Longitude" : "-54.6202874"
         }
       },
       "Published" : "2016-03-12T19:42:10Z",
@@ -20738,7 +23909,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 11.5555556, 48.1369444 ],
+      "coordinates" : [ 11.5556000, 48.1370130 ],
       "type" : "Point"
     },
     "properties" : {
@@ -20748,8 +23919,8 @@ placesData = {
         "Business Name" : "Hotel Atlas City",
         "Country Code" : "DE",
         "Geo Coordinates" : {
-          "Latitude" : "48.1369444",
-          "Longitude" : "11.5555556"
+          "Latitude" : "48.1370130",
+          "Longitude" : "11.5556000"
         }
       },
       "Published" : "2014-09-26T11:39:29Z",
@@ -20759,7 +23930,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 10.6996554, 47.5684040 ],
+      "coordinates" : [ 10.6995780, 47.5684139 ],
       "type" : "Point"
     },
     "properties" : {
@@ -20769,8 +23940,8 @@ placesData = {
         "Business Name" : "Bavaria City Hostel - Design Hostel",
         "Country Code" : "DE",
         "Geo Coordinates" : {
-          "Latitude" : "47.5684040",
-          "Longitude" : "10.6996554"
+          "Latitude" : "47.5684139",
+          "Longitude" : "10.6995780"
         }
       },
       "Published" : "2014-09-26T11:37:22Z",
@@ -20842,7 +24013,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 8.6721668, 50.1124933 ],
+      "coordinates" : [ 8.6721548, 50.1122964 ],
       "type" : "Point"
     },
     "properties" : {
@@ -20852,8 +24023,8 @@ placesData = {
         "Business Name" : "Main Tower",
         "Country Code" : "DE",
         "Geo Coordinates" : {
-          "Latitude" : "50.1124933",
-          "Longitude" : "8.6721668"
+          "Latitude" : "50.1122964",
+          "Longitude" : "8.6721548"
         }
       },
       "Published" : "2014-09-26T11:34:37Z",
@@ -20941,7 +24112,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 6.9615417, 50.9384995 ],
+      "coordinates" : [ 6.9612735, 50.9385849 ],
       "type" : "Point"
     },
     "properties" : {
@@ -20951,8 +24122,8 @@ placesData = {
         "Business Name" : "Igreja de São Martinho Magno",
         "Country Code" : "DE",
         "Geo Coordinates" : {
-          "Latitude" : "50.9384995",
-          "Longitude" : "6.9615417"
+          "Latitude" : "50.9385849",
+          "Longitude" : "6.9612735"
         }
       },
       "Published" : "2014-09-26T11:30:32Z",
@@ -20989,7 +24160,7 @@ placesData = {
       "Google Maps URL" : "http://maps.google.com/?cid=12339601346908129009",
       "Location" : {
         "Address" : "50679 Cologne, Alemanha",
-        "Business Name" : "Hohenzollern Bridge",
+        "Business Name" : "Hohenzollernbrücke",
         "Country Code" : "DE",
         "Geo Coordinates" : {
           "Latitude" : "50.9416048",
@@ -21418,7 +24589,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=16700566346013981444",
       "Location" : {
-        "Address" : "rynek Starego Miasta, 00-279 Warszawa, Polônia",
+        "Address" : "rynek Starego Miasta, 00-272 Warszawa, Polônia",
         "Business Name" : "Praça do Mercado da Cidade Velha de Varsóvia",
         "Country Code" : "PL",
         "Geo Coordinates" : {
@@ -21514,7 +24685,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 21.0208166, 52.2383082 ],
+      "coordinates" : [ 21.0208288, 52.2383091 ],
       "type" : "Point"
     },
     "properties" : {
@@ -21524,8 +24695,8 @@ placesData = {
         "Business Name" : "Hostel Helvetia Warszawa",
         "Country Code" : "PL",
         "Geo Coordinates" : {
-          "Latitude" : "52.2383082",
-          "Longitude" : "21.0208166"
+          "Latitude" : "52.2383091",
+          "Longitude" : "21.0208288"
         }
       },
       "Published" : "2014-09-25T11:28:04Z",
@@ -21680,7 +24851,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=9844758488536360667",
       "Location" : {
-        "Address" : "Joselewicza 23, 31-000 Kraków, Polônia",
+        "Address" : "Berka Joselewicza 23, 31-000 Kraków, Polônia",
         "Business Name" : "Good Bye Lenin Pub & Garden Hostel",
         "Country Code" : "PL",
         "Geo Coordinates" : {
@@ -21877,7 +25048,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 19.0606451, 47.4946630 ],
+      "coordinates" : [ 19.0604686, 47.4947922 ],
       "type" : "Point"
     },
     "properties" : {
@@ -21887,8 +25058,8 @@ placesData = {
         "Business Name" : "Astoria City Hostel",
         "Country Code" : "HU",
         "Geo Coordinates" : {
-          "Latitude" : "47.4946630",
-          "Longitude" : "19.0606451"
+          "Latitude" : "47.4947922",
+          "Longitude" : "19.0604686"
         }
       },
       "Published" : "2014-09-23T11:01:13Z",
@@ -21934,7 +25105,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 17.1096998, 48.1439270 ],
+      "coordinates" : [ 17.1097025, 48.1439306 ],
       "type" : "Point"
     },
     "properties" : {
@@ -21944,8 +25115,8 @@ placesData = {
         "Business Name" : "Palácio dos Primados",
         "Country Code" : "SK",
         "Geo Coordinates" : {
-          "Latitude" : "48.1439270",
-          "Longitude" : "17.1096998"
+          "Latitude" : "48.1439306",
+          "Longitude" : "17.1097025"
         }
       },
       "Published" : "2014-09-23T10:57:54Z",
@@ -22078,7 +25249,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 16.3689589, 48.2028769 ],
+      "coordinates" : [ 16.3697090, 48.2031949 ],
       "type" : "Point"
     },
     "properties" : {
@@ -22088,8 +25259,8 @@ placesData = {
         "Business Name" : "Ópera de Viena",
         "Country Code" : "AT",
         "Geo Coordinates" : {
-          "Latitude" : "48.2028769",
-          "Longitude" : "16.3689589"
+          "Latitude" : "48.2031949",
+          "Longitude" : "16.3697090"
         }
       },
       "Published" : "2014-09-22T11:47:43Z",
@@ -22161,18 +25332,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 16.3660538, 48.2076579 ],
+      "coordinates" : [ 16.3647803, 48.2056578 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=9693178512344891999",
       "Location" : {
-        "Address" : "Michaelerkuppel, 1010 Wien, Áustria",
+        "Address" : "1010 Vienna, Áustria",
         "Business Name" : "Hofburg",
         "Country Code" : "AT",
         "Geo Coordinates" : {
-          "Latitude" : "48.2076579",
-          "Longitude" : "16.3660538"
+          "Latitude" : "48.2056578",
+          "Longitude" : "16.3647803"
         }
       },
       "Published" : "2014-09-22T11:43:45Z",
@@ -22182,7 +25353,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 16.3498903, 48.2248882 ],
+      "coordinates" : [ 16.3498992, 48.2248893 ],
       "type" : "Point"
     },
     "properties" : {
@@ -22192,8 +25363,8 @@ placesData = {
         "Business Name" : "Kantine Volksoper",
         "Country Code" : "AT",
         "Geo Coordinates" : {
-          "Latitude" : "48.2248882",
-          "Longitude" : "16.3498903"
+          "Latitude" : "48.2248893",
+          "Longitude" : "16.3498992"
         }
       },
       "Published" : "2014-09-22T11:42:54Z",
@@ -22266,7 +25437,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 16.3735137, 48.2108244 ],
+      "coordinates" : [ 16.3736223, 48.2107735 ],
       "type" : "Point"
     },
     "properties" : {
@@ -22276,8 +25447,8 @@ placesData = {
         "Business Name" : "Anker Clock",
         "Country Code" : "AT",
         "Geo Coordinates" : {
-          "Latitude" : "48.2108244",
-          "Longitude" : "16.3735137"
+          "Latitude" : "48.2107735",
+          "Longitude" : "16.3736223"
         }
       },
       "Published" : "2014-09-22T11:38:13Z",
@@ -22515,7 +25686,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 14.3980805, 50.0886774 ],
+      "coordinates" : [ 14.3980777, 50.0886773 ],
       "type" : "Point"
     },
     "properties" : {
@@ -22525,8 +25696,8 @@ placesData = {
         "Business Name" : "Arpacay Backpackers Hostel",
         "Country Code" : "CZ",
         "Geo Coordinates" : {
-          "Latitude" : "50.0886774",
-          "Longitude" : "14.3980805"
+          "Latitude" : "50.0886773",
+          "Longitude" : "14.3980777"
         }
       },
       "Published" : "2014-09-22T02:21:05Z",
@@ -22572,7 +25743,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 14.4352923, 50.0831859 ],
+      "coordinates" : [ 14.4353059, 50.0832088 ],
       "type" : "Point"
     },
     "properties" : {
@@ -22582,8 +25753,8 @@ placesData = {
         "Business Name" : "Praha hl.n.",
         "Country Code" : "CZ",
         "Geo Coordinates" : {
-          "Latitude" : "50.0831859",
-          "Longitude" : "14.4352923"
+          "Latitude" : "50.0832088",
+          "Longitude" : "14.4353059"
         }
       },
       "Published" : "2014-09-22T02:18:25Z",
@@ -22593,18 +25764,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 14.4658272, 50.0778615 ],
+      "coordinates" : [ 14.4260311, 50.0902753 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=15047985114981366954",
       "Location" : {
-        "Address" : "Vinohradská 2279, 130 00 Vinohrady, Tchéquia",
+        "Address" : "716/24, Rybná, 110 00 Staré Město, Tchéquia",
         "Business Name" : "SHOOTING IN PRAGUE",
         "Country Code" : "CZ",
         "Geo Coordinates" : {
-          "Latitude" : "50.0778615",
-          "Longitude" : "14.4658272"
+          "Latitude" : "50.0902753",
+          "Longitude" : "14.4260311"
         }
       },
       "Published" : "2014-09-22T02:17:21Z",
@@ -22683,7 +25854,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=10718019761897753594",
       "Location" : {
-        "Address" : "Červená, 110 01 Praga 1, Tchéquia",
+        "Address" : "Červená, 110 01 Josefov, Tchéquia",
         "Business Name" : "Sinagoga Velha Nova",
         "Country Code" : "CZ",
         "Geo Coordinates" : {

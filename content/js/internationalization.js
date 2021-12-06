@@ -188,6 +188,142 @@ internationalData = [
       pt_br: "Pronto para iniciar seu próximo projeto? Ligue ou envie um e-mail e entrarei em contato o mais breve possível!"
     }
   },
+
+  {
+    id : "lessons-title-1",
+    label: {
+      en: "Cloud Orchestrators",
+      pt_br: "Orquestradores de Nuvem"
+    }
+  },
+
+  {
+    id : "lessons-btn-open-1",
+    label: {
+      en: "Open (portuguese)",
+      pt_br: "Abrir"
+    }
+  },
+
+  {
+    id : "lessons-btn-open-2",
+    label: {
+      en: "Open (portuguese)",
+      pt_br: "Abrir"
+    }
+  },
+
+  {
+    id : "lessons-title-2",
+    label: {
+      en: "Function-as-a-Service",
+      pt_br: "Funções como Serviço"
+    }
+  },
+
+  {
+    id : "lessons-btn-open-3",
+    label: {
+      en: "Open (portuguese)",
+      pt_br: "Abrir"
+    }
+  },
+
+  {
+    id : "lessons-title-3",
+    label: {
+      en: "Framework Node2FaaS",
+      pt_br: "Framework Node2FaaS"
+    }
+  },
+
+  {
+    id : "publication-btn-presentation-1",
+    label: {
+      en: "Presentation",
+      pt_br: "Apresentação"
+    }
+  },
+
+  {
+    id : "publication-tag-master-1",
+    label: {
+      en: "Master",
+      pt_br: "Mestrado / Dissertação"
+    }
+  },
+
+  {
+    id : "blog_title_1",
+    label: {
+      en: "Where are the winds of cloud computing blowing?",
+      pt_br: "Para aonde sopram os ventos da computação em nuvem?"
+    }
+  },
+
+  {
+    id : "blog_text_1",
+    label: {
+      en: "More than a decade ago, when Amazon, the American retail giant, decided to venture into the unknown world of cloud providers, it was impossible to imagine how important the new concept the company was launching would become.<br/>In academia. , the cloud concept was not exactly new, since computational GRIDs had been used for a long time by large universities that shared computational resources over the internet.",
+      pt_br: "Há mais de uma década, quando a Amazon, gigante americana do varejo, resolveu se aventurar no desconhecido mundo dos provedores de nuvem, não era possível imaginar quão importante se tornaria o novo conceito que a empresa estava lançando.<br/>No meio acadêmico, o conceito de nuvem não era exatamente uma novidade, um vez que os GRIDs computacionais já eram utilizados há bastante tempo por grandes universidades que compartilhavam recursos computacionais através da internet."
+    }
+  },
+
+  {
+    id : "blog_btn_read_1",
+    label: {
+      en: "Read (portuguese)",
+      pt_br: "Ler"
+    }
+  },
+
+  {
+    id : "blog_title_2",
+    label: {
+      en: "Function as a Service: what is it and what is it for?",
+      pt_br: "Function as a Service: o que é e para quê serve?"
+    }
+  },
+
+  {
+    id : "blog_text_2",
+    label: {
+      en: "Providers have recently started to offer a service model that delivers a completely encapsulated platform for software development and only charges for the processing actually performed by the platform. This type of service, known as Function as a Service (FaaS), has gained a lot of evidence, since its approach meets the architectural model that has been very widespread nowadays, which is the microservices paradigm.",
+      pt_br: "Recentemente os provedores passaram a oferecer um modelo de serviço que entrega uma plataforma completamente encapsulada para desenvolvimento de software e cobra apenas pelo processamento efetivamente executado pela plataforma. Esse tipo de serviço, conhecido como Function as a Service (FaaS), tem ganhado bastante evidência, uma vez que a sua abordagem vai ao encontro do modelo arquitetural que tem sido bastante difundido na atualidade, que é o paradigma de microsserviços."
+    }
+  },
+
+  {
+    id : "blog_btn_read_2",
+    label: {
+      en: "Read (portuguese)",
+      pt_br: "Ler"
+    }
+  },
+
+  {
+    id : "blog_title_3",
+    label: {
+      en: "Code Spoofing. Understand this approach.",
+      pt_br: "FaaSificação de código. Entenda essa abordagem."
+    }
+  },
+
+  {
+    id : "blog_text_3",
+    label: {
+      en: "Simplicity, low barriers to entry and a fast path to first success are among the key requirements to ensure that concepts and technologies are chosen by software engineers. One of the most promising software delivery paradigms is serverless computing, which has spawned dozens of new runtime technologies and commercial offerings. The corresponding application development methods and tools took longer to appear.",
+      pt_br: "Simplicidade, baixas barreiras de entrada e um caminho rápido para o primeiro sucesso estão entre os principais requisitos para garantir que os conceitos e tecnologias sejam escolhidos pelos engenheiros de software. Um dos paradigmas de entrega de software mais promissores é a computação sem servidor, que gerou dezenas de novas tecnologias de tempo de execução e ofertas comerciais. Os métodos e ferramentas de desenvolvimento de aplicativos correspondentes levaram mais tempo para aparecer."
+    }
+  },
+
+  {
+    id : "blog_btn_read_3",
+    label: {
+      en: "Read (portuguese)",
+      pt_br: "Ler"
+    }
+  },
   
   {
     id : "proj_title_1",
