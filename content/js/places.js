@@ -2,6 +2,3299 @@ placesData = {
   "type" : "FeatureCollection",
   "features" : [ {
     "geometry" : {
+      "coordinates" : [ -39.7293198, -18.5905910 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+da+Barra+-+Av.+Carlos+Castro+-+Concei%C3%A7%C3%A3o+da+Barra,+ES,+29960-000&ftid=0xca69240713afb5:0x5197f9a018a832c3",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-18.5905910",
+          "Longitude" : "-39.7293198"
+        }
+      },
+      "Published" : "2022-01-07T09:30:20Z",
+      "Title" : "Praia da Barra, Av. Carlos Castro - Conceição da Barra, ES, 29960-000",
+      "Updated" : "2022-01-07T09:30:20Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.0979396, -19.1911851 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Sooretama,+ES,+29927-000&ftid=0xb6191d371f3321:0x4106c9e20c5c55d5",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-19.1911851",
+          "Longitude" : "-40.0979396"
+        }
+      },
+      "Published" : "2022-01-07T09:30:06Z",
+      "Title" : "Sooretama, ES, 29927-000",
+      "Updated" : "2022-01-07T09:30:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -39.8558749, -18.7166078 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=S%C3%A3o+Mateus,+ES&ftid=0xca0df27a5749f5:0xd8297d72c50d1b82",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-18.7166078",
+          "Longitude" : "-39.8558749"
+        }
+      },
+      "Published" : "2022-01-07T09:29:33Z",
+      "Title" : "São Mateus, ES",
+      "Updated" : "2022-01-07T09:29:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -39.7480507, -18.7531818 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17827009988104806315",
+      "Location" : {
+        "Address" : "Av. Oceano Atlântico - Guriri Sul, São Mateus - ES, 29945-550, Brasil",
+        "Business Name" : "Praia De Guriri",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-18.7531818",
+          "Longitude" : "-39.7480507"
+        }
+      },
+      "Published" : "2022-01-07T09:29:25Z",
+      "Title" : "Praia De Guriri",
+      "Updated" : "2022-01-07T09:29:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -39.5499731, -18.0833977 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Mucuri,+BA,+45930-000&ftid=0xcac22affc62401:0x46da94dddb73ed3d",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-18.0833977",
+          "Longitude" : "-39.5499731"
+        }
+      },
+      "Published" : "2022-01-06T23:19:41Z",
+      "Title" : "Mucuri, BA, 45930-000",
+      "Updated" : "2022-01-06T23:19:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.0653505, -19.3990502 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Linhares,+ES&ftid=0xb624fa1ad6fe2b:0x51fd1d6a62e6fde0",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-19.3990502",
+          "Longitude" : "-40.0653505"
+        }
+      },
+      "Published" : "2022-01-06T15:47:26Z",
+      "Title" : "Linhares, ES",
+      "Updated" : "2022-01-06T15:47:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.1963860, -20.2053524 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+de+Manguinhos+-+Av.+Sagarana,+317+-+Manguinhos,+Serra+-+ES,+29173-007&ftid=0xb81c5b32db44cf:0x4adbcf7b47b3b232",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.2053524",
+          "Longitude" : "-40.1963860"
+        }
+      },
+      "Published" : "2022-01-06T15:46:53Z",
+      "Title" : "Praia de Manguinhos, Av. Sagarana, 317 - Manguinhos, Serra - ES, 29173-007",
+      "Updated" : "2022-01-06T15:46:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.1874918, -20.0390817 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+Grande,+Fund%C3%A3o+-+ES&ftid=0xb7f101c7ddadbd:0x860cb7b1cb0368cc",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.0390817",
+          "Longitude" : "-40.1874918"
+        }
+      },
+      "Published" : "2022-01-06T15:46:45Z",
+      "Title" : "Praia Grande, Fundão - ES",
+      "Updated" : "2022-01-06T15:46:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.0646746, -19.8248790 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Barra+do+Riacho+-+Aracruz,+ES,+29197-503&ftid=0xb7dc29141f1dcd:0x8c9815ebadda6bda",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-19.8248790",
+          "Longitude" : "-40.0646746"
+        }
+      },
+      "Published" : "2022-01-06T15:46:38Z",
+      "Title" : "Barra do Riacho - Aracruz, ES, 29197-503",
+      "Updated" : "2022-01-06T15:46:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.0887872, -19.8746415 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Barra+do+Sa%C3%AD+-+Santa+Cruz,+Aracruz+-+ES,+29198-104&ftid=0xb7e7669fa90271:0x654d2051161c941e",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-19.8746415",
+          "Longitude" : "-40.0887872"
+        }
+      },
+      "Published" : "2022-01-06T15:46:33Z",
+      "Title" : "Barra do Saí - Santa Cruz, Aracruz - ES, 29198-104",
+      "Updated" : "2022-01-06T15:46:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -39.7057573, -19.1984891 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+de+Pontal+do+Ipiranga+-+Pontal+do+Ipiranga,+Linhares+-+ES&ftid=0xc9edead284d803:0x9c334f1f91e27ff0",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-19.1984891",
+          "Longitude" : "-39.7057573"
+        }
+      },
+      "Published" : "2022-01-06T15:46:18Z",
+      "Title" : "Praia de Pontal do Ipiranga - Pontal do Ipiranga, Linhares - ES",
+      "Updated" : "2022-01-06T15:46:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.3036883, -20.2883572 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7581765661202134961",
+      "Location" : {
+        "Address" : "Av. Nossa Sra. da Penha, 2656 - Santa Luíza, Vitória - ES, 29045-402, Brasil",
+        "Business Name" : "Easy Reta da Penha by Atlantica",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-20.2883572",
+          "Longitude" : "-40.3036883"
+        }
+      },
+      "Published" : "2022-01-05T21:36:37Z",
+      "Title" : "Easy Reta da Penha by Atlantica",
+      "Updated" : "2022-01-05T21:36:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.2870690, -20.3293623 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11728852356073328531",
+      "Location" : {
+        "Address" : "R. Vasco Coutinho - Prainha, Vila Velha - ES, 29100-231, Brasil",
+        "Business Name" : "Convento da Penha",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-20.3293623",
+          "Longitude" : "-40.2870690"
+        }
+      },
+      "Published" : "2022-01-05T19:30:49Z",
+      "Title" : "Convento da Penha",
+      "Updated" : "2022-01-05T19:30:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.2869167, -20.3340547 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Convento+da+Penha,+Vila+Velha+-+ES,+29100-041&ftid=0xb81648d2ab294b:0x66dfd80cf5e235b2",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.3340547",
+          "Longitude" : "-40.2869167"
+        }
+      },
+      "Published" : "2022-01-05T19:30:35Z",
+      "Title" : "Convento da Penha, Vila Velha - ES, 29100-041",
+      "Updated" : "2022-01-05T19:30:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.3031596, -20.2696190 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9648135331980366571",
+      "Location" : {
+        "Address" : "R. das Paneleiras, 55 - Goiabeiras, Vitória - ES, 29075-105, Brasil",
+        "Business Name" : "Associação das Paneleiras de Goiabeiras",
+        "Geo Coordinates" : {
+          "Latitude" : "-20.2696190",
+          "Longitude" : "-40.3031596"
+        }
+      },
+      "Published" : "2022-01-05T19:30:21Z",
+      "Title" : "Associação das Paneleiras de Goiabeiras",
+      "Updated" : "2022-01-05T19:30:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.3397104, -20.3212011 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14344188937239248262",
+      "Location" : {
+        "Address" : "Praça João Clímaco, 142 - Centro, Vitória - ES, 29015-110, Brasil",
+        "Business Name" : "Palácio Anchieta",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-20.3212011",
+          "Longitude" : "-40.3397104"
+        }
+      },
+      "Published" : "2022-01-05T19:30:07Z",
+      "Title" : "Palácio Anchieta",
+      "Updated" : "2022-01-05T19:30:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.3371459, -20.3198731 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17924870657025689465",
+      "Location" : {
+        "Address" : "Praça, R. Dom Luís Scortegagna, s/n - Centro, Vitória - ES, 29015-030, Brasil",
+        "Business Name" : "Catedral Metropolitana de Vitória",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-20.3198731",
+          "Longitude" : "-40.3371459"
+        }
+      },
+      "Published" : "2022-01-05T19:29:58Z",
+      "Title" : "Catedral Metropolitana de Vitória",
+      "Updated" : "2022-01-05T19:29:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.2601612, -20.2581913 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12018813632517082426",
+      "Location" : {
+        "Address" : "Av. dos Expedicionários, s/n - Jardim Camburi, Vitória - ES, 29090-070, Brasil",
+        "Business Name" : "Parque Botânico Vale",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-20.2581913",
+          "Longitude" : "-40.2601612"
+        }
+      },
+      "Published" : "2022-01-05T15:30:58Z",
+      "Title" : "Parque Botânico Vale",
+      "Updated" : "2022-01-05T15:30:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.3088637, -20.3382289 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13188714348679389465",
+      "Location" : {
+        "Address" : "Praça Meyerfreund, 1 - Glória, Vila Velha - ES, 29122-900, Brasil",
+        "Business Name" : "Chocolates Garoto LTDA",
+        "Geo Coordinates" : {
+          "Latitude" : "-20.3382289",
+          "Longitude" : "-40.3088637"
+        }
+      },
+      "Published" : "2022-01-05T13:21:46Z",
+      "Title" : "Chocolates Garoto LTDA",
+      "Updated" : "2022-01-05T13:21:46Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.4996420, -20.6701240 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17765808596339994090",
+      "Location" : {
+        "Address" : "Av. Davino Mattos, s/n - Centro, Guarapari - ES, 29200-430, Brasil",
+        "Business Name" : "Paróquia Nossa Senhora da Conceição",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-20.6701240",
+          "Longitude" : "-40.4996420"
+        }
+      },
+      "Published" : "2022-01-04T22:55:24Z",
+      "Title" : "Paróquia Nossa Senhora da Conceição",
+      "Updated" : "2022-01-04T22:55:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.4944229, -20.6665783 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6050089456765077690",
+      "Location" : {
+        "Address" : "Guarapari, ES, 29200-120, Brasil",
+        "Business Name" : "Poço dos Jesuitas",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-20.6665783",
+          "Longitude" : "-40.4944229"
+        }
+      },
+      "Published" : "2022-01-04T22:55:11Z",
+      "Title" : "Poço dos Jesuitas",
+      "Updated" : "2022-01-04T22:55:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.4951439, -20.6714771 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+dos+Namorados+-+Guarapari,+ES&ftid=0xb857bc49dcb4ad:0x2c78868a1ee92860",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.6714771",
+          "Longitude" : "-40.4951439"
+        }
+      },
+      "Published" : "2022-01-04T22:55:04Z",
+      "Title" : "Praia dos Namorados - Guarapari, ES",
+      "Updated" : "2022-01-04T22:55:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.4999838, -20.6738927 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Guarapari,+ES&ftid=0xb857603fd9399d:0xb44c9166b2c1b315",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.6738927",
+          "Longitude" : "-40.4999838"
+        }
+      },
+      "Published" : "2022-01-04T22:54:54Z",
+      "Title" : "Guarapari, ES",
+      "Updated" : "2022-01-04T22:54:54Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.4996710, -20.6741452 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10160863035987566764",
+      "Location" : {
+        "Address" : "R. Simplício Almeida Rodrigues, 2 - Centro, Guarapari - ES, 29200-370, Brasil",
+        "Business Name" : "Radium Hotel",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-20.6741452",
+          "Longitude" : "-40.4996710"
+        }
+      },
+      "Published" : "2022-01-04T22:54:47Z",
+      "Title" : "Radium Hotel",
+      "Updated" : "2022-01-04T22:54:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.5018228, -20.6764784 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+Areia+Preta+-+Guarapari,+ES&ftid=0xb857b85e3c87c1:0x534fbc1d0763e2c8",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.6764784",
+          "Longitude" : "-40.5018228"
+        }
+      },
+      "Published" : "2022-01-04T22:54:37Z",
+      "Title" : "Praia Areia Preta - Guarapari, ES",
+      "Updated" : "2022-01-04T22:54:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.6309325, -20.8382848 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+Boca+da+Baleia+-+Rua+Vinte+Nove,+R.+Praia+dos+Castelhanos,+s/n+-+Guanabara,+Anchieta+-+ES,+29230-000&ftid=0xb8e29be7665419:0x5b29cbe74912ea07",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.8382848",
+          "Longitude" : "-40.6309325"
+        }
+      },
+      "Published" : "2022-01-04T22:54:22Z",
+      "Title" : "Praia Boca da Baleia, Rua Vinte Nove, R. Praia dos Castelhanos, s/n - Guanabara, Anchieta - ES, 29230-000",
+      "Updated" : "2022-01-04T22:54:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.5246989, -20.7263270 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+de+Guaibura+-+Enseada+Azul,+Guarapari+-+ES,+29206-050&ftid=0xb8f8e2e56b77e3:0x3d8e9eb7bc7f2a18",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.7263270",
+          "Longitude" : "-40.5246989"
+        }
+      },
+      "Published" : "2022-01-04T22:53:45Z",
+      "Title" : "Praia de Guaibura - Enseada Azul, Guarapari - ES, 29206-050",
+      "Updated" : "2022-01-04T22:53:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.5369540, -20.7389114 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+de+Mea%C3%ADpe+-+Guarapari,+ES&ftid=0xb8f93bd6cd5bf3:0xc49d4cf1fdcd0f31",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.7389114",
+          "Longitude" : "-40.5369540"
+        }
+      },
+      "Published" : "2022-01-04T22:53:22Z",
+      "Title" : "Praia de Meaípe - Guarapari, ES",
+      "Updated" : "2022-01-04T22:53:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.5732692, -20.7682683 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+de+M%C3%A3e-B%C3%A1+-+Anchieta,+ES&ftid=0xb8fc15f4416061:0x87e999444649661",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.7682683",
+          "Longitude" : "-40.5732692"
+        }
+      },
+      "Published" : "2022-01-04T22:53:14Z",
+      "Title" : "Praia de Mãe-Bá - Anchieta, ES",
+      "Updated" : "2022-01-04T22:53:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.6031690, -20.8046230 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+de+Parati+-+Anchieta+-+Lot.+S.i.m.c.o,+Anchieta+-+ES,+29230-000&ftid=0xb8fd22bc5ebf01:0xd6fba37476870863",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.8046230",
+          "Longitude" : "-40.6031690"
+        }
+      },
+      "Published" : "2022-01-04T22:53:04Z",
+      "Title" : "Praia de Parati - Anchieta - Lot. S.i.m.c.o, Anchieta - ES, 29230-000",
+      "Updated" : "2022-01-04T22:53:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.7230627, -20.8382491 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Pi%C3%BAma+-+Itaputanga,+Pi%C3%BAma+-+ES&ftid=0xb91b974641382f:0x24d2b789358e991d",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.8382491",
+          "Longitude" : "-40.7230627"
+        }
+      },
+      "Published" : "2022-01-04T22:51:32Z",
+      "Title" : "Piúma - Itaputanga, Piúma - ES",
+      "Updated" : "2022-01-04T22:51:32Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.7770153, -20.8969817 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Itaipava+-+Ita%C3%B3ca,+Itapemirim+-+ES,+29330-000&ftid=0xb9183732c56b83:0xbd4768c832d1aa0f",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.8969817",
+          "Longitude" : "-40.7770153"
+        }
+      },
+      "Published" : "2022-01-04T22:51:22Z",
+      "Title" : "Itaipava - Itaóca, Itapemirim - ES, 29330-000",
+      "Updated" : "2022-01-04T22:51:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.6490244, -20.8040572 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Anchieta,+ES,+29230-000&ftid=0xb8fd6039a98b97:0x373ef608b9c655a0",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.8040572",
+          "Longitude" : "-40.6490244"
+        }
+      },
+      "Published" : "2022-01-04T18:30:52Z",
+      "Title" : "Anchieta, ES, 29230-000",
+      "Updated" : "2022-01-04T18:30:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.8230322, -21.0413619 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Marata%C3%ADzes,+ES&ftid=0xb9372b49d0fda1:0x68d48f4b3397bf08",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-21.0413619",
+          "Longitude" : "-40.8230322"
+        }
+      },
+      "Published" : "2022-01-04T15:43:35Z",
+      "Title" : "Marataízes, ES",
+      "Updated" : "2022-01-04T15:43:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.8450895, -21.0928965 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10864906468348730958",
+      "Location" : {
+        "Address" : "Alto Lagoa Funda, Marataízes - ES, 29345-000, Brasil",
+        "Business Name" : "Lagoa Dantas",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-21.0928965",
+          "Longitude" : "-40.8450895"
+        }
+      },
+      "Published" : "2022-01-04T15:43:22Z",
+      "Title" : "Lagoa Dantas",
+      "Updated" : "2022-01-04T15:43:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.8831559, -21.1442635 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8791125459880893482",
+      "Location" : {
+        "Address" : "Avenida Atlântica 13442-14208 - Boa Vista, Marataízes - ES, 29345-000, Brasil",
+        "Business Name" : "Praia das Falésias",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-21.1442635",
+          "Longitude" : "-40.8831559"
+        }
+      },
+      "Published" : "2022-01-04T15:43:09Z",
+      "Title" : "Praia das Falésias",
+      "Updated" : "2022-01-04T15:43:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.9282326, -21.1924780 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+de+Marob%C3%A1,+Esp%C3%ADrito+Santo&ftid=0xb935324079a34f:0xab427bcab37a2494",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-21.1924780",
+          "Longitude" : "-40.9282326"
+        }
+      },
+      "Published" : "2022-01-04T15:42:51Z",
+      "Title" : "Praia de Marobá, Espírito Santo",
+      "Updated" : "2022-01-04T15:42:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.9742687, -21.3007635 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Itabapoana+-+Barra+Seca,+S%C3%A3o+Francisco+de+Itabapoana+-+RJ,+28230-000&ftid=0xbeb6349bc8be4f:0xaadc965fd6b11ac6",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-21.3007635",
+          "Longitude" : "-40.9742687"
+        }
+      },
+      "Published" : "2022-01-04T15:42:34Z",
+      "Title" : "Itabapoana - Barra Seca, São Francisco de Itabapoana - RJ, 28230-000",
+      "Updated" : "2022-01-04T15:42:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.0060682, -21.4172856 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+de+Samambaia+-+Barra+Seca,+S%C3%A3o+Francisco+de+Itabapoana+-+RJ,+28230-000&ftid=0xbebed102c246bb:0x5e00eb7f58a61fb8",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-21.4172856",
+          "Longitude" : "-41.0060682"
+        }
+      },
+      "Published" : "2022-01-04T15:42:19Z",
+      "Title" : "Praia de Samambaia - Barra Seca, São Francisco de Itabapoana - RJ, 28230-000",
+      "Updated" : "2022-01-04T15:42:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -40.9642655, -21.3620273 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17287920010414302776",
+      "Location" : {
+        "Address" : "Barra Seca, São Francisco de Itabapoana - RJ, 28230-000, Brasil",
+        "Business Name" : "Praia de Guriri",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-21.3620273",
+          "Longitude" : "-40.9642655"
+        }
+      },
+      "Published" : "2022-01-04T15:42:02Z",
+      "Title" : "Praia de Guriri",
+      "Updated" : "2022-01-04T15:42:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.0147108, -21.4100148 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Buena+-+Barra+Seca,+S%C3%A3o+Francisco+de+Itabapoana+-+RJ,+28230-000&ftid=0xbeb94b0dfdf4d9:0x7308258123b64838",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-21.4100148",
+          "Longitude" : "-41.0147108"
+        }
+      },
+      "Published" : "2022-01-04T15:41:53Z",
+      "Title" : "Buena - Barra Seca, São Francisco de Itabapoana - RJ, 28230-000",
+      "Updated" : "2022-01-04T15:41:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.0686363, -21.5784718 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Garga%C3%BA+-+S%C3%A3o+Francisco+de+Itabapoana,+RJ,+28230-000&ftid=0xbe910f96c15403:0xa53ba93e993989ad",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-21.5784718",
+          "Longitude" : "-41.0686363"
+        }
+      },
+      "Published" : "2022-01-04T15:41:46Z",
+      "Title" : "Gargaú - São Francisco de Itabapoana, RJ, 28230-000",
+      "Updated" : "2022-01-04T15:41:46Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.0705860, -21.5332983 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+de+Santa+Clara,+Rio+de+Janeiro&ftid=0xbe96d0060026bb:0xd3f9af5d0be83c4c",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-21.5332983",
+          "Longitude" : "-41.0705860"
+        }
+      },
+      "Published" : "2022-01-04T12:35:39Z",
+      "Title" : "Praia de Santa Clara, Rio de Janeiro",
+      "Updated" : "2022-01-04T12:35:39Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.7818746, -22.3939703 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+Campista,+Maca%C3%A9+-+RJ,+27970-020&ftid=0x9630ec0add6a75:0x8befd61369d947fa",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.3939703",
+          "Longitude" : "-41.7818746"
+        }
+      },
+      "Published" : "2022-01-04T09:03:35Z",
+      "Title" : "Praia Campista, Macaé - RJ, 27970-020",
+      "Updated" : "2022-01-04T09:03:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.6617092, -22.1901375 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Carapebus,+RJ,+27998-000&ftid=0xbd8a46e5066f8b:0xe658c120800735c5",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.1901375",
+          "Longitude" : "-41.6617092"
+        }
+      },
+      "Published" : "2022-01-03T23:51:23Z",
+      "Title" : "Carapebus, RJ, 27998-000",
+      "Updated" : "2022-01-03T23:51:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.7830141, -22.3772253 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Maca%C3%A9,+RJ&ftid=0x9630267844443b:0x9840d1e83fd0de59",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.3772253",
+          "Longitude" : "-41.7830141"
+        }
+      },
+      "Published" : "2022-01-03T23:48:40Z",
+      "Title" : "Macaé, RJ",
+      "Updated" : "2022-01-03T23:48:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.9463938, -22.5273001 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Rio+das+Ostras,+RJ&ftid=0x97b4d9abd0d487:0x1adf24037f21b4b2",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.5273001",
+          "Longitude" : "-41.9463938"
+        }
+      },
+      "Published" : "2022-01-03T23:46:01Z",
+      "Title" : "Rio das Ostras, RJ",
+      "Updated" : "2022-01-03T23:46:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.4664573, -22.1077449 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Quissam%C3%A3,+RJ,+28735-000&ftid=0xbdefc952ec5ced:0xe570298a4fad1bb6",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.1077449",
+          "Longitude" : "-41.4664573"
+        }
+      },
+      "Published" : "2022-01-03T23:45:29Z",
+      "Title" : "Quissamã, RJ, 28735-000",
+      "Updated" : "2022-01-03T23:45:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.1332080, -22.0968500 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9977849549055298605",
+      "Location" : {
+        "Address" : "WV38+7P, Quissamã - RJ, Brasil",
+        "Business Name" : "Ponta da Barra do Furado",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-22.0968500",
+          "Longitude" : "-41.1332080"
+        }
+      },
+      "Published" : "2022-01-03T23:45:13Z",
+      "Title" : "Ponta da Barra do Furado",
+      "Updated" : "2022-01-03T23:45:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.0505751, -22.0400899 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Farol+de+S%C3%A3o+Thom%C3%A9,+Campos+dos+Goytacazes+-+RJ&ftid=0xbe6c6cb466f83d:0x4494ee5baf34d412",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.0400899",
+          "Longitude" : "-41.0505751"
+        }
+      },
+      "Published" : "2022-01-03T23:42:35Z",
+      "Title" : "Farol de São Thomé, Campos dos Goytacazes - RJ",
+      "Updated" : "2022-01-03T23:42:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.0192315, -21.6267746 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=S%C3%A3o+Jo%C3%A3o+da+Barra+-+Atafona,+S%C3%A3o+Jo%C3%A3o+da+Barra+-+RJ&ftid=0xbe8e7efbc04cbf:0xa3b44b2b0ff3b777",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-21.6267746",
+          "Longitude" : "-41.0192315"
+        }
+      },
+      "Published" : "2022-01-03T23:42:27Z",
+      "Title" : "São João da Barra - Atafona, São João da Barra - RJ",
+      "Updated" : "2022-01-03T23:42:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.3167841, -21.7614561 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Campos+dos+Goytacazes,+RJ&ftid=0xbdd5d1be81b545:0xee97b136e7168ee1",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-21.7614561",
+          "Longitude" : "-41.3167841"
+        }
+      },
+      "Published" : "2022-01-03T23:42:15Z",
+      "Title" : "Campos dos Goytacazes, RJ",
+      "Updated" : "2022-01-03T23:42:15Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.3512932, -21.7668386 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5091032345104785481",
+      "Location" : {
+        "Address" : "R. Carlos Drummond de Andrade, 95 - Parque Rodoviária, Campos dos Goytacazes - RJ, 28030-276, Brasil",
+        "Business Name" : "Hotel Shopping Estrada",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-21.7668386",
+          "Longitude" : "-41.3512932"
+        }
+      },
+      "Published" : "2022-01-03T23:41:57Z",
+      "Title" : "Hotel Shopping Estrada",
+      "Updated" : "2022-01-03T23:41:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.9158492, -22.7713951 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+do+Manguinhos,+Rio+de+Janeiro&ftid=0x96fffd35af8c1b:0x804c9f79d44f8c94",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.7713951",
+          "Longitude" : "-41.9158492"
+        }
+      },
+      "Published" : "2022-01-03T13:54:19Z",
+      "Title" : "Praia do Manguinhos, Rio de Janeiro",
+      "Updated" : "2022-01-03T13:54:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.8833455, -22.7553281 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Arma%C3%A7%C3%A3o+dos+B%C3%BAzios,+B%C3%BAzios+-+RJ&ftid=0x96555567e32337:0x40218e7a6ff28786",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.7553281",
+          "Longitude" : "-41.8833455"
+        }
+      },
+      "Published" : "2022-01-03T08:43:08Z",
+      "Title" : "Armação dos Búzios, Búzios - RJ",
+      "Updated" : "2022-01-03T08:43:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.8884330, -22.7556653 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15129390731442788947",
+      "Location" : {
+        "Address" : "R. das Pedras, 60 - Centro, Búzios - RJ, 28950-800, Brasil",
+        "Business Name" : "Primitivo Búzios",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-22.7556653",
+          "Longitude" : "-41.8884330"
+        }
+      },
+      "Published" : "2022-01-03T00:52:17Z",
+      "Title" : "Primitivo Búzios",
+      "Updated" : "2022-01-03T00:52:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.8904342, -22.7586822 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17225707126192863007",
+      "Location" : {
+        "Address" : "R. Deodoro Azevedo, 8 - centro de, Búzios - RJ, 28950-000, Brasil",
+        "Business Name" : "Pousada Flamingo",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-22.7586822",
+          "Longitude" : "-41.8904342"
+        }
+      },
+      "Published" : "2022-01-02T22:05:13Z",
+      "Title" : "Pousada Flamingo",
+      "Updated" : "2022-01-02T22:05:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.8874113, -22.7691401 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+da+Ferradura,+Rio+de+Janeiro&ftid=0x96ff871ddf8caf:0x828b033aed37d981",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.7691401",
+          "Longitude" : "-41.8874113"
+        }
+      },
+      "Published" : "2022-01-02T21:17:12Z",
+      "Title" : "Praia da Ferradura, Rio de Janeiro",
+      "Updated" : "2022-01-02T21:17:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.8858285, -22.7549609 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12030339612518896514",
+      "Location" : {
+        "Address" : "Tv. dos Pescadores, 88 - Centro, Búzios - RJ, 28950-795, Brasil",
+        "Business Name" : "Gran Cine Bardot",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-22.7549609",
+          "Longitude" : "-41.8858285"
+        }
+      },
+      "Published" : "2022-01-02T20:00:32Z",
+      "Title" : "Gran Cine Bardot",
+      "Updated" : "2022-01-02T20:00:32Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.8842642, -22.7530672 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6496641806800393820",
+      "Location" : {
+        "Address" : "Av. José Bento Ribeiro Dantas, 842, Búzios - RJ, 28950-000, Brasil",
+        "Business Name" : "Orla Brigitte Bardot",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-22.7530672",
+          "Longitude" : "-41.8842642"
+        }
+      },
+      "Published" : "2022-01-02T20:00:21Z",
+      "Title" : "Orla Brigitte Bardot",
+      "Updated" : "2022-01-02T20:00:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.8816864, -22.7491957 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+da+Arma%C3%A7%C3%A3o,+Rio+de+Janeiro,+28950-000&ftid=0x96550bcd1c3b21:0xdd8f206432743dc7",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.7491957",
+          "Longitude" : "-41.8816864"
+        }
+      },
+      "Published" : "2022-01-02T20:00:07Z",
+      "Title" : "Praia da Armação, Rio de Janeiro, 28950-000",
+      "Updated" : "2022-01-02T20:00:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.8813760, -22.7462687 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+dos+Ossos,+B%C3%BAzios+-+RJ,+28950-000&ftid=0x96550842074cc7:0x8c16a45f3912167",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.7462687",
+          "Longitude" : "-41.8813760"
+        }
+      },
+      "Published" : "2022-01-02T19:59:57Z",
+      "Title" : "Praia dos Ossos, Búzios - RJ, 28950-000",
+      "Updated" : "2022-01-02T19:59:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.8817248, -22.7420455 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+Da+Azeda,+Rio+de+Janeiro,+28950-000&ftid=0x965507083e2085:0x618e2c1a72d3ce7a",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.7420455",
+          "Longitude" : "-41.8817248"
+        }
+      },
+      "Published" : "2022-01-02T19:59:49Z",
+      "Title" : "Praia Da Azeda, Rio de Janeiro, 28950-000",
+      "Updated" : "2022-01-02T19:59:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.8738117, -22.7392671 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+Jo%C3%A3o+Fernandinho,+Rio+de+Janeiro,+28950-000&ftid=0x9655ac93e5a41d:0x7811e7d91c7d398c",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.7392671",
+          "Longitude" : "-41.8738117"
+        }
+      },
+      "Published" : "2022-01-02T19:59:40Z",
+      "Title" : "Praia João Fernandinho, Rio de Janeiro, 28950-000",
+      "Updated" : "2022-01-02T19:59:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.8912275, -22.7551465 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+do+Canto,+Rio+de+Janeiro&ftid=0x96556dc8692823:0xf3bfeaccf7e2435a",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.7551465",
+          "Longitude" : "-41.8912275"
+        }
+      },
+      "Published" : "2022-01-02T19:59:29Z",
+      "Title" : "Praia do Canto, Rio de Janeiro",
+      "Updated" : "2022-01-02T19:59:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.9056900, -22.7570718 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+da+Tartaruga,+B%C3%BAzios+-+RJ,+28950-000&ftid=0x96555b5418c1c5:0x4057990cbfc85c98",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.7570718",
+          "Longitude" : "-41.9056900"
+        }
+      },
+      "Published" : "2022-01-02T19:59:21Z",
+      "Title" : "Praia da Tartaruga, Búzios - RJ, 28950-000",
+      "Updated" : "2022-01-02T19:59:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -41.8804960, -22.7498942 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=529830145480448259",
+      "Location" : {
+        "Address" : "Avenida da, Estr. da Usina Velha, 155, Armação dos Búzios - RJ, 28950-255, Brasil",
+        "Business Name" : "Estacionamento do Ponto Final",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-22.7498942",
+          "Longitude" : "-41.8804960"
+        }
+      },
+      "Published" : "2022-01-02T14:24:55Z",
+      "Title" : "Estacionamento do Ponto Final",
+      "Updated" : "2022-01-02T14:24:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -42.0203398, -22.8759741 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=R.+dos+Biqu%C3%ADnis+-+Gamboa,+Cabo+Frio+-+RJ,+28924-180&ftid=0x9704c8441452cf:0x128cab382d54cfac",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.8759741",
+          "Longitude" : "-42.0203398"
+        }
+      },
+      "Published" : "2022-01-01T15:39:45Z",
+      "Title" : "R. dos Biquínis - Gamboa, Cabo Frio - RJ, 28924-180",
+      "Updated" : "2022-01-01T15:39:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -42.0076409, -22.8773850 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Passagem,+Cabo+Frio+-+RJ&ftid=0x9704affb933063:0xa9a2b656cc65d37f",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.8773850",
+          "Longitude" : "-42.0076409"
+        }
+      },
+      "Published" : "2022-01-01T15:38:36Z",
+      "Title" : "Passagem, Cabo Frio - RJ",
+      "Updated" : "2022-01-01T15:38:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -42.0252951, -22.8834591 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Cabo+Frio,+RJ&ftid=0x97073d3c0566d5:0x5115f34a20c5ad67",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.8834591",
+          "Longitude" : "-42.0252951"
+        }
+      },
+      "Published" : "2021-12-31T12:49:56Z",
+      "Title" : "Cabo Frio, RJ",
+      "Updated" : "2021-12-31T12:49:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -42.0377874, -22.9203740 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4718177309515581175",
+      "Location" : {
+        "Address" : "Praia do - Rua das Papoulas, 56 - Foguete, Cabo Frio - RJ, 28900-000, Brasil",
+        "Business Name" : "Pousada do Albatroz",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-22.9203740",
+          "Longitude" : "-42.0377874"
+        }
+      },
+      "Published" : "2021-12-31T12:49:41Z",
+      "Title" : "Pousada do Albatroz",
+      "Updated" : "2021-12-31T12:49:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -42.0277716, -22.9667613 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Arraial+do+Cabo,+RJ,+28930-000&ftid=0x97197ba011d3a9:0x3c4a2b7b14e00309",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.9667613",
+          "Longitude" : "-42.0277716"
+        }
+      },
+      "Published" : "2021-12-30T20:33:53Z",
+      "Title" : "Arraial do Cabo, RJ, 28930-000",
+      "Updated" : "2021-12-30T20:33:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -42.1526749, -22.9467322 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1226722746867737884",
+      "Location" : {
+        "Address" : "R. Novo Horizonte, Arraial do Cabo - RJ, 28930-000, Brasil",
+        "Business Name" : "Praia Da Figueira",
+        "Geo Coordinates" : {
+          "Latitude" : "-22.9467322",
+          "Longitude" : "-42.1526749"
+        }
+      },
+      "Published" : "2021-12-30T20:33:29Z",
+      "Title" : "Praia Da Figueira",
+      "Updated" : "2021-12-30T20:33:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -42.1140321, -22.9468721 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Monte+Alto,+Arraial+do+Cabo+-+RJ,+28930-000&ftid=0x971721678ca333:0x5fe65626c9a2c9e",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.9468721",
+          "Longitude" : "-42.1140321"
+        }
+      },
+      "Published" : "2021-12-30T20:32:58Z",
+      "Title" : "Monte Alto, Arraial do Cabo - RJ, 28930-000",
+      "Updated" : "2021-12-30T20:32:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -42.3046331, -22.9252387 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+Seca,+Araruama+-+RJ&ftid=0x9769eb8e43720b:0x92e7ae89b90e9410",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.9252387",
+          "Longitude" : "-42.3046331"
+        }
+      },
+      "Published" : "2021-12-30T20:32:17Z",
+      "Title" : "Praia Seca, Araruama - RJ",
+      "Updated" : "2021-12-30T20:32:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -42.3934205, -22.8796010 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11062225956498029429",
+      "Location" : {
+        "Address" : "Estr. Bicuíba - Rio da Areia, Saquarema - RJ, 28990-000, Brasil",
+        "Business Name" : "Posto BR + GNV | Trevo de Praia Seca",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-22.8796010",
+          "Longitude" : "-42.3934205"
+        }
+      },
+      "Published" : "2021-12-30T20:31:26Z",
+      "Title" : "Auto Posto Trevo de Praia Seca",
+      "Updated" : "2021-12-30T20:31:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -42.4683252, -22.8935085 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Saquarema,+RJ,+28990-000&ftid=0x975e1971d0baa7:0x85c6ef0e0cc50317",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.8935085",
+          "Longitude" : "-42.4683252"
+        }
+      },
+      "Published" : "2021-12-30T20:31:07Z",
+      "Title" : "Saquarema, RJ, 28990-000",
+      "Updated" : "2021-12-30T20:31:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -42.4989927, -22.9347447 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+da+Vila,+Saquarema+-+RJ,+28990-000&ftid=0x975eecf523fd07:0x55b06a4fb6b2d913",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.9347447",
+          "Longitude" : "-42.4989927"
+        }
+      },
+      "Published" : "2021-12-30T20:30:56Z",
+      "Title" : "Praia da Vila, Saquarema - RJ, 28990-000",
+      "Updated" : "2021-12-30T20:30:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -42.5141696, -22.9330859 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+do+Boqueir%C3%A3o,+Rio+de+Janeiro,+28990-000&ftid=0x975f1809adb965:0x27618dcbcedc6c6e",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.9330859",
+          "Longitude" : "-42.5141696"
+        }
+      },
+      "Published" : "2021-12-30T20:30:47Z",
+      "Title" : "Praia do Boqueirão, Rio de Janeiro, 28990-000",
+      "Updated" : "2021-12-30T20:30:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -42.5800620, -22.9326327 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+de+Barra+Nova,+Saquarema+-+RJ,+28990-000&ftid=0x99e3db58bf598f:0xbe969eec011f7397",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.9326327",
+          "Longitude" : "-42.5800620"
+        }
+      },
+      "Published" : "2021-12-30T20:30:27Z",
+      "Title" : "Praia de Barra Nova, Saquarema - RJ, 28990-000",
+      "Updated" : "2021-12-30T20:30:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -42.6287242, -22.9352537 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+de+Jacon%C3%A9,+Saquarema+-+RJ,+28990-000&ftid=0x99e473775985a3:0xc122e444eaefd487",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.9352537",
+          "Longitude" : "-42.6287242"
+        }
+      },
+      "Published" : "2021-12-30T20:30:18Z",
+      "Title" : "Praia de Jaconé, Saquarema - RJ, 28990-000",
+      "Updated" : "2021-12-30T20:30:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -42.7002756, -22.9543403 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Ponta+Negra,+Maric%C3%A1+-+RJ&ftid=0x99e55ced961179:0x26d597f2d706ef8d",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.9543403",
+          "Longitude" : "-42.7002756"
+        }
+      },
+      "Published" : "2021-12-30T20:29:58Z",
+      "Title" : "Ponta Negra, Maricá - RJ",
+      "Updated" : "2021-12-30T20:29:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -42.8194995, -22.9614360 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+da+Barra+em+Maric%C3%A1+-+Av.+Litor%C3%A2nea+-+Zacarias,+Maric%C3%A1+-+RJ,+24942-395&ftid=0x99f2561c40ae59:0x7fef02037aecbab8",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.9614360",
+          "Longitude" : "-42.8194995"
+        }
+      },
+      "Published" : "2021-12-30T20:29:41Z",
+      "Title" : "Praia da Barra em Maricá, Av. Litorânea - Zacarias, Maricá - RJ, 24942-395",
+      "Updated" : "2021-12-30T20:29:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -42.8191920, -22.9160994 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Maric%C3%A1,+RJ&ftid=0x998d9fc58eb9a7:0x853ea58d8bafb4f6",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.9160994",
+          "Longitude" : "-42.8191920"
+        }
+      },
+      "Published" : "2021-12-30T20:28:52Z",
+      "Title" : "Maricá, RJ",
+      "Updated" : "2021-12-30T20:28:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -42.8584458, -22.7472462 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Itabora%C3%AD,+RJ&ftid=0x99bff5afbc21c3:0x81cefcbdcd8acf65",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.7472462",
+          "Longitude" : "-42.8584458"
+        }
+      },
+      "Published" : "2021-12-30T20:28:44Z",
+      "Title" : "Itaboraí, RJ",
+      "Updated" : "2021-12-30T20:28:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -42.9161467, -22.7749824 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Manilha,+Itabora%C3%AD+-+RJ&ftid=0x9995b646599869:0x88ff161acf8f25b",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.7749824",
+          "Longitude" : "-42.9161467"
+        }
+      },
+      "Published" : "2021-12-30T20:28:30Z",
+      "Title" : "Manilha, Itaboraí - RJ",
+      "Updated" : "2021-12-30T20:28:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -43.0381736, -22.6546807 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Mag%C3%A9,+RJ&ftid=0x99a1369b6ae9c7:0x38dca2bae1a65323",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.6546807",
+          "Longitude" : "-43.0381736"
+        }
+      },
+      "Published" : "2021-12-30T20:28:11Z",
+      "Title" : "Magé, RJ",
+      "Updated" : "2021-12-30T20:28:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -42.9720399, -22.4161561 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Teres%C3%B3polis,+RJ&ftid=0x99b2d304f9e55f:0x7bf2f5c84f7654a5",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.4161561",
+          "Longitude" : "-42.9720399"
+        }
+      },
+      "Published" : "2021-12-30T20:27:59Z",
+      "Title" : "Teresópolis, RJ",
+      "Updated" : "2021-12-30T20:27:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -42.9800859, -22.4408240 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2105780168487432588",
+      "Location" : {
+        "Address" : "Av. Oliveira Botelho, 617 - Alto, Teresópolis - RJ, 25961-147, Brasil",
+        "Business Name" : "Viva Itália",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-22.4408240",
+          "Longitude" : "-42.9800859"
+        }
+      },
+      "Published" : "2021-12-29T22:32:30Z",
+      "Title" : "Viva Itália",
+      "Updated" : "2021-12-29T22:32:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -42.9790920, -22.4521550 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Granja+Comary,+Teres%C3%B3polis+-+RJ&ftid=0x99b301921d6821:0xeaadc392c09ca21b",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.4521550",
+          "Longitude" : "-42.9790920"
+        }
+      },
+      "Published" : "2021-12-29T19:04:03Z",
+      "Title" : "Granja Comary, Teresópolis - RJ",
+      "Updated" : "2021-12-29T19:04:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -42.9820726, -22.4436309 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4356394320534301349",
+      "Location" : {
+        "Address" : "R. Dona Olga de Oliveira, 90 - Alto, Teresópolis - RJ, 25961-275, Brasil",
+        "Business Name" : "Fonte Judith",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-22.4436309",
+          "Longitude" : "-42.9820726"
+        }
+      },
+      "Published" : "2021-12-29T18:36:08Z",
+      "Title" : "Fonte Judith",
+      "Updated" : "2021-12-29T18:36:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -43.1252468, -22.3607807 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1331915964350383999",
+      "Location" : {
+        "Address" : "Km 56 ao km 57,998 BR-040 - Itaipava, Petrópolis - RJ, 25740-340, Brasil",
+        "Business Name" : "Castelo de Itaipava Eventos e Hotel",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-22.3607807",
+          "Longitude" : "-43.1252468"
+        }
+      },
+      "Published" : "2021-12-29T16:29:45Z",
+      "Title" : "Castelo de Itaipava Eventos e Hotel",
+      "Updated" : "2021-12-29T16:29:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -43.1904273, -22.5286765 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8535077085577952275",
+      "Location" : {
+        "Address" : "R. Cristovão Colombo, 1034 - Castelânea, Petrópolis - RJ, 25640-322, Brasil",
+        "Business Name" : "Museu Casa do Colono",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-22.5286765",
+          "Longitude" : "-43.1904273"
+        }
+      },
+      "Published" : "2021-12-29T12:46:29Z",
+      "Title" : "Museu Casa do Colono",
+      "Updated" : "2021-12-29T12:46:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -43.2778783, -22.5927662 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8241751605525522178",
+      "Location" : {
+        "Address" : "BR-040 - Santo Antônio, Duque de Caxias - RJ, Brasil",
+        "Business Name" : "O Queijão",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-22.5927662",
+          "Longitude" : "-43.2778783"
+        }
+      },
+      "Published" : "2021-12-29T09:04:19Z",
+      "Title" : "O Queijão",
+      "Updated" : "2021-12-29T09:04:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -43.1779306, -22.5112498 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Petr%C3%B3polis+-+Cascatinha,+Petr%C3%B3polis+-+RJ&ftid=0x99007e82d9236f:0xa9241871d369007a",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.5112498",
+          "Longitude" : "-43.1779306"
+        }
+      },
+      "Published" : "2021-12-29T09:03:31Z",
+      "Title" : "Petrópolis - Cascatinha, Petrópolis - RJ",
+      "Updated" : "2021-12-29T09:03:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -43.7779091, -22.8631923 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Itagua%C3%AD,+RJ&ftid=0x9c077168631157:0xbf83d242ae07f5d2",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.8631923",
+          "Longitude" : "-43.7779091"
+        }
+      },
+      "Published" : "2021-12-29T09:02:25Z",
+      "Title" : "Itaguaí, RJ",
+      "Updated" : "2021-12-29T09:02:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.0417808, -22.9416598 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Mangaratiba,+RJ&ftid=0x9c14add7ae43f1:0xec674661b0be658c",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.9416598",
+          "Longitude" : "-44.0417808"
+        }
+      },
+      "Published" : "2021-12-29T09:02:13Z",
+      "Title" : "Mangaratiba, RJ",
+      "Updated" : "2021-12-29T09:02:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -43.1790939, -22.5055682 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2759627796510622214",
+      "Location" : {
+        "Address" : "R. São Pedro Alcântara, 60 - Centro, Petrópolis - RJ, 25685-300, Brasil",
+        "Business Name" : "Catedral São Pedro de Alcântara",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-22.5055682",
+          "Longitude" : "-43.1790939"
+        }
+      },
+      "Published" : "2021-12-28T21:21:25Z",
+      "Title" : "Catedral São Pedro de Alcântara",
+      "Updated" : "2021-12-28T21:21:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -43.1714166, -22.5247816 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=R.+Teresa+-+Petr%C3%B3polis,+RJ,+25580-600&ftid=0x99a7f4e29de7ad:0x68fc9cb5ef96ee4f",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.5247816",
+          "Longitude" : "-43.1714166"
+        }
+      },
+      "Published" : "2021-12-28T21:18:29Z",
+      "Title" : "R. Teresa - Petrópolis, RJ, 25580-600",
+      "Updated" : "2021-12-28T21:18:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -43.1779461, -22.5103227 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=R.+Dezesseis+de+Mar%C3%A7o+-+Centro,+Petr%C3%B3polis+-+RJ,+25620-040&ftid=0x990803d3e0e0ef:0xb54b9c5273435a2a",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.5103227",
+          "Longitude" : "-43.1779461"
+        }
+      },
+      "Published" : "2021-12-28T19:39:30Z",
+      "Title" : "R. Dezesseis de Março - Centro, Petrópolis - RJ, 25620-040",
+      "Updated" : "2021-12-28T19:39:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -43.1830719, -22.5054436 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15908041086074030231",
+      "Location" : {
+        "Address" : "R. Alfredo Pachá, s/n - Centro, Petrópolis - RJ, 25685-210, Brasil",
+        "Business Name" : "Palácio de Cristal",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-22.5054436",
+          "Longitude" : "-43.1830719"
+        }
+      },
+      "Published" : "2021-12-28T19:38:52Z",
+      "Title" : "Palácio de Cristal",
+      "Updated" : "2021-12-28T19:38:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -43.1756492, -22.5080970 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3636299859121759689",
+      "Location" : {
+        "Address" : "R. da Imperatriz, 220 - Centro, Petrópolis - RJ, 25610-320, Brasil",
+        "Business Name" : "Museu Imperial",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-22.5080970",
+          "Longitude" : "-43.1756492"
+        }
+      },
+      "Published" : "2021-12-28T19:25:17Z",
+      "Title" : "Museu Imperial",
+      "Updated" : "2021-12-28T19:25:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -43.1811884, -22.5075803 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Av.+Koeler+-+Centro,+Petr%C3%B3polis+-+RJ,+25685-060&ftid=0x9908068d034a8d:0xe2efd05c00fb2b1",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.5075803",
+          "Longitude" : "-43.1811884"
+        }
+      },
+      "Published" : "2021-12-28T19:24:07Z",
+      "Title" : "Av. Koeler - Centro, Petrópolis - RJ, 25685-060",
+      "Updated" : "2021-12-28T19:24:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -43.2123694, -22.5259487 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9643610784089530750",
+      "Location" : {
+        "Address" : "Av. Joaquim Rolla, 2 - Quitandinha, Petrópolis - RJ, 25651-072, Brasil",
+        "Business Name" : "Palácio Quitandinha",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-22.5259487",
+          "Longitude" : "-43.2123694"
+        }
+      },
+      "Published" : "2021-12-28T18:15:33Z",
+      "Title" : "Palácio Quitandinha",
+      "Updated" : "2021-12-28T18:15:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -43.1842250, -22.5103897 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3743945430459059641",
+      "Location" : {
+        "Address" : "R. do Encanto, 22 - Centro, Petrópolis - RJ, 25685-081, Brasil",
+        "Business Name" : "Casa de Santos Dumont",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-22.5103897",
+          "Longitude" : "-43.1842250"
+        }
+      },
+      "Published" : "2021-12-28T18:15:18Z",
+      "Title" : "Casa de Santos Dumont",
+      "Updated" : "2021-12-28T18:15:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.2847580, -23.0250150 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Ilha+Catagu%C3%A1s+-+Angra+dos+Reis,+RJ&ftid=0x9c4fccea99d47b:0x828ccfa970b4e434",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-23.0250150",
+          "Longitude" : "-44.2847580"
+        }
+      },
+      "Published" : "2021-12-28T13:06:47Z",
+      "Title" : "Ilha Cataguás - Angra dos Reis, RJ",
+      "Updated" : "2021-12-28T13:06:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.2140172, -23.0920435 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Japariz+-+Abra%C3%A3o,+Angra+dos+Reis+-+RJ&ftid=0x9c5ae338deb4db:0x6b930fe902d0536a",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-23.0920435",
+          "Longitude" : "-44.2140172"
+        }
+      },
+      "Published" : "2021-12-28T13:05:43Z",
+      "Title" : "Japariz - Abraão, Angra dos Reis - RJ",
+      "Updated" : "2021-12-28T13:05:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.2351831, -23.0908256 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2563018829879243926",
+      "Location" : {
+        "Address" : "Praia Guanabara - Freguesia de Santana, Angra dos Reis - RJ, 23968-000, Brasil",
+        "Business Name" : "Igreja da Freguesia de Santana",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-23.0908256",
+          "Longitude" : "-44.2351831"
+        }
+      },
+      "Published" : "2021-12-28T13:05:30Z",
+      "Title" : "Igreja da Freguesia de Santana",
+      "Updated" : "2021-12-28T13:05:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.2349061, -23.0895745 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+de+Freguesia+de+Santana+-+Abra%C3%A3o,+Angra+dos+Reis+-+RJ&ftid=0x9c5a893cd924d5:0xc415ab1d0f57dc44",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-23.0895745",
+          "Longitude" : "-44.2349061"
+        }
+      },
+      "Published" : "2021-12-28T13:05:12Z",
+      "Title" : "Praia de Freguesia de Santana - Abraão, Angra dos Reis - RJ",
+      "Updated" : "2021-12-28T13:05:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.2380641, -23.0830900 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Lagoa+Azul&ftid=0x9c5a8ffc0da40b:0x49cd393a7ba0004a",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-23.0830900",
+          "Longitude" : "-44.2380641"
+        }
+      },
+      "Published" : "2021-12-28T13:04:58Z",
+      "Title" : "Lagoa Azul",
+      "Updated" : "2021-12-28T13:04:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.2986393, -23.0059967 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14613480053054666725",
+      "Location" : {
+        "Address" : "Estr. das Marinas, 111 - Praia do Jardim, Angra dos Reis - RJ, 23907-000, Brasil",
+        "Business Name" : "Mercure Angra dos Reis",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-23.0059967",
+          "Longitude" : "-44.2986393"
+        }
+      },
+      "Published" : "2021-12-26T16:36:58Z",
+      "Title" : "Mercure Angra dos Reis",
+      "Updated" : "2021-12-26T16:36:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.3185172, -23.0069216 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Angra+dos+Reis,+RJ&ftid=0x9c5253944d458d:0xd96796845bd7fd3",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-23.0069216",
+          "Longitude" : "-44.3185172"
+        }
+      },
+      "Published" : "2021-12-26T16:36:33Z",
+      "Title" : "Angra dos Reis, RJ",
+      "Updated" : "2021-12-26T16:36:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.7639689, -23.2182094 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16424733162845905263",
+      "Location" : {
+        "Address" : "Estrada da Pedra Branca, Km 1, 1100 - Zona Rural, Paraty - RJ, 23970-000, Brasil",
+        "Business Name" : "Alambique Paratiana",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-23.2182094",
+          "Longitude" : "-44.7639689"
+        }
+      },
+      "Published" : "2021-12-26T16:36:11Z",
+      "Title" : "Alambique Paratiana",
+      "Updated" : "2021-12-26T16:36:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.7658805, -23.2193202 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=569621889016655226",
+      "Location" : {
+        "Address" : "Estr. da Pedra Branca, km 01 - Paraty, RJ, 23970-000, Brasil",
+        "Business Name" : "Alambique Pedra Branca",
+        "Geo Coordinates" : {
+          "Latitude" : "-23.2193202",
+          "Longitude" : "-44.7658805"
+        }
+      },
+      "Published" : "2021-12-26T13:15:30Z",
+      "Title" : "Alambique Pedra Branca",
+      "Updated" : "2021-12-26T13:15:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.7116967, -23.2147408 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+do+Pontal+-+Av.+Orlando+Carpinelli,+4+-+Pontal,+Paraty+-+RJ,+23970-000&ftid=0x9d6d3afb60987b:0x7767723b1e5eea23",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-23.2147408",
+          "Longitude" : "-44.7116967"
+        }
+      },
+      "Published" : "2021-12-25T19:12:06Z",
+      "Title" : "Praia do Pontal, Av. Orlando Carpinelli, 4 - Pontal, Paraty - RJ, 23970-000",
+      "Updated" : "2021-12-25T19:12:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.7178105, -23.2063514 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+do+Jabaquara+-+Av.+Jabaquara,+37+-+Jabaquara,+Paraty+-+RJ,+23970-000&ftid=0x9d6d3fb3c54709:0x4f60892e6f432288",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-23.2063514",
+          "Longitude" : "-44.7178105"
+        }
+      },
+      "Published" : "2021-12-25T19:07:04Z",
+      "Title" : "Praia do Jabaquara, Av. Jabaquara, 37 - Jabaquara, Paraty - RJ, 23970-000",
+      "Updated" : "2021-12-25T19:07:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.6822045, -23.2055077 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Ilha+Rasa,+Rio+de+Janeiro&ftid=0x9d12a2867d03c7:0xe1b4b4d831957f05",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-23.2055077",
+          "Longitude" : "-44.6822045"
+        }
+      },
+      "Published" : "2021-12-25T11:46:53Z",
+      "Title" : "Ilha Rasa, Rio de Janeiro",
+      "Updated" : "2021-12-25T11:46:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.6824707, -23.3400813 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7365051780499884650",
+      "Location" : {
+        "Address" : "Paraty-Mirim, Paraty - RJ, 23970-000, Brasil",
+        "Business Name" : "Praia Vermelha",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-23.3400813",
+          "Longitude" : "-44.6824707"
+        }
+      },
+      "Published" : "2021-12-25T11:41:08Z",
+      "Title" : "Praia Vermelha",
+      "Updated" : "2021-12-25T11:41:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.7167452, -23.2197106 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Paraty,+RJ&ftid=0x9d6d04d08d0dd9:0xea35e93f7a8ac64d",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-23.2197106",
+          "Longitude" : "-44.7167452"
+        }
+      },
+      "Published" : "2021-12-24T01:58:32Z",
+      "Title" : "Paraty, RJ",
+      "Updated" : "2021-12-24T01:58:32Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -45.3416430, -23.5871074 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Massagua%C3%A7u,+Caraguatatuba+-+SP&ftid=0x94cd612bd7dd4e6f:0x6d720b8291244f5a",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-23.5871074",
+          "Longitude" : "-45.3416430"
+        }
+      },
+      "Published" : "2021-12-23T01:12:41Z",
+      "Title" : "Massaguaçu, Caraguatatuba - SP",
+      "Updated" : "2021-12-23T01:12:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.4208663, -23.8844644 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Cubat%C3%A3o,+SP&ftid=0x94ce10f2c21f7651:0xaa349e6a7195a8cc",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-23.8844644",
+          "Longitude" : "-46.4208663"
+        }
+      },
+      "Published" : "2021-12-23T01:12:07Z",
+      "Title" : "Cubatão, SP",
+      "Updated" : "2021-12-23T01:12:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.3064892, -23.9902122 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12977748863648593163",
+      "Location" : {
+        "Address" : "Av. Bartolomeu de Gusmão, 192 - Ponta da Praia, Santos - SP, 11030-906, Brasil",
+        "Business Name" : "Museu de Pesca",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-23.9902122",
+          "Longitude" : "-46.3064892"
+        }
+      },
+      "Published" : "2021-12-23T01:11:35Z",
+      "Title" : "Museu de Pesca",
+      "Updated" : "2021-12-23T01:11:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.3333333, -23.9500000 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Monte+Serrat+-+Vila+Belmiro,+Santos+-+SP,+11075-320&ftid=0x94ce0371d0bb7229:0x345568fa765fcb02",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-23.9500000",
+          "Longitude" : "-46.3333333"
+        }
+      },
+      "Published" : "2021-12-23T01:11:18Z",
+      "Title" : "Monte Serrat - Vila Belmiro, Santos - SP, 11075-320",
+      "Updated" : "2021-12-23T01:11:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.0229420, -23.7994518 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Bertioga,+SP,+11250-000&ftid=0x94cdf0e312011589:0x30bcbbea6208aea8",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-23.7994518",
+          "Longitude" : "-46.0229420"
+        }
+      },
+      "Published" : "2021-12-23T01:10:59Z",
+      "Title" : "Bertioga, SP, 11250-000",
+      "Updated" : "2021-12-23T01:10:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -45.5568617, -23.7915356 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+de+Maresias,+S%C3%A3o+Sebasti%C3%A3o+-+SP,+11600-000&ftid=0x94d280f7f54c5af3:0xdc5fbec8c7e7812c",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-23.7915356",
+          "Longitude" : "-45.5568617"
+        }
+      },
+      "Published" : "2021-12-23T01:10:35Z",
+      "Title" : "Praia de Maresias, São Sebastião - SP, 11600-000",
+      "Updated" : "2021-12-23T01:10:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -45.4026140, -23.8010769 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=S%C3%A3o+Sebasti%C3%A3o,+SP&ftid=0x94d27f94c6dd56fd:0x546010e330dcb8e7",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-23.8010769",
+          "Longitude" : "-45.4026140"
+        }
+      },
+      "Published" : "2021-12-23T01:10:26Z",
+      "Title" : "São Sebastião, SP",
+      "Updated" : "2021-12-23T01:10:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -45.4120869, -23.6200504 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Caraguatatuba,+SP&ftid=0x94cd639daab97a29:0x965051c5272e303e",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-23.6200504",
+          "Longitude" : "-45.4120869"
+        }
+      },
+      "Published" : "2021-12-23T01:10:17Z",
+      "Title" : "Caraguatatuba, SP",
+      "Updated" : "2021-12-23T01:10:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -45.0849154, -23.4345298 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Ubatuba,+SP&ftid=0x94cd5228bab1966d:0x9905169ef1825576",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-23.4345298",
+          "Longitude" : "-45.0849154"
+        }
+      },
+      "Published" : "2021-12-23T01:09:54Z",
+      "Title" : "Ubatuba, SP",
+      "Updated" : "2021-12-23T01:09:54Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.2568564, -23.9947975 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Guaruj%C3%A1,+SP&ftid=0x94ce00420b733eab:0xf42377f671ac1314",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-23.9947975",
+          "Longitude" : "-46.2568564"
+        }
+      },
+      "Published" : "2021-12-22T10:31:11Z",
+      "Title" : "Guarujá, SP",
+      "Updated" : "2021-12-22T10:31:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.3664249, -23.9707113 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17768494351896561555",
+      "Location" : {
+        "Address" : "Av. Ayrton Senna da Silva, 500 - Itararé, São Vicente - SP, 11321-000, Brasil",
+        "Business Name" : "Teleférico de São Vicente",
+        "Geo Coordinates" : {
+          "Latitude" : "-23.9707113",
+          "Longitude" : "-46.3664249"
+        }
+      },
+      "Published" : "2021-12-22T10:30:58Z",
+      "Title" : "Teleférico de São Vicente",
+      "Updated" : "2021-12-22T10:30:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.3300753, -23.9325106 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2092273542086699040",
+      "Location" : {
+        "Address" : "R. Quinze de Novembro, 95 - Centro, Santos - SP, 11010-150, Brasil",
+        "Business Name" : "Museu do Café",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-23.9325106",
+          "Longitude" : "-46.3300753"
+        }
+      },
+      "Published" : "2021-12-22T10:30:35Z",
+      "Title" : "Museu do Café",
+      "Updated" : "2021-12-22T10:30:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.3333157, -23.9310001 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14886525628191413489",
+      "Location" : {
+        "Address" : "Largo Marquês de Monte Alegre, 2 - Valongo, Santos - SP, 11010-060, Brasil",
+        "Business Name" : "Linha Turística do Bonde",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-23.9310001",
+          "Longitude" : "-46.3333157"
+        }
+      },
+      "Published" : "2021-12-22T10:30:25Z",
+      "Title" : "Linha Turística do Bonde",
+      "Updated" : "2021-12-22T10:30:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.3593324, -23.9681283 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18202578061361254647",
+      "Location" : {
+        "Address" : "R. da Constituicão, 604 - Itararé, São Vicente - SP, 11320-201, Brasil",
+        "Business Name" : "Itararé Tower Beach",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-23.9681283",
+          "Longitude" : "-46.3593324"
+        }
+      },
+      "Published" : "2021-12-21T00:16:48Z",
+      "Title" : "Itararé Tower Beach",
+      "Updated" : "2021-12-21T00:16:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.3968727, -23.9603273 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=S%C3%A3o+Vicente,+SP&ftid=0x94ce1be795087ec7:0xe6e95e9915fa8605",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-23.9603273",
+          "Longitude" : "-46.3968727"
+        }
+      },
+      "Published" : "2021-12-21T00:16:15Z",
+      "Title" : "São Vicente, SP",
+      "Updated" : "2021-12-21T00:16:15Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.3317806, -23.9592038 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Santos,+SP&ftid=0x94ce03423c3b1c3b:0x584dceedfc63644f",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-23.9592038",
+          "Longitude" : "-46.3317806"
+        }
+      },
+      "Published" : "2021-12-21T00:16:08Z",
+      "Title" : "Santos, SP",
+      "Updated" : "2021-12-21T00:16:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.5266497, -24.0520634 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+do+Cai%C3%A7ara+-+Solemar,+Praia+Grande+-+SP,+11702-200&ftid=0x94ce202fa6f0989f:0xbc8c49e7beb63ae4",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-24.0520634",
+          "Longitude" : "-46.5266497"
+        }
+      },
+      "Published" : "2021-12-21T00:15:42Z",
+      "Title" : "Praia do Caiçara - Solemar, Praia Grande - SP, 11702-200",
+      "Updated" : "2021-12-21T00:15:42Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.5281121, -24.0489156 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Vila+Cai%C3%A7ara,+Praia+Grande+-+SP&ftid=0x94ce202da223054f:0x613c3c94099c9c69",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-24.0489156",
+          "Longitude" : "-46.5281121"
+        }
+      },
+      "Published" : "2021-12-21T00:15:32Z",
+      "Title" : "Vila Caiçara, Praia Grande - SP",
+      "Updated" : "2021-12-21T00:15:32Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.6690510, -24.1173707 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Mongagu%C3%A1,+SP&ftid=0x94ce2883ba386b79:0x211da91fc6c0ccb9",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-24.1173707",
+          "Longitude" : "-46.6690510"
+        }
+      },
+      "Published" : "2021-12-21T00:15:11Z",
+      "Title" : "Mongaguá, SP",
+      "Updated" : "2021-12-21T00:15:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.9959336, -24.3245237 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13710315480990195440",
+      "Location" : {
+        "Address" : "166, Praça Melvin Jonas, 82 - 0, Peruíbe - SP, 11750-000, Brasil",
+        "Business Name" : "Peruíbe - Prédio Redondo",
+        "Geo Coordinates" : {
+          "Latitude" : "-24.3245237",
+          "Longitude" : "-46.9959336"
+        }
+      },
+      "Published" : "2021-12-21T00:14:34Z",
+      "Title" : "Peruíbe - Prédio Redondo",
+      "Updated" : "2021-12-21T00:14:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -47.0021411, -24.3337784 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=PRAIA+DO+COST%C3%83O+-+Av.+Gov.+M%C3%A1rio+Covas+J%C3%BAnior+-+Cidade+Balne%C3%A1ria+Peru%C3%ADbe,+Peru%C3%ADbe+-+SP,+11750-000&ftid=0x94d025e73671151b:0xefdb9d396a419c73",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-24.3337784",
+          "Longitude" : "-47.0021411"
+        }
+      },
+      "Published" : "2021-12-21T00:14:22Z",
+      "Title" : "PRAIA DO COSTÃO, Av. Gov. Mário Covas Júnior - Cidade Balneária Peruíbe, Peruíbe - SP, 11750-000",
+      "Updated" : "2021-12-21T00:14:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.9189084, -24.2649987 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+de+Peru%C3%ADbe,+S%C3%A3o+Paulo&ftid=0x94d0299a3250eb1d:0x94f26e012d102046",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-24.2649987",
+          "Longitude" : "-46.9189084"
+        }
+      },
+      "Published" : "2021-12-21T00:13:52Z",
+      "Title" : "Praia de Peruíbe, São Paulo",
+      "Updated" : "2021-12-21T00:13:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.8117309, -24.2003399 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=646169271455044681",
+      "Location" : {
+        "Address" : "Cibratel I, Itanhaém - SP, 11740-000, Brasil",
+        "Business Name" : "praia Cibratel l Itanhaém",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-24.2003399",
+          "Longitude" : "-46.8117309"
+        }
+      },
+      "Published" : "2021-12-21T00:13:12Z",
+      "Title" : "praia Cibratel l Itanhaém",
+      "Updated" : "2021-12-21T00:13:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.8054345, -24.1996157 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10542880064435386872",
+      "Location" : {
+        "Address" : "R. Ipiranga, 556-632, Itanhaém - SP, 11740-000, Brasil",
+        "Business Name" : "Itanhaém, Pedra Da Esfinge - Morro Do Paranambuco",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-24.1996157",
+          "Longitude" : "-46.8054345"
+        }
+      },
+      "Published" : "2021-12-21T00:12:48Z",
+      "Title" : "Itanhaém, Pedra Da Esfinge - Morro Do Paranambuco",
+      "Updated" : "2021-12-21T00:12:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.8022830, -24.1921563 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+dos+Sonhos,+Itanha%C3%A9m+-+SP,+11740-000&ftid=0x94d1d569578eaa53:0x4d53c41e63b76809",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-24.1921563",
+          "Longitude" : "-46.8022830"
+        }
+      },
+      "Published" : "2021-12-21T00:12:36Z",
+      "Title" : "Praia dos Sonhos, Itanhaém - SP, 11740-000",
+      "Updated" : "2021-12-21T00:12:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.8930052, -24.2487903 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+Do+Gaivota+-+Balneario+F%C3%AAnix,+Itanha%C3%A9m+-+SP,+11740-000&ftid=0x94d02a32b4b84735:0xfc8d3d2c2648737d",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-24.2487903",
+          "Longitude" : "-46.8930052"
+        }
+      },
+      "Published" : "2021-12-21T00:12:21Z",
+      "Title" : "Praia Do Gaivota - Balneario Fênix, Itanhaém - SP, 11740-000",
+      "Updated" : "2021-12-21T00:12:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.7897516, -24.1840963 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Itanha%C3%A9m+-+Santa+J%C3%BAlia,+Itanha%C3%A9m+-+SP&ftid=0x94cfd54e9bf2326d:0x322103163db80ccb",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-24.1840963",
+          "Longitude" : "-46.7897516"
+        }
+      },
+      "Published" : "2021-12-21T00:12:12Z",
+      "Title" : "Itanhaém - Santa Júlia, Itanhaém - SP",
+      "Updated" : "2021-12-21T00:12:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.4178533, -24.0030665 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Praia+Grande,+SP&ftid=0x94ce1f9dd9bf50e5:0x83b44c5ff623bb51",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-24.0030665",
+          "Longitude" : "-46.4178533"
+        }
+      },
+      "Published" : "2021-12-21T00:11:51Z",
+      "Title" : "Praia Grande, SP",
+      "Updated" : "2021-12-21T00:11:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.1168397, -21.1018754 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13581229735497971897",
+      "Location" : {
+        "Address" : "Praça Nossa Sra. da Penha, 21 - Bichinho, Prados - MG, 36320-000, Brasil",
+        "Business Name" : "Bichinho Bacana",
+        "Geo Coordinates" : {
+          "Latitude" : "-21.1018754",
+          "Longitude" : "-44.1168397"
+        }
+      },
+      "Published" : "2021-12-20T14:01:58Z",
+      "Title" : "Bichinho Bacana",
+      "Updated" : "2021-12-20T14:01:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.1735339, -21.1102569 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Tiradentes,+MG,+36325-000&ftid=0xa1b8ab8689b65b:0xf51285923a41ccf7",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-21.1102569",
+          "Longitude" : "-44.1735339"
+        }
+      },
+      "Published" : "2021-12-20T14:01:35Z",
+      "Title" : "Tiradentes, MG, 36325-000",
+      "Updated" : "2021-12-20T14:01:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.3194171, -21.0262714 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Rit%C3%A1polis,+MG,+36335-000&ftid=0xa1b6997859ef23:0xed99bc439e77618b",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-21.0262714",
+          "Longitude" : "-44.3194171"
+        }
+      },
+      "Published" : "2021-12-20T14:01:23Z",
+      "Title" : "Ritápolis, MG, 36335-000",
+      "Updated" : "2021-12-20T14:01:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.5085712, -20.9110705 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=S%C3%A3o+Tiago,+MG,+36350-000&ftid=0xa04ec24f819377:0xc7df1133137e73d3",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.9110705",
+          "Longitude" : "-44.5085712"
+        }
+      },
+      "Published" : "2021-12-20T14:01:06Z",
+      "Title" : "São Tiago, MG, 36350-000",
+      "Updated" : "2021-12-20T14:01:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.8280589, -20.6953890 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Oliveira,+MG,+35540-000&ftid=0xa064ebd2b07b31:0x23bf7b6f1c727b95",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.6953890",
+          "Longitude" : "-44.8280589"
+        }
+      },
+      "Published" : "2021-12-20T14:00:46Z",
+      "Title" : "Oliveira, MG, 35540-000",
+      "Updated" : "2021-12-20T14:00:46Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.8500000, -20.6166670 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=F%C3%A9lix,+Carmo+da+Mata+-+MG,+35547-000&ftid=0xa062cb37f1e471:0x96f2427ac3b958ea",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.6166670",
+          "Longitude" : "-44.8500000"
+        }
+      },
+      "Published" : "2021-12-20T14:00:28Z",
+      "Title" : "Félix, Carmo da Mata - MG, 35547-000",
+      "Updated" : "2021-12-20T14:00:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.8699338, -20.5578897 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Carmo+da+Mata,+MG,+35547-000&ftid=0xa087c8bbf5dbe5:0xce5ed279972d14bf",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.5578897",
+          "Longitude" : "-44.8699338"
+        }
+      },
+      "Published" : "2021-12-20T14:00:14Z",
+      "Title" : "Carmo da Mata, MG, 35547-000",
+      "Updated" : "2021-12-20T14:00:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.9230002, -20.3634606 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Maril%C3%A2ndia,+Itapecerica+-+MG,+35550-000&ftid=0xa09bf297dea85f:0x8e2e2195ba066b79",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.3634606",
+          "Longitude" : "-44.9230002"
+        }
+      },
+      "Published" : "2021-12-20T13:59:43Z",
+      "Title" : "Marilândia, Itapecerica - MG, 35550-000",
+      "Updated" : "2021-12-20T13:59:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.8904062, -20.1435294 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Divin%C3%B3polis,+MG&ftid=0xa0a5bc241bce2f:0xf7e939bd5077b17d",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-20.1435294",
+          "Longitude" : "-44.8904062"
+        }
+      },
+      "Published" : "2021-12-20T13:57:19Z",
+      "Title" : "Divinópolis, MG",
+      "Updated" : "2021-12-20T13:57:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.9856483, -19.8777714 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Nova+Serrana,+MG,+35519-000&ftid=0xa75645f4a34c39:0xecbc7e58d1b84cab",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-19.8777714",
+          "Longitude" : "-44.9856483"
+        }
+      },
+      "Published" : "2021-12-20T13:27:50Z",
+      "Title" : "Nova Serrana, MG, 35519-000",
+      "Updated" : "2021-12-20T13:27:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -43.9076844, -19.4859462 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13575556651439052287",
+      "Location" : {
+        "Address" : "MG-010, 506 - Campo Alegre, Jaboticatubas - MG, 35830-000, Brasil",
+        "Business Name" : "Restaurante Parada da Serra",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-19.4859462",
+          "Longitude" : "-43.9076844"
+        }
+      },
+      "Published" : "2021-12-20T13:26:17Z",
+      "Title" : "Restaurante Parada da Serra",
+      "Updated" : "2021-12-20T13:26:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.3126967, -18.9997131 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Carmo+do+Parana%C3%ADba,+MG,+38840-000&ftid=0x94ae0f732b9b2b29:0x1cd88a8632cbede4",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-18.9997131",
+          "Longitude" : "-46.3126967"
+        }
+      },
+      "Published" : "2021-12-20T13:25:51Z",
+      "Title" : "Carmo do Paranaíba, MG, 38840-000",
+      "Updated" : "2021-12-20T13:25:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.8068886, -17.2379456 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13724723332797400013",
+      "Location" : {
+        "Address" : "BR-040, s/n - Zona Rural, Paracatu - MG, 38600-000, Brasil",
+        "Business Name" : "Casa de Concessa",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-17.2379456",
+          "Longitude" : "-46.8068886"
+        }
+      },
+      "Published" : "2021-12-20T13:23:54Z",
+      "Title" : "Casa de Concessa",
+      "Updated" : "2021-12-20T13:23:54Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.4186194, -18.4158495 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Pres.+Oleg%C3%A1rio,+MG,+38750-000&ftid=0x94ae91bcccfd5f3d:0xd7e2172f5281728a",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-18.4158495",
+          "Longitude" : "-46.4186194"
+        }
+      },
+      "Published" : "2021-12-20T13:18:23Z",
+      "Title" : "Pres. Olegário, MG, 38750-000",
+      "Updated" : "2021-12-20T13:18:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.5150076, -18.5961683 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Patos+de+Minas,+MG&ftid=0x94ae6296b0810f37:0xde10e83104493c78",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-18.5961683",
+          "Longitude" : "-46.5150076"
+        }
+      },
+      "Published" : "2021-12-20T13:18:16Z",
+      "Title" : "Patos de Minas, MG",
+      "Updated" : "2021-12-20T13:18:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -45.6516490, -23.1163698 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Ca%C3%A7apava+Velha,+Ca%C3%A7apava+-+SP&ftid=0x94cc544468576c65:0x978d175ccdaf9fbe",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-23.1163698",
+          "Longitude" : "-45.6516490"
+        }
+      },
+      "Published" : "2021-12-20T12:58:24Z",
+      "Title" : "Caçapava Velha, Caçapava - SP",
+      "Updated" : "2021-12-20T12:58:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -45.5639383, -23.0251070 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Taubat%C3%A9+-+Quiririm,+Taubat%C3%A9+-+SP&ftid=0x94ccf8ea3cf365e7:0xe826950860bd7f50",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-23.0251070",
+          "Longitude" : "-45.5639383"
+        }
+      },
+      "Published" : "2021-12-20T12:55:48Z",
+      "Title" : "Taubaté - Quiririm, Taubaté - SP",
+      "Updated" : "2021-12-20T12:55:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -45.2303876, -22.8425920 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Aparecida,+SP,+12570-000&ftid=0x94ccc35d46e8364b:0x84328ec5b5a92a5c",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.8425920",
+          "Longitude" : "-45.2303876"
+        }
+      },
+      "Published" : "2021-12-20T12:55:36Z",
+      "Title" : "Aparecida, SP, 12570-000",
+      "Updated" : "2021-12-20T12:55:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -45.1859219, -22.8036913 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Guaratinguet%C3%A1,+SP&ftid=0x94ccc43d2f182b09:0x4ff95ebd5d4a29a7",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.8036913",
+          "Longitude" : "-45.1859219"
+        }
+      },
+      "Published" : "2021-12-20T12:55:29Z",
+      "Title" : "Guaratinguetá, SP",
+      "Updated" : "2021-12-20T12:55:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -45.1183782, -22.7348827 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Lorena,+SP&ftid=0x94ccc9201d468adf:0xc9ce9c4b4546c622",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.7348827",
+          "Longitude" : "-45.1183782"
+        }
+      },
+      "Published" : "2021-12-20T12:55:18Z",
+      "Title" : "Lorena, SP",
+      "Updated" : "2021-12-20T12:55:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -45.0070755, -22.6630151 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Cachoeira+Paulista,+SP,+12630-000&ftid=0x94cccac305a271ab:0xdba0e8e733c077d3",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.6630151",
+          "Longitude" : "-45.0070755"
+        }
+      },
+      "Published" : "2021-12-20T12:55:08Z",
+      "Title" : "Cachoeira Paulista, SP, 12630-000",
+      "Updated" : "2021-12-20T12:55:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.9592328, -22.5767772 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Cruzeiro,+SP&ftid=0x9df67fe73253c7:0x17d1c1765e1b1017",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.5767772",
+          "Longitude" : "-44.9592328"
+        }
+      },
+      "Published" : "2021-12-20T12:55:00Z",
+      "Title" : "Cruzeiro, SP",
+      "Updated" : "2021-12-20T12:55:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.9666211, -22.3829371 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Passa+Quatro,+MG,+37460-000&ftid=0x9dff0610f4dd21:0x6bc65c12e7b51309",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.3829371",
+          "Longitude" : "-44.9666211"
+        }
+      },
+      "Published" : "2021-12-20T12:54:35Z",
+      "Title" : "Passa Quatro, MG, 37460-000",
+      "Updated" : "2021-12-20T12:54:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.9729771, -22.1974601 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Pouso+Alto,+MG,+37468-000&ftid=0x9e02ccec195257:0xf0c2f8bedef2ced2",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-22.1974601",
+          "Longitude" : "-44.9729771"
+        }
+      },
+      "Published" : "2021-12-20T12:53:29Z",
+      "Title" : "Pouso Alto, MG, 37468-000",
+      "Updated" : "2021-12-20T12:53:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.8103194, -21.8403548 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Cruz%C3%ADlia,+MG,+37445-000&ftid=0x9e33071700de45:0x68449806cd729ca8",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-21.8403548",
+          "Longitude" : "-44.8103194"
+        }
+      },
+      "Published" : "2021-12-20T12:52:55Z",
+      "Title" : "Cruzília, MG, 37445-000",
+      "Updated" : "2021-12-20T12:52:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.6002767, -21.6807036 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Minduri,+MG,+37447-000&ftid=0x9fbbb61538297b:0xbb9f0746cae996a6",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-21.6807036",
+          "Longitude" : "-44.6002767"
+        }
+      },
+      "Published" : "2021-12-20T12:52:43Z",
+      "Title" : "Minduri, MG, 37447-000",
+      "Updated" : "2021-12-20T12:52:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.2576421, -21.1362111 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=S%C3%A3o+Jo%C3%A3o+del+Rei,+MG&ftid=0xa1ce6415ba0a79:0xd777eca370ba8a76",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-21.1362111",
+          "Longitude" : "-44.2576421"
+        }
+      },
+      "Published" : "2021-12-20T12:52:22Z",
+      "Title" : "São João del Rei, MG",
+      "Updated" : "2021-12-20T12:52:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -44.3301892, -21.4824668 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Me.+de+Deus+de+Minas,+MG,+37305-000&ftid=0x9f7984d5afe5f9:0x372294ed1fdbb874",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-21.4824668",
+          "Longitude" : "-44.3301892"
+        }
+      },
+      "Published" : "2021-12-20T12:52:06Z",
+      "Title" : "Me. de Deus de Minas, MG, 37305-000",
+      "Updated" : "2021-12-20T12:52:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
       "coordinates" : [ -43.0400240, -2.5321975 ],
       "type" : "Point"
     },
@@ -1004,18 +4297,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -48.1702447, -14.5530522 ],
+      "coordinates" : [ -48.1655532, -14.5532360 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=18093491280132271590",
       "Location" : {
         "Address" : "São Luiz do Tocantins, Niquelândia - GO, 76420-000, Brasil",
-        "Business Name" : "Nossa Senhora da Abadia - Muquém",
+        "Business Name" : "Santuário Nossa Senhora da Abadia do Muquém",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-14.5530522",
-          "Longitude" : "-48.1702447"
+          "Latitude" : "-14.5532360",
+          "Longitude" : "-48.1655532"
         }
       },
       "Published" : "2021-09-11T22:53:24Z",
@@ -1025,7 +4318,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -48.3087402, -14.1955397 ],
+      "coordinates" : [ -48.3087563, -14.1954725 ],
       "type" : "Point"
     },
     "properties" : {
@@ -1035,8 +4328,8 @@ placesData = {
         "Business Name" : "Estância Corujinha",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-14.1955397",
-          "Longitude" : "-48.3087402"
+          "Latitude" : "-14.1954725",
+          "Longitude" : "-48.3087563"
         }
       },
       "Published" : "2021-09-11T22:52:15Z",
@@ -1346,7 +4639,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -55.8499807, -15.3721685 ],
+      "coordinates" : [ -55.8496890, -15.3719789 ],
       "type" : "Point"
     },
     "properties" : {
@@ -1356,8 +4649,8 @@ placesData = {
         "Business Name" : "Portão do Inferno",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-15.3721685",
-          "Longitude" : "-55.8499807"
+          "Latitude" : "-15.3719789",
+          "Longitude" : "-55.8496890"
         }
       },
       "Published" : "2021-07-18T20:34:54Z",
@@ -1700,7 +4993,7 @@ placesData = {
       "Google Maps URL" : "http://maps.google.com/?cid=3241772578972641867",
       "Location" : {
         "Address" : "Av. Hermina Torquarto da Silva - Centro Político Administrativo, Cuiabá - MT, 78050-970, Brasil",
-        "Business Name" : "Parque Júlio Domingos de Campos \"Seo Fiote\" (Parque das Águas)",
+        "Business Name" : "Parque das Águas",
         "Country Code" : "BR",
         "Geo Coordinates" : {
           "Latitude" : "-15.5680605",
@@ -4092,7 +7385,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -48.4693837, -1.4489095 ],
+      "coordinates" : [ -48.4695846, -1.4488831 ],
       "type" : "Point"
     },
     "properties" : {
@@ -4102,8 +7395,8 @@ placesData = {
         "Business Name" : "Hotel Ibis Budget",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-1.4489095",
-          "Longitude" : "-48.4693837"
+          "Latitude" : "-1.4488831",
+          "Longitude" : "-48.4695846"
         }
       },
       "Published" : "2021-01-11T01:41:26Z",
@@ -4319,18 +7612,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -48.5050416, -1.4563354 ],
+      "coordinates" : [ -48.5045817, -1.4550161 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=5882870960961746787",
       "Location" : {
-        "Address" : "Praça Frei Brandão, s/n - Cidade Velha, Belém - PA, 66020-010, Brasil",
+        "Address" : "Praça Frei Brandão, s/n - Cidade Velha, Belém - PA, 66020-240, Brasil",
         "Business Name" : "Igreja Santo Alexandre - Museu de Arte Sacra",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-1.4563354",
-          "Longitude" : "-48.5050416"
+          "Latitude" : "-1.4550161",
+          "Longitude" : "-48.5045817"
         }
       },
       "Published" : "2021-01-10T15:29:16Z",
@@ -4382,18 +7675,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -48.5046644, -1.4557860 ],
+      "coordinates" : [ -48.5048365, -1.4557159 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=8754246557278324203",
       "Location" : {
         "Address" : "Praça Dom Frei Caetano Brandão - Cidade Velha, Belém - PA, 66020-310, Brasil",
-        "Business Name" : "Catedral Metropolitana De Belém Nossa Senhora Da Graça",
+        "Business Name" : "Catedral Metropolitana de Belém Nossa Senhora da Graça",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-1.4557860",
-          "Longitude" : "-48.5046644"
+          "Latitude" : "-1.4557159",
+          "Longitude" : "-48.5048365"
         }
       },
       "Published" : "2021-01-10T12:43:28Z",
@@ -6013,7 +9306,7 @@ placesData = {
       "Google Maps URL" : "http://maps.google.com/?cid=16250347207565131305",
       "Location" : {
         "Address" : "Vila de Jericoacoara, Jijoca de Jericoacoara - CE, 62598-000, Brasil",
-        "Business Name" : "Pedra Furada /Jericoacoara",
+        "Business Name" : "Pedra Furada",
         "Country Code" : "BR",
         "Geo Coordinates" : {
           "Latitude" : "-2.7846179",
@@ -6534,7 +9827,7 @@ placesData = {
       "Google Maps URL" : "http://maps.google.com/?cid=12927707299049275494",
       "Location" : {
         "Address" : "Av. Joana Medeiros, 686 - centro, Pte. Alta do Tocantins - TO, 77590-000, Brasil",
-        "Business Name" : "Pousada Bicudo",
+        "Business Name" : "Pousada Arte Jalapoeira",
         "Country Code" : "BR",
         "Geo Coordinates" : {
           "Latitude" : "-10.7462829",
@@ -9101,6 +12394,7 @@ placesData = {
       "Location" : {
         "Address" : "Praça Avenida Adriano Pimentel,s/n, R. Adriano Pímentel, S/N - Prainha, Santarém - PA, 68005-270, Brasil",
         "Business Name" : "Centro Cultural João Fona",
+        "Country Code" : "BR",
         "Geo Coordinates" : {
           "Latitude" : "-2.4186202",
           "Longitude" : "-54.7082860"
@@ -9217,18 +12511,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 26.0781074, 44.4671870 ],
+      "coordinates" : [ 26.0783597, 44.4669678 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=6318124141341558299",
       "Location" : {
-        "Address" : "Piața Arcul de Triumf, București, Romênia",
+        "Address" : "Piața Arcul de Triumf, București 011453, Romênia",
         "Business Name" : "Arcul de Triumf",
         "Country Code" : "RO",
         "Geo Coordinates" : {
-          "Latitude" : "44.4671870",
-          "Longitude" : "26.0781074"
+          "Latitude" : "44.4669678",
+          "Longitude" : "26.0783597"
         }
       },
       "Published" : "2019-05-09T13:43:08Z",
@@ -9643,7 +12937,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 26.0995902, 44.4319112 ],
+      "coordinates" : [ 26.0988593, 44.4317929 ],
       "type" : "Point"
     },
     "properties" : {
@@ -9653,8 +12947,8 @@ placesData = {
         "Business Name" : "Stavropoleos Monastery Church",
         "Country Code" : "RO",
         "Geo Coordinates" : {
-          "Latitude" : "44.4319112",
-          "Longitude" : "26.0995902"
+          "Latitude" : "44.4317929",
+          "Longitude" : "26.0988593"
         }
       },
       "Published" : "2019-05-09T09:33:44Z",
@@ -9894,18 +13188,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.3203449, 42.6866249 ],
+      "coordinates" : [ 23.3191664, 42.6844154 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=12498896367348882879",
       "Location" : {
-        "Address" : "42°41'12. 23°19'13., 4 5\"N, Bulgarski izvor, Bulgária",
+        "Address" : "1463 Ndk, Sofia, Bulgária",
         "Business Name" : "Temple of Bulgarian Martyrs",
         "Country Code" : "BG",
         "Geo Coordinates" : {
-          "Latitude" : "42.6866249",
-          "Longitude" : "23.3203449"
+          "Latitude" : "42.6844154",
+          "Longitude" : "23.3191664"
         }
       },
       "Published" : "2019-05-08T13:48:17Z",
@@ -10026,6 +13320,7 @@ placesData = {
       "Location" : {
         "Address" : "ul. \"Oborishte\" 4, 1000 Sofia Center, Sofia, Bulgária",
         "Business Name" : "Monument of Tsar Samuil",
+        "Country Code" : "BG",
         "Geo Coordinates" : {
           "Latitude" : "42.6963158",
           "Longitude" : "23.3306532"
@@ -10247,7 +13542,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.3211123, 42.6981754 ],
+      "coordinates" : [ 23.3229201, 42.6977023 ],
       "type" : "Point"
     },
     "properties" : {
@@ -10257,8 +13552,8 @@ placesData = {
         "Business Name" : "Sofia Ancient Serdica Archaeological Complex",
         "Country Code" : "BG",
         "Geo Coordinates" : {
-          "Latitude" : "42.6981754",
-          "Longitude" : "23.3211123"
+          "Latitude" : "42.6977023",
+          "Longitude" : "23.3229201"
         }
       },
       "Published" : "2019-05-08T08:23:59Z",
@@ -10422,7 +13717,7 @@ placesData = {
       "Google Maps URL" : "http://maps.google.com/?cid=10178196981627827791",
       "Location" : {
         "Address" : "bulevard \"Knyaginya Maria Luiza\" 18, 1000 Sofia Center, Sofia, Bulgária",
-        "Business Name" : "Banya Bashi Masjid",
+        "Business Name" : "Sofia Central Mosque",
         "Country Code" : "BG",
         "Geo Coordinates" : {
           "Latitude" : "42.6996030",
@@ -10443,7 +13738,7 @@ placesData = {
       "Google Maps URL" : "http://maps.google.com/?cid=13043812544238215435",
       "Location" : {
         "Address" : "ul. \"Ekzarh Yosif\" 37, 1000 Sofia Center, Sofia, Bulgária",
-        "Business Name" : "Park \"Tsentralna banya\"",
+        "Business Name" : "Tsentralna banya Park",
         "Country Code" : "BG",
         "Geo Coordinates" : {
           "Latitude" : "42.6996278",
@@ -10701,7 +13996,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 24.4737070, 35.3700720 ],
+      "coordinates" : [ 24.4737681, 35.3701106 ],
       "type" : "Point"
     },
     "properties" : {
@@ -10711,8 +14006,8 @@ placesData = {
         "Business Name" : "Castelo Restaurant",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "35.3700720",
-          "Longitude" : "24.4737070"
+          "Latitude" : "35.3701106",
+          "Longitude" : "24.4737681"
         }
       },
       "Published" : "2019-05-04T13:22:50Z",
@@ -10946,7 +14241,7 @@ placesData = {
       "Google Maps URL" : "http://maps.google.com/?cid=4650788457899522711",
       "Location" : {
         "Address" : "35°11'12.4\"N 25°43'01.3\"E, Ag. Nikolaos 721 00, Grécia",
-        "Business Name" : "Ιστιοπλοικό",
+        "Business Name" : "Yachting Evolution Sailing Cruises",
         "Geo Coordinates" : {
           "Latitude" : "35.1867445",
           "Longitude" : "25.7169504"
@@ -11103,7 +14398,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 25.3779442, 36.4626024 ],
+      "coordinates" : [ 25.3779900, 36.4626868 ],
       "type" : "Point"
     },
     "properties" : {
@@ -11113,8 +14408,8 @@ placesData = {
         "Business Name" : "Pitogyros Traditional Grill House - Gyros, souvlaki, kebab.",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "36.4626024",
-          "Longitude" : "25.3779442"
+          "Latitude" : "36.4626868",
+          "Longitude" : "25.3779900"
         }
       },
       "Published" : "2019-04-29T17:37:13Z",
@@ -11131,7 +14426,7 @@ placesData = {
       "Google Maps URL" : "http://maps.google.com/?cid=14861198028050229381",
       "Location" : {
         "Address" : "Oia 847 02, Grécia",
-        "Business Name" : "Castle of Oia, Agios Nikolaos Castle",
+        "Business Name" : "Castle of Oia",
         "Country Code" : "GR",
         "Geo Coordinates" : {
           "Latitude" : "36.4600596",
@@ -11348,7 +14643,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 28.2374205, 36.3766017 ],
+      "coordinates" : [ 28.2371549, 36.3765031 ],
       "type" : "Point"
     },
     "properties" : {
@@ -11358,8 +14653,8 @@ placesData = {
         "Business Name" : "Kokkini Beach Kallithea",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "36.3766017",
-          "Longitude" : "28.2374205"
+          "Latitude" : "36.3765031",
+          "Longitude" : "28.2371549"
         }
       },
       "Published" : "2019-04-25T20:37:49Z",
@@ -11390,7 +14685,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 28.2331785, 36.3744931 ],
+      "coordinates" : [ 28.2331756, 36.3744384 ],
       "type" : "Point"
     },
     "properties" : {
@@ -11400,8 +14695,8 @@ placesData = {
         "Business Name" : "Tasos beach",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "36.3744931",
-          "Longitude" : "28.2331785"
+          "Latitude" : "36.3744384",
+          "Longitude" : "28.2331756"
         }
       },
       "Published" : "2019-04-25T20:37:02Z",
@@ -11614,7 +14909,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 28.2243799, 36.4531553 ],
+      "coordinates" : [ 28.2245951, 36.4528630 ],
       "type" : "Point"
     },
     "properties" : {
@@ -11624,8 +14919,8 @@ placesData = {
         "Business Name" : "Ronda",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "36.4531553",
-          "Longitude" : "28.2243799"
+          "Latitude" : "36.4528630",
+          "Longitude" : "28.2245951"
         }
       },
       "Published" : "2019-04-25T08:09:25Z",
@@ -11674,7 +14969,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 28.2268410, 36.4448059 ],
+      "coordinates" : [ 28.2268458, 36.4448861 ],
       "type" : "Point"
     },
     "properties" : {
@@ -11684,8 +14979,8 @@ placesData = {
         "Business Name" : "Archaeological Museum of Rhodes",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "36.4448059",
-          "Longitude" : "28.2268410"
+          "Latitude" : "36.4448861",
+          "Longitude" : "28.2268458"
         }
       },
       "Published" : "2019-04-25T07:53:44Z",
@@ -11758,7 +15053,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.7299098, 37.9914349 ],
+      "coordinates" : [ 23.7299971, 37.9913443 ],
       "type" : "Point"
     },
     "properties" : {
@@ -11768,8 +15063,8 @@ placesData = {
         "Business Name" : "Hellenic Motor Museum",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "37.9914349",
-          "Longitude" : "23.7299098"
+          "Latitude" : "37.9913443",
+          "Longitude" : "23.7299971"
         }
       },
       "Published" : "2019-04-24T11:07:49Z",
@@ -11951,7 +15246,7 @@ placesData = {
       "Google Maps URL" : "http://maps.google.com/?cid=6357290598492505310",
       "Location" : {
         "Address" : "Cape Sounio, Sounio 195 00, Grécia",
-        "Business Name" : "Temple of Poseidon 🔱",
+        "Business Name" : "Temple of Poseidon",
         "Geo Coordinates" : {
           "Latitude" : "37.6501925",
           "Longitude" : "24.0245870"
@@ -12561,7 +15856,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.7350086, 37.9665321 ],
+      "coordinates" : [ 23.7345788, 37.9665990 ],
       "type" : "Point"
     },
     "properties" : {
@@ -12571,8 +15866,8 @@ placesData = {
         "Business Name" : "Olýmpion",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "37.9665321",
-          "Longitude" : "23.7350086"
+          "Latitude" : "37.9665990",
+          "Longitude" : "23.7345788"
         }
       },
       "Published" : "2019-04-22T03:18:05Z",
@@ -12790,18 +16085,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -60.1754595, -3.0100097 ],
+      "coordinates" : [ -60.1754367, -3.0099172 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=18430084733825119686",
       "Location" : {
         "Address" : "São João Afluente do Tarumã Mirim S/n Zona Rural, Igarapé - AM, Brasil",
-        "Business Name" : "Museu Do Seringal",
+        "Business Name" : "Museu do Seringal",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-3.0100097",
-          "Longitude" : "-60.1754595"
+          "Latitude" : "-3.0099172",
+          "Longitude" : "-60.1754367"
         }
       },
       "Published" : "2019-03-30T20:26:27Z",
@@ -12831,7 +16126,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 23.3232452, 42.7100330 ],
+      "coordinates" : [ 23.3224666, 42.7105533 ],
       "type" : "Point"
     },
     "properties" : {
@@ -12841,8 +16136,8 @@ placesData = {
         "Business Name" : "Central Bus Station - Sofia",
         "Country Code" : "BG",
         "Geo Coordinates" : {
-          "Latitude" : "42.7100330",
-          "Longitude" : "23.3232452"
+          "Latitude" : "42.7105533",
+          "Longitude" : "23.3224666"
         }
       },
       "Published" : "2019-03-24T17:00:51Z",
@@ -12957,7 +16252,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 26.0998065, 44.4297511 ],
+      "coordinates" : [ 26.0986571, 44.4298564 ],
       "type" : "Point"
     },
     "properties" : {
@@ -12967,8 +16262,8 @@ placesData = {
         "Business Name" : "Antique Hostel Bucharest",
         "Country Code" : "RO",
         "Geo Coordinates" : {
-          "Latitude" : "44.4297511",
-          "Longitude" : "26.0998065"
+          "Latitude" : "44.4298564",
+          "Longitude" : "26.0986571"
         }
       },
       "Published" : "2019-03-23T18:25:28Z",
@@ -12999,18 +16294,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 25.7114372, 35.1809258 ],
+      "coordinates" : [ 25.7114172, 35.1809335 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=11990521537916438695",
       "Location" : {
-        "Address" : "Περιοχή Γαργαδώρος, Ag. Nikolaos 721 00, Grécia",
+        "Address" : "Gargadoros area, Ag. Nikolaos 721 00, Grécia",
         "Business Name" : "Miramare Resort & Spa",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "35.1809258",
-          "Longitude" : "25.7114372"
+          "Latitude" : "35.1809335",
+          "Longitude" : "25.7114172"
         }
       },
       "Published" : "2019-03-13T02:42:15Z",
@@ -13062,7 +16357,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 25.3917453, 36.4798672 ],
+      "coordinates" : [ 25.3915733, 36.4794343 ],
       "type" : "Point"
     },
     "properties" : {
@@ -13072,8 +16367,8 @@ placesData = {
         "Business Name" : "En Plo Boutique Suites - Oia Santorini",
         "Country Code" : "GR",
         "Geo Coordinates" : {
-          "Latitude" : "36.4798672",
-          "Longitude" : "25.3917453"
+          "Latitude" : "36.4794343",
+          "Longitude" : "25.3915733"
         }
       },
       "Published" : "2019-03-13T02:39:57Z",
@@ -13247,7 +16542,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -40.8402366, -14.8477496 ],
+      "coordinates" : [ -40.8403874, -14.8475845 ],
       "type" : "Point"
     },
     "properties" : {
@@ -13256,8 +16551,8 @@ placesData = {
         "Address" : "Tv. dos Pratés, n°81 - Centro, Vitória da Conquista - BA, 45000-695, Brasil",
         "Business Name" : "Edilson Motos",
         "Geo Coordinates" : {
-          "Latitude" : "-14.8477496",
-          "Longitude" : "-40.8402366"
+          "Latitude" : "-14.8475845",
+          "Longitude" : "-40.8403874"
         }
       },
       "Published" : "2019-02-02T13:07:49Z",
@@ -14846,18 +18141,18 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -82.3690399, 23.1316557 ],
+      "coordinates" : [ -82.3690522, 23.1317076 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=17871172703052506467",
       "Location" : {
-        "Address" : "4JJJ+M98, La Habana, Cuba",
+        "Address" : "4JJJ+M9P, La Habana, Cuba",
         "Business Name" : "Iglesia Del Sagrado Corazon de Jesus",
         "Country Code" : "CU",
         "Geo Coordinates" : {
-          "Latitude" : "23.1316557",
-          "Longitude" : "-82.3690399"
+          "Latitude" : "23.1317076",
+          "Longitude" : "-82.3690522"
         }
       },
       "Published" : "2019-01-07T18:13:40Z",
@@ -17375,7 +20670,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -50.5552950, -29.4644600 ],
+      "coordinates" : [ -50.5552041, -29.4644510 ],
       "type" : "Point"
     },
     "properties" : {
@@ -17385,8 +20680,8 @@ placesData = {
         "Business Name" : "Terra do Sempre Reserva Ecológica e Pousada",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-29.4644600",
-          "Longitude" : "-50.5552950"
+          "Latitude" : "-29.4644510",
+          "Longitude" : "-50.5552041"
         }
       },
       "Published" : "2018-01-04T16:54:23Z",
@@ -17912,7 +21207,7 @@ placesData = {
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=4426080800614860778",
       "Location" : {
-        "Address" : "Rod. dos Bandeirantes, km 72 - Moinho, Vinhedo - SP, 13288-130, Brasil",
+        "Address" : "Rod. dos Bandeirantes, km 72 - Moinho, Vinhedo - SP, 13288-390, Brasil",
         "Business Name" : "Hopi Hari",
         "Country Code" : "BR",
         "Geo Coordinates" : {
@@ -19561,7 +22856,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -41.4730681, -12.4556638 ],
+      "coordinates" : [ -41.4719496, -12.4591030 ],
       "type" : "Point"
     },
     "properties" : {
@@ -19571,8 +22866,8 @@ placesData = {
         "Business Name" : "Morro do Pai Inácio, Palmeiras-BA",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-12.4556638",
-          "Longitude" : "-41.4730681"
+          "Latitude" : "-12.4591030",
+          "Longitude" : "-41.4719496"
         }
       },
       "Published" : "2016-11-22T21:44:09Z",
@@ -22287,7 +25582,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -39.0308444, -14.4748917 ],
+      "coordinates" : [ -39.0309127, -14.4749400 ],
       "type" : "Point"
     },
     "properties" : {
@@ -22297,8 +25592,8 @@ placesData = {
         "Business Name" : "Mirante II - Serra grande - Praia Do Pé De Serra.",
         "Country Code" : "BR",
         "Geo Coordinates" : {
-          "Latitude" : "-14.4748917",
-          "Longitude" : "-39.0308444"
+          "Latitude" : "-14.4749400",
+          "Longitude" : "-39.0309127"
         }
       },
       "Published" : "2016-07-11T03:18:13Z",
@@ -24013,7 +27308,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 8.6721548, 50.1122964 ],
+      "coordinates" : [ 8.6722139, 50.1124866 ],
       "type" : "Point"
     },
     "properties" : {
@@ -24023,8 +27318,8 @@ placesData = {
         "Business Name" : "Main Tower",
         "Country Code" : "DE",
         "Geo Coordinates" : {
-          "Latitude" : "50.1122964",
-          "Longitude" : "8.6721548"
+          "Latitude" : "50.1124866",
+          "Longitude" : "8.6722139"
         }
       },
       "Published" : "2014-09-26T11:34:37Z",
@@ -25353,7 +28648,7 @@ placesData = {
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 16.3498992, 48.2248893 ],
+      "coordinates" : [ 16.3501065, 48.2244600 ],
       "type" : "Point"
     },
     "properties" : {
@@ -25363,8 +28658,8 @@ placesData = {
         "Business Name" : "Kantine Volksoper",
         "Country Code" : "AT",
         "Geo Coordinates" : {
-          "Latitude" : "48.2248893",
-          "Longitude" : "16.3498992"
+          "Latitude" : "48.2244600",
+          "Longitude" : "16.3501065"
         }
       },
       "Published" : "2014-09-22T11:42:54Z",
