@@ -1,4 +1,4 @@
-placesData = {
+{
   "type" : "FeatureCollection",
   "features" : [ {
     "geometry" : {
