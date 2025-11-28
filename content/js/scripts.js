@@ -9,9 +9,11 @@ function initMap() {
     });
     for (var i in places.features){
       let place = places.features[i]
-      let date = new Date(place.properties.Published)
-      let title = place.properties.Title
-      //console.log(place.properties.Title)
+      let date = new Date(place.properties.date)
+      let title = place.properties.location && place.properties.location.name ? place.properties.location.name : "Desconhecido"
+      let address = place.properties.location && place.properties.location.address ? place.properties.location.address : "Desconhecido"
+      
+      console.log(place.properties.location && place.properties.location.name ? place.properties.location.name : "Desconhecido")
       
 
       const marker = new google.maps.Marker({
@@ -61,6 +63,34 @@ function initMap() {
         marker.addListener("click", () => {
           infowindow.open(map, marker);
         });
+      } else {
+        const contentString = `
+          <div>
+            <h6>${title}</h6>
+            <p>${date.getUTCMonth()+1}/${date.getFullYear()}</p>
+            <p>${address}</p>
+            <p>${place.geometry.coordinates[1]}, ${place.geometry.coordinates[0]}</p>
+          </div>
+        `;
+
+        const infoWindow = new google.maps.InfoWindow({
+          content: contentString
+        });
+
+        // adiciona clique no marcador
+        marker.addListener("mouseover", () => {
+          infoWindow.open({
+            anchor: marker,
+            map,
+            shouldFocus: false
+          });
+        });
+
+        // fechar ao tirar o mouse
+        marker.addListener("mouseout", () => {
+          infoWindow.close();
+        });
+
       }
 
     }
