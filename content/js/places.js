@@ -4,6 +4,51 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-28T15:50:50Z",
+        "google_maps_url": "http://maps.google.com/?q=Madrid,+Madri,+Espanha&ftid=0xd422997800a3c81:0xc436dec1618c2269",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-10-26T13:41:36Z",
+        "google_maps_url": "http://maps.google.com/?q=Guinda,+Diamantina+-+MG,+39100-000&ftid=0xaeb62dc4be1dd3:0x240526afecdbd56c",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-10-26T13:41:17Z",
+        "google_maps_url": "http://maps.google.com/?q=Gouveia,+MG,+39120-000&ftid=0xaed3975954bee9:0xc49cc35412d76e4e",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           -45.2791643,
           -18.1784378
         ],
@@ -25356,15 +25401,18 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          0,
-          0
+          23.7172718,
+          37.9780295
         ],
         "type": "Point"
       },
       "properties": {
         "date": "2019-04-22T14:51:10Z",
         "google_maps_url": "http://maps.google.com/?cid=14804034616189829099",
-        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+        "location": {
+          "address": "Ermou 148, Athina 105 53, Grécia",
+          "name": "Sítio Arqueológico de Kerameikos"
+        }
       },
       "type": "Feature"
     },
@@ -32201,21 +32249,6 @@ let placesData = {
       "properties": {
         "date": "2016-07-12T00:50:47Z",
         "google_maps_url": "http://maps.google.com/?q=Paris,+Fran%C3%A7a&ftid=0x47e66e1f06e2b70f:0x40b82c3688c9460",
-        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          0,
-          0
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "date": "2016-07-12T00:50:28Z",
-        "google_maps_url": "http://maps.google.com/?q=Madri,+Espanha&ftid=0xd422997800a3c81:0xc436dec1618c2269",
         "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
       },
       "type": "Feature"
