@@ -4,36 +4,6 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          0,
-          0
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "date": "2025-10-26T13:41:36Z",
-        "google_maps_url": "http://maps.google.com/?q=Guinda,+Diamantina+-+MG,+39100-000&ftid=0xaeb62dc4be1dd3:0x240526afecdbd56c",
-        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          0,
-          0
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "date": "2025-10-26T13:41:17Z",
-        "google_maps_url": "http://maps.google.com/?q=Gouveia,+MG,+39120-000&ftid=0xaed3975954bee9:0xc49cc35412d76e4e",
-        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           -45.2791643,
           -18.1784378
         ],

@@ -9,12 +9,14 @@ function initMap() {
     });
     for (var i in places.features){
       let place = places.features[i]
+      
+      if (place.geometry && place.geometry.coordinates && place.geometry.coordinates[0] == 0 && place.geometry.coordinates[1] == 0){
+        continue;
+      }
+      
       let date = new Date(place.properties.date)
       let title = place.properties.location && place.properties.location.name ? place.properties.location.name : "Desconhecido"
-      let address = place.properties.location && place.properties.location.address ? place.properties.location.address : "Desconhecido"
-      
-      console.log(place.properties.location && place.properties.location.name ? place.properties.location.name : "Desconhecido")
-      
+      let address = place.properties.location && place.properties.location.address ? place.properties.location.address : "Desconhecido"      
 
       const marker = new google.maps.Marker({
         position: {lat:place.geometry.coordinates[1],lng:place.geometry.coordinates[0]},
