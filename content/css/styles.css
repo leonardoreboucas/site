@@ -10171,3 +10171,9 @@ header.masthead h1 {
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
 }
+
+.flag {
+  width: 3em;
+  border: 1px solid #adb5bd;
+  margin-left: 2px;
+}

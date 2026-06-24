@@ -4,6 +4,1939 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
+          -47.8899171,
+          -15.8141192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-06-20T17:56:12Z",
+        "google_maps_url": "http://maps.google.com/?cid=4293432078695014706",
+        "location": {
+          "address": "SHCS CLS 404 - Asa Sul, Brasília - DF, 70239-510, Brasil",
+          "country_code": "BR",
+          "name": "El Paso Cocina Mexicana Asa Sul"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.5022314,
+          8.9898676
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-06-08T01:28:15Z",
+        "google_maps_url": "http://maps.google.com/?cid=13289099567506615887",
+        "location": {
+          "address": "Via Israel &, Calle 76 Este, Panama City, Panamá",
+          "country_code": "PA",
+          "name": "Aloft by Marriott Panama"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.7811876,
+          21.0561275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-06-06T16:46:26Z",
+        "google_maps_url": "http://maps.google.com/?cid=14802410681836774680",
+        "location": {
+          "address": "Blvd. Kukulcan Km. 18.5, Zona Hotelera, 77500 Cancún, Q.R., México",
+          "country_code": "MX",
+          "name": "Crown Paradise Club"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.7648014,
+          21.1011502
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-06-01T18:56:17Z",
+        "google_maps_url": "http://maps.google.com/?cid=3964276441877165065",
+        "location": {
+          "address": "Calle Rtno. Kukulcán 24-Km. 13,5 Lote, Zona Hotelera, 77500 Cancún, Q.R., México",
+          "country_code": "MX",
+          "name": "Occidental Tucancún"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.8759324,
+          20.8481440
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-31T19:50:47Z",
+        "google_maps_url": "http://maps.google.com/?cid=1452992241694913643",
+        "location": {
+          "address": "Calle Jose Maria Morelos 108, 77580 Puerto Morelos, Q.R., México",
+          "country_code": "MX",
+          "name": "Blü Tapioca Bar | Puerto Morelos"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.8750190,
+          20.8480761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-31T19:50:09Z",
+        "google_maps_url": "http://maps.google.com/?cid=275484390768153368",
+        "location": {
+          "address": "Rafael E. Melgar 104, 77580 Puerto Morelos, Q.R., México",
+          "country_code": "MX",
+          "name": "Mar-Bella Fish Market - Puerto Morelos"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-31T19:49:58Z",
+        "google_maps_url": "http://maps.google.com/?q=Puerto+Morelos,+Quintana+Roo,+M%C3%A9xico&ftid=0x8f4e883a1aceaa83:0x16b912813b891e6e",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.8751067,
+          20.8476669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-31T19:49:53Z",
+        "google_maps_url": "http://maps.google.com/?cid=18094963101024015621",
+        "location": {
+          "address": "77580 Puerto Morelos, Quintana Roo, México",
+          "country_code": "MX",
+          "name": "Faro Inclinado"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.8333935,
+          21.1611602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-31T16:52:45Z",
+        "google_maps_url": "http://maps.google.com/?cid=28163521105014988",
+        "location": {
+          "address": "Xel-ha Supermanzana 28 Manzana 13, 77509 Cancún, Q.R., México",
+          "country_code": "MX",
+          "name": "Mercado 28"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.7787514,
+          21.0623358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-31T15:16:47Z",
+        "google_maps_url": "http://maps.google.com/?cid=16477353873786962404",
+        "location": {
+          "address": "Blvd. Kukulcan Kilometro 18, Zona Hotelera, 77500 Cancún, Q.R., México",
+          "country_code": "MX",
+          "name": "Dolphins Beach"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.7793972,
+          21.0619496
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-31T15:16:41Z",
+        "google_maps_url": "http://maps.google.com/?cid=18388539287697944689",
+        "location": {
+          "address": "Hotel Zone, 77500 Cancún, Quintana Roo, México",
+          "country_code": "MX",
+          "name": "Cancún Sign"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-31T03:43:42Z",
+        "google_maps_url": "http://maps.google.com/?q=Playa+Akumal,+Carretera+Tulum,+Yodzonot,+77776+Canc%C3%BAn,+Q.R.,+M%C3%A9xico&ftid=0x8f4e33e8a3d7bb8b:0xccc4498170e22601",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.8144215,
+          21.1446081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-31T03:43:21Z",
+        "google_maps_url": "http://maps.google.com/?cid=4803373377057467915",
+        "location": {
+          "address": "Av. Mal. Fonatur, Zona Hotelera, 77503 Cancún, Q.R., México",
+          "country_code": "MX",
+          "name": "Malecón"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.8620062,
+          21.1017060
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-31T03:42:15Z",
+        "google_maps_url": "http://maps.google.com/?cid=1507756056738111211",
+        "location": {
+          "address": "Av Huayacán 999, 77560 Cancún, Q.R., México",
+          "country_code": "MX",
+          "name": "Walmart Huayacán"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.8608518,
+          21.1029178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-31T03:42:05Z",
+        "google_maps_url": "http://maps.google.com/?cid=607245806635937041",
+        "location": {
+          "address": "Av Huayacán 330, 77535 Cancún, Q.R., México",
+          "country_code": "MX",
+          "name": "Soriana Hiper Huayacan"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.8620238,
+          20.9848806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-30T23:56:18Z",
+        "google_maps_url": "http://maps.google.com/?cid=4936519149347007593",
+        "location": {
+          "address": "M1 de la SM 47 Km 21 Carretera Cancún - Puerto Morelos, 77564 Cancún, Q.R., México",
+          "country_code": "MX",
+          "name": "Grand Outlet Riviera Maya"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-30T22:54:59Z",
+        "google_maps_url": "http://maps.google.com/?q=Playa+del+Carmen,+Quintana+Roo,+M%C3%A9xico&ftid=0x8f4e4323d22d4e61:0xe8c10b783bab4adc",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-30T22:54:54Z",
+        "google_maps_url": "http://maps.google.com/?q=Quinta+Avenida,+Playa+del+Carmen,+Q.R.,+M%C3%A9xico&ftid=0x8f4e43396692e03b:0xb363ad7670e2157",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.0746951,
+          20.6218103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-30T21:46:05Z",
+        "google_maps_url": "http://maps.google.com/?cid=15400113204876992472",
+        "location": {
+          "address": "Av Benito Juárez 251, Centro, 77713 Playa del Carmen, Q.R., México",
+          "country_code": "MX",
+          "name": "Portal Maya"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.0722125,
+          20.6265763
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-30T21:20:17Z",
+        "google_maps_url": "http://maps.google.com/?cid=1132755450147364347",
+        "location": {
+          "address": "Esquina de la, 5ta Avenida y Calle 10 Norte, Centro, 77710 Playa del Carmen, Q.R., México",
+          "country_code": "MX",
+          "name": "Anita La Mamma del Gelato"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.2510202,
+          20.4881690
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-30T20:25:31Z",
+        "google_maps_url": "http://maps.google.com/?cid=6834116354312594346",
+        "location": {
+          "address": "Riviera Maya, Carr. Cancún - Tulum Km 266, 77734 Playa del Carmen, Q.R., México",
+          "country_code": "MX",
+          "name": "Cenote Azul"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.4578932,
+          20.1524002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-30T18:05:05Z",
+        "google_maps_url": "http://maps.google.com/?cid=13801512432059013462",
+        "location": {
+          "address": "Supermanzana QROO 15, Tulum Beach, 77760 Tulum, Quintana Roo, México",
+          "country_code": "MX",
+          "name": "Escultura Ven a la Luz"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-30T18:04:43Z",
+        "google_maps_url": "http://maps.google.com/?q=Tulum,+Quintana+Roo,+M%C3%A9xico&ftid=0x8f4fd40310e42a4b:0xeedc0db93ff9ab7",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-30T16:38:33Z",
+        "google_maps_url": "http://maps.google.com/?q=Ruinas+de+Tulum,+Carretera+Federal+Km+307,+77780+Tulum,+Q.R.,+M%C3%A9xico&ftid=0x8f4fd3dfe8b35023:0xd3ce8416e49f55aa",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.4296040,
+          20.2147573
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-30T16:38:18Z",
+        "google_maps_url": "http://maps.google.com/?cid=6699617909660680590",
+        "location": {
+          "address": "Unnamed Road, Q.R., México",
+          "country_code": "MX",
+          "name": "Temple of the Frescoes"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.8704330,
+          21.0418455
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-30T13:13:31Z",
+        "google_maps_url": "http://maps.google.com/?cid=8700559449562074658",
+        "location": {
+          "address": "Chetumal Km 22-Local B, 77560 Cancún, Q.R., México",
+          "country_code": "MX",
+          "name": "Payless Car Rental Cancún - Check-in Aeropuerto (Área de arrendadoras)"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-30T03:59:24Z",
+        "google_maps_url": "http://maps.google.com/?q=Cidade+do+M%C3%A9xico,+Distrito+Federal,+M%C3%A9xico&ftid=0x85ce0026db097507:0x54061076265ee841",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-30T03:59:12Z",
+        "google_maps_url": "http://maps.google.com/?q=Canc%C3%BAn,+Quintana+Roo,+M%C3%A9xico&ftid=0x8f4c2b05aef653db:0xce32b73c625fcd8a",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.8510077,
+          21.0718628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-30T03:58:12Z",
+        "google_maps_url": "http://maps.google.com/?cid=9248340190936360827",
+        "location": {
+          "address": "Sergio Butrón Casas Supermanzana 307 Manzana 404, Campestre Lol-be, 77560 Cancún, Q.R., México",
+          "country_code": "MX",
+          "name": "Villas Carlota Cancun"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.8743844,
+          21.0419232
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-30T03:58:02Z",
+        "google_maps_url": "http://maps.google.com/?cid=16715061971903347206",
+        "location": {
+          "address": "Carr. a Aeropuerto Cancún, 77500 Cancún, Q.R., México",
+          "country_code": "MX",
+          "name": "Cancun International Airport"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.0265202,
+          19.7352993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-30T03:57:25Z",
+        "google_maps_url": "http://maps.google.com/?cid=7783970872006362502",
+        "location": {
+          "address": "Circuito Exterior Mexiquense km 33 Santa Lucia, 55600 Zumpango de Ocampo, Méx., México",
+          "country_code": "MX",
+          "name": "Felipe Ángeles International Airport"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.8448102,
+          21.1190400
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-30T03:56:57Z",
+        "google_maps_url": "http://maps.google.com/?cid=2629143337707945856",
+        "location": {
+          "address": "Av Huayacán, 77533 Cancún, Q.R., México",
+          "country_code": "MX",
+          "name": "Rocca Cinco Huayacán"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1448316,
+          19.4281791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-28T23:43:30Z",
+        "google_maps_url": "http://maps.google.com/?cid=12715273822322447290",
+        "location": {
+          "address": "Delicias #58-Interior Local 1, Colonia Centro, Centro, Cuauhtémoc, 06070 Ciudad de Mexcio, CDMX, México",
+          "name": "Lavandería Olga"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-28T23:07:20Z",
+        "google_maps_url": "http://maps.google.com/?q=Roma+Nte.,+06700+Cidade+do+M%C3%A9xico,+Distrito+Federal,+M%C3%A9xico&ftid=0x85d1ff39f2a2e4cd:0x2d9a33e867c32532",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1587749,
+          19.4203566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-28T23:07:08Z",
+        "google_maps_url": "http://maps.google.com/?cid=10502086146044564236",
+        "location": {
+          "address": "C.Colima 143, Centro Urbano Pdte. Juárez, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "TIENDA HOKA MÉXICO"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1589559,
+          19.4158008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-28T21:10:35Z",
+        "google_maps_url": "http://maps.google.com/?cid=16657696408399553155",
+        "location": {
+          "address": "Zacatecas 102, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Porco Rosso"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1660674,
+          19.4121781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-28T20:12:18Z",
+        "google_maps_url": "http://maps.google.com/?cid=243997630279134975",
+        "location": {
+          "address": "Plaza Insurgentes, San Luis Potosí 214, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Sears Insurgentes"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1667510,
+          19.4102673
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-28T20:03:53Z",
+        "google_maps_url": "http://maps.google.com/?cid=2408158923175500353",
+        "location": {
+          "address": "Av. Insurgentes Centro 376, Roma Sur, Cuauhtémoc, 06760 Cuauthemoc, CDMX, México",
+          "country_code": "MX",
+          "name": "Woolworth"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1695677,
+          19.4115814
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-28T18:19:26Z",
+        "google_maps_url": "http://maps.google.com/?cid=12408141702709851923",
+        "location": {
+          "address": "Av México s/n, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Parque México"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-28T17:43:37Z",
+        "google_maps_url": "http://maps.google.com/?q=La+Condesa,+06140+Cidade+do+M%C3%A9xico,+Distrito+Federal,+M%C3%A9xico&ftid=0x85d1ff4489e635e3:0xed1c076e8bc9b8e7",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1768594,
+          19.4141967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-28T17:43:29Z",
+        "google_maps_url": "http://maps.google.com/?cid=7741347493533918501",
+        "location": {
+          "address": "Fernando Montes de Oca 89, Cuauhtémoc, Colonia Condesa, Cuauhtémoc, 06140 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Nevería Roxy - Condesa"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1400058,
+          19.4319160
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-28T16:42:29Z",
+        "google_maps_url": "http://maps.google.com/?cid=11469353825318081411",
+        "location": {
+          "address": "C. de Venustiano Carranza 14-local 85, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "New Balance"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1446309,
+          19.4299708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-28T16:22:39Z",
+        "google_maps_url": "http://maps.google.com/?cid=11677693521540448564",
+        "location": {
+          "address": "2ᵃ Calle de Ernesto Pugibet 21, Colonia Centro, Centro, Cuauhtémoc, 06070 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Mercado de San Juan Pugibet"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1493693,
+          19.4308122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-28T15:54:24Z",
+        "google_maps_url": "http://maps.google.com/?cid=4782874056937184",
+        "location": {
+          "address": "Balderas S/N, Colonia Centro, Centro, Cuauhtémoc, 06040 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Mercado de La Ciudadela"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.2047001,
+          19.4406926
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-27T20:21:10Z",
+        "google_maps_url": "http://maps.google.com/?cid=10624803107852467379",
+        "location": {
+          "address": "Blvd. Miguel de Cervantes Saavedra, Granada, Miguel Hidalgo, 11529 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Museu Soumaya"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1967076,
+          19.4304868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-27T19:15:00Z",
+        "google_maps_url": "http://maps.google.com/?cid=6852918339141824886",
+        "location": {
+          "address": "Calle Julio Verne 90, Polanco, Polanco III Secc, Miguel Hidalgo, 11540 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "El Moro"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1972776,
+          19.4310820
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-27T18:01:46Z",
+        "google_maps_url": "http://maps.google.com/?cid=4050961563551795013",
+        "location": {
+          "address": "Oscar Wilde 21, Polanco, Polanco III Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "EL POLANQUITO"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1925478,
+          19.4388988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-27T17:18:49Z",
+        "google_maps_url": "http://maps.google.com/?cid=5134632983692429830",
+        "location": {
+          "address": "Av. Ejército Nacional Mexicano 559, Granada, Miguel Hidalgo, 11520 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Sam's Club"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-27T16:59:23Z",
+        "google_maps_url": "http://maps.google.com/?q=Polanco,+Polanco+I+Secc,+Cidade+do+M%C3%A9xico,+Distrito+Federal,+M%C3%A9xico&ftid=0x85d202036d4843f9:0xe4d37732c0d3a976",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-27T16:26:41Z",
+        "google_maps_url": "http://maps.google.com/?q=Cidade+do+M%C3%A9xico,+Distrito+Federal,+M%C3%A9xico&ftid=0x85d201dc1b5f6d75:0xf73ab32f5c6c4fee",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1899693,
+          19.4338116
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-27T16:26:09Z",
+        "google_maps_url": "http://maps.google.com/?cid=643171249601766804",
+        "location": {
+          "address": "Av. Horacio 603, Polanco, Polanco V Secc, Miguel Hidalgo, 11560 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Walmart Express Horacio"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1676623,
+          19.4269962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-27T15:19:48Z",
+        "google_maps_url": "http://maps.google.com/?cid=7797541911528484855",
+        "location": {
+          "address": "Av. P.º de la Reforma s/n, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, México",
+          "name": "El Ángel de la Independencia"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1546580,
+          19.4361328
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-27T14:34:05Z",
+        "google_maps_url": "http://maps.google.com/?cid=2377274831848344608",
+        "location": {
+          "address": "Pl. de la República s/n, Tabacalera, Cuauhtémoc, 06030 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Monumento a la Revolución"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1207007,
+          19.4720291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-27T02:53:55Z",
+        "google_maps_url": "http://maps.google.com/?cid=14284234842913066838",
+        "location": {
+          "address": "Calz de Guadalupe 431, Guadalupe Tepeyac, Gustavo A. Madero, 07840 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Walmart"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1709237,
+          19.4130163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-27T01:58:06Z",
+        "google_maps_url": "http://maps.google.com/?cid=14619990832424329295",
+        "location": {
+          "address": "C. Laredo 13, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Ardente Pizzería Napoletana Hipódromo Condesa"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1164496,
+          19.4847944
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-26T20:51:11Z",
+        "google_maps_url": "http://maps.google.com/?cid=4672308579248458094",
+        "location": {
+          "address": "Plaza Mariana, Zumarraga Esquina Calzada de Guadalupé Aun Costado de la Basilica de Guadalupe, Aragon la Villa, Villa Gustavo A. Madero, Gustavo A. Madero, 07000 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Paróquia de Santa Maria de Guadalupe \"Capuchinhas\""
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1171456,
+          19.4850554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-26T20:51:03Z",
+        "google_maps_url": "http://maps.google.com/?cid=15355679300373135578",
+        "location": {
+          "address": "Villa Gustavo A. Madero, Gustavo A. Madero, 07050 Mexico City, México",
+          "country_code": "MX",
+          "name": "Antigua Basílica de Guadalupe"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1178893,
+          19.4847584
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-26T20:50:39Z",
+        "google_maps_url": "http://maps.google.com/?cid=2423194957463972528",
+        "location": {
+          "address": "Fray Juan de Zumárraga No. 2, Villa Gustavo A. Madero, Gustavo A. Madero, 07050 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Basílica de Nossa Senhora de Guadalupe"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1311643,
+          19.4868112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-26T18:57:31Z",
+        "google_maps_url": "http://maps.google.com/?cid=12137559066378628758",
+        "location": {
+          "address": "Parque Lindavista, Local N. R-01 ( Mall) y FF-08 (H.K ) Calle Colectores 13.380 Col. Magdalena de las Salinas, Colector 13, Revolución IMSS, Gustavo A. Madero, 07760 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "McDonald's"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1407500,
+          19.4805400
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-26T18:30:10Z",
+        "google_maps_url": "http://maps.google.com/?cid=8155514787077595471",
+        "location": {
+          "address": "Magdalena de las Salinas, 07760 Cidade do México, Distrito Federal, México",
+          "country_code": "MX",
+          "name": "Terminal de Autobuses del Norte"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -98.8439207,
+          19.6996965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-26T17:54:59Z",
+        "google_maps_url": "http://maps.google.com/?cid=16260328086126343739",
+        "location": {
+          "address": "Tuxpan 7, 55850 San Martín de las Pirámides, Méx., México",
+          "country_code": "MX",
+          "name": "Pyramid of the Moon"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -98.8472941,
+          19.6933426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-26T17:54:51Z",
+        "google_maps_url": "http://maps.google.com/?cid=7068512036969725366",
+        "location": {
+          "address": "Pirámide del Sol, 54273 Teotihuacán de Arista, Méx., México",
+          "country_code": "MX",
+          "name": "Teotihuacán"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -98.8463015,
+          19.6818902
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-26T17:54:35Z",
+        "google_maps_url": "http://maps.google.com/?cid=12442077876541523133",
+        "location": {
+          "address": "55825 San Juan Teotihuacán, State of Mexico, México",
+          "name": "Templo de Quetzalcóatl"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-26T17:54:12Z",
+        "google_maps_url": "http://maps.google.com/?q=Teotihuacan,+Estado+do+M%C3%A9xico,+M%C3%A9xico&ftid=0x85d1eaf94e01ddc9:0xc77ed523147164da",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -98.8463287,
+          19.6881192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-26T16:29:55Z",
+        "google_maps_url": "http://maps.google.com/?cid=7299340823183627220",
+        "location": {
+          "address": "Autopista Ecatepec 22,600 Km, 55850 Teotihuacán de Arista, Méx., México",
+          "country_code": "MX",
+          "name": "Zona Arqueológica de Teotihuacán"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -98.8477076,
+          19.6884204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-26T16:29:46Z",
+        "google_maps_url": "http://maps.google.com/?cid=4327110572545897369",
+        "location": {
+          "address": "55825 San Juan Teotihuacán, State of Mexico, México",
+          "name": "Plaza Oeste"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -98.8436092,
+          19.6923956
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-26T16:29:16Z",
+        "google_maps_url": "http://maps.google.com/?cid=12503161946636094520",
+        "location": {
+          "address": "Pyramid of the Sun, 55800 Teotihuacán de Arista, Méx., México",
+          "country_code": "MX",
+          "name": "Pirâmide do Sol"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -98.8526173,
+          19.6835608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-26T14:42:13Z",
+        "google_maps_url": "http://maps.google.com/?cid=10918569951799220935",
+        "location": {
+          "address": "55825 State of Mexico, México",
+          "country_code": "MX",
+          "name": "Teotihuacán ACCESO PUERTA 1"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.0719083,
+          19.4360762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-26T03:05:08Z",
+        "google_maps_url": "http://maps.google.com/?cid=202801575603393092",
+        "location": {
+          "address": "Av. Capitán Carlos León S/N, Peñón de los Baños, Venustiano Carranza, 15620 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Mexico City International Airport Benito Juárez"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1633333,
+          19.3479560
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-26T02:53:43Z",
+        "google_maps_url": "http://maps.google.com/?cid=17714170085795572949",
+        "location": {
+          "address": "Felipe Carrillo Puerto 32, Coyoacán, 04000 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Churrería El Moro Coyoacán"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-26T02:53:07Z",
+        "google_maps_url": "http://maps.google.com/?q=Coyoac%C3%A1n,+Cidade+do+M%C3%A9xico,+Distrito+Federal&ftid=0x85ce002e11342fc3:0x9a2667d831d4e080",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1697653,
+          19.3605014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-26T00:54:43Z",
+        "google_maps_url": "http://maps.google.com/?cid=12095451042758140983",
+        "location": {
+          "address": "Real Mayorazgo 130, Xoco, Benito Juárez, 03339 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "El Palacio de Hierro Coyoacán"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1632749,
+          19.3496032
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-25T23:29:10Z",
+        "google_maps_url": "http://maps.google.com/?cid=5769840510719726740",
+        "location": {
+          "address": "Parque Centenario 6, Coyoacán, 04000 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Los Famosos De Coyoacan"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1629593,
+          19.3499710
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-25T23:11:49Z",
+        "google_maps_url": "http://maps.google.com/?cid=6762250138639664829",
+        "location": {
+          "address": "Felipe Carrillo Puerto 25, Coyoacán TNT, Coyoacán, 04000 Ciudad de México, CDMX, México",
+          "name": "Artesanías Coyoacán"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1873608,
+          19.3334051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-25T21:35:22Z",
+        "google_maps_url": "http://maps.google.com/?cid=827354036293897353",
+        "location": {
+          "address": "Escolar S/N, C.U., Coyoacán, 04510 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "UNAM Central Library"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1888449,
+          19.3471874
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-25T19:58:20Z",
+        "google_maps_url": "http://maps.google.com/?cid=17800213355898879005",
+        "location": {
+          "address": "Av. de la Paz 32, San Ángel, Álvaro Obregón, 01000 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "El Cardenal San Ángel"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1003994,
+          19.2611766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-25T17:54:00Z",
+        "google_maps_url": "http://maps.google.com/?cid=18382172491638441610",
+        "location": {
+          "address": "Cjon. Embarcadero, San Cristóbal, Xochimilco, 16080 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "EMBARCADERO SALITRE TRAJITOURS"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1078800,
+          19.2593900
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-25T17:53:35Z",
+        "google_maps_url": "http://maps.google.com/?cid=2398579712453849363",
+        "location": {
+          "address": "San Pedro, Xochimilco, 16090 Mexico City, México",
+          "country_code": "MX",
+          "name": "Xochimilco"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1862786,
+          19.4260032
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-25T00:05:58Z",
+        "google_maps_url": "http://maps.google.com/?cid=9521483601320789284",
+        "location": {
+          "address": "Av. P.º de la Reforma s/n, Polanco, Bosque de Chapultepec I Secc, Miguel Hidalgo, 11560 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Museu Nacional de Antropologia"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1895256,
+          19.4232085
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-24T21:33:08Z",
+        "google_maps_url": "http://maps.google.com/?cid=4793565286665461764",
+        "location": {
+          "address": "Calz. Chivatito s/n, Bosque de Chapultepec I Secc, Miguel Hidalgo, 11580 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Zoológico de Chapultepec"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1894558,
+          19.4194815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-24T19:19:33Z",
+        "google_maps_url": "http://maps.google.com/?cid=4819667171050898351",
+        "location": {
+          "address": "Miguel Hidalgo, Mexico City, México",
+          "country_code": "MX",
+          "name": "Chapultepec"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1819350,
+          19.4204397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-24T19:06:25Z",
+        "google_maps_url": "http://maps.google.com/?cid=12024611576922344242",
+        "location": {
+          "address": "Av. Heroico Colegio Militar 172, Bosque de Chapultepec I Secc, Miguel Hidalgo, 11580 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Castelo de Chapultepec"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1817160,
+          19.4257200
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-24T19:05:39Z",
+        "google_maps_url": "http://maps.google.com/?cid=3230234349847254610",
+        "location": {
+          "address": "Av. P.º de la Reforma 51, Polanco, Bosque de Chapultepec I Secc, Miguel Hidalgo, 11580 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Museu Rufino Tamayo"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1773028,
+          19.4255114
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-24T19:05:21Z",
+        "google_maps_url": "http://maps.google.com/?cid=1788064419715312821",
+        "location": {
+          "address": "Tolstoi 9, Anzures, Miguel Hidalgo, 11590 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Los Panchos Restaurant"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1309261,
+          19.4356554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-24T10:54:29Z",
+        "google_maps_url": "http://maps.google.com/?cid=9614088682170940470",
+        "location": {
+          "address": "Justo Sierra 16, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06020 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Antigo Colégio de São Ildefonso"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1412000,
+          19.4352000
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-24T10:54:17Z",
+        "google_maps_url": "http://maps.google.com/?cid=1718141752200063183",
+        "location": {
+          "address": "Av. Juárez S/N, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06050 Ciudad de México, CDMX, México",
+          "name": "Palacio de Bellas Artes"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1330824,
+          19.4343942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-23T23:10:46Z",
+        "google_maps_url": "http://maps.google.com/?cid=10470655760320782119",
+        "location": {
+          "address": "Pl. de la Constitución S/N, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Catedral Metropolitana da Cidade do México"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1401815,
+          19.4342214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-23T23:04:59Z",
+        "google_maps_url": "http://maps.google.com/?cid=626430939730553911",
+        "location": {
+          "address": "Av Francisco I. Madero 4, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06500 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Casa de los Azulejos"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-23T23:04:45Z",
+        "google_maps_url": "http://maps.google.com/?q=Centro+Hist%C3%B3rico+da+Cidade+do+M%C3%A9xico,+Centro,+06000+Cidade+do+M%C3%A9xico,+Distrito+Federal,+M%C3%A9xico&ftid=0x85d1f92ccfd5df5b:0xe9b6e141fc8e036b",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1332533,
+          19.4334005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-23T23:04:32Z",
+        "google_maps_url": "http://maps.google.com/?cid=14331567716897426383",
+        "location": {
+          "address": "Pl. de la Constitución 463-803, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06060 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Zócalo"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1462855,
+          19.4282265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-23T21:43:14Z",
+        "google_maps_url": "http://maps.google.com/?cid=2080502702613542771",
+        "location": {
+          "address": "Luis Moya 111, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06070 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Hotel KALI Centro"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1406381,
+          19.4339414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-23T21:42:54Z",
+        "google_maps_url": "http://maps.google.com/?cid=7044633925614656099",
+        "location": {
+          "address": "Eje Central Lázaro Cárdenas 2-Piso 44, Col. Centro, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, México",
+          "country_code": "MX",
+          "name": "Latin American Tower Viewpoint"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-04-26T16:44:29Z",
+        "google_maps_url": "http://maps.google.com/?q=-14.841616541453096,-39.029103331267834",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1847722,
+          -22.9566444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-03-27T15:28:54Z",
+        "google_maps_url": "http://maps.google.com/?cid=14265558551105360812",
+        "location": {
+          "address": "R. Assis Bueno, 26 - Botafogo, Rio de Janeiro - RJ, 22280-080, Brasil",
+          "country_code": "BR",
+          "name": "Tasca da Mercearia"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -48.1871490,
+          -16.2699508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-02-16T20:38:06Z",
+        "google_maps_url": "http://maps.google.com/?cid=1021188313422498457",
+        "location": {
+          "address": "AV PRINCIPAL LOT FECHADO BALI MARINA, LUZIÂNIA GO 16°16'12.3\"S 48°11'13.9\"W, Luziânia - GO, 72859-899, Brasil",
+          "country_code": "BR",
+          "name": "Bali Park Resorts"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -48.1962189,
+          -15.9808251
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-02-15T00:56:39Z",
+        "google_maps_url": "http://maps.google.com/?cid=953445726987739600",
+        "location": {
+          "address": "BR-060, s/n - Gama, Brasília - DF, 72317-800, Brasil",
+          "country_code": "BR",
+          "name": "Brasília Resort Hotel Fazenda"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.3097349,
+          -12.8845086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-01-10T19:29:40Z",
+        "google_maps_url": "http://maps.google.com/?cid=5378588110633034604",
+        "location": {
+          "address": "R. Araponga - Jardim Aeroporto, Lauro de Freitas - BA, 42701-330, Brasil",
+          "country_code": "BR",
+          "name": "Rancho do Cupim – Lauro de Freitas"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.0450290,
+          -12.6085360
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-01-10T19:28:58Z",
+        "google_maps_url": "http://maps.google.com/?cid=8225567799014664011",
+        "location": {
+          "address": "Travessa Três Marias - Monte Gordo, Camaçari - BA, 42840-727, Brasil",
+          "country_code": "BR",
+          "name": "Pizzaria Roberto e Sheila"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.0403019,
+          -12.5998565
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-01-09T21:56:49Z",
+        "google_maps_url": "http://maps.google.com/?cid=12264536073812761403",
+        "location": {
+          "address": "Estrada da praia, Av. Itacimirim, S/N, Camaçari - BA, 42840-764, Brasil",
+          "country_code": "BR",
+          "name": "Dona Flor Espaço Gourmet"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.0393174,
+          -12.5885869
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-01-07T15:31:04Z",
+        "google_maps_url": "http://maps.google.com/?cid=15003079785938952996",
+        "location": {
+          "address": "Estrada do Côco - BA-099 - Itacimirim, Camaçari - BA, 42841-364, Brasil",
+          "country_code": "BR",
+          "name": "Restaurante Manguezal Itacimirim"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.0382736,
+          -12.6047645
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-01-07T09:54:54Z",
+        "google_maps_url": "http://maps.google.com/?cid=8906501779284887474",
+        "location": {
+          "address": "Monte Gordo, Camaçari - BA, Brasil",
+          "name": "Condomínio Cancun Villas"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.0041731,
+          -12.5765511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-01-06T16:04:31Z",
+        "google_maps_url": "http://maps.google.com/?cid=4380205092142002128",
+        "location": {
+          "address": "Al. das Estrelas - Açu da Torre, Mata de São João - BA, 48280-000, Brasil",
+          "name": "Restaurante Maná do Forte"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.0019507,
+          -12.5774492
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-01-06T16:04:00Z",
+        "google_maps_url": "http://maps.google.com/?cid=17414903120163010934",
+        "location": {
+          "address": "Av. do Farol, S/N - Zona Rural, Mata de São João - BA, 48280-000, Brasil",
+          "name": "Fundação Projeto Tamar • Praia do Forte"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.9466338,
+          -12.2546373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-01-03T19:39:16Z",
+        "google_maps_url": "http://maps.google.com/?cid=5425043887955849074",
+        "location": {
+          "address": "R. José Bonifácio, 512 - Ponto Central, Feira de Santana - BA, 44075-375, Brasil",
+          "country_code": "BR",
+          "name": "Bode e Cia"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-12-24T22:01:01Z",
+        "google_maps_url": "http://maps.google.com/?q=-12.979803539965902,-38.50677765905857",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-12-22T09:26:02Z",
+        "google_maps_url": "http://maps.google.com/?q=-12.988850617157695,-38.490620367228985",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           0,
           0
         ],
@@ -79,7 +2012,7 @@ let placesData = {
         "location": {
           "address": "R. do Carmo, 150 - Diamantina, MG, 39100-000, Brasil",
           "country_code": "BR",
-          "name": "Igreja Nossa Senhora do Carmo"
+          "name": "Igreja de Nossa Senhora do Carmo"
         }
       },
       "type": "Feature"
@@ -87,8 +2020,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -43.5947542,
-          -18.2458287
+          -43.5967913,
+          -18.2450059
         ],
         "type": "Point"
       },
@@ -333,8 +2266,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -43.5968339,
-          -18.2443124
+          -43.5968096,
+          -18.2443088
         ],
         "type": "Point"
       },
@@ -342,7 +2275,7 @@ let placesData = {
         "date": "2025-10-25T17:55:45Z",
         "google_maps_url": "http://maps.google.com/?cid=2232596553717764184",
         "location": {
-          "address": "Praça Barão Guaicui, 78 - Centro, Diamantina - MG, 39100-000, Brasil",
+          "address": "Centro, Diamantina - MG, 39100-000, Brasil",
           "country_code": "BR",
           "name": "Apocalipse Restaurante"
         }
@@ -1213,8 +3146,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -43.7691971,
-          -21.2208873
+          -43.7701743,
+          -21.2241715
         ],
         "type": "Point"
       },
@@ -1222,7 +3155,7 @@ let placesData = {
         "date": "2025-10-23T19:43:36Z",
         "google_maps_url": "http://maps.google.com/?cid=6382071330677693984",
         "location": {
-          "address": "R. Olegário Maciel - Centro, Barbacena - MG, 36200-082, Brasil",
+          "address": "R. Olegário Maciel, 98 - Centro, Barbacena - MG, 36200-082, Brasil",
           "country_code": "BR",
           "name": "Mercado Central de Barbacena"
         }
@@ -1580,8 +3513,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -44.8876727,
-          -21.9576740
+          -44.8875896,
+          -21.9578065
         ],
         "type": "Point"
       },
@@ -1591,7 +3524,7 @@ let placesData = {
         "location": {
           "address": "R. da Conceição, 165 - Centro, Baependi - MG, 37443-000, Brasil",
           "country_code": "BR",
-          "name": "Santuário de Nossa Senhora da Conceição da Beata Nhá Chica"
+          "name": "Santuário Nossa Senhora da Conceição"
         }
       },
       "type": "Feature"
@@ -1637,8 +3570,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -44.9354594,
-          -21.9788140
+          -44.9352840,
+          -21.9795921
         ],
         "type": "Point"
       },
@@ -1646,7 +3579,7 @@ let placesData = {
         "date": "2025-10-22T16:59:39Z",
         "google_maps_url": "http://maps.google.com/?cid=14635777958864765355",
         "location": {
-          "address": "Praça Dezesseis de Setembro, 59, Caxambu - MG, 37440-000, Brasil",
+          "address": "R. Caetano Furquim, 18, Caxambu - MG, 37440-000, Brasil",
           "country_code": "BR",
           "name": "Restaurante Coreto"
         }
@@ -1952,7 +3885,7 @@ let placesData = {
         "location": {
           "address": "Av. Matheus da Costa Pinto, 1653 - Vila Santa Cruz, Campos do Jordão - SP, 12460-000, Brasil",
           "country_code": "BR",
-          "name": "Cervejaria Baden Baden"
+          "name": "Fábrica, Loja e Tour Baden Baden"
         }
       },
       "type": "Feature"
@@ -2338,8 +4271,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -45.6124834,
-          -22.7358731
+          -45.6127636,
+          -22.7359333
         ],
         "type": "Point"
       },
@@ -2712,7 +4645,7 @@ let placesData = {
         "date": "2025-10-18T00:32:50Z",
         "google_maps_url": "http://maps.google.com/?cid=9966074634482808631",
         "location": {
-          "address": "Tv. Monte Verde, 50 - Monte Verde, Monte Verde (Camanducaia - MG, 37650-000, Brasil",
+          "address": "Tv. Monte Verde, 50 - Monte Verde, Camanducaia - MG, 37650-000, Brasil",
           "country_code": "BR",
           "name": "Trilha do Pinheiro Velho"
         }
@@ -2919,7 +4852,7 @@ let placesData = {
         "date": "2025-10-15T16:19:17Z",
         "google_maps_url": "http://maps.google.com/?cid=10826557864378561048",
         "location": {
-          "address": "R. Campo das Palmas, 1465-1641, Holambra - SP, 13825-000, Brasil",
+          "address": "R. Campo das Palmas, 1465-1641, Holambra - SP, 13829-899, Brasil",
           "name": "Macena Flores"
         }
       },
@@ -2947,8 +4880,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -47.0590869,
-          -22.6220774
+          -47.0559040,
+          -22.6214736
         ],
         "type": "Point"
       },
@@ -3123,6 +5056,7 @@ let placesData = {
         "google_maps_url": "http://maps.google.com/?cid=11160955914371016872",
         "location": {
           "address": "-566,, Av. das Tulípas, 472, Holambra - SP, 13825-000, Brasil",
+          "country_code": "BR",
           "name": "Praça dos Coqueiros"
         }
       },
@@ -3180,7 +5114,7 @@ let placesData = {
         "location": {
           "address": "R. Rota dos Imigrantes, 1246 - Secção A, Holambra - SP, 13825-000, Brasil",
           "country_code": "BR",
-          "name": "Memorial do Imigrante"
+          "name": "Memorial ao Imigrante Holandês"
         }
       },
       "type": "Feature"
@@ -3485,7 +5419,7 @@ let placesData = {
         "date": "2025-10-13T18:27:47Z",
         "google_maps_url": "http://maps.google.com/?cid=13623157922580776741",
         "location": {
-          "address": "343, R. Amazonas, 219 - Centro, Poços de Caldas - MG, 37701-008, Brasil",
+          "address": "R. Amazonas, 219 - Centro, Poços de Caldas - MG, 37701-008, Brasil",
           "country_code": "BR",
           "name": "Relógio Floral"
         }
@@ -3767,8 +5701,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -45.9459321,
-          -21.4253351
+          -45.9458690,
+          -21.4252760
         ],
         "type": "Point"
       },
@@ -3776,7 +5710,7 @@ let placesData = {
         "date": "2025-10-13T00:15:28Z",
         "google_maps_url": "http://maps.google.com/?cid=3641969576438126852",
         "location": {
-          "address": "R. Alferes Domingos Viêira e Silva - Centro, Alfenas - MG, 37130-000, Brasil",
+          "address": "Alferes Domingues - R. Alferes Domingos Viêira e Silva, 103 - Centro, Alfenas - MG, 37130-177, Brasil",
           "country_code": "BR",
           "name": "Pizzaria e Cantina Pinguin"
         }
@@ -4137,8 +6071,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -46.9405617,
-          -19.5882012
+          -46.9409075,
+          -19.5881131
         ],
         "type": "Point"
       },
@@ -4146,7 +6080,7 @@ let placesData = {
         "date": "2025-10-11T17:43:25Z",
         "google_maps_url": "http://maps.google.com/?cid=3264789591320158668",
         "location": {
-          "address": "Praça São Sebastião - Centro, Araxá - MG, 38183-075, Brasil",
+          "address": "Praça São Sebastião - Centro, Araxá - MG, 38183-072, Brasil",
           "country_code": "BR",
           "name": "Paróquia São Sebastião"
         }
@@ -4508,7 +6442,7 @@ let placesData = {
         "date": "2025-06-12T02:53:49Z",
         "google_maps_url": "http://maps.google.com/?cid=14312696182491936982",
         "location": {
-          "address": "7341 Sand Lake Rd Suite 1081, Orlando, FL 32819, Estados Unidos",
+          "address": "7341 Sand Lake Rd Ste 1081, Orlando, FL 32819, Estados Unidos",
           "country_code": "US",
           "name": "Melt n dip"
         }
@@ -4529,7 +6463,7 @@ let placesData = {
         "location": {
           "address": "7339 W Sand Lake Rd, Orlando, FL 32819, Estados Unidos",
           "country_code": "US",
-          "name": "Flippers Pizza - Dr. Phillips"
+          "name": "Flippers Pizza Co. - Dr. Phillips"
         }
       },
       "type": "Feature"
@@ -4603,7 +6537,7 @@ let placesData = {
         "date": "2025-06-10T00:17:02Z",
         "google_maps_url": "http://maps.google.com/?cid=16332106975095829711",
         "location": {
-          "address": "The Florida Mall, 8001 S Orange Blossom Trl suite 1420b, Orlando, FL 32809, Estados Unidos",
+          "address": "The Florida Mall, 8001 S Orange Blossom Trl Ste 1420b, Orlando, FL 32809, Estados Unidos",
           "country_code": "US",
           "name": "Primark"
         }
@@ -4632,8 +6566,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -81.4919981,
-          28.3886483
+          -81.4914591,
+          28.3876087
         ],
         "type": "Point"
       },
@@ -4641,7 +6575,7 @@ let placesData = {
         "date": "2025-06-09T20:56:16Z",
         "google_maps_url": "http://maps.google.com/?cid=12997230291413810711",
         "location": {
-          "address": "8200 Vineland Ave Suite #160, Orlando, FL 32821, Estados Unidos",
+          "address": "8200 Vineland Ave Ste #160, Orlando, FL 32821, Estados Unidos",
           "country_code": "US",
           "name": "Calvin Klein"
         }
@@ -4670,8 +6604,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -81.4907938,
-          28.3871843
+          -81.4907758,
+          28.3871902
         ],
         "type": "Point"
       },
@@ -4679,7 +6613,7 @@ let placesData = {
         "date": "2025-06-09T18:32:01Z",
         "google_maps_url": "http://maps.google.com/?cid=7752680683692404619",
         "location": {
-          "address": "8200 Vineland Ave #1537, Orlando, FL 32821, Estados Unidos",
+          "address": "8174 Vineland Ave #1537, Orlando, FL 32821, Estados Unidos",
           "country_code": "US",
           "name": "New Balance Factory Store"
         }
@@ -4736,7 +6670,7 @@ let placesData = {
         "date": "2025-06-09T17:03:04Z",
         "google_maps_url": "http://maps.google.com/?cid=17014162923897243576",
         "location": {
-          "address": "8200 Vineland Ave Suite 200, Orlando, FL 32821, Estados Unidos",
+          "address": "8200 Vineland Ave Ste 200, Orlando, FL 32821, Estados Unidos",
           "country_code": "US",
           "name": "Tommy Hilfiger"
         }
@@ -4913,8 +6847,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -81.4246361,
-          28.4475453
+          -81.4251712,
+          28.4477970
         ],
         "type": "Point"
       },
@@ -5588,7 +7522,7 @@ let placesData = {
         "location": {
           "address": "305 Norte, AV NS-03 rua, 5a - lote 15 - Plano Diretor Norte, Palmas - TO, 77001-296, Brasil",
           "country_code": "BR",
-          "name": "Pizzaria Itália Norte🍕"
+          "name": "Pizzaria Itália - Norte |🍕|🥠|"
         }
       },
       "type": "Feature"
@@ -6316,8 +8250,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -44.2688892,
-          -19.4730693
+          -44.2688370,
+          -19.4730180
         ],
         "type": "Point"
       },
@@ -6494,8 +8428,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -44.2195995,
-          -20.1241164
+          -44.2195935,
+          -20.1241765
         ],
         "type": "Point"
       },
@@ -6513,8 +8447,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -44.1970290,
-          -19.9721554
+          -44.1970815,
+          -19.9722933
         ],
         "type": "Point"
       },
@@ -6522,7 +8456,7 @@ let placesData = {
         "date": "2025-03-01T22:40:36Z",
         "google_maps_url": "http://maps.google.com/?cid=3850064022167027232",
         "location": {
-          "address": "Av. Pres Juscelino Kubitscheck, 640 - Centro, Betim - MG, 32600-204, Brasil",
+          "address": "Avenida Presidente Juscelino Kubitschek, 640 Downtown - Centro, Betim - MG, Brasil",
           "country_code": "BR",
           "name": "Hudson Restaurante e Pizzaria"
         }
@@ -6532,8 +8466,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -44.1956318,
-          -19.9736018
+          -44.1956501,
+          -19.9736144
         ],
         "type": "Point"
       },
@@ -6790,8 +8724,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -68.4462823,
-          18.6994482
+          -68.4454834,
+          18.6991274
         ],
         "type": "Point"
       },
@@ -6828,8 +8762,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -68.4722147,
-          18.7342420
+          -68.4720672,
+          18.7340109
         ],
         "type": "Point"
       },
@@ -6837,7 +8771,7 @@ let placesData = {
         "date": "2024-06-03T02:21:41Z",
         "google_maps_url": "http://maps.google.com/?cid=235676628556694277",
         "location": {
-          "address": "Carretera El Macao Playa Arena Gorda, Punta Cana 23301, República Dominicana",
+          "address": "Occidental Caribe - All Inclusive, Carr. El Macao - Arena Gorda, Punta Cana 23301, República Dominicana",
           "country_code": "DO",
           "name": "Barceló Punta Cana"
         }
@@ -9455,8 +11389,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -69.5671084,
-          -10.9390916
+          -69.5671580,
+          -10.9390779
         ],
         "type": "Point"
       },
@@ -9673,8 +11607,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -63.0449115,
-          -9.9164473
+          -63.0454257,
+          -9.9171053
         ],
         "type": "Point"
       },
@@ -9682,7 +11616,7 @@ let placesData = {
         "date": "2024-04-02T01:05:27Z",
         "google_maps_url": "http://maps.google.com/?cid=17989018833525283374",
         "location": {
-          "address": "Av. Jamari, 2214 - Áreas Especiais 01, Ariquemes - RO, 76870-003, Brasil",
+          "address": "Av. Cap. Silvio, 2157 - Áreas Especiais 01, Ariquemes - RO, 76870-002, Brasil",
           "country_code": "BR",
           "name": "HOTEL FLAMBOYANT"
         }
@@ -10226,7 +12160,7 @@ let placesData = {
         "location": {
           "address": "Centro, Pirapora - MG, 39270-000, Brasil",
           "country_code": "BR",
-          "name": "Estação Ferroviária"
+          "name": "Estação Ferroviária PIRAPORA"
         }
       },
       "type": "Feature"
@@ -10422,8 +12356,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -42.3091805,
-          -16.1664072
+          -42.3087661,
+          -16.1665439
         ],
         "type": "Point"
       },
@@ -10632,7 +12566,7 @@ let placesData = {
       },
       "properties": {
         "date": "2023-06-10T10:26:36Z",
-        "google_maps_url": "http://maps.google.com/?cid=2849961900915799882",
+        "google_maps_url": "http://maps.google.com/?q=11.012728,-74.614524",
         "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
       },
       "type": "Feature"
@@ -10814,7 +12748,7 @@ let placesData = {
         "date": "2023-06-09T23:33:44Z",
         "google_maps_url": "http://maps.google.com/?cid=9726145993511305393",
         "location": {
-          "address": "Cra. 3 #67-120, Cartagena de Indias, Provincia de Cartagena, Bolívar, Colômbia",
+          "address": "Cra. 3 #67-120, Cartagena de Indias, Bolívar, Colômbia",
           "country_code": "CO",
           "name": "Casa Luna Airport Hotel"
         }
@@ -11053,7 +12987,7 @@ let placesData = {
         "date": "2023-06-03T19:45:57Z",
         "google_maps_url": "http://maps.google.com/?cid=6050086234033065190",
         "location": {
-          "address": "Cra. 54 #49B-39, Nte. Centro Historico, Barranquilla, Atlántico, Colômbia",
+          "address": "Cra. 54 #49B – 39, Nte. Centro Historico, Colombia, Barranquilla, Atlántico, Colômbia",
           "country_code": "CO",
           "name": "Carnival Museum"
         }
@@ -11262,7 +13196,7 @@ let placesData = {
         "date": "2023-06-01T22:57:32Z",
         "google_maps_url": "http://maps.google.com/?cid=11866278138022552134",
         "location": {
-          "address": "carrera 9 #20-14, Cielo mar, La Boquilla, Provincia de Cartagena, Bolívar, Colômbia",
+          "address": "carrera 9 #20-14, Cielo mar, La Boquilla, Cartagena de Indias, Bolívar, Colômbia",
           "country_code": "CO",
           "name": "Blas El Teso Restaurant"
         }
@@ -11281,7 +13215,7 @@ let placesData = {
         "date": "2023-06-01T22:56:59Z",
         "google_maps_url": "http://maps.google.com/?cid=7092650246527924596",
         "location": {
-          "address": "Cra. 3 #4625, La Boquilla, Provincia de Cartagena, Bolívar, Colômbia",
+          "address": "Cra. 3 #4625, La Boquilla, Cartagena de Indias, Bolívar, Colômbia",
           "country_code": "CO",
           "name": "Playas de La Boquilla"
         }
@@ -11300,7 +13234,7 @@ let placesData = {
         "date": "2023-06-01T22:56:39Z",
         "google_maps_url": "http://maps.google.com/?cid=5336081829385004888",
         "location": {
-          "address": "Calle larga #10-50 Local 1, Getsemaní, Cartagena de Indias, Provincia de Cartagena, Bolívar, Colômbia",
+          "address": "Cl Larga #10-50 Local 1, Getsemaní, Cartagena de Indias, Bolívar, Colômbia",
           "country_code": "CO",
           "name": "Santana 22"
         }
@@ -11319,7 +13253,7 @@ let placesData = {
         "date": "2023-06-01T22:54:48Z",
         "google_maps_url": "http://maps.google.com/?cid=11045573441014658140",
         "location": {
-          "address": "Cra. 3 #6-76 a 6-176, Cartagena de Indias, Provincia de Cartagena, Bolívar, Colômbia",
+          "address": "Cra. 3 #6-76 a 6-176, Cartagena de Indias, Bolívar, Colômbia",
           "country_code": "CO",
           "name": "Tiendas Ara - Bocagrande Cra. 3"
         }
@@ -11338,7 +13272,7 @@ let placesData = {
         "date": "2023-06-01T22:54:37Z",
         "google_maps_url": "http://maps.google.com/?cid=11201706319511025175",
         "location": {
-          "address": "Cra. 5 #3-29, Cartagena de Indias, Provincia de Cartagena, Bolívar, Colômbia",
+          "address": "Cra. 5 #3-29, Cartagena de Indias, Bolívar, Colômbia",
           "country_code": "CO",
           "name": "Megatiendas - Sede Bocagrande (Barrio Bocagrande - Cartagena)"
         }
@@ -11357,7 +13291,7 @@ let placesData = {
         "date": "2023-06-01T22:50:17Z",
         "google_maps_url": "http://maps.google.com/?cid=9217050803849220699",
         "location": {
-          "address": "Cl. 5 #2-2, Cartagena de Indias, Provincia de Cartagena, Bolívar, Colômbia",
+          "address": "Cl. 5 #2-2, Cartagena de Indias, Bolívar, Colômbia",
           "name": "MARINA TOUR CARTAGENA"
         }
       },
@@ -11375,7 +13309,7 @@ let placesData = {
         "date": "2023-06-01T22:49:41Z",
         "google_maps_url": "http://maps.google.com/?cid=9377044768311368894",
         "location": {
-          "address": "Cl. 7 #2-50, Cartagena de Indias, Provincia de Cartagena, Bolívar, Colômbia",
+          "address": "Cl. 7 #2-50, Cartagena de Indias, Bolívar, Colômbia",
           "country_code": "CO",
           "name": "Matute Restaurant"
         }
@@ -11394,7 +13328,7 @@ let placesData = {
         "date": "2023-06-01T22:49:34Z",
         "google_maps_url": "http://maps.google.com/?cid=17518695596422086204",
         "location": {
-          "address": "Cra. 2 #6-162, Cartagena de Indias, Provincia de Cartagena, Bolívar, Colômbia",
+          "address": "Cra. 2 #6-162, Cartagena de Indias, Bolívar, Colômbia",
           "country_code": "CO",
           "name": "Jeno's Pizza"
         }
@@ -11413,7 +13347,7 @@ let placesData = {
         "date": "2023-06-01T22:49:06Z",
         "google_maps_url": "http://maps.google.com/?cid=5113317447205446677",
         "location": {
-          "address": "Marbella, Provincia de Cartagena, Bolívar, Colômbia",
+          "address": "Marbella, Cartagena de Indias, Bolívar, Colômbia",
           "country_code": "CO",
           "name": "Letreiro de Cartagena"
         }
@@ -11432,7 +13366,7 @@ let placesData = {
         "date": "2023-05-31T15:54:47Z",
         "google_maps_url": "http://maps.google.com/?cid=7865089037652944290",
         "location": {
-          "address": "Plaza Santo Domingo, Cra. 3 #35-18, Centro Historico, Cartagena de Indias, Centro Histórico, Provincia de Cartagena, Bolívar, Colômbia",
+          "address": "Plaza Santo Domingo, Cra. 3 #35-18, Centro Historico, Cartagena de Indias, Centro Histórico, Cartagena de Indias, Bolívar, Colômbia",
           "country_code": "CO",
           "name": "Café San Alberto Cartagena - Plaza Santo Domingo"
         }
@@ -11451,7 +13385,7 @@ let placesData = {
         "date": "2023-05-31T14:48:42Z",
         "google_maps_url": "http://maps.google.com/?cid=140896325637276715",
         "location": {
-          "address": "Cl. 31 #18B-55, Pie Del Cerro, Cartagena de Indias, Provincia de Cartagena, Bolívar, Colômbia",
+          "address": "Cl. 31 #18B-55, Pie Del Cerro, Cartagena de Indias, Bolívar, Colômbia",
           "country_code": "CO",
           "name": "Las Botas Viejas"
         }
@@ -11470,7 +13404,7 @@ let placesData = {
         "date": "2023-05-31T14:47:57Z",
         "google_maps_url": "http://maps.google.com/?cid=14617546930476792907",
         "location": {
-          "address": "Parque o Plaza, Cra 4, de Bolívar #33-26, Cartagena de Indias, Provincia de Cartagena, Bolívar, Colômbia",
+          "address": "Parque o Plaza, Cra 4, de Bolívar #33-26, Cartagena de Indias, Bolívar, Colômbia",
           "country_code": "CO",
           "name": "Museo del Oro Zenú"
         }
@@ -11527,7 +13461,7 @@ let placesData = {
         "date": "2023-05-29T19:56:43Z",
         "google_maps_url": "http://maps.google.com/?cid=369055438054562360",
         "location": {
-          "address": "Cl. 35, El Centro, Cartagena de Indias, Provincia de Cartagena, Bolívar, Colômbia",
+          "address": "Cl. 35, El Centro, Cartagena de Indias, Bolívar, Colômbia",
           "country_code": "CO",
           "name": "Plaza de Santo Domingo"
         }
@@ -11546,7 +13480,7 @@ let placesData = {
         "date": "2023-05-29T19:56:31Z",
         "google_maps_url": "http://maps.google.com/?cid=16467720948519595229",
         "location": {
-          "address": "Calle de los Santos de Piedra, Cra. 4, Provincia de Cartagena, Bolívar, Colômbia",
+          "address": "Calle de los Santos de Piedra, Cra. 4, Cartagena de Indias, Bolívar, Colômbia",
           "country_code": "CO",
           "name": "Catedral de Santa Catalina de Alejandría"
         }
@@ -11565,7 +13499,7 @@ let placesData = {
         "date": "2023-05-29T19:56:18Z",
         "google_maps_url": "http://maps.google.com/?cid=17432365279769314093",
         "location": {
-          "address": "Cra. 5 #33-15, El Centro, Cartagena de Indias, Provincia de Cartagena, Bolívar, Colômbia",
+          "address": "Cra. 5 #33-15, El Centro, Cartagena de Indias, Bolívar, Colômbia",
           "name": "Plaza de Bolívar"
         }
       },
@@ -11583,7 +13517,7 @@ let placesData = {
         "date": "2023-05-29T19:56:08Z",
         "google_maps_url": "http://maps.google.com/?cid=17957933856676148962",
         "location": {
-          "address": "Cartagena-Barranquilla, El Centro, La Boquilla, Cartagena de Indias, Provincia de Cartagena, Bolívar, Colômbia",
+          "address": "Cartagena-Barranquilla, El Centro, La Boquilla, Cartagena de Indias, Bolívar, Colômbia",
           "country_code": "CO",
           "name": "Ciudad Amurallada Cartagena"
         }
@@ -11602,7 +13536,7 @@ let placesData = {
         "date": "2023-05-29T19:55:57Z",
         "google_maps_url": "http://maps.google.com/?cid=15825897890062347003",
         "location": {
-          "address": "Cl. 32 #130, El Centro, Cartagena de Indias, Provincia de Cartagena, Bolívar, Colômbia",
+          "address": "Cl. 32 #130, El Centro, Cartagena de Indias, Bolívar, Colômbia",
           "country_code": "CO",
           "name": "Plaza de la Aduana"
         }
@@ -11621,7 +13555,7 @@ let placesData = {
         "date": "2023-05-29T19:55:41Z",
         "google_maps_url": "http://maps.google.com/?cid=14229536556404973723",
         "location": {
-          "address": "Plaza de San Pedro Claver, Cra. 4 #30-01, Cartagena de Indias, Provincia de Cartagena, Bolívar, Colômbia",
+          "address": "Plaza de San Pedro Claver, Cra. 4 #30-01, Cartagena de Indias, Bolívar, Colômbia",
           "country_code": "CO",
           "name": "Igreja de São Pedro Claver"
         }
@@ -11640,7 +13574,7 @@ let placesData = {
         "date": "2023-05-29T19:55:10Z",
         "google_maps_url": "http://maps.google.com/?cid=14261122102915465518",
         "location": {
-          "address": "Boca del Puente, El Centro, Cartagena de Indias, Provincia de Cartagena, Bolívar, Colômbia",
+          "address": "Boca del Puente, El Centro, Cartagena de Indias, Bolívar, Colômbia",
           "country_code": "CO",
           "name": "Torre do Relógio"
         }
@@ -11659,7 +13593,7 @@ let placesData = {
         "date": "2023-05-29T19:54:53Z",
         "google_maps_url": "http://maps.google.com/?cid=6211411796071395777",
         "location": {
-          "address": "Cielo mar, La Boquilla, Cl. 31, Pie Del Cerro, Cartagena de Indias, Cartagena, Provincia de Cartagena, Bolívar, Colômbia",
+          "address": "Cielo mar, La Boquilla, Cl. 31, Pie Del Cerro, Cartagena de Indias, Cartagena, Cartagena de Indias, Bolívar, Colômbia",
           "country_code": "CO",
           "name": "Castelo de San Felipe de Barajas"
         }
@@ -11693,7 +13627,7 @@ let placesData = {
         "date": "2023-05-29T19:53:49Z",
         "google_maps_url": "http://maps.google.com/?cid=13541230732517349729",
         "location": {
-          "address": "Cartagena Province, Bolivar, Colômbia",
+          "address": "Cartagena, Bolivar, Colômbia",
           "country_code": "CO",
           "name": "Playa Blanca"
         }
@@ -11712,7 +13646,7 @@ let placesData = {
         "date": "2023-05-29T00:43:13Z",
         "google_maps_url": "http://maps.google.com/?cid=10528658917318783454",
         "location": {
-          "address": "Unnamed Road, Provincia de Cartagena, Bolívar, Colômbia",
+          "address": "Unnamed Road, Cartagena de Indias, Bolívar, Colômbia",
           "country_code": "CO",
           "name": "Bazurto Market"
         }
@@ -11746,7 +13680,7 @@ let placesData = {
         "date": "2023-05-29T00:41:25Z",
         "google_maps_url": "http://maps.google.com/?cid=12002382872037424729",
         "location": {
-          "address": "Cl. 31 #3-26, El Centro, Cartagena de Indias, Provincia de Cartagena, Bolívar, Colômbia",
+          "address": "Cl. 31 #3-26, El Centro, Cartagena de Indias, Bolívar, Colômbia",
           "country_code": "CO",
           "name": "Museo Naval del Caribe"
         }
@@ -11864,8 +13798,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -46.3553316,
-          -13.7396968
+          -46.3553024,
+          -13.7397258
         ],
         "type": "Point"
       },
@@ -11873,7 +13807,7 @@ let placesData = {
         "date": "2023-04-09T11:26:50Z",
         "google_maps_url": "http://maps.google.com/?cid=15674232203176182626",
         "location": {
-          "address": "Unnamed Road, 73860-000, São Domingos - GO, Brasil",
+          "address": "GO-108, Guarani de Goiás - GO, 73910-000, Brasil",
           "country_code": "BR",
           "name": "Camping do Ramiro"
         }
@@ -12991,8 +14925,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -40.9642655,
-          -21.3620273
+          -40.9623035,
+          -21.3606169
         ],
         "type": "Point"
       },
@@ -13193,8 +15127,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -41.3512932,
-          -21.7668386
+          -41.3512944,
+          -21.7668117
         ],
         "type": "Point"
       },
@@ -13202,7 +15136,7 @@ let placesData = {
         "date": "2022-01-03T23:41:57Z",
         "google_maps_url": "http://maps.google.com/?cid=5091032345104785481",
         "location": {
-          "address": "R. Carlos Drummond de Andrade, 95 - Parque Rodoviária, Campos dos Goytacazes - RJ, 28030-276, Brasil",
+          "address": "R. Carlos Drummond de Andrade, 84 - Parque Rodoviária, Campos dos Goytacazes - RJ, 28030-276, Brasil",
           "country_code": "BR",
           "name": "Hotel Shopping Estrada"
         }
@@ -13261,8 +15195,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -41.8904213,
-          -22.7586376
+          -41.8903088,
+          -22.7587392
         ],
         "type": "Point"
       },
@@ -13270,7 +15204,7 @@ let placesData = {
         "date": "2022-01-02T22:05:13Z",
         "google_maps_url": "http://maps.google.com/?cid=17225707126192863007",
         "location": {
-          "address": "R. Deodoro Azevedo, 8 - centro de, Armação dos Búzios - RJ, 28950-000, Brasil",
+          "address": "Zap (13)99692 - 7681R. Deodoro Azevedo, 8 - centro de, Armação dos Búzios - RJ, 28950-000, Brasil",
           "country_code": "BR",
           "name": "Pousada Flamingo Búzios"
         }
@@ -13831,7 +15765,7 @@ let placesData = {
         "location": {
           "address": "Km 56 ao km 57,998 BR-040 - Itaipava, Petrópolis - RJ, 25740-340, Brasil",
           "country_code": "BR",
-          "name": "Castelo de Itaipava Eventos e Hotel"
+          "name": "Castelo de Itaipava Rede Hoteleira e Eventos"
         }
       },
       "type": "Feature"
@@ -14284,8 +16218,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -46.3063880,
-          -23.9900831
+          -46.3060722,
+          -23.9905235
         ],
         "type": "Point"
       },
@@ -14293,7 +16227,7 @@ let placesData = {
         "date": "2021-12-23T01:11:35Z",
         "google_maps_url": "http://maps.google.com/?cid=12977748863648593163",
         "location": {
-          "address": "Av. Bartholomeu de Gusmão, 192 - Ponta da Praia, Santos - SP, 11030-906, Brasil",
+          "address": "Av. Rei Pelé, 192 - Ponta da Praia, Santos - SP, 11030-906, Brasil",
           "country_code": "BR",
           "name": "Museu de Pesca"
         }
@@ -14418,7 +16352,7 @@ let placesData = {
         "google_maps_url": "http://maps.google.com/?cid=17768494351896561555",
         "location": {
           "address": "Av. Ayrton Senna da Silva, 500 - Itararé, São Vicente - SP, 11321-000, Brasil",
-          "name": "Teleférico de São Vicente - Praia do Itararé"
+          "name": "Teleférico de São Vicente"
         }
       },
       "type": "Feature"
@@ -14568,7 +16502,7 @@ let placesData = {
         "google_maps_url": "http://maps.google.com/?cid=13710315480990195440",
         "location": {
           "address": "Av. Gov. Mário Covas Júnior, 955 - Centro, Peruíbe - SP, 11750-000, Brasil",
-          "name": "Prédio redondo - Peruíbe"
+          "name": "Peruíbe - Prédio redondo"
         }
       },
       "type": "Feature"
@@ -16480,7 +18414,7 @@ let placesData = {
         "date": "2021-07-15T19:36:14Z",
         "google_maps_url": "http://maps.google.com/?cid=8256757240330561359",
         "location": {
-          "address": "Av. Miguel Sutil - Duque de Caxias, Cuiabá - MT, 78043-375, Brasil",
+          "address": "Avenida Miguel Sutil - Duque de Caxias, Cuiabá - MT, 78043-375, Brasil",
           "country_code": "BR",
           "name": "Parque Mãe Bonifácia"
         }
@@ -16728,19 +18662,15 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -55.7912821,
-          -20.4770582
+          0,
+          0
         ],
         "type": "Point"
       },
       "properties": {
         "date": "2021-07-11T18:18:34Z",
-        "google_maps_url": "http://maps.google.com/?cid=13652882556563377771",
-        "location": {
-          "address": "R. Bichara Salamene - Centro, Aquidauana - MS, 79200-000, Brasil",
-          "country_code": "BR",
-          "name": "Estação Ferroviária de Aquidauana"
-        }
+        "google_maps_url": "http://maps.google.com/?q=-20.477058,-55.791282",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
       },
       "type": "Feature"
     },
@@ -16991,7 +18921,7 @@ let placesData = {
         "location": {
           "address": "R. Antônio Maria Coelho, 345 - Centro, Corumbá - MS, 79301-000, Brasil",
           "country_code": "BR",
-          "name": "Santa Mônica Palace Hotel"
+          "name": "Hotel Santa Monica"
         }
       },
       "type": "Feature"
@@ -17112,7 +19042,7 @@ let placesData = {
         "location": {
           "address": "Rodovia MS 178, S/n - Zona Rural, Bonito - MS, 79290-000, Brasil",
           "country_code": "BR",
-          "name": "Estância Mimosa Ecoturismo - Cachoeiras em Bonito, MS"
+          "name": "Estância Mimosa Ecoturismo"
         }
       },
       "type": "Feature"
@@ -17244,8 +19174,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -54.5729658,
-          -20.4527804
+          -54.5813573,
+          -20.4564583
         ],
         "type": "Point"
       },
@@ -17253,7 +19183,7 @@ let placesData = {
         "date": "2021-07-05T18:02:54Z",
         "google_maps_url": "http://maps.google.com/?cid=4495924301912017487",
         "location": {
-          "address": "R. Antônio Maria Coelho, 6200 - Vila Planalto, Campo Grande - MS, 79004-270, Brasil",
+          "address": "Av. Afonso Pena, s/n - Centro, Campo Grande - MS, 79002-072, Brasil",
           "country_code": "BR",
           "name": "Parque das Nações Indígenas"
         }
@@ -18127,7 +20057,7 @@ let placesData = {
         "date": "2021-01-13T22:47:04Z",
         "google_maps_url": "http://maps.google.com/?cid=776390073618018260",
         "location": {
-          "address": "Exposororó, Brasil",
+          "address": "Exposororó, Marabá - PA, Brasil",
           "country_code": "BR",
           "name": "Vila Sororó - Marabá"
         }
@@ -18270,7 +20200,7 @@ let placesData = {
         "date": "2021-01-12T23:51:37Z",
         "google_maps_url": "http://maps.google.com/?cid=1699409521233353995",
         "location": {
-          "address": "Folha 32, Quadra, 10 - Lote 06 - Vila Militar Pres. Castelo Branco, Marabá - PA, 68508-100, Brasil",
+          "address": "Zap (91 - Folha 32, Quadra, 10 - 99141.2812Folha 32, Quadra, 10 - Lote 06 - Vila Militar Pres. Castelo Branco, Marabá - PA, 68508-100, Brasil",
           "country_code": "BR",
           "name": "Hotel Plaza"
         }
@@ -18555,19 +20485,15 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -48.5027465,
-          -1.4720482
+          0,
+          0
         ],
         "type": "Point"
       },
       "properties": {
         "date": "2021-01-11T01:39:18Z",
-        "google_maps_url": "http://maps.google.com/?cid=3684580536322999615",
-        "location": {
-          "address": "Jurunas, Belém - PA, 66025-110, Brasil",
-          "country_code": "BR",
-          "name": "Portal da Amazônia"
-        }
+        "google_maps_url": "http://maps.google.com/?q=-1.472048,-48.502747",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
       },
       "type": "Feature"
     },
@@ -18759,8 +20685,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -48.5048184,
-          -1.4558590
+          -48.5047352,
+          -1.4559254
         ],
         "type": "Point"
       },
@@ -19907,8 +21833,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -42.4695777,
-          -2.7676000
+          -42.4751522,
+          -2.7620742
         ],
         "type": "Point"
       },
@@ -20758,8 +22684,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -46.5717738,
-          -10.3449069
+          -46.5609028,
+          -10.3635606
         ],
         "type": "Point"
       },
@@ -20769,7 +22695,7 @@ let placesData = {
         "location": {
           "address": "Mateiros - TO, 77593-000, Brasil",
           "country_code": "BR",
-          "name": "Comunidade Quilombola Mumbuca"
+          "name": "Comunidade Quilombo Mumbuca"
         }
       },
       "type": "Feature"
@@ -21397,8 +23323,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -68.1954985,
-          -22.9135045
+          -68.1955863,
+          -22.9136665
         ],
         "type": "Point"
       },
@@ -21425,7 +23351,7 @@ let placesData = {
         "date": "2020-01-03T17:35:06Z",
         "google_maps_url": "http://maps.google.com/?cid=5657871480292999295",
         "location": {
-          "address": "Av. Punta Arenas 6711, La Granja, Región Metropolitana, Chile",
+          "address": "Av. Punta Arenas 6711, 8780000 La Granja, Región Metropolitana, Chile",
           "country_code": "CL",
           "name": "Mirador Interactive Museum"
         }
@@ -21435,8 +23361,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -70.6793861,
-          -33.4397361
+          -70.6795416,
+          -33.4401029
         ],
         "type": "Point"
       },
@@ -21444,9 +23370,9 @@ let placesData = {
         "date": "2020-01-03T15:05:35Z",
         "google_maps_url": "http://maps.google.com/?cid=6125457135274758433",
         "location": {
-          "address": "Av. Matucana 501, 8500000 Santiago, Región Metropolitana, Chile",
+          "address": "Estación Metro - Av. Matucana 501, 8500000 Quinta Normal, Santiago, Región Metropolitana, Chile",
           "country_code": "CL",
-          "name": "Museum of Memory & Human Rights"
+          "name": "Museu da Memória e dos Direitos Humanos"
         }
       },
       "type": "Feature"
@@ -21590,7 +23516,7 @@ let placesData = {
         "location": {
           "address": "Arlegui 687, Viña del Mar, Valparaíso, Chile",
           "country_code": "CL",
-          "name": "Plaza Vergara"
+          "name": "Vergara Square"
         }
       },
       "type": "Feature"
@@ -21717,7 +23643,7 @@ let placesData = {
         "location": {
           "address": "Av. San Martín 199, 2520179 Viña del Mar, Valparaíso, Chile",
           "country_code": "CL",
-          "name": "Casino de Viña del Mar"
+          "name": "Viña del Mar Casino"
         }
       },
       "type": "Feature"
@@ -21845,7 +23771,7 @@ let placesData = {
         "location": {
           "address": "Serrano 502, 2362279 Valparaíso, Chile",
           "country_code": "CL",
-          "name": "Ascensor Cordillera"
+          "name": "Cordillera Funicular"
         }
       },
       "type": "Feature"
@@ -21864,7 +23790,7 @@ let placesData = {
         "location": {
           "address": "Errázuriz, Valparaíso, Chile",
           "country_code": "CL",
-          "name": "Muelle Prat"
+          "name": "Prat Pier"
         }
       },
       "type": "Feature"
@@ -21902,7 +23828,7 @@ let placesData = {
         "location": {
           "address": "932, Esmeralda 916, Valparaíso, Chile",
           "country_code": "CL",
-          "name": "Ascensor Concepcion"
+          "name": "Concepción Funicular"
         }
       },
       "type": "Feature"
@@ -21959,7 +23885,7 @@ let placesData = {
         "location": {
           "address": "Pl. de La Justicia 73, Valparaíso, Chile",
           "country_code": "CL",
-          "name": "Ascensor El Peral"
+          "name": "El Peral Funicular"
         }
       },
       "type": "Feature"
@@ -22044,7 +23970,7 @@ let placesData = {
         "google_maps_url": "http://maps.google.com/?cid=15667240917745997013",
         "location": {
           "address": "Av. Brasil 1509, 1559, 2362731 Valparaíso, Chile",
-          "name": "Arco Británico"
+          "name": "British Arch"
         }
       },
       "type": "Feature"
@@ -22793,9 +24719,9 @@ let placesData = {
         "date": "2019-05-10T11:47:07Z",
         "google_maps_url": "http://maps.google.com/?cid=16670375067031821535",
         "location": {
-          "address": "Str. Barbu Văcărescu 201, București 077190, Romênia",
+          "address": "Str. Barbu Văcărescu 201, 077190 București, Romênia",
           "country_code": "RO",
-          "name": "Nor Sky Casual Restaurant"
+          "name": "Nor"
         }
       },
       "type": "Feature"
@@ -22812,7 +24738,7 @@ let placesData = {
         "date": "2019-05-10T09:31:29Z",
         "google_maps_url": "http://maps.google.com/?cid=14724176170632953039",
         "location": {
-          "address": "Strada Valea Cascadelor 21K, București 061512, Romênia",
+          "address": "Strada Valea Cascadelor 21K, 061512 București, Romênia",
           "country_code": "RO",
           "name": "Tactical Shooting Range"
         }
@@ -22831,7 +24757,7 @@ let placesData = {
         "date": "2019-05-09T19:07:07Z",
         "google_maps_url": "http://maps.google.com/?cid=1388595737490931087",
         "location": {
-          "address": "Bulevardul General Paul Teodorescu 4, București 061346, Romênia",
+          "address": "Bulevardul General Paul Teodorescu 4, 061346 București, Romênia",
           "country_code": "RO",
           "name": "Museum of Senses Bucharest"
         }
@@ -22850,7 +24776,7 @@ let placesData = {
         "date": "2019-05-09T13:43:08Z",
         "google_maps_url": "http://maps.google.com/?cid=6318124141341558299",
         "location": {
-          "address": "Piața Arcul de Triumf, București 011453, Romênia",
+          "address": "Piața Arcul de Triumf, 011453 București, Romênia",
           "country_code": "RO",
           "name": "Arco do Triunfo"
         }
@@ -22869,7 +24795,7 @@ let placesData = {
         "date": "2019-05-09T13:30:41Z",
         "google_maps_url": "http://maps.google.com/?cid=9430379915622433187",
         "location": {
-          "address": "Şoseaua Pavel D. Kiseleff 30, București 011347, Romênia",
+          "address": "Şoseaua Pavel D. Kiseleff 30, 011347 București, Romênia",
           "country_code": "RO",
           "name": "Museu Nacional da Aldeia Dimitrie Gusti"
         }
@@ -22906,7 +24832,7 @@ let placesData = {
         "date": "2019-05-09T13:00:25Z",
         "google_maps_url": "http://maps.google.com/?cid=8354718335497252342",
         "location": {
-          "address": "Corp A2, Piața Presei Libere 1, București 013701, Romênia",
+          "address": "Corp A2, Piața Presei Libere 1, Et. 3, 013701 București, Romênia",
           "country_code": "RO",
           "name": "The House of the Free Press"
         }
@@ -22940,7 +24866,7 @@ let placesData = {
         "date": "2019-05-09T12:15:16Z",
         "google_maps_url": "http://maps.google.com/?cid=6517745912057984754",
         "location": {
-          "address": "Strada Benjamin Franklin 1-3, București 010287, Romênia",
+          "address": "Strada Benjamin Franklin 1-3, 010287 București, Romênia",
           "country_code": "RO",
           "name": "Ateneu Romeno"
         }
@@ -22959,7 +24885,7 @@ let placesData = {
         "date": "2019-05-09T12:09:33Z",
         "google_maps_url": "http://maps.google.com/?cid=7134420911640911719",
         "location": {
-          "address": "Calea Victoriei 49-53, București 010063, Romênia",
+          "address": "Calea Victoriei 49-53, 010063 București, Romênia",
           "country_code": "RO",
           "name": "The Royal Palace of Bucharest"
         }
@@ -22978,7 +24904,7 @@ let placesData = {
         "date": "2019-05-09T12:09:15Z",
         "google_maps_url": "http://maps.google.com/?cid=16044012576954065712",
         "location": {
-          "address": "Calea Victoriei 49-53, București 010063, Romênia",
+          "address": "Calea Victoriei 49-53, 010063 București, Romênia",
           "country_code": "RO",
           "name": "Museu Nacional de Arte"
         }
@@ -22997,7 +24923,7 @@ let placesData = {
         "date": "2019-05-09T12:08:19Z",
         "google_maps_url": "http://maps.google.com/?cid=2302333767644454498",
         "location": {
-          "address": "Bucharest 030167, Romênia",
+          "address": "030167 Bucharest, Romênia",
           "name": "Equestrian Statue of Carol I"
         }
       },
@@ -23006,8 +24932,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          26.0979090,
-          44.4397744
+          26.0975410,
+          44.4398528
         ],
         "type": "Point"
       },
@@ -23015,7 +24941,7 @@ let placesData = {
         "date": "2019-05-09T12:08:10Z",
         "google_maps_url": "http://maps.google.com/?cid=3709816356116156905",
         "location": {
-          "address": "Strada Boteanu 1, București 010292, Romênia",
+          "address": "Strada Boteanu 1, 010292 București, Romênia",
           "country_code": "RO",
           "name": "Central University Library Carol I"
         }
@@ -23049,7 +24975,7 @@ let placesData = {
         "date": "2019-05-09T12:02:23Z",
         "google_maps_url": "http://maps.google.com/?cid=15198693957308866935",
         "location": {
-          "address": "Piața Revoluției, București 030167, Romênia",
+          "address": "Piața Revoluției, 030167 București, Romênia",
           "country_code": "RO",
           "name": "Memorial of Rebirth"
         }
@@ -23068,7 +24994,7 @@ let placesData = {
         "date": "2019-05-09T11:56:12Z",
         "google_maps_url": "http://maps.google.com/?cid=6975675940809821901",
         "location": {
-          "address": "Calea Victoriei 45-47, București 010062, Romênia",
+          "address": "Calea Victoriei 45-47, 010062 București, Romênia",
           "country_code": "RO",
           "name": "Kretzulescu Church"
         }
@@ -23087,7 +25013,7 @@ let placesData = {
         "date": "2019-05-09T11:25:12Z",
         "google_maps_url": "http://maps.google.com/?cid=17177553220990845266",
         "location": {
-          "address": "Bulevardul Regina Elisabeta Nr. 4-12, București 030018, Romênia",
+          "address": "Bulevardul Regina Elisabeta Nr. 4-12, 030018 București, Romênia",
           "country_code": "RO",
           "name": "Universidade de Bucareste"
         }
@@ -23106,7 +25032,7 @@ let placesData = {
         "date": "2019-05-09T11:22:56Z",
         "google_maps_url": "http://maps.google.com/?cid=6238613354233361505",
         "location": {
-          "address": "Bulevardul Regina Elisabeta 12, București 030167, Romênia",
+          "address": "Bulevardul Regina Elisabeta 12, 030167 București, Romênia",
           "name": "Statue of Spiru Haret"
         }
       },
@@ -23124,7 +25050,7 @@ let placesData = {
         "date": "2019-05-09T11:15:13Z",
         "google_maps_url": "http://maps.google.com/?cid=9205119820328809349",
         "location": {
-          "address": "Bulevardul Ion C. Brătianu 1, București 030167, Romênia",
+          "address": "Bulevardul Ion C. Brătianu 1, 030171 București, Romênia",
           "country_code": "RO",
           "name": "Colțea Clinical Hospital"
         }
@@ -23173,7 +25099,7 @@ let placesData = {
         "date": "2019-05-09T11:00:39Z",
         "google_maps_url": "http://maps.google.com/?cid=14593284683301693268",
         "location": {
-          "address": "Strada Stavropoleos 5, București 030081, Romênia",
+          "address": "Strada Stavropoleos 5, 030081 București, Romênia",
           "country_code": "RO",
           "name": "Caru' cu bere"
         }
@@ -23192,7 +25118,7 @@ let placesData = {
         "date": "2019-05-09T09:44:57Z",
         "google_maps_url": "http://maps.google.com/?cid=4482497978972170442",
         "location": {
-          "address": "Strada Blănari 16, București 030167, Romênia",
+          "address": "Strada Blănari 16, 030167 București, Romênia",
           "country_code": "RO",
           "name": "Biserica Șelari"
         }
@@ -23211,7 +25137,7 @@ let placesData = {
         "date": "2019-05-09T09:33:44Z",
         "google_maps_url": "http://maps.google.com/?cid=10915586233752676659",
         "location": {
-          "address": "Strada Stavropoleos 4, București 030167, Romênia",
+          "address": "Strada Stavropoleos 4, 030167 București, Romênia",
           "country_code": "RO",
           "name": "A Igreja do Monastério de \"Stavropoleos\""
         }
@@ -23230,7 +25156,7 @@ let placesData = {
         "date": "2019-05-09T09:28:37Z",
         "google_maps_url": "http://maps.google.com/?cid=14263996650463993",
         "location": {
-          "address": "Calea Victoriei 13, București 030022, Romênia",
+          "address": "Calea Victoriei 13, 030022 București, Romênia",
           "country_code": "RO",
           "name": "Palácio CEC"
         }
@@ -23249,7 +25175,7 @@ let placesData = {
         "date": "2019-05-09T09:21:32Z",
         "google_maps_url": "http://maps.google.com/?cid=13220699325300279213",
         "location": {
-          "address": "Strada Anghel Saligny 1, București 030167, Romênia",
+          "address": "Strada Anghel Saligny 1, 030167 București, Romênia",
           "country_code": "RO",
           "name": "Holocaust Memorial"
         }
@@ -23306,7 +25232,7 @@ let placesData = {
         "date": "2019-05-09T07:46:45Z",
         "google_maps_url": "http://maps.google.com/?cid=6358788978505024320",
         "location": {
-          "address": "Aleea Dealul Mitropoliei 19, București 030167, Romênia",
+          "address": "Aleea Dealul Mitropoliei 19, 030167 București, Romênia",
           "country_code": "RO",
           "name": "Alexandru Ioan Cuza Monument"
         }
@@ -23344,7 +25270,7 @@ let placesData = {
         "date": "2019-05-09T07:11:24Z",
         "google_maps_url": "http://maps.google.com/?cid=12123608012245025239",
         "location": {
-          "address": "Strada Sfinții Apostoli 60, București 040091, Romênia",
+          "address": "Strada Sfinții Apostoli 60, 040091 București, Romênia",
           "country_code": "RO",
           "name": "Domnița Bălașa Church"
         }
@@ -23363,7 +25289,7 @@ let placesData = {
         "date": "2019-05-09T06:18:49Z",
         "google_maps_url": "http://maps.google.com/?cid=13760166639274270588",
         "location": {
-          "address": "Strada Sfânta Vineri 9-11, București 030167, Romênia",
+          "address": "Strada Sfânta Vineri 9-11, 030167 București, Romênia",
           "country_code": "RO",
           "name": "The \"Choral\" Temple"
         }
@@ -23382,7 +25308,7 @@ let placesData = {
         "date": "2019-05-09T05:46:43Z",
         "google_maps_url": "http://maps.google.com/?cid=9011784574139576098",
         "location": {
-          "address": "Great Synagogue, Bucharest, Strada Vasile Adamache 11, București 030167, Romênia",
+          "address": "Great Synagogue, Bucharest, Strada Vasile Adamache 11, 030167 București, Romênia",
           "country_code": "RO",
           "name": "The Holocaust Museum in Bucharest"
         }
@@ -23401,7 +25327,7 @@ let placesData = {
         "date": "2019-05-09T04:44:02Z",
         "google_maps_url": "http://maps.google.com/?cid=4799452667097853425",
         "location": {
-          "address": "Str. Franceză 33, București 030105, Romênia",
+          "address": "Str. Franceză 33, 030105 București, Romênia",
           "country_code": "RO",
           "name": "St. Anthony’s Church"
         }
@@ -23448,8 +25374,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          23.3190108,
-          42.6851492
+          23.3190206,
+          42.6851948
         ],
         "type": "Point"
       },
@@ -23626,7 +25552,7 @@ let placesData = {
         "location": {
           "address": "Sofia Center, ul. \"Georgi Benkovski\" 12, 1000 Sofia, Bulgária",
           "country_code": "BG",
-          "name": "Skarabar"
+          "name": "СкараБар 2 / SkaraBar 2"
         }
       },
       "type": "Feature"
@@ -23683,7 +25609,7 @@ let placesData = {
         "location": {
           "address": "Sofia Center, Knyaz Alexander Dondukov Blvd 2, 1000 Sofia, Bulgária",
           "country_code": "BG",
-          "name": "Ancient orthodox rotunda church \"Saint George\""
+          "name": "Sofia Church of St. George"
         }
       },
       "type": "Feature"
@@ -23729,8 +25655,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          23.3213943,
-          42.6967647
+          23.3213433,
+          42.6967242
         ],
         "type": "Point"
       },
@@ -23804,8 +25730,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          23.3195208,
-          42.6986741
+          23.3198236,
+          42.6986753
         ],
         "type": "Point"
       },
@@ -23851,7 +25777,7 @@ let placesData = {
         "date": "2019-05-08T06:39:07Z",
         "google_maps_url": "http://maps.google.com/?cid=3448054119331703487",
         "location": {
-          "address": "St. Nicholas of Sofia, Парк „Св. Никола“, Sofia Center, Pirotska St 76, 1303 Sofia, Bulgária",
+          "address": "St. Nicholas of Sofia, Sofia Center, Pirotska St 76, 1303 Sofia, Bulgária",
           "country_code": "BG",
           "name": "Church “St. Nicholas of Sofia”"
         }
@@ -23861,8 +25787,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          23.3210061,
-          42.7002885
+          23.3210074,
+          42.7002819
         ],
         "type": "Point"
       },
@@ -23965,7 +25891,7 @@ let placesData = {
         "date": "2019-05-07T09:20:18Z",
         "google_maps_url": "http://maps.google.com/?cid=16338044583380651285",
         "location": {
-          "address": "Strada General Traian Moșoiu 502A, Bran 507025, Romênia",
+          "address": "Strada General Traian Moșoiu 502A, 507025 Bran, Romênia",
           "name": "The Castle Of Horror"
         }
       },
@@ -23983,7 +25909,7 @@ let placesData = {
         "date": "2019-05-07T09:19:22Z",
         "google_maps_url": "http://maps.google.com/?cid=14957060824112409471",
         "location": {
-          "address": "Strada General Traian Moșoiu 24, Bran 507025, Romênia",
+          "address": "Strada General Traian Moșoiu 24, 507025 Bran, Romênia",
           "country_code": "RO",
           "name": "Castelo de Bran"
         }
@@ -24002,7 +25928,7 @@ let placesData = {
         "date": "2019-05-07T09:19:07Z",
         "google_maps_url": "http://maps.google.com/?cid=17757460270915937845",
         "location": {
-          "address": "Strada Sextil Pușcariu 23, Bran 507025, Romênia",
+          "address": "Vila Reit, Strada Sextil Pușcariu 23, 507025 Bran, Romênia",
           "country_code": "RO",
           "name": "Restaurant Bran Parc (Bikers Welcome)"
         }
@@ -24055,7 +25981,7 @@ let placesData = {
         "date": "2019-05-06T07:42:22Z",
         "google_maps_url": "http://maps.google.com/?cid=1247037147080132478",
         "location": {
-          "address": "Calea Bucureștilor 224 E, Otopeni 075150, Romênia",
+          "address": "Calea Bucureștilor 224E, 075150 Otopeni, Romênia",
           "country_code": "RO",
           "name": "Aeroporto Internacional Henri Coandă"
         }
@@ -24074,7 +26000,7 @@ let placesData = {
         "date": "2019-05-05T11:43:19Z",
         "google_maps_url": "http://maps.google.com/?cid=16602793033967226998",
         "location": {
-          "address": "Seitan limania, Grécia",
+          "address": "Seitan limania, Chania, Grécia",
           "name": "Seitan Limania"
         }
       },
@@ -24140,7 +26066,7 @@ let placesData = {
         "date": "2019-05-04T15:34:17Z",
         "google_maps_url": "http://maps.google.com/?cid=8172772676404903308",
         "location": {
-          "address": "Rethimno 741 31, Grécia",
+          "address": "Leof. Emmanouil Kefalogianni 27, Rethymno 741 31, Grécia",
           "country_code": "GR",
           "name": "Fortezza of Rethymnon"
         }
@@ -24268,7 +26194,7 @@ let placesData = {
         "date": "2019-05-01T13:24:13Z",
         "google_maps_url": "http://maps.google.com/?cid=11359625770899911764",
         "location": {
-          "address": "Path to Milatos Cave, Vrachasi 724 00, Grécia",
+          "address": "Path to Milatos Cave, Ag. Nikolaos 724 00, Grécia",
           "country_code": "GR",
           "name": "Milatos Cave"
         }
@@ -24667,8 +26593,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          28.1467305,
-          36.2700748
+          28.1469429,
+          36.2702411
         ],
         "type": "Point"
       },
@@ -24676,7 +26602,7 @@ let placesData = {
         "date": "2019-04-26T10:30:32Z",
         "google_maps_url": "http://maps.google.com/?cid=3082935794776357768",
         "location": {
-          "address": "Κολύμπια 851 03, Grécia",
+          "address": "EO Rodou Lindou 23 χλμ, Kolympia 851 03, Grécia",
           "country_code": "GR",
           "name": "Artistic Village Contemporary Art"
         }
@@ -24747,7 +26673,7 @@ let placesData = {
         "date": "2019-04-25T20:37:19Z",
         "google_maps_url": "http://maps.google.com/?cid=16235610714266649604",
         "location": {
-          "address": "Kallithea 851 00, Grécia",
+          "address": "Rhodes 851 00, Grécia",
           "name": "Oasis Beach Kallithea"
         }
       },
@@ -24765,7 +26691,7 @@ let placesData = {
         "date": "2019-04-25T20:37:02Z",
         "google_maps_url": "http://maps.google.com/?cid=7601495841397530807",
         "location": {
-          "address": "Mediterranean Sea, Grécia",
+          "address": "Mediterranean Sea, Rodos, Grécia",
           "country_code": "GR",
           "name": "Tasos Beach"
         }
@@ -24837,7 +26763,7 @@ let placesData = {
         "date": "2019-04-25T13:00:04Z",
         "google_maps_url": "http://maps.google.com/?cid=13609023447291064018",
         "location": {
-          "address": "Leof. Kallitheas 80, Rodos 851 00, Grécia",
+          "address": "Thermes Kallithea, Leof. Kallitheas 80, Rodos 851 00, Grécia",
           "name": "Kallithea Beach"
         }
       },
@@ -25358,7 +27284,6 @@ let placesData = {
         "google_maps_url": "http://maps.google.com/?cid=3296123859297175052",
         "location": {
           "address": "Athens 117 41, Grécia",
-          "country_code": "GR",
           "name": "Monumento de Filopapo"
         }
       },
@@ -25760,7 +27685,7 @@ let placesData = {
         "location": {
           "address": "Athens 114 71, Grécia",
           "country_code": "GR",
-          "name": "Lycabettus Hill Viewing Area"
+          "name": "Lycabettus Hill"
         }
       },
       "type": "Feature"
@@ -25825,8 +27750,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -60.0255788,
-          -3.1372874
+          -60.0255646,
+          -3.1372477
         ],
         "type": "Point"
       },
@@ -25835,6 +27760,7 @@ let placesData = {
         "google_maps_url": "http://maps.google.com/?cid=12681564354867712588",
         "location": {
           "address": "Marquesa da Santa Cruz, St - Centro, Manaus - AM, 69005-050, Brasil",
+          "country_code": "BR",
           "name": "Alfândega"
         }
       },
@@ -25966,7 +27892,7 @@ let placesData = {
         "google_maps_url": "http://maps.google.com/?cid=5580203807323423539",
         "location": {
           "address": "Sofia Center, Lavele St 14, 1000 Sofia, Bulgária",
-          "name": "Public Lockers Sofia - Luggage Storage in Sofia"
+          "name": "Public Locker Sofia - Luggage Storage in Sofia"
         }
       },
       "type": "Feature"
@@ -26078,7 +28004,7 @@ let placesData = {
         "date": "2019-03-23T18:25:44Z",
         "google_maps_url": "http://maps.google.com/?cid=845418095785600837",
         "location": {
-          "address": "Strada 13 Decembrie nr 97, Brașov 500146, Romênia",
+          "address": "Strada 13 Decembrie nr 97, 500146 Brașov, Romênia",
           "country_code": "RO",
           "name": "IQ Hotels - Yellow House"
         }
@@ -26097,7 +28023,7 @@ let placesData = {
         "date": "2019-03-23T18:25:28Z",
         "google_maps_url": "http://maps.google.com/?cid=15286080183536642200",
         "location": {
-          "address": "Splaiul Independenței 2, București 030167, Romênia",
+          "address": "Splaiul Independenței 2, 030099 București, Romênia",
           "country_code": "RO",
           "name": "Antique Hostel Bucharest"
         }
@@ -26194,7 +28120,7 @@ let placesData = {
         "location": {
           "address": "Oia-Baxedes/Paradise Beach, Oía 847 02, Grécia",
           "country_code": "GR",
-          "name": "Εν Πλώ Boutique Suites - Oia Santorini"
+          "name": "En Plo Boutique Suites"
         }
       },
       "type": "Feature"
@@ -26289,8 +28215,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          25.1481302,
-          35.3403394
+          25.1480930,
+          35.3402875
         ],
         "type": "Point"
       },
@@ -26298,7 +28224,7 @@ let placesData = {
         "date": "2019-03-13T01:52:50Z",
         "google_maps_url": "http://maps.google.com/?cid=62678372434284959",
         "location": {
-          "address": "Poseidonos 34 &, Naxou 1, Iraklio 713 07, Grécia",
+          "address": "Naxou, & poseidonos 1, Iraklio 713 07, Grécia",
           "country_code": "GR",
           "name": "Pasiphae Hotel"
         }
@@ -26317,7 +28243,7 @@ let placesData = {
         "date": "2019-03-05T14:09:30Z",
         "google_maps_url": "http://maps.google.com/?cid=1315124619168703421",
         "location": {
-          "address": "Calea Floreasca 246C, București 014476, Romênia",
+          "address": "Calea Floreasca 246C, 10th Floor, 014476 București, Romênia",
           "name": "Apcom Romania"
         }
       },
@@ -26335,7 +28261,7 @@ let placesData = {
         "date": "2019-02-13T13:16:28Z",
         "google_maps_url": "http://maps.google.com/?cid=14042592528389083452",
         "location": {
-          "address": "Cruzeiro Novo Q. 1409 BL A2 Qd 1409 - CRUZEIRO, Brasília - DF, 71570-202, Brasil",
+          "address": "Cruzeiro Novo Q. 1409 BL A2 Qd 1409 - Cruzeiro, Brasília - DF, 71570-202, Brasil",
           "country_code": "BR",
           "name": "Cartório da 11ª Zona Eleitoral do DF - CRUZEIRO"
         }
@@ -26363,8 +28289,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -82.3858631,
-          23.1245339
+          -82.3862593,
+          23.1227066
         ],
         "type": "Point"
       },
@@ -26372,7 +28298,7 @@ let placesData = {
         "date": "2019-01-21T19:56:31Z",
         "google_maps_url": "http://maps.google.com/?cid=3819997463508843192",
         "location": {
-          "address": "4JF7+RM6, Av. Paseo, La Habana, Cuba",
+          "address": "4JF7+3FQ, Av. Paseo, La Habana, Cuba",
           "name": "Praça da Revolução"
         }
       },
@@ -26915,8 +28841,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -79.9849022,
-          21.8050415
+          -79.9848933,
+          21.8051456
         ],
         "type": "Point"
       },
@@ -29148,8 +31074,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -48.8448514,
-          -26.3034734
+          -48.8454128,
+          -26.3029384
         ],
         "type": "Point"
       },
@@ -29231,7 +31157,7 @@ let placesData = {
         "location": {
           "address": "R. Kellers, 383 - São Francisco, Curitiba - PR, 80410-100, Brasil",
           "country_code": "BR",
-          "name": "Mesquita Imam Ali ibn Abi Tálib"
+          "name": "Mesquita IMAM ALI Ibn Abi Tálib"
         }
       },
       "type": "Feature"
@@ -29321,7 +31247,7 @@ let placesData = {
         "google_maps_url": "http://maps.google.com/?cid=9474161968796735815",
         "location": {
           "address": "R. João Gava, 920 - Abranches, Curitiba - PR, 82130-010, Brasil",
-          "name": "Ópera de Arame - Vale da Música"
+          "name": "Ópera de Arame"
         }
       },
       "type": "Feature"
@@ -29498,7 +31424,7 @@ let placesData = {
         "location": {
           "address": "SC-370 - Aiurê, Grão-Pará - SC, 88890-000, Brasil",
           "country_code": "BR",
-          "name": "Serra do Corvo Branco www.rotadocorvo.com.br"
+          "name": "Serra do Corvo Branco"
         }
       },
       "type": "Feature"
@@ -29517,7 +31443,7 @@ let placesData = {
         "location": {
           "address": "Estrada Geral, S/N - Chapadão, Orleans - SC, Brasil",
           "country_code": "BR",
-          "name": "Parque Estadual da Serra Furada - Sede Sul"
+          "name": "Parque Estadual da Serra Furada"
         }
       },
       "type": "Feature"
@@ -30291,8 +32217,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -47.0085898,
-          -23.0972258
+          -47.0085692,
+          -23.0971495
         ],
         "type": "Point"
       },
@@ -30494,8 +32420,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -46.0766825,
-          -14.4579656
+          -46.0765612,
+          -14.4580614
         ],
         "type": "Point"
       },
@@ -30503,7 +32429,7 @@ let placesData = {
         "date": "2017-09-12T23:22:47Z",
         "google_maps_url": "http://maps.google.com/?cid=2819883628956964666",
         "location": {
-          "address": "Mambaí - GO, 73970-000, Brasil",
+          "address": "Chacara Fazenda do Alemão, Mambaí - GO, 73970-000, Brasil",
           "country_code": "BR",
           "name": "Cachoeira do Alemão"
         }
@@ -30609,7 +32535,7 @@ let placesData = {
         "date": "2017-08-14T20:56:31Z",
         "google_maps_url": "http://maps.google.com/?cid=8218874970784834240",
         "location": {
-          "address": "360 Highway, BR-060 - KM21 - Alexânia, GO, 72920-000, Brasil",
+          "address": "360 Highway, BR-060 - Alexânia, GO, 72920-000, Brasil",
           "country_code": "BR",
           "name": "Outlet Premium Brasília"
         }
@@ -30871,8 +32797,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -73.9609390,
-          40.7980940
+          -73.9610185,
+          40.7982709
         ],
         "type": "Point"
       },
@@ -31028,8 +32954,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -39.9761856,
-          -13.9444741
+          -39.9759724,
+          -13.9438198
         ],
         "type": "Point"
       },
@@ -31037,9 +32963,8 @@ let placesData = {
         "date": "2017-04-09T23:43:22Z",
         "google_maps_url": "http://maps.google.com/?cid=3193964175346935370",
         "location": {
-          "address": "BR-330, 981 - Jequié, BA, 45225-000, Brasil",
-          "country_code": "BR",
-          "name": "Barragem do cajueiro"
+          "address": "324F+FJ - Jequié, BA, 45225-000, Brasil",
+          "name": "Barragem do Cajueiro"
         }
       },
       "type": "Feature"
@@ -31800,7 +33725,7 @@ let placesData = {
         "date": "2016-11-17T13:06:03Z",
         "google_maps_url": "http://maps.google.com/?cid=7429144893121229939",
         "location": {
-          "address": "Shopping Liberdade, Estr. da Liberdade, 405 – Liberdade, Salvador – BA, 40366-405, Brasil",
+          "address": "Shopping Liberdade, Estr. da Liberdade, 405 – Liberdade, Salvador – BA, 40366-405, Salvador - BA, Brasil",
           "country_code": "BR",
           "name": "Faculdade São Salvador"
         }
@@ -31880,7 +33805,7 @@ let placesData = {
         "google_maps_url": "http://maps.google.com/?cid=18043906603997046",
         "location": {
           "address": "R. Dr. Manoel Vitorino, 343 - Brás, São Paulo - SP, 03017-020, Brasil",
-          "name": "DATAPREV - Empresa de Tecnologia e Informações da Previdência Social | São Paulo"
+          "name": "DATAPREV São Paulo"
         }
       },
       "type": "Feature"
@@ -31914,7 +33839,7 @@ let placesData = {
         "location": {
           "address": "RUA PARTICULAR COMPLEXO TURISTICO, SN - Esplanada do Rio Quente, Rio Quente - GO, 75667-000, Brasil",
           "country_code": "BR",
-          "name": "Rio Quente Resorts - Hotel Turismo"
+          "name": "Rio Quente Resorts - Refúgio Grand Premium - Antigo Hotel Turismo"
         }
       },
       "type": "Feature"
@@ -33944,8 +35869,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -39.0309155,
-          -14.4749518
+          -39.0309050,
+          -14.4749871
         ],
         "type": "Point"
       },
@@ -33953,9 +35878,9 @@ let placesData = {
         "date": "2016-07-11T03:18:13Z",
         "google_maps_url": "http://maps.google.com/?cid=11435139208935079927",
         "location": {
-          "address": "Serra Grande, Uruçuca - BA, 45680-000, Brasil",
+          "address": "Mirante II - Serra Grande, Uruçuca - BA, 45680-000, Brasil",
           "country_code": "BR",
-          "name": "Mirante II"
+          "name": "Mirante Serra Grande"
         }
       },
       "type": "Feature"
@@ -35325,7 +37250,7 @@ let placesData = {
         "date": "2014-09-26T11:39:29Z",
         "google_maps_url": "http://maps.google.com/?cid=7541831970830558554",
         "location": {
-          "address": "Paul-Heyse-Straße 18, 80336 München, Alemanha",
+          "address": "Paul-Heyse-Straße 18, 80336 München-Ludwigsvorstadt-Isarvorstadt, Alemanha",
           "country_code": "DE",
           "name": "Hotel Atlas City"
         }
@@ -35363,7 +37288,7 @@ let placesData = {
         "date": "2014-09-26T11:36:08Z",
         "google_maps_url": "http://maps.google.com/?cid=5969221803709957082",
         "location": {
-          "address": "Haugerring 2, 97070 Würzburg, Alemanha",
+          "address": "Haugerring 2, 97070 Würzburg-Altstadt, Alemanha",
           "country_code": "DE",
           "name": "Babelfish Hostel"
         }
@@ -35382,7 +37307,7 @@ let placesData = {
         "date": "2014-09-26T11:35:32Z",
         "google_maps_url": "http://maps.google.com/?cid=11617611289707835029",
         "location": {
-          "address": "Goldsteinstraße 33, 60528 Frankfurt am Main, Alemanha",
+          "address": "Goldsteinstraße 33, 60528 Frankfurt-Süd, Alemanha",
           "country_code": "DE",
           "name": "Dom St. Bartholomäus"
         }
@@ -35401,7 +37326,7 @@ let placesData = {
         "date": "2014-09-26T11:35:01Z",
         "google_maps_url": "http://maps.google.com/?cid=8382327546902008668",
         "location": {
-          "address": "Wilhelm-Busch-Straße 15, 60431 Frankfurt am Main, Alemanha",
+          "address": "Wilhelm-Busch-Straße 15, 60431 Frankfurt-Mitte-Nord, Alemanha",
           "name": "Frankfurter Römerbergfestspiele"
         }
       },
@@ -35449,7 +37374,7 @@ let placesData = {
         "date": "2014-09-26T11:32:45Z",
         "google_maps_url": "http://maps.google.com/?cid=4137601050162647982",
         "location": {
-          "address": "Moselstraße 40, 60329 Frankfurt am Main, Alemanha",
+          "address": "Moselstraße 40, 60329 Frankfurt am Main-Innenstadt I, Alemanha",
           "country_code": "DE",
           "name": "5Elements Hostel Frankfurt"
         }
@@ -35468,7 +37393,7 @@ let placesData = {
         "date": "2014-09-26T11:31:51Z",
         "google_maps_url": "http://maps.google.com/?cid=4684753390029659997",
         "location": {
-          "address": "Riehler Str. 180, 50735 Köln, Alemanha",
+          "address": "Riehler Str. 180, 50735 Nippes, Alemanha",
           "country_code": "DE",
           "name": "Rhein-Seilbahn"
         }
@@ -35478,8 +37403,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          6.9615857,
-          50.9384881
+          6.9615625,
+          50.9385829
         ],
         "type": "Point"
       },
@@ -35524,7 +37449,7 @@ let placesData = {
         "date": "2014-09-26T11:28:51Z",
         "google_maps_url": "http://maps.google.com/?cid=12339601346908129009",
         "location": {
-          "address": "Hohenzollern Bridge, 50679 Köln, Alemanha",
+          "address": "Hohenzollernbrücke, 50679 Köln, Alemanha",
           "country_code": "DE",
           "name": "Hohenzollern Bridge"
         }
@@ -36697,8 +38622,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          16.3592045,
-          48.2080360
+          16.3584468,
+          48.2080757
         ],
         "type": "Point"
       },
@@ -36706,7 +38631,7 @@ let placesData = {
         "date": "2014-09-22T11:34:49Z",
         "google_maps_url": "http://maps.google.com/?cid=3826788382577995984",
         "location": {
-          "address": "Dr. Karl Renner-Ring 3, 1017 Wien, Áustria",
+          "address": "Dr.-Karl-Renner-Ring 3, 1010 Wien, Áustria",
           "country_code": "AT",
           "name": "Edifício do Parlamento austríaco"
         }
@@ -36882,7 +38807,7 @@ let placesData = {
         "location": {
           "address": "Wilsonova 300/8, 120 00 Vinohrady, Tchéquia",
           "country_code": "CZ",
-          "name": "Prague Main Station"
+          "name": "Prague Main Train Station"
         }
       },
       "type": "Feature"
@@ -36890,8 +38815,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          14.4260311,
-          50.0902753
+          14.4259339,
+          50.0902531
         ],
         "type": "Point"
       },
@@ -36899,7 +38824,7 @@ let placesData = {
         "date": "2014-09-22T02:17:21Z",
         "google_maps_url": "http://maps.google.com/?cid=15047985114981366954",
         "location": {
-          "address": "716/24, Rybná, 110 00 Staré Město, Tchéquia",
+          "address": "Rybná, 110 00 Staré Město, Tchéquia",
           "country_code": "CZ",
           "name": "SHOOTING IN PRAGUE"
         }
