@@ -4,6 +4,2643 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-16T10:28:43Z",
+        "google_maps_url": "http://maps.google.com/?q=Monte+Alegre+-+Caripar%C3%A9,+Riach%C3%A3o+das+Neves+-+BA,+47150-000&ftid=0x7602b7a8ba1f23f:0x9f1a4978b745a607",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-16T10:28:28Z",
+        "google_maps_url": "http://maps.google.com/?q=Riach%C3%A3o+das+Neves,+BA,+47970-000&ftid=0x7600497def7485d:0x5ec245c0e9f1f12d",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-16T10:28:20Z",
+        "google_maps_url": "http://maps.google.com/?q=Formosa+do+Rio+Preto,+BA,+47990-000&ftid=0x9334b8fb9a8c0b17:0x39f9e7684e3db56c",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-16T10:28:11Z",
+        "google_maps_url": "http://maps.google.com/?q=Cristal%C3%A2ndia+do+Piau%C3%AD,+PI,+64995-000&ftid=0x93335ad12788bafb:0x645842a53fdb4858",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -45.1623565,
+          -10.4298438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-15T15:59:40Z",
+        "google_maps_url": "http://maps.google.com/?cid=15117998697354915559",
+        "location": {
+          "address": "BR-135, km 590 - Morro do Pequi, Corrente - PI, 64980-000, Brasil",
+          "country_code": "BR",
+          "name": "Churrascaria Posto Varejão"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-15T15:28:32Z",
+        "google_maps_url": "http://maps.google.com/?q=Reden%C3%A7%C3%A3o+do+Gurgu%C3%A9ia,+PI,+64915-000&ftid=0x77d3d73a70ebe99:0x76ef8bbdbf963795",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-15T15:21:10Z",
+        "google_maps_url": "http://maps.google.com/?q=Couve,+Bom+Jesus+-+PI,+64900-000&ftid=0x77d051c9a05696f:0x82a2033ce7de2910",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-15T15:21:04Z",
+        "google_maps_url": "http://maps.google.com/?q=Barra+Verde,+Bom+Jesus+-+PI,+64900-000&ftid=0x77d00973cc1560f:0xf0efb99f1f8e21c1",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-15T15:20:53Z",
+        "google_maps_url": "http://maps.google.com/?q=Livramento,+Bom+Jesus+-+PI,+64900-000&ftid=0x77c532642e835e9:0xcb67b984d1708ad6",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-15T15:20:22Z",
+        "google_maps_url": "http://maps.google.com/?q=Paus,+Monte+Alegre+do+Piau%C3%AD+-+PI,+64940-000&ftid=0x77d4f11c53dd515:0xc72f68b929ea42de",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-15T15:20:08Z",
+        "google_maps_url": "http://maps.google.com/?q=Monte+Alegre+do+Piau%C3%AD,+PI,+64940-000&ftid=0x93329f794cc1669f:0x423f6ee4a46b520",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-15T15:20:01Z",
+        "google_maps_url": "http://maps.google.com/?q=Gilbu%C3%A9s,+PI,+64930-000&ftid=0x933299a9d49e69e7:0xc6a12a64cf7ab6a5",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-15T15:19:53Z",
+        "google_maps_url": "http://maps.google.com/?q=S%C3%A3o+Gon%C3%A7alo+do+Gurgu%C3%A9ia,+PI,+64993-000&ftid=0x9332ea6fc22d1945:0xb434f64adc7642a3",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-15T15:19:46Z",
+        "google_maps_url": "http://maps.google.com/?q=Barra+de+Santa+Marta,+Corrente+-+PI,+64980-000&ftid=0x9332dbc4a60e60e7:0x69ac4516142b1f3e",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-15T15:15:13Z",
+        "google_maps_url": "http://maps.google.com/?q=Corrente,+PI,+64980-000&ftid=0x933339f38ef455f9:0x45fb3e5610c795c1",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -45.1629348,
+          -10.4458934
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-15T15:15:02Z",
+        "google_maps_url": "http://maps.google.com/?cid=1059457895572082602",
+        "location": {
+          "address": "Corrente - PI, 64980-000, Brasil",
+          "country_code": "BR",
+          "name": "Bar e Churrascaria do Bode"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -44.3333614,
+          -9.0738236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-15T12:32:07Z",
+        "google_maps_url": "http://maps.google.com/?cid=3745217713246355111",
+        "location": {
+          "address": "BR-135, Bom Jesus - PI, 64900-000, Brasil",
+          "country_code": "BR",
+          "name": "Posto Café 02 (Bom Jesus-PI)"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-15T12:32:03Z",
+        "google_maps_url": "http://maps.google.com/?q&ftid=0x77f2b4c6b398cf7:0xc03ba5f44a0f7903",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-15T12:31:59Z",
+        "google_maps_url": "http://maps.google.com/?q&ftid=0x77c4d0ee8f208f1:0xdfc4cd2b3a6bf3a4",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-15T12:31:47Z",
+        "google_maps_url": "http://maps.google.com/?q&ftid=0x77c250b8999ec59:0xa478cbd710171244",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-15T12:31:43Z",
+        "google_maps_url": "http://maps.google.com/?q&ftid=0x778cfa752bc69b9:0xf8f9f2456de5aac7",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.9497050,
+          -8.5469940
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-15T11:33:15Z",
+        "google_maps_url": "http://maps.google.com/?cid=7173723825827021540",
+        "location": {
+          "address": "Alvorada do Gurguéia - PI, 64923-000, Brasil",
+          "country_code": "BR",
+          "name": "Poço Violeto"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T23:21:47Z",
+        "google_maps_url": "http://maps.google.com/?q=Nova+Olinda,+Brejo+do+Piau%C3%AD+-+PI,+64895-000&ftid=0x77825a73ad2ff21:0xab050e9612a29625",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T23:13:09Z",
+        "google_maps_url": "http://maps.google.com/?q=-8.488525683741653,-39.78803604841232",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T23:12:33Z",
+        "google_maps_url": "http://maps.google.com/?q=Oroc%C3%B3,+PE,+56170-000&ftid=0x70ae8fda9621f53:0xe72b68ff4e9efbb7",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T23:10:53Z",
+        "google_maps_url": "http://maps.google.com/?q&ftid=0x70adcc72dba89b7:0xc48b2b9a0abfd7a7",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T23:10:39Z",
+        "google_maps_url": "http://maps.google.com/?q=Urimam%C3%A3,+Santa+Maria+da+Boa+Vista+-+PE,+56380-000&ftid=0x70ab5054ef13e9f:0x505a03713a4c3677",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T23:10:16Z",
+        "google_maps_url": "http://maps.google.com/?q=Dormentes,+PE,+56355-000&ftid=0x775a491dff81ae1:0xc009b10df01006a",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T23:10:09Z",
+        "google_maps_url": "http://maps.google.com/?q=Caboclo+-+Afr%C3%A2nio,+PE,+56360-000&ftid=0x775b786c27775d9:0x8cce3b85f88d2523",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T23:09:59Z",
+        "google_maps_url": "http://maps.google.com/?q=Afr%C3%A2nio,+PE,+56360-000&ftid=0x775c91aa5af4045:0x7c31bc4dff30a0b6",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T23:09:39Z",
+        "google_maps_url": "http://maps.google.com/?q=Queimada+Nova,+PI,+64758-000&ftid=0x77687952eb56e67:0x6b74dbb06c901daa",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T23:09:33Z",
+        "google_maps_url": "http://maps.google.com/?q=Lagoa+do+Barro+do+Piau%C3%AD,+PI,+64768-000&ftid=0x776614ee25b8c8f:0x43d464fa3723c725",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T23:09:21Z",
+        "google_maps_url": "http://maps.google.com/?q=Campo+Alegre+do+Fidalgo,+PI,+64767-000&ftid=0x776518b595c663d:0xdfb8be45d5f8afda",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T23:09:16Z",
+        "google_maps_url": "http://maps.google.com/?q=Graja%C3%BA,+S%C3%A3o+Jo%C3%A3o+do+Piau%C3%AD+-+PI,+64760-000&ftid=0x777ae31572b3849:0x79420348dba4177",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T23:08:52Z",
+        "google_maps_url": "http://maps.google.com/?q&ftid=0x7779891a9b851df:0x198ee3eeff00364d",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T23:08:42Z",
+        "google_maps_url": "http://maps.google.com/?q=Brejo+do+Piau%C3%AD,+PI,+64895-000&ftid=0x77839ab172f7be7:0x7b459a48e10fddd9",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T23:08:21Z",
+        "google_maps_url": "http://maps.google.com/?q=Canto+do+Buriti,+PI,+64890-000&ftid=0x7784231e8b5b0af:0xfcfab74a2861e270",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -42.9405385,
+          -8.1131952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T23:07:55Z",
+        "google_maps_url": "http://maps.google.com/?cid=10955993500263480900",
+        "location": {
+          "address": "R. Paraíba, 467 - Centro, Canto do Buriti - PI, 64890-000, Brasil",
+          "country_code": "BR",
+          "name": "Avante Hotel Express"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -42.9479875,
+          -8.1116175
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T23:07:43Z",
+        "google_maps_url": "http://maps.google.com/?cid=8896885097783847699",
+        "location": {
+          "address": "Av. Mal. Dultra, 1056 - Bairro Nossa Sra. de Fátima, Canto do Buriti - PI, 64890-000, Brasil",
+          "country_code": "BR",
+          "name": "Pizzaria Delícia"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T15:57:44Z",
+        "google_maps_url": "http://maps.google.com/?q=Espinheiro+-+Airi,+Floresta+-+PE,+56400-000&ftid=0x709c3588b98a6e5:0x232bed3f3ed9056d",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T15:56:36Z",
+        "google_maps_url": "http://maps.google.com/?q=Belo+Jardim,+PE&ftid=0x7a9c630b107c277:0x96ecd9f784423aec",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T15:56:31Z",
+        "google_maps_url": "http://maps.google.com/?q=Sanhar%C3%B3,+PE,+55250-000&ftid=0x7a9cc8a76b2ee2d:0xe9d00caeaa241601",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T15:56:24Z",
+        "google_maps_url": "http://maps.google.com/?q=Pesqueira,+PE,+55200-000&ftid=0x7a8317d64a502bf:0x150ea15b486376f",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T15:56:15Z",
+        "google_maps_url": "http://maps.google.com/?q=Arcoverde,+PE&ftid=0x7a81bea87c5e28f:0x611a607959717bbb",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T15:56:05Z",
+        "google_maps_url": "http://maps.google.com/?q=Cruzeiro+do+Nordeste,+Sert%C3%A2nia+-+PE,+56600-000&ftid=0x7a807ede68c3435:0x833d9ecb5c8abadb",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T15:55:59Z",
+        "google_maps_url": "http://maps.google.com/?q=Ibimirim,+PE,+56580-000&ftid=0x70823af0a23da29:0xf4c338e6aa2e9571",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T15:55:51Z",
+        "google_maps_url": "http://maps.google.com/?q=Floresta,+PE,+56400-000&ftid=0x709f37c9facc19d:0x2c2fa646036c5902",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T15:55:42Z",
+        "google_maps_url": "http://maps.google.com/?q=Bel%C3%A9m+de+S%C3%A3o+Francisco,+Bel%C3%A9m+do+S%C3%A3o+Francisco+-+PE,+56440-000&ftid=0x70a364b4f357289:0x7fc95756d69d2aaf",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -39.3120575,
+          -8.5073929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T15:55:23Z",
+        "google_maps_url": "http://maps.google.com/?cid=11571074730558571515",
+        "location": {
+          "address": "Av. Nilo Coelho, Cabrobó - PE, 56180-000, Brasil",
+          "country_code": "BR",
+          "name": "BODE ASSADO SARAPÓ"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -35.9876564,
+          -8.2968704
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-14T00:47:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=210138146473958984",
+        "location": {
+          "address": "R. Visc. de Abaeté, 148 - Petrópolis, Caruaru - PE, 55032-390, Brasil",
+          "country_code": "BR",
+          "name": "Caruaru Pallace Hotel"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-13T22:04:37Z",
+        "google_maps_url": "http://maps.google.com/?q=-8.027534709475319,-35.041856467723846",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-12T19:01:41Z",
+        "google_maps_url": "http://maps.google.com/?q=R.+Joakim+Schuler,+211+-+Jardim+Oceania,+Jo%C3%A3o+Pessoa+-+PB,+58037-760&ftid=0x7acddbed10e679d:0x6cb5e8ebd43586e7",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -35.1329356,
+          -5.9730592
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-07T18:43:43Z",
+        "google_maps_url": "http://maps.google.com/?cid=18054364561426446508",
+        "location": {
+          "address": "Praia de - Av. São Sebastião, 11 - Pirangi do Norte, Parnamirim - RN, 59161-585, Brasil",
+          "country_code": "BR",
+          "name": "Super Show Supermercados - Pirangi"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-07T17:58:08Z",
+        "google_maps_url": "http://maps.google.com/?q=R.+Ismael+Pereira+da+Silva,+1515+-+Capim+Macio,+Natal+-+RN,+59082-000&ftid=0x7b2ff41dd4e0be9:0xf05402708baad644",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -35.1989103,
+          -5.8586690
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-07T17:55:18Z",
+        "google_maps_url": "http://maps.google.com/?cid=3262583787023591625",
+        "location": {
+          "address": "R. Neuza Farache, 1870 - Sl 05 - Capim Macio, Natal - RN, 59082-100, Brasil",
+          "name": "Via Sul Seguros"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -35.1292257,
+          -5.9727353
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-07T17:45:50Z",
+        "google_maps_url": "http://maps.google.com/?cid=2053008335372618792",
+        "location": {
+          "address": "Av. Dep. Márcio Marinho, 5708 - Pirangi do Norte, Parnamirim - RN, 59161-250, Brasil",
+          "country_code": "BR",
+          "name": "Restaurante Paçoca de Pilão"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -35.1235069,
+          -5.9787231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-07T16:14:13Z",
+        "google_maps_url": "http://maps.google.com/?cid=4665424297766480192",
+        "location": {
+          "address": "Pirangi do Norte, Parnamirim - RN, Brasil",
+          "country_code": "BR",
+          "name": "Maior Cajueiro do Mundo"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -35.1519211,
+          -5.9572755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-07T14:20:51Z",
+        "google_maps_url": "http://maps.google.com/?cid=8493040680060415651",
+        "location": {
+          "address": "Av. Edgardo Medeiros, 2545 - Pium (Distrito Litoral), Parnamirim - RN, 59161-050, Brasil",
+          "country_code": "BR",
+          "name": "Residencial Resort In Mare Bali"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -35.2122292,
+          -5.8171365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-05T17:52:14Z",
+        "google_maps_url": "http://maps.google.com/?cid=15685865045636575648",
+        "location": {
+          "address": "Av. Prudente de Morais, 3996 - Lagoa Nova, Natal - RN, 59063-200, Brasil",
+          "country_code": "BR",
+          "name": "PG Prime Jeep"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -35.2016966,
+          -5.8397210
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-05T17:52:02Z",
+        "google_maps_url": "http://maps.google.com/?cid=1068699661699676402",
+        "location": {
+          "address": "Campus Universitário - Lagoa Nova, Natal - RN, 59078-970, Brasil",
+          "country_code": "BR",
+          "name": "Universidade Federal do Rio Grande do Norte"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -35.1980412,
+          -5.8428514
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-05T17:51:49Z",
+        "google_maps_url": "http://maps.google.com/?cid=9091722719755438279",
+        "location": {
+          "address": "Lagoa Nova, Natal - RN, 59077-080, Brasil",
+          "country_code": "BR",
+          "name": "Auditório CTEC"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -35.1798963,
+          -5.8718731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-05T09:47:03Z",
+        "google_maps_url": "http://maps.google.com/?cid=6869390841794521357",
+        "location": {
+          "address": "R. Pedro Fonseca Filho, 9001 - Ponta Negra, Natal - RN, 59090-080, Brasil",
+          "country_code": "BR",
+          "name": "Páprika Pizzaria & Restaurante"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -35.1759739,
+          -5.8782110
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-05T09:46:23Z",
+        "google_maps_url": "http://maps.google.com/?cid=17239752916800594811",
+        "location": {
+          "address": "Av. Engenheiro Roberto Freire, nº 4795 - Ponta Negra, Natal - RN, 59090-177, Brasil",
+          "country_code": "BR",
+          "name": "Terrazzo Ponta Negra"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-04T14:15:03Z",
+        "google_maps_url": "http://maps.google.com/?q=Bela+Vista,+Cear%C3%A1-Mirim+-+RN,+59570-000&ftid=0x7b398d9065868ad:0x2380b6d240c032ce",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -35.4264583,
+          -5.2976776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-04T14:14:53Z",
+        "google_maps_url": "http://maps.google.com/?cid=16708221977684933778",
+        "location": {
+          "address": "BR-101, Touros - RN, 59584-000, Brasil",
+          "country_code": "BR",
+          "name": "Letreiro de Rio do Fogo/RN"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-04T14:13:47Z",
+        "google_maps_url": "http://maps.google.com/?q=Cajueiro,+Touros+-+RN,+59584-000&ftid=0x7b4747931189a95:0x9000957d7055af8f",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -35.4995980,
+          -5.1566852
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-04T14:13:39Z",
+        "google_maps_url": "http://maps.google.com/?cid=11752193099200035995",
+        "location": {
+          "address": "Touros - RN, 59584-000, Brasil",
+          "country_code": "BR",
+          "name": "Marco Zero"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-04T14:13:18Z",
+        "google_maps_url": "http://maps.google.com/?q=S%C3%A3o+Miguel+do+Gostoso,+RN,+59585-000&ftid=0x7b40c3d2feaea0b:0xc1817018f8ec65c8",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -35.6999475,
+          -5.1041385
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-04T14:13:01Z",
+        "google_maps_url": "http://maps.google.com/?cid=10688376213601851116",
+        "location": {
+          "address": "São Miguel do Gostoso - RN, 59585-000, Brasil",
+          "country_code": "BR",
+          "name": "Praia de Tourinhos"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T23:07:54Z",
+        "google_maps_url": "http://maps.google.com/?q=Jurema+-+Pombal,+PB,+58840-000&ftid=0x7a5a09fab00e77d:0x72136587d992f7e0",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T23:05:25Z",
+        "google_maps_url": "http://maps.google.com/?q=Currais+Novos,+RN,+59380-000&ftid=0x7b1d60c556d3a7d:0x4a693f33df757168",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T23:05:11Z",
+        "google_maps_url": "http://maps.google.com/?q=Malhada+do+Cordeiro,+Acari+-+RN,+59370-000&ftid=0x7afd2c9a79c0b0f:0xb06cf36f355ea104",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T23:04:58Z",
+        "google_maps_url": "http://maps.google.com/?q=Acari,+RN,+59370-000&ftid=0x7afcd19e81c1613:0xe336c50ef2843bbe",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T23:04:45Z",
+        "google_maps_url": "http://maps.google.com/?q=Cruzeta,+RN,+59375-000&ftid=0x7afcf8b089cc13d:0xc1b9f2ec2ad10df3",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T23:04:34Z",
+        "google_maps_url": "http://maps.google.com/?q=S%C3%A3o+Jos%C3%A9+do+Serid%C3%B3,+RN,+59378-000&ftid=0x7afc3f1170abc61:0x47489f7c597aeb96",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T23:04:25Z",
+        "google_maps_url": "http://maps.google.com/?q=S%C3%ADtio+Samana%C3%BA,+Caic%C3%B3+-+RN,+59300-000&ftid=0x7afea44522b0609:0xb8a70d39fae97e2",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -36.0206512,
+          -6.2395013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T19:25:48Z",
+        "google_maps_url": "http://maps.google.com/?cid=3639898693560151898",
+        "location": {
+          "address": "Santuário de Santa Rita de Cássia, s/n, Santa Cruz - RN, 59200-000, Brasil",
+          "country_code": "BR",
+          "name": "Santuário de Santa Rita de Cássia"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T15:44:23Z",
+        "google_maps_url": "http://maps.google.com/?q=Curral+de+Pedra+-+Pombal,+PB,+58840-000&ftid=0x7a507f97f495b75:0xe43267f9a290e956",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -37.4753190,
+          -6.6465134
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T15:43:40Z",
+        "google_maps_url": "http://maps.google.com/?cid=2056271365249586962",
+        "location": {
+          "address": "BR-427, Paulista - PB, 58860-000, Brasil",
+          "country_code": "BR",
+          "name": "Divisa de Estados RN e PB"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T15:43:11Z",
+        "google_maps_url": "http://maps.google.com/?q=Ponta+da+Serra,+Caic%C3%B3+-+RN,+59300-000&ftid=0x7aff3db12fb1d3f:0x463a0f947d5e70be",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T15:42:38Z",
+        "google_maps_url": "http://maps.google.com/?q=Serra+Negra+do+Norte,+RN,+59318-000&ftid=0x7a57b99ea360695:0xaab8e8ca67b90a93",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T15:42:23Z",
+        "google_maps_url": "http://maps.google.com/?q=Pombal,+PB,+58840-000&ftid=0x7a5a624ffc1dc7d:0xb4b59c9240564116",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T15:42:00Z",
+        "google_maps_url": "http://maps.google.com/?q=Riacho+de+Pedra+-+Pombal,+PB,+58840-000&ftid=0x7a5aad78e9e443f:0x5a2cba6a9cb61a46",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T15:41:52Z",
+        "google_maps_url": "http://maps.google.com/?q=Aparecida,+PB,+58823-000&ftid=0x7a4516a6a3402bf:0xac9d8f402cc92cd2",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -37.0987355,
+          -6.4604122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T15:41:26Z",
+        "google_maps_url": "http://maps.google.com/?cid=5395450497239435800",
+        "location": {
+          "address": "R. Olegário Vale, 477, Caicó - RN, 59300-000, Brasil",
+          "country_code": "BR",
+          "name": "Supermercado Paulino"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T15:41:13Z",
+        "google_maps_url": "http://maps.google.com/?q=Caic%C3%B3,+RN,+59300-000&ftid=0x7afed967d8e39a1:0xa3ea45eaea46de3b",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -37.0971993,
+          -6.4618193
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T15:40:58Z",
+        "google_maps_url": "http://maps.google.com/?cid=5217762747450487657",
+        "location": {
+          "address": "Av. Seridó, 720, Caicó - RN, 59300-000, Brasil",
+          "country_code": "BR",
+          "name": "Restaurante e Pizzaria Certo"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T13:32:40Z",
+        "google_maps_url": "http://maps.google.com/?q=S%C3%A3o+Gon%C3%A7alo,+Sousa+-+PB&ftid=0x7a442a0089e4de3:0xb5c3e76c55d833c3",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T13:32:18Z",
+        "google_maps_url": "http://maps.google.com/?q=Divin%C3%B3polis+-+Eng.+%C3%81vidos,+Cajazeiras+-+PB,+58900-000&ftid=0x7a46eeb516d6529:0xce62cd0c2550134",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T13:32:01Z",
+        "google_maps_url": "http://maps.google.com/?q=Santo+Ant%C3%B4nio+-+Eng.+%C3%81vidos,+Cajazeiras+-+PB,+58900-000&ftid=0x7a46df5a49cbe0b:0x96ece81c7dacd02d",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T13:31:44Z",
+        "google_maps_url": "http://maps.google.com/?q=Iara,+Barro+-+CE,+63380-000&ftid=0x7a3fa80636b054f:0x5c10da8ac1b9e45e",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T13:31:18Z",
+        "google_maps_url": "http://maps.google.com/?q=Miss%C3%A3o+Velha,+CE,+63200-000&ftid=0x7a164b9dc98b7a1:0xa0d0cc07025f0ad5",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T13:31:12Z",
+        "google_maps_url": "http://maps.google.com/?q=Barbalha,+CE&ftid=0x7a19d70f3f1a19b:0x88c32b032737cca2",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T13:30:46Z",
+        "google_maps_url": "http://maps.google.com/?q=Barro,+CE,+63380-000&ftid=0x7a3fd9f40cf45b1:0x76b9ecc2d40222d9",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T13:30:28Z",
+        "google_maps_url": "http://maps.google.com/?q=Balan%C3%A7os+-+F%C3%A1tima,+Cachoeira+dos+%C3%8Dndios+-+PB,+58935-000&ftid=0x7a3f1149a2b5e99:0xd6f30d79a9e3deb4",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T13:30:18Z",
+        "google_maps_url": "http://maps.google.com/?q=-6.9401535228182,-38.72127290815115",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T13:29:58Z",
+        "google_maps_url": "http://maps.google.com/?q=Cachoeira+dos+%C3%8Dndios,+PB,+58935-000&ftid=0x7a38ac9a68b5501:0x328e3a1d5a51d359",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.6468959,
+          -6.8715088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T13:29:51Z",
+        "google_maps_url": "http://maps.google.com/?cid=9624680838880981138",
+        "location": {
+          "address": "PB-420, 1935, Bom Jesus - PB, 58930-000, Brasil",
+          "country_code": "BR",
+          "name": "Distrito São José, Bom Jesus PB"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T13:29:36Z",
+        "google_maps_url": "http://maps.google.com/?q=Cajazeiras,+PB,+58900-000&ftid=0x7a472d082d8edb7:0x1c5023bf5f28ade8",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T13:29:26Z",
+        "google_maps_url": "http://maps.google.com/?q=Mariz%C3%B3polis,+PB&ftid=0x7a468674dccdbfd:0x4ab4db2ee7bf6487",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T13:29:02Z",
+        "google_maps_url": "http://maps.google.com/?q=Sousa,+PB&ftid=0x7a45c0804e3e49d:0xf69be987abbd7f9b",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-02T09:13:52Z",
+        "google_maps_url": "http://maps.google.com/?q=Est%C3%A1tua+do+Padre+C%C3%ADcero+na+colina+do+Horto+-+Horto,+Juazeiro+do+Norte+-+CE&ftid=0x7a181db41365a9f:0x2fceadee0fa34ee",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -39.3225097,
+          -7.2501106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T21:52:39Z",
+        "google_maps_url": "http://maps.google.com/?cid=9761816959091320206",
+        "location": {
+          "address": "Av. Leão Sampaio, 1448 - Lagoa Seca, Juazeiro do Norte - CE, 63040-000, Brasil",
+          "country_code": "BR",
+          "name": "Pousada Aconchego"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T21:10:16Z",
+        "google_maps_url": "http://maps.google.com/?q=Lagoa+Grande,+PE,+56395-000&ftid=0x774bf95fd882c67:0xda667fb1c61edfd2",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T21:10:02Z",
+        "google_maps_url": "http://maps.google.com/?q=Barra+Bonita+-+Vermelho,+Lagoa+Grande+-+PE,+56395-000&ftid=0x774da3a78e849a5:0xd0edc6291b9abcce",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -40.1327408,
+          -8.7173805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T21:09:54Z",
+        "google_maps_url": "http://maps.google.com/?cid=13819740986159765927",
+        "location": {
+          "address": "7VM8+2W - Jutaí, Lagoa Grande - PE, 56395-000, Brasil",
+          "country_code": "BR",
+          "name": "Trevo de Lagoa Grande"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T21:09:36Z",
+        "google_maps_url": "http://maps.google.com/?q=Juta%C3%AD,+Lagoa+Grande+-+PE,+56395-000&ftid=0x775215dba65c7fb:0x65e100e2fdd6fc66",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T21:09:23Z",
+        "google_maps_url": "http://maps.google.com/?q=Lagoas,+Dormentes+-+PE,+56355-000&ftid=0x7751120c743b589:0xf81365ce4bb249a4",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T21:09:11Z",
+        "google_maps_url": "http://maps.google.com/?q=Santa+Cruz,+PE,+56215-000&ftid=0x7756714cc10c241:0x46eb82b3844d927e",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T21:09:03Z",
+        "google_maps_url": "http://maps.google.com/?q=Ouricuri,+PE,+56200-000&ftid=0x79f8cb0c98f3e5b:0x3ae4b4157e2c40e7",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T21:08:57Z",
+        "google_maps_url": "http://maps.google.com/?q=Bodoc%C3%B3,+PE,+56220-000&ftid=0x7a0262511aedc85:0xe603cff6bcb3bcd7",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T21:08:48Z",
+        "google_maps_url": "http://maps.google.com/?q=Timorante,+Exu+-+PE&ftid=0x7a032790e301297:0xbf4367d635b68193",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T21:08:38Z",
+        "google_maps_url": "http://maps.google.com/?q=Fazenda+Canafistula+-+Pontal+da+Santa+Cruz,+Santana+do+Cariri+-+CE,+56230-000&ftid=0x7a1bfe72c3eeed3:0xddf4caf2391cca22",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T21:07:40Z",
+        "google_maps_url": "http://maps.google.com/?q=Gameleira+-+Exu,+PE,+56230-000&ftid=0x7a1c3f42bc7dfe9:0x88712d1d267af0c1",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T21:07:30Z",
+        "google_maps_url": "http://maps.google.com/?q=Bela+Vista+-+Exu,+PE,+56230-000&ftid=0x7a1c6826b5d31c1:0xf8ca45e9903c76bf",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T21:06:04Z",
+        "google_maps_url": "http://maps.google.com/?q=Crato,+CE&ftid=0x7a186ff4c51d805:0x7d3388b8f96d7405",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -39.3841296,
+          -7.2406554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T21:05:54Z",
+        "google_maps_url": "http://maps.google.com/?cid=17704558661826788115",
+        "location": {
+          "address": "R. I, 1 - Barro Branco, Crato - CE, Brasil",
+          "country_code": "BR",
+          "name": "Estátua de Nossa Senhora de Fátima"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T19:41:51Z",
+        "google_maps_url": "http://maps.google.com/?q=Exu,+PE,+56230-000&ftid=0x7a1c6034d64dc69:0xae923f9713bb07e1",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -39.7251385,
+          -7.5220182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T19:41:41Z",
+        "google_maps_url": "http://maps.google.com/?cid=6587489158123064936",
+        "location": {
+          "address": "BR-122, 30 - Exu, PE, 56230-000, Brasil",
+          "country_code": "BR",
+          "name": "Museu de Gonzagão"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T15:17:38Z",
+        "google_maps_url": "http://maps.google.com/?q=V%C3%A1rzea+Nova,+BA,+44690-000&ftid=0x76c6ca4802808b5:0x6ece29c619ed9361",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T15:17:25Z",
+        "google_maps_url": "http://maps.google.com/?q=Lages+do+Batata+-+Catinga+do+Moura,+Jacobina+-+BA,+44700-000&ftid=0x76c500c1c71cb43:0x7076cf73b084009",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T15:17:13Z",
+        "google_maps_url": "http://maps.google.com/?q=Jacobina,+BA,+44700-000&ftid=0x76c56b43fbf9c45:0xd28cc2f5a189ff3b",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T15:17:02Z",
+        "google_maps_url": "http://maps.google.com/?q=BR-324,+Ca%C3%A9m+-+BA,+44730-000&ftid=0x76cec36ed8abbdd:0xe440601a7700f489",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T15:16:44Z",
+        "google_maps_url": "http://maps.google.com/?q=Ca%C3%A9m,+BA,+44730-000&ftid=0x76ce5b1c5adfad5:0xd548c74835debbd6",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T15:16:35Z",
+        "google_maps_url": "http://maps.google.com/?q=Sa%C3%BAde,+BA,+44740-000&ftid=0x76d1db50a44cd57:0x15b0c704ea968461",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T15:16:28Z",
+        "google_maps_url": "http://maps.google.com/?q=Itapicuru+-+Pindoba%C3%A7u,+BA,+44770-000&ftid=0x76d172ed2d442e9:0x5eaec20451e78f9",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T15:16:21Z",
+        "google_maps_url": "http://maps.google.com/?q=Pindoba%C3%A7u,+BA,+44770-000&ftid=0x76d1437c8855aff:0x5e96352a16b17889",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T15:16:13Z",
+        "google_maps_url": "http://maps.google.com/?q=Ant%C3%B4nio+Gon%C3%A7alves,+BA,+44780-000&ftid=0x76d42d99e94b5b5:0xd1636f7cf1fae738",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T15:16:07Z",
+        "google_maps_url": "http://maps.google.com/?q=Miss%C3%A3o+-+Sr.+do+Bonfim,+BA,+48970-000&ftid=0x76d5c841efb6727:0x4100663044a5fe5d",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T15:15:59Z",
+        "google_maps_url": "http://maps.google.com/?q=Sr.+do+Bonfim,+BA,+48970-000&ftid=0x76d5720ed1473f7:0x3eda83c2d2d73d8a",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T15:15:48Z",
+        "google_maps_url": "http://maps.google.com/?q=Jaguarari,+BA,+48960-000&ftid=0x772ba54edafea6b:0xb41280a8aba01732",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T15:15:41Z",
+        "google_maps_url": "http://maps.google.com/?q=Juacema,+Jaguarari+-+BA,+48960-000&ftid=0x772b9392ec9ceab:0x3cfbc4e17eee4cf1",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T15:15:32Z",
+        "google_maps_url": "http://maps.google.com/?q=Barrinha+-+Pilar,+Jaguarari+-+BA,+48960-000&ftid=0x772dcb79541867f:0x2ecc496c30471668",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T15:15:24Z",
+        "google_maps_url": "http://maps.google.com/?q=Massaroca,+Juazeiro+-+BA&ftid=0x772dfb0cf9ce253:0xb28f58cc28ae0885",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T15:15:17Z",
+        "google_maps_url": "http://maps.google.com/?q=Juremal,+Juazeiro+-+BA&ftid=0x773191d36dcb805:0x815d0e97d3d66204",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T15:15:04Z",
+        "google_maps_url": "http://maps.google.com/?q=Carna%C3%ADba+do+Sert%C3%A3o,+Juazeiro+-+BA&ftid=0x77313daf5bad7cd:0xe0d4179fd591eee7",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T15:14:52Z",
+        "google_maps_url": "http://maps.google.com/?q=Juazeiro,+BA&ftid=0x773718dc881547f:0xbcbb39e48d5134de",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T15:14:43Z",
+        "google_maps_url": "http://maps.google.com/?q=Petrolina,+PE&ftid=0x7737a8452b2d649:0xa0e71dc0c94e0aed",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -40.4932298,
+          -9.3811374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-11-01T15:08:31Z",
+        "google_maps_url": "http://maps.google.com/?cid=6630359817822373866",
+        "location": {
+          "address": "Av. São Francisco, 8 - Areia Branca, Petrolina - PE, 56330-095, Brasil",
+          "country_code": "BR",
+          "name": "Bode do Ângelo"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-10-31T23:03:36Z",
+        "google_maps_url": "http://maps.google.com/?q=Crist%C3%B3polis,+BA,+47950-000&ftid=0x75fca939249b157:0x46b061702f23436b",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-10-31T23:03:18Z",
+        "google_maps_url": "http://maps.google.com/?q=BA-464,+Barreiras+-+BA&ftid=0x75fc137398be3bd:0x3684922b1677b222",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-10-31T23:02:55Z",
+        "google_maps_url": "http://maps.google.com/?q=-12.215715059880283,-44.61496587842703",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3381939,
+          -12.1317604
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-10-31T23:01:28Z",
+        "google_maps_url": "http://maps.google.com/?cid=1892630060042691027",
+        "location": {
+          "address": "VM96+7PV, Muquém do São Francisco - BA, 47115-000, Brasil",
+          "country_code": "BR",
+          "name": "TREVO PARA BARRA - BA"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-10-31T23:01:17Z",
+        "google_maps_url": "http://maps.google.com/?q=Igarit%C3%A9,+Barra+-+BA,+47100-000&ftid=0x7671df2feb119c9:0x8838d23a1dc27443",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-10-31T23:01:00Z",
+        "google_maps_url": "http://maps.google.com/?q=Barra,+BA,+47100-000&ftid=0x7667f881cbb2279:0x5da11c930d473038",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-10-31T23:00:41Z",
+        "google_maps_url": "http://maps.google.com/?q=Xique-Xique,+BA,+47400-000&ftid=0x765921521a3a289:0xd0bc236aee3dda01",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-10-31T23:00:30Z",
+        "google_maps_url": "http://maps.google.com/?q=Rio+Verde+de+Cima,+Itagua%C3%A7u+da+Bahia+-+BA,+47440-000&ftid=0x76f43a9c6a99ee5:0x916ecf7037dbd395",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-10-31T23:00:20Z",
+        "google_maps_url": "http://maps.google.com/?q=Central,+BA,+44940-000&ftid=0x76f306421f0bb23:0x6ca736a09ca98fa1",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-10-31T23:00:12Z",
+        "google_maps_url": "http://maps.google.com/?q=Irec%C3%AA,+BA,+44900-000&ftid=0x76ed4b095788d41:0xe89c8ac1ddaeedf9",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-10-31T23:00:05Z",
+        "google_maps_url": "http://maps.google.com/?q=Jo%C3%A3o+Dourado,+BA,+44920-000&ftid=0x76934cc6c6bf1ff:0xccc5135fc4b31240",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-10-31T22:59:57Z",
+        "google_maps_url": "http://maps.google.com/?q=Am%C3%A9rica+Dourada,+BA,+44910-000&ftid=0x7695209b02af8a7:0xfba34b08c1c0df7c",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-10-31T22:59:39Z",
+        "google_maps_url": "http://maps.google.com/?q=Morro+do+Chap%C3%A9u,+BA,+44850-000&ftid=0x76bfae3314826c7:0xdaba2bbdbb5c35f4",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-10-31T22:59:09Z",
+        "google_maps_url": "http://maps.google.com/?q=-11.545756989551837,-41.168129816651344",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -45.9571394,
+          -12.8172286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-10-31T15:34:32Z",
+        "google_maps_url": "http://maps.google.com/?cid=13087234590210999413",
+        "location": {
+          "address": "Rod. Pres. Juscelino Kubitschek - Sítio Grande, São Desidério - BA, 47820-000, Brasil",
+          "country_code": "BR",
+          "name": "Roda Velha BA TREVO"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -44.6823809,
+          -12.2464144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-10-31T15:34:03Z",
+        "google_maps_url": "http://maps.google.com/?cid=4243678504237750143",
+        "location": {
+          "address": "Q839+C2, Catolândia - BA, 47815-000, Brasil",
+          "country_code": "BR",
+          "name": "Assentamento"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-10-31T15:32:57Z",
+        "google_maps_url": "http://maps.google.com/?q=Po%C3%A7o+da+Porta,+Catol%C3%A2ndia+-+BA,+47815-000&ftid=0x75f96796b73a013:0x57fda11d6ae38380",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-10-31T15:32:09Z",
+        "google_maps_url": "http://maps.google.com/?q=S%C3%A3o+Desid%C3%A9rio,+BA,+47820-000&ftid=0x75f80c611e4c113:0x820008a924bc6ca2",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-10-31T15:31:57Z",
+        "google_maps_url": "http://maps.google.com/?q=Catol%C3%A2ndia,+BA,+47815-000&ftid=0x75f85434de451ad:0x55d1d60368eb918",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -44.4308597,
+          -12.2262679
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-10-31T15:17:04Z",
+        "google_maps_url": "http://maps.google.com/?cid=7724208540509775918",
+        "location": {
+          "address": "BR-242, 264, Cristópolis - BA, 47950-000, Brasil",
+          "country_code": "BR",
+          "name": "Restaurante Parada BR-242"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6432920,
+          -23.5403730
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-10-25T22:02:53Z",
+        "google_maps_url": "http://maps.google.com/?cid=14363930987226700722",
+        "location": {
+          "address": "Praça Júlio Mesquita, 175 - Centro Histórico de São Paulo, São Paulo - SP, 01209-010, Brasil",
+          "country_code": "BR",
+          "name": "Rei do Filet"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6437140,
+          -23.5394661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-10-23T19:25:23Z",
+        "google_maps_url": "http://maps.google.com/?cid=14903153508468336640",
+        "location": {
+          "address": "Alameda Barão de Limeira, 117 - Centro Histórico de São Paulo, São Paulo - SP, 01202-001, Brasil",
+          "country_code": "BR",
+          "name": "Grand Barão Hotel"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.9132634,
+          -15.8236324
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-09-29T21:45:50Z",
+        "google_maps_url": "http://maps.google.com/?cid=17382150962506864368",
+        "location": {
+          "address": "Asa Sul Quadra 112 29 - Asa Sul, Brasília - DF, 70375-510, Brasil",
+          "country_code": "BR",
+          "name": "Don Léon: Restaurante Espanhol, Paella, Vinho, Camarão, Polvo Asa Sul DF"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8838533,
+          -15.8403025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-08-02T16:09:45Z",
+        "google_maps_url": "http://maps.google.com/?cid=7926534504822846424",
+        "location": {
+          "address": "St. de Habitações Individuais Sul QI 7 Store 105 - Lago Sul, Brasília - DF, 71615-205, Brasil",
+          "country_code": "BR",
+          "name": "Gastronomia Gatto Nero"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8908876,
+          -15.7509900
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-06-27T21:05:18Z",
+        "google_maps_url": "http://maps.google.com/?cid=1488843951876977813",
+        "location": {
+          "address": "SHCN Superquadra Norte 112 - Plano Piloto, Brasília - DF, 70655-775, Brasil",
+          "name": "SQN 112 Bloco A/B"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8905103,
+          -15.8141061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-06-27T17:01:48Z",
+        "google_maps_url": "http://maps.google.com/?cid=14579524612831294992",
+        "location": {
+          "address": "Asa Sul CLS 405 bloco b loja 6 - Asa Sul, Brasília - DF, 70239-520, Brasil",
+          "country_code": "BR",
+          "name": "Árabe Gourmet"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           -47.8899171,
           -15.8141192
         ],
@@ -144,7 +2781,7 @@ let placesData = {
         "location": {
           "address": "77580 Puerto Morelos, Quintana Roo, México",
           "country_code": "MX",
-          "name": "Faro Inclinado"
+          "name": "Faro Inclinado Puerto Morelos"
         }
       },
       "type": "Feature"
@@ -171,8 +2808,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -86.7787514,
-          21.0623358
+          -86.7795552,
+          21.0608221
         ],
         "type": "Point"
       },
@@ -180,7 +2817,7 @@ let placesData = {
         "date": "2026-05-31T15:16:47Z",
         "google_maps_url": "http://maps.google.com/?cid=16477353873786962404",
         "location": {
-          "address": "Blvd. Kukulcan Kilometro 18, Zona Hotelera, 77500 Cancún, Q.R., México",
+          "address": "Blvd. Kukulcan Kilometro 17.5, Zona Hotelera, 77500 Cancún, Q.R., México",
           "country_code": "MX",
           "name": "Dolphins Beach"
         }
@@ -224,27 +2861,23 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -86.8144215,
-          21.1446081
+          0,
+          0
         ],
         "type": "Point"
       },
       "properties": {
         "date": "2026-05-31T03:43:21Z",
-        "google_maps_url": "http://maps.google.com/?cid=4803373377057467915",
-        "location": {
-          "address": "Av. Mal. Fonatur, Zona Hotelera, 77503 Cancún, Q.R., México",
-          "country_code": "MX",
-          "name": "Malecón"
-        }
+        "google_maps_url": "http://maps.google.com/?q=21.144608,-86.814421",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          -86.8620062,
-          21.1017060
+          -86.8619975,
+          21.1017648
         ],
         "type": "Point"
       },
@@ -252,7 +2885,7 @@ let placesData = {
         "date": "2026-05-31T03:42:15Z",
         "google_maps_url": "http://maps.google.com/?cid=1507756056738111211",
         "location": {
-          "address": "Av Huayacán 999, 77560 Cancún, Q.R., México",
+          "address": "Avenida Ahuayacan,no, Supermanzana 330 Manzana 27 Lote 1, entre Avenida Chacmol y Avenida Sacbe, 77560 Q.R., México",
           "country_code": "MX",
           "name": "Walmart Huayacán"
         }
@@ -464,7 +3097,7 @@ let placesData = {
         "date": "2026-05-30T13:13:31Z",
         "google_maps_url": "http://maps.google.com/?cid=8700559449562074658",
         "location": {
-          "address": "Chetumal Km 22-Local B, 77560 Cancún, Q.R., México",
+          "address": "Chetumal Km 22-Loc B, 77560 Cancún, Q.R., México",
           "country_code": "MX",
           "name": "Payless Car Rental Cancún - Check-in Aeropuerto (Área de arrendadoras)"
         }
@@ -751,7 +3384,7 @@ let placesData = {
         "date": "2026-05-28T16:42:29Z",
         "google_maps_url": "http://maps.google.com/?cid=11469353825318081411",
         "location": {
-          "address": "C. de Venustiano Carranza 14-local 85, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, México",
+          "address": "C. de Venustiano Carranza 14-Loc 85, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, México",
           "country_code": "MX",
           "name": "New Balance"
         }
@@ -916,7 +3549,7 @@ let placesData = {
         "location": {
           "address": "Av. Horacio 603, Polanco, Polanco V Secc, Miguel Hidalgo, 11560 Ciudad de México, CDMX, México",
           "country_code": "MX",
-          "name": "Walmart Express Horacio"
+          "name": "Walmart Express"
         }
       },
       "type": "Feature"
@@ -961,8 +3594,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -99.1207007,
-          19.4720291
+          -99.1200213,
+          19.4716575
         ],
         "type": "Point"
       },
@@ -970,7 +3603,7 @@ let placesData = {
         "date": "2026-05-27T02:53:55Z",
         "google_maps_url": "http://maps.google.com/?cid=14284234842913066838",
         "location": {
-          "address": "Calz de Guadalupe 431, Guadalupe Tepeyac, Gustavo A. Madero, 07840 Ciudad de México, CDMX, México",
+          "address": "Calzada De Guadalupe 431 Guadalupe Tepeyac, Siete de Noviembre, Ciudad de México, Gustavo A. Madero, 07840 CDMX, México",
           "country_code": "MX",
           "name": "Walmart"
         }
@@ -989,7 +3622,7 @@ let placesData = {
         "date": "2026-05-27T01:58:06Z",
         "google_maps_url": "http://maps.google.com/?cid=14619990832424329295",
         "location": {
-          "address": "C. Laredo 13, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, México",
+          "address": "C. Laredo 13, Hipódromo, Cuauhtémoc, 06100 Cuauhtémoc, CDMX, México",
           "country_code": "MX",
           "name": "Ardente Pizzería Napoletana Hipódromo Condesa"
         }
@@ -1018,8 +3651,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -99.1171456,
-          19.4850554
+          -99.1169934,
+          19.4849790
         ],
         "type": "Point"
       },
@@ -1739,8 +4372,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -48.1962189,
-          -15.9808251
+          -48.1962181,
+          -15.9808813
         ],
         "type": "Point"
       },
@@ -2067,7 +4700,7 @@ let placesData = {
         "date": "2025-10-25T18:45:27Z",
         "google_maps_url": "http://maps.google.com/?cid=17471456470220169957",
         "location": {
-          "address": "R. São Francisco, 241 - WhatSapp, Diamantina - MG, 39100-000, Brasil",
+          "address": "R. São Francisco, 241 - Diamantina, MG, 39100-000, Brasil",
           "country_code": "BR",
           "name": "Casa de Juscelino"
         }
@@ -2439,7 +5072,7 @@ let placesData = {
         "location": {
           "address": "MG-010, Conceição do Mato Dentro - MG, 35860-000, Brasil",
           "country_code": "BR",
-          "name": "Hotel MoraLima"
+          "name": "Hotel Mora Lima"
         }
       },
       "type": "Feature"
@@ -3883,9 +6516,9 @@ let placesData = {
         "date": "2025-10-21T16:27:17Z",
         "google_maps_url": "http://maps.google.com/?cid=5000524959353809912",
         "location": {
-          "address": "Av. Matheus da Costa Pinto, 1653 - Vila Santa Cruz, Campos do Jordão - SP, 12460-000, Brasil",
+          "address": "Av. Matheus da Costa Pinto, 1653 - Vila Santa Cruz, Campos do Jordão - SP, 12470-290, Brasil",
           "country_code": "BR",
-          "name": "Fábrica, Loja e Tour Baden Baden"
+          "name": "Cervejaria Baden Baden - TOUR E LOJA"
         }
       },
       "type": "Feature"
@@ -4112,7 +6745,7 @@ let placesData = {
         "location": {
           "address": "Campos do Jordão - SP, 12460-000, Brasil",
           "country_code": "BR",
-          "name": "Vista Chinesa ou Mirante Belvedere"
+          "name": "Mirante Belvedere"
         }
       },
       "type": "Feature"
@@ -4214,8 +6847,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -45.6082948,
-          -22.7834988
+          -45.6082369,
+          -22.7828528
         ],
         "type": "Point"
       },
@@ -4347,8 +6980,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -45.5479686,
-          -22.7094417
+          -45.5483784,
+          -22.7093416
         ],
         "type": "Point"
       },
@@ -4521,7 +7154,7 @@ let placesData = {
         "date": "2025-10-18T16:04:29Z",
         "google_maps_url": "http://maps.google.com/?cid=15710171637693158592",
         "location": {
-          "address": "Whatsapp -35, R. Cap Antônio Carlos, 195 - 99977-8998 - centro, Gonçalves - MG, 37680-000, Brasil",
+          "address": "R. Cap Antônio Carlos, 195 - centro, Gonçalves - MG, 37680-000, Brasil",
           "country_code": "BR",
           "name": "sr. Angelico"
         }
@@ -4880,8 +7513,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -47.0559040,
-          -22.6214736
+          -47.0588636,
+          -22.6222673
         ],
         "type": "Point"
       },
@@ -4917,8 +7550,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -47.0590290,
-          -22.6298685
+          -47.0589728,
+          -22.6301051
         ],
         "type": "Point"
       },
@@ -4926,7 +7559,7 @@ let placesData = {
         "date": "2025-10-15T11:28:15Z",
         "google_maps_url": "http://maps.google.com/?cid=5053132312900094057",
         "location": {
-          "address": "Alameda Maurício de Nassau, 894 - centro, Holambra - SP, 13825-000, Brasil",
+          "address": "Alameda Maurício de Nasau, 894 - centro, Holambra - SP, 13825-007, Brasil",
           "country_code": "BR",
           "name": "Museu Histórico de Holambra"
         }
@@ -5353,8 +7986,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -46.6243163,
-          -21.7828285
+          -46.6242353,
+          -21.7833178
         ],
         "type": "Point"
       },
@@ -5539,8 +8172,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -46.5700267,
-          -21.7851900
+          -46.5700410,
+          -21.7851503
         ],
         "type": "Point"
       },
@@ -5548,7 +8181,7 @@ let placesData = {
         "date": "2025-10-13T18:11:26Z",
         "google_maps_url": "http://maps.google.com/?cid=15965598787267661203",
         "location": {
-          "address": "Avenida Francisco Sales Parque, José Affonso Junqueira, s/n - Centro, Poços de Caldas - MG, 37701-013, Brasil",
+          "address": "Parque José Affonso Junqueira, s/n - Av. Francisco Salles - Centro, Poços de Caldas - MG, 37701-013, Brasil",
           "name": "Teleférico Poços de Caldas"
         }
       },
@@ -6566,8 +9199,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -81.4914591,
-          28.3876087
+          -6.7735633,
+          62.0057147
         ],
         "type": "Point"
       },
@@ -6575,7 +9208,7 @@ let placesData = {
         "date": "2025-06-09T20:56:16Z",
         "google_maps_url": "http://maps.google.com/?cid=12997230291413810711",
         "location": {
-          "address": "8200 Vineland Ave Ste #160, Orlando, FL 32821, Estados Unidos",
+          "address": "Suite #1025, 8200 Vineland Avenue, Orlando 100, Estados Unidos",
           "country_code": "US",
           "name": "Calvin Klein"
         }
@@ -6689,7 +9322,7 @@ let placesData = {
         "date": "2025-06-09T15:42:49Z",
         "google_maps_url": "http://maps.google.com/?cid=9361964651003428286",
         "location": {
-          "address": "8225 VINELAND AVE BLDING 20, SUITE#2001, Orlando, FL 32821, Estados Unidos",
+          "address": "8225 Vineland Ave Blding 20, Suite#2001, Orlando, FL 32821, Estados Unidos",
           "country_code": "US",
           "name": "Gap Factory"
         }
@@ -7409,6 +10042,7 @@ let placesData = {
         "google_maps_url": "http://maps.google.com/?cid=13843930430409850442",
         "location": {
           "address": "Plano Diretor Sul, Palmas - TO, Brasil",
+          "country_code": "BR",
           "name": "Monumento 18 do Forte"
         }
       },
@@ -8103,8 +10737,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -44.2719048,
-          -19.4453325
+          -44.2707517,
+          -19.4473655
         ],
         "type": "Point"
       },
@@ -8762,8 +11396,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -68.4720672,
-          18.7340109
+          -68.4722147,
+          18.7342420
         ],
         "type": "Point"
       },
@@ -8771,7 +11405,7 @@ let placesData = {
         "date": "2024-06-03T02:21:41Z",
         "google_maps_url": "http://maps.google.com/?cid=235676628556694277",
         "location": {
-          "address": "Occidental Caribe - All Inclusive, Carr. El Macao - Arena Gorda, Punta Cana 23301, República Dominicana",
+          "address": "Carretera El Macao Playa Arena Gorda, Punta Cana 23301, República Dominicana",
           "country_code": "DO",
           "name": "Barceló Punta Cana"
         }
@@ -11141,19 +13775,15 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -70.3657598,
-          -13.0968858
+          0,
+          0
         ],
         "type": "Point"
       },
       "properties": {
         "date": "2024-04-04T18:01:33Z",
-        "google_maps_url": "http://maps.google.com/?cid=2218972848123923008",
-        "location": {
-          "address": "Interoceanica Sur, Mazuco 17501, Peru",
-          "country_code": "PE",
-          "name": "RESTAURANT. LA CHARAPITA 1"
-        }
+        "google_maps_url": "http://maps.google.com/?q=-13.096602,-70.365680",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
       },
       "type": "Feature"
     },
@@ -11498,8 +14128,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -64.4114825,
-          -9.2574795
+          -64.4114001,
+          -9.2574623
         ],
         "type": "Point"
       },
@@ -11507,9 +14137,9 @@ let placesData = {
         "date": "2024-04-02T21:48:57Z",
         "google_maps_url": "http://maps.google.com/?cid=8579577039491203109",
         "location": {
-          "address": "R. José Rodrigues - Jaci Paraná, Porto Velho - RO, Brasil",
+          "address": "Jaci Paraná, Porto Velho - RO, Brasil",
           "country_code": "BR",
-          "name": "Churrascaria e Lanchonete NOSSA CASA"
+          "name": "Churrascaria Lanchonete E Conivência Nossa Casa"
         }
       },
       "type": "Feature"
@@ -11607,8 +14237,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -63.0454257,
-          -9.9171053
+          -63.0456282,
+          -9.9170368
         ],
         "type": "Point"
       },
@@ -12232,8 +14862,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -42.2884051,
-          -16.1585995
+          -42.2877184,
+          -16.1566363
         ],
         "type": "Point"
       },
@@ -12959,8 +15589,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -74.2281659,
-          11.1985281
+          -74.2282606,
+          11.1985103
         ],
         "type": "Point"
       },
@@ -12968,7 +15598,7 @@ let placesData = {
         "date": "2023-06-04T18:34:08Z",
         "google_maps_url": "http://maps.google.com/?cid=11005384355280638909",
         "location": {
-          "address": "Cra. 1 #17-69, El Rodadero, Gaira, Santa Marta, Magdalena, Colômbia",
+          "address": "Cra. 1a #17-69, El Rodadero, Gaira, Santa Marta, Magdalena, Colômbia",
           "country_code": "CO",
           "name": "Apartamentos Playa el Rodadero Edificio el Peñon apart 205"
         }
@@ -13234,7 +15864,7 @@ let placesData = {
         "date": "2023-06-01T22:56:39Z",
         "google_maps_url": "http://maps.google.com/?cid=5336081829385004888",
         "location": {
-          "address": "Cl Larga #10-50 Local 1, Getsemaní, Cartagena de Indias, Bolívar, Colômbia",
+          "address": "Cl Larga #10-50 Loc 1, Getsemaní, Cartagena de Indias, Bolívar, Colômbia",
           "country_code": "CO",
           "name": "Santana 22"
         }
@@ -13319,8 +15949,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -75.5561318,
-          10.4019131
+          -75.5560976,
+          10.4018803
         ],
         "type": "Point"
       },
@@ -13482,7 +16112,7 @@ let placesData = {
         "location": {
           "address": "Calle de los Santos de Piedra, Cra. 4, Cartagena de Indias, Bolívar, Colômbia",
           "country_code": "CO",
-          "name": "Catedral de Santa Catalina de Alejandría"
+          "name": "Cathedral of Saint Catherine of Alexandria"
         }
       },
       "type": "Feature"
@@ -13584,8 +16214,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -75.5392710,
-          10.4225060
+          -75.5392887,
+          10.4225232
         ],
         "type": "Point"
       },
@@ -13798,8 +16428,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -46.3553024,
-          -13.7397258
+          -46.4647989,
+          -13.9524928
         ],
         "type": "Point"
       },
@@ -13807,7 +16437,7 @@ let placesData = {
         "date": "2023-04-09T11:26:50Z",
         "google_maps_url": "http://maps.google.com/?cid=15674232203176182626",
         "location": {
-          "address": "GO-108, Guarani de Goiás - GO, 73910-000, Brasil",
+          "address": "GO-108, km 217, Guarani de Goiás - GO, 73910-000, Brasil",
           "country_code": "BR",
           "name": "Camping do Ramiro"
         }
@@ -14587,8 +17217,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -40.3088637,
-          -20.3382289
+          -40.3088456,
+          -20.3382498
         ],
         "type": "Point"
       },
@@ -14597,7 +17227,7 @@ let placesData = {
         "google_maps_url": "http://maps.google.com/?cid=13188714348679389465",
         "location": {
           "address": "Praça Meyerfreund, 1 - Glória, Vila Velha - ES, 29122-900, Brasil",
-          "name": "Loja da Chocolates Garoto LTDA"
+          "name": "Fábrica Chocolates Garoto"
         }
       },
       "type": "Feature"
@@ -15195,8 +17825,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -41.8903088,
-          -22.7587392
+          -41.8904213,
+          -22.7586376
         ],
         "type": "Point"
       },
@@ -15204,7 +17834,7 @@ let placesData = {
         "date": "2022-01-02T22:05:13Z",
         "google_maps_url": "http://maps.google.com/?cid=17225707126192863007",
         "location": {
-          "address": "Zap (13)99692 - 7681R. Deodoro Azevedo, 8 - centro de, Armação dos Búzios - RJ, 28950-000, Brasil",
+          "address": "R. Deodoro Azevedo, 8 - centro de, Armação dos Búzios - RJ, 28950-000, Brasil",
           "country_code": "BR",
           "name": "Pousada Flamingo Búzios"
         }
@@ -15754,8 +18384,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -43.1252468,
-          -22.3607807
+          -43.1251175,
+          -22.3608147
         ],
         "type": "Point"
       },
@@ -16390,7 +19020,7 @@ let placesData = {
         "location": {
           "address": "Largo Marquês de Monte Alegre, 2 - Valongo, Santos - SP, 11010-060, Brasil",
           "country_code": "BR",
-          "name": "Linha Turística do Bonde"
+          "name": "Bonde Turístico"
         }
       },
       "type": "Feature"
@@ -16800,7 +19430,7 @@ let placesData = {
         "date": "2021-12-20T13:26:17Z",
         "google_maps_url": "http://maps.google.com/?cid=13575556651439052287",
         "location": {
-          "address": "Whatsapp & CELL (31 - 972671950 - MG-010, 506 - Campo Alegre, Jaboticatubas - MG, 35830-000, Brasil",
+          "address": "MG-010, 506 - Campo Alegre, Jaboticatubas - MG, 35830-000, Brasil",
           "country_code": "BR",
           "name": "Restaurante Parada da Serra"
         }
@@ -16825,8 +19455,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -46.8068886,
-          -17.2379456
+          -46.8068329,
+          -17.2380131
         ],
         "type": "Point"
       },
@@ -16834,7 +19464,7 @@ let placesData = {
         "date": "2021-12-20T13:23:54Z",
         "google_maps_url": "http://maps.google.com/?cid=13724723332797400013",
         "location": {
-          "address": "BR-040, s/n - Zona Rural, Paracatu - MG, 38600-000, Brasil",
+          "address": "BR, 040 - KM 49, Paracatu - MG, 38600-000, Brasil",
           "country_code": "BR",
           "name": "Casa de Concessa"
         }
@@ -18300,7 +20930,7 @@ let placesData = {
         "date": "2021-07-16T17:58:09Z",
         "google_maps_url": "http://maps.google.com/?cid=12224506886959027674",
         "location": {
-          "address": "Museu do Rio “Hid Alfredo Scaff” - Av. Manoel José de Arruda - Porto, Cuiabá - MT, 78025-190, Brasil",
+          "address": "Museu do Rio - Av. Manoel José de Arruda - Porto, Cuiabá - MT, 78025-190, Brasil",
           "country_code": "BR",
           "name": "Restaurante Regionalissimo"
         }
@@ -18414,7 +21044,7 @@ let placesData = {
         "date": "2021-07-15T19:36:14Z",
         "google_maps_url": "http://maps.google.com/?cid=8256757240330561359",
         "location": {
-          "address": "Avenida Miguel Sutil - Duque de Caxias, Cuiabá - MT, 78043-375, Brasil",
+          "address": "Av. Miguel Sutil - Duque de Caxias, Cuiabá - MT, 78043-375, Brasil",
           "country_code": "BR",
           "name": "Parque Mãe Bonifácia"
         }
@@ -18963,8 +21593,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -56.3860070,
-          -20.2394810
+          -56.3869563,
+          -20.2385365
         ],
         "type": "Point"
       },
@@ -20200,7 +22830,7 @@ let placesData = {
         "date": "2021-01-12T23:51:37Z",
         "google_maps_url": "http://maps.google.com/?cid=1699409521233353995",
         "location": {
-          "address": "Zap (91 - Folha 32, Quadra, 10 - 99141.2812Folha 32, Quadra, 10 - Lote 06 - Vila Militar Pres. Castelo Branco, Marabá - PA, 68508-100, Brasil",
+          "address": "Folha 32, Quadra, 10 - Lote 06 - Vila Militar Pres. Castelo Branco, Marabá - PA, 68508-100, Brasil",
           "country_code": "BR",
           "name": "Hotel Plaza"
         }
@@ -20528,7 +23158,7 @@ let placesData = {
         "date": "2021-01-10T22:20:09Z",
         "google_maps_url": "http://maps.google.com/?cid=16692865432830646984",
         "location": {
-          "address": "Praça Amazonas, s/n - Jurunas, Belém - PA, 66025-070, Brasil",
+          "address": "Pça. Amazonas, s/n - Jurunas, Belém - PA, 66025-070, Brasil",
           "name": "Espaço São José Liberto"
         }
       },
@@ -20609,8 +23239,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -48.5059334,
-          -1.4552328
+          -48.5056928,
+          -1.4552353
         ],
         "type": "Point"
       },
@@ -22431,8 +25061,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -34.8777797,
-          -7.1202711
+          -34.8779323,
+          -7.1203215
         ],
         "type": "Point"
       },
@@ -22458,7 +25088,7 @@ let placesData = {
         "date": "2020-02-27T15:24:48Z",
         "google_maps_url": "http://maps.google.com/?cid=1397064474100708151",
         "location": {
-          "address": "Rodovia TO 476 km 7,5 Zona rural, Pte. Alta do Tocantins - TO, 77590-000, Brasil",
+          "address": "Rodovia TO 476 km 7,5 Zona rural, Ponte Alta do Tocantins - TO, 77590-000, Brasil",
           "country_code": "BR",
           "name": "Pedra Furada Jalapão"
         }
@@ -22496,7 +25126,7 @@ let placesData = {
         "date": "2020-02-26T01:18:36Z",
         "google_maps_url": "http://maps.google.com/?cid=12927707299049275494",
         "location": {
-          "address": "Av. Joana Medeiros, 686 - centro, Pte. Alta do Tocantins - TO, 77590-000, Brasil",
+          "address": "Av. Joana Medeiros, 686 - centro, Ponte Alta do Tocantins - TO, 77590-000, Brasil",
           "country_code": "BR",
           "name": "Pousada Arte Jalapoeira"
         }
@@ -22515,7 +25145,7 @@ let placesData = {
         "date": "2020-02-25T21:34:07Z",
         "google_maps_url": "http://maps.google.com/?cid=13592183034889199435",
         "location": {
-          "address": "TO-255 - Ponte Alta do Tocantins sentido Mateiros, à 15km, Pte. Alta do Tocantins - TO, 77590-000, Brasil",
+          "address": "TO-255 - Ponte Alta do Tocantins sentido Mateiros, à 15km, Ponte Alta do Tocantins - TO, 77590-000, Brasil",
           "country_code": "BR",
           "name": "Cânion Sussuapara"
         }
@@ -22631,8 +25261,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -46.4705002,
-          -10.3336638
+          -46.4706944,
+          -10.3341691
         ],
         "type": "Point"
       },
@@ -22684,8 +25314,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -46.5609028,
-          -10.3635606
+          -46.5715110,
+          -10.3448726
         ],
         "type": "Point"
       },
@@ -22718,8 +25348,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -49.0343823,
-          -15.7326135
+          -49.0346544,
+          -15.7327031
         ],
         "type": "Point"
       },
@@ -22936,8 +25566,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -70.6511061,
-          -33.4334323
+          -70.6510394,
+          -33.4334537
         ],
         "type": "Point"
       },
@@ -22970,8 +25600,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -70.6518350,
-          -33.4376178
+          -70.6522651,
+          -33.4376290
         ],
         "type": "Point"
       },
@@ -22979,7 +25609,7 @@ let placesData = {
         "date": "2020-01-08T11:10:58Z",
         "google_maps_url": "http://maps.google.com/?cid=11978581194224977894",
         "location": {
-          "address": "Pl. de Armas 498, 8320341 Santiago, Región Metropolitana, Chile",
+          "address": "Pl. de Armas 444, 8320341 Santiago, Región Metropolitana, Chile",
           "country_code": "CL",
           "name": "Catedral Metropolitana de Santiago"
         }
@@ -24721,7 +27351,7 @@ let placesData = {
         "location": {
           "address": "Str. Barbu Văcărescu 201, 077190 București, Romênia",
           "country_code": "RO",
-          "name": "Nor"
+          "name": "Nor Sky Casual Restaurant"
         }
       },
       "type": "Feature"
@@ -24832,7 +27462,7 @@ let placesData = {
         "date": "2019-05-09T13:00:25Z",
         "google_maps_url": "http://maps.google.com/?cid=8354718335497252342",
         "location": {
-          "address": "Corp A2, Piața Presei Libere 1, Et. 3, 013701 București, Romênia",
+          "address": "Corp A2, Piața Presei Libere 1, Et. 3, 013701, București, Romênia",
           "country_code": "RO",
           "name": "The House of the Free Press"
         }
@@ -25090,8 +27720,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          26.0981207,
-          44.4320175
+          26.0981198,
+          44.4320224
         ],
         "type": "Point"
       },
@@ -25128,8 +27758,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          26.0988593,
-          44.4317929
+          26.0988608,
+          44.4317926
         ],
         "type": "Point"
       },
@@ -25176,7 +27806,6 @@ let placesData = {
         "google_maps_url": "http://maps.google.com/?cid=13220699325300279213",
         "location": {
           "address": "Strada Anghel Saligny 1, 030167 București, Romênia",
-          "country_code": "RO",
           "name": "Holocaust Memorial"
         }
       },
@@ -25477,7 +28106,7 @@ let placesData = {
         "google_maps_url": "http://maps.google.com/?cid=8932182731080745938",
         "location": {
           "address": "Unnamed Road,, Sofia Center, Oborishte St, 1000 Sofia, Bulgária",
-          "name": "Tsar Samuil Monument"
+          "name": "Tsar Samuil - Emperor of Bulgaria (997-1014)"
         }
       },
       "type": "Feature"
@@ -25495,7 +28124,6 @@ let placesData = {
         "google_maps_url": "http://maps.google.com/?cid=16882100725460333415",
         "location": {
           "address": "Sofia Center, Oborishte St 4, 1000 Sofia, Bulgária",
-          "country_code": "BG",
           "name": "Monument of the Unknown Soldier"
         }
       },
@@ -25787,8 +28415,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          23.3210074,
-          42.7002819
+          23.3209674,
+          42.7003031
         ],
         "type": "Point"
       },
@@ -25853,9 +28481,9 @@ let placesData = {
         "date": "2019-05-08T05:26:25Z",
         "google_maps_url": "http://maps.google.com/?cid=13043812544238215435",
         "location": {
-          "address": "Sofia Center, \"Ekzarh Yosif\" St 37, 1000 Sofia, Bulgária",
+          "address": "Sofia Center, Ekzarh Yosif St 37, 1000 Sofia, Bulgária",
           "country_code": "BG",
-          "name": "“Tsentralna banya” Park"
+          "name": "Tsentralna banya Park"
         }
       },
       "type": "Feature"
@@ -26068,7 +28696,7 @@ let placesData = {
         "location": {
           "address": "Leof. Emmanouil Kefalogianni 27, Rethymno 741 31, Grécia",
           "country_code": "GR",
-          "name": "Fortezza of Rethymnon"
+          "name": "Fortezza of Rethymnon MJ"
         }
       },
       "type": "Feature"
@@ -26158,7 +28786,7 @@ let placesData = {
         "location": {
           "address": "University Campus, Voutes 715 00, Grécia",
           "country_code": "GR",
-          "name": "Department of Computer Science (CSD)"
+          "name": "Computer Science Department (CSD)"
         }
       },
       "type": "Feature"
@@ -26692,7 +29320,6 @@ let placesData = {
         "google_maps_url": "http://maps.google.com/?cid=7601495841397530807",
         "location": {
           "address": "Mediterranean Sea, Rodos, Grécia",
-          "country_code": "GR",
           "name": "Tasos Beach"
         }
       },
@@ -26893,7 +29520,7 @@ let placesData = {
         "location": {
           "address": "Pl. Kountourioti 6, Rodos 851 00, Grécia",
           "country_code": "GR",
-          "name": "RONDA - Resto | Beach-Bar"
+          "name": "RONDA BEACH BAR-RESTAURANT"
         }
       },
       "type": "Feature"
@@ -27283,7 +29910,7 @@ let placesData = {
         "date": "2019-04-22T17:09:57Z",
         "google_maps_url": "http://maps.google.com/?cid=3296123859297175052",
         "location": {
-          "address": "Athens 117 41, Grécia",
+          "address": "Filopappou 41, Athina 117 41, Grécia",
           "name": "Monumento de Filopapo"
         }
       },
@@ -27526,19 +30153,15 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          23.7260208,
-          37.9707115
+          0,
+          0
         ],
         "type": "Point"
       },
       "properties": {
         "date": "2019-04-22T06:30:44Z",
-        "google_maps_url": "http://maps.google.com/?cid=18002806608331610515",
-        "location": {
-          "address": "Parthenonos 45, Athina 117 42, Grécia",
-          "country_code": "GR",
-          "name": "Byzantine Cistern"
-        }
+        "google_maps_url": "http://maps.google.com/?q=37.970712,23.726021",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
       },
       "type": "Feature"
     },
@@ -27647,7 +30270,7 @@ let placesData = {
         "location": {
           "address": "Anapafseos 13, Athina 116 36, Grécia",
           "country_code": "GR",
-          "name": "OK Markets"
+          "name": "OK! Markets"
         }
       },
       "type": "Feature"
@@ -27750,8 +30373,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -60.0255646,
-          -3.1372477
+          -60.0255723,
+          -3.1372601
         ],
         "type": "Point"
       },
@@ -27938,19 +30561,15 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          26.0062730,
-          44.4329400
+          0,
+          0
         ],
         "type": "Point"
       },
       "properties": {
         "date": "2019-03-24T14:51:43Z",
-        "google_maps_url": "http://maps.google.com/?cid=10523449014794368892",
-        "location": {
-          "address": "Bucareste, Romênia",
-          "country_code": "RO",
-          "name": "Bucharest Autogara Militari"
-        }
+        "google_maps_url": "http://maps.google.com/?q=44.426767,26.102538",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
       },
       "type": "Feature"
     },
@@ -28344,8 +30963,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -82.3815061,
-          23.1368405
+          -82.3818247,
+          23.1368653
         ],
         "type": "Point"
       },
@@ -28353,7 +30972,7 @@ let placesData = {
         "date": "2019-01-17T19:57:13Z",
         "google_maps_url": "http://maps.google.com/?cid=15266678235284449185",
         "location": {
-          "address": "4JP9+P9Q, La Habana, Cuba",
+          "address": "4JP9+P7V, La Habana, Cuba",
           "country_code": "CU",
           "name": "Universidade de Havana"
         }
@@ -28382,19 +31001,15 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -82.3822330,
-          23.1393280
+          0,
+          0
         ],
         "type": "Point"
       },
       "properties": {
         "date": "2019-01-17T18:55:24Z",
-        "google_maps_url": "http://maps.google.com/?cid=8899473308172159420",
-        "location": {
-          "address": "4JQ9+P4J, Calle M, La Habana, Cuba",
-          "country_code": "CU",
-          "name": "Hotel Habana Libre"
-        }
+        "google_maps_url": "http://maps.google.com/?q=23.139328,-82.382233",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
       },
       "type": "Feature"
     },
@@ -29214,7 +31829,7 @@ let placesData = {
         "location": {
           "address": "62 Peña Pobre, La Habana, Cuba",
           "country_code": "CU",
-          "name": "Cespedes the Maestranza Park"
+          "name": "Parque Céspedes"
         }
       },
       "type": "Feature"
@@ -29256,8 +31871,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -82.3497222,
-          23.1411111
+          -82.3496358,
+          23.1411036
         ],
         "type": "Point"
       },
@@ -29379,7 +31994,7 @@ let placesData = {
         "google_maps_url": "http://maps.google.com/?cid=11789518260970577185",
         "location": {
           "address": "458 P.º de Martí, La Habana 10600, Cuba",
-          "name": "Grand Theater of Havana Alicia Alonso"
+          "name": "Grande Teatro de Havana"
         }
       },
       "type": "Feature"
@@ -29398,7 +32013,7 @@ let placesData = {
         "location": {
           "address": "267 Agramonte, La Habana, Cuba",
           "country_code": "CU",
-          "name": "Central Park"
+          "name": "Parque Central de Havana"
         }
       },
       "type": "Feature"
@@ -29434,7 +32049,7 @@ let placesData = {
         "date": "2019-01-09T01:05:59Z",
         "google_maps_url": "http://maps.google.com/?cid=12454931648425951010",
         "location": {
-          "address": "5J2V+34X, La Habana, Cuba",
+          "address": "5J2V+35R, La Habana, Cuba",
           "country_code": "CU",
           "name": "Castillo del Morro"
         }
@@ -31074,8 +33689,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -48.8454128,
-          -26.3029384
+          -48.8446961,
+          -26.3034875
         ],
         "type": "Point"
       },
@@ -31237,8 +33852,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -49.2762518,
-          -25.3846179
+          -49.2761701,
+          -25.3845574
         ],
         "type": "Point"
       },
@@ -31246,7 +33861,7 @@ let placesData = {
         "date": "2018-01-12T11:58:06Z",
         "google_maps_url": "http://maps.google.com/?cid=9474161968796735815",
         "location": {
-          "address": "R. João Gava, 920 - Abranches, Curitiba - PR, 82130-010, Brasil",
+          "address": "R. João Gava, 970 - Abranches, Curitiba - PR, 82130-010, Brasil",
           "name": "Ópera de Arame"
         }
       },
@@ -31432,8 +34047,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -49.3930805,
-          -28.1920731
+          -49.3928723,
+          -28.1920525
         ],
         "type": "Point"
       },
@@ -31616,19 +34231,15 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -49.5943412,
-          -27.9927577
+          0,
+          0
         ],
         "type": "Point"
       },
       "properties": {
         "date": "2018-01-07T00:08:15Z",
-        "google_maps_url": "http://maps.google.com/?cid=12814880402721730842",
-        "location": {
-          "address": "Rua Diuvo Cesar, Av. Antônio Francisco Ghizoni, 05 - Fetti, Urubici - SC, 88650-000, Brasil",
-          "country_code": "BR",
-          "name": "Pousada Fazenda da Invernada"
-        }
+        "google_maps_url": "http://maps.google.com/?q=-27.992758,-49.594341",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
       },
       "type": "Feature"
     },
@@ -31770,19 +34381,15 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -50.5551695,
-          -29.4644358
+          0,
+          0
         ],
         "type": "Point"
       },
       "properties": {
         "date": "2018-01-04T16:54:23Z",
-        "google_maps_url": "http://maps.google.com/?cid=9190313753008391125",
-        "location": {
-          "address": "Est da Roça Nova, 10.066, São Francisco de Paula - RS, 95400-000, Brasil",
-          "country_code": "BR",
-          "name": "Terra do Sempre Reserva Ecológica e Pousada"
-        }
+        "google_maps_url": "http://maps.google.com/?q=-29.464436,-50.555169",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
       },
       "type": "Feature"
     },
@@ -32217,8 +34824,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -47.0085692,
-          -23.0971495
+          -47.0085915,
+          -23.0972248
         ],
         "type": "Point"
       },
@@ -33107,8 +35714,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -43.1258670,
-          -22.9078358
+          -43.1257273,
+          -22.9078065
         ],
         "type": "Point"
       },
@@ -33599,8 +36206,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -41.4716597,
-          -12.4588244
+          -41.4731154,
+          -12.4556245
         ],
         "type": "Point"
       },
@@ -37271,7 +39878,7 @@ let placesData = {
         "location": {
           "address": "Reichenstraße 15, 87629 Füssen, Alemanha",
           "country_code": "DE",
-          "name": "Bavaria City Hostel - Design Hostel"
+          "name": "Bavaria City Hostel - Design Hostel Füssen"
         }
       },
       "type": "Feature"
@@ -37449,7 +40056,7 @@ let placesData = {
         "date": "2014-09-26T11:28:51Z",
         "google_maps_url": "http://maps.google.com/?cid=12339601346908129009",
         "location": {
-          "address": "Hohenzollernbrücke, 50679 Köln, Alemanha",
+          "address": "Hohenzollernbrücke, Innenstadt, 50679 Köln, Alemanha",
           "country_code": "DE",
           "name": "Hohenzollern Bridge"
         }
@@ -37534,8 +40141,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          13.3501085,
-          52.5145229
+          13.3501354,
+          52.5144317
         ],
         "type": "Point"
       },
@@ -37748,7 +40355,7 @@ let placesData = {
         "date": "2014-09-25T11:33:20Z",
         "google_maps_url": "http://maps.google.com/?cid=14044892037721828802",
         "location": {
-          "address": "pl. Defilad 1, 00-901 Warszawa, Polônia",
+          "address": "Pl. Defilad 1, 00-901 Warszawa, Polônia",
           "country_code": "PL",
           "name": "Palácio da Cultura e Ciência"
         }
@@ -37767,7 +40374,7 @@ let placesData = {
         "date": "2014-09-25T11:32:49Z",
         "google_maps_url": "http://maps.google.com/?cid=2209643077182995799",
         "location": {
-          "address": "plac Marszałka Józefa Piłsudskiego 1-3, 00-078 Warszawa, Polônia",
+          "address": "Pl. marsz. Józefa Piłsudskiego 1-3, 00-078 Warszawa, Polônia",
           "name": "Tomb of the Unknown Soldier"
         }
       },
@@ -37849,7 +40456,7 @@ let placesData = {
         "date": "2014-09-25T11:29:09Z",
         "google_maps_url": "http://maps.google.com/?cid=2313057209867159998",
         "location": {
-          "address": "plac Zamkowy 4, 00-277 Warszawa, Polônia",
+          "address": "Plac Zamkowy 4, 00-277 Warszawa, Polônia",
           "country_code": "PL",
           "name": "Castelo Real de Varsóvia"
         }
@@ -38546,8 +41153,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          16.3670591,
-          48.2080885
+          16.3670219,
+          48.2080519
         ],
         "type": "Point"
       },
@@ -38656,8 +41263,8 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          16.3600504,
-          48.2131855
+          16.3598848,
+          48.2131702
         ],
         "type": "Point"
       },
