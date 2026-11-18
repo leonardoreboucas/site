@@ -10069,25 +10069,6 @@ let placesData = {
     {
       "geometry": {
         "coordinates": [
-          -6.7735633,
-          62.0057147
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "date": "2025-06-09T20:56:16Z",
-        "google_maps_url": "http://maps.google.com/?cid=12997230291413810711",
-        "location": {
-          "address": "Suite #1025, 8200 Vineland Avenue, Orlando 100, Estados Unidos",
-          "country_code": "US",
-          "name": "Calvin Klein"
-        }
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           -81.4921628,
           28.3874415
         ],
