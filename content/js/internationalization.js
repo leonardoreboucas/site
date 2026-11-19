@@ -159,6 +159,7 @@ internationalData = [
             <p class="text-white-50 mb-4">In 2020 he completed the Academic Master\'s course in Computing Science at the University of Brasilia.</p>\
             <p class="text-white-50 mb-4">In June, 2022 was born Aurora, his first doughter.</p>\
             <p class="text-white-50 mb-4">In May, 2026 he completed the Academic PhD\'s course in Computing Science at the University of Brasilia.</p>\
+            <p class="text-white-50 mb-4">In November 2026, it won the award for best doctoral thesis, SSCAD-CTD.</p>\
             ',
       
       pt_br: '<p class="text-white-50 mb-4">Nascido em 12 de maio de 1986 na cidade de Feira de Santana na Bahia é filho do comerciante Roberto Gomes de Carvalho e da artista plástica Susana Rebouças da Silva. Quando seu pai faleceu tinha apenas 12 anos e precisou adiantar sua jornada no mercado de trabalho na pequena cidade de Jequié, na Bahia.</p>\
@@ -170,6 +171,7 @@ internationalData = [
               <p class="text-white-50 mb-4">Em 2020 concluiu um Mestrado Acadêmico em Ciência da Computação pela Universidade de Brasília.</p>\
               <p class="text-white-50 mb-4">Em junho/2022 nasceu sua primeira filha, Aurora.</p>\
               <p class="text-white-50 mb-4">Em maio/2026 concluiu um Doutorado Acadêmico em Ciência da Computação pela Universidade de Brasília.</p>\
+              <p class="text-white-50 mb-4">Em novembro/2026 venceu o prêmio de melhor tese de doutorado, SSCAD-CTD.</p>\
               '
     }
   },
